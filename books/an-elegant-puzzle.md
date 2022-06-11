@@ -25,5 +25,5 @@
 * Model systems from code reviews to team structures to valute streams to find out where the blottle necks / blockers / flow limiters are
 * Stratagies: Grounded documents that outline the actions and tradeoffs to address a specific challange.
 * Visions: Aspirational documents taht enable people who do not work closey together to make decisiosn that fit together
-* Recommended reading: Nudge; Good Stratagies and Bed Stratagies
+* Recommended reading: <https://www.amazon.com/Nudge-Improving-Decisions-Health-Happiness/dp/014311526X>; <https://www.amazon.com/Good-Strategy-Bad-Strategy-audiobook/dp/B07R6XQ8YP>
 * How to write stratagies:
