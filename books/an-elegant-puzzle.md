@@ -1,7 +1,7 @@
 # An Elegant Puzzle: Systems of Software Engineering Management
 
 * Manager should support at most 6 - 8 engineers
-* **Keep innovation and technical debt (e.g.s bugs) as 1 team**
+* **Keep innovation and technical debt (e.g. bugs) as 1 team**
   * Avoid 2 teired system by keeping innovationg and learning in the same team
 * High performing teams know how to best elevate each other skills
   * I speculate this is from strong social connections and established psychological saftey
