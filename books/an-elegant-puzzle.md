@@ -2,16 +2,16 @@
 
 Manager should support at most 6 - 8 engineers
 
-Keep innovation and technical debt (e.g.s bugs) as 1 team
+* Keep innovation and technical debt (e.g.s bugs) as 1 team
   * Avoid 2 teired system by keeping innovationg and learning int he same team
 
-High performing teams know how to best elevate each other skills
+* High performing teams know how to best elevate each other skills
   * I speculate this is from strong social connections and established psychological saftey
 
-"Gelling factor": How people learn to work with each other
+* "Gelling factor": How people learn to work with each other
   * Takes time to adjust / create
 
-Systemsa re usually self healing
+* Systemsa re usually self healing
   * A database slows down
   * People take more time on tasks
 
