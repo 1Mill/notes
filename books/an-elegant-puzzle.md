@@ -15,32 +15,32 @@ Manager should support at most 6 - 8 engineers
   * A database slows down
   * People take more time on tasks
 
-You only get value when something is finished
+* You only get value when something is finished
 
-Write discvoerable documentation
+* Write discvoerable documentation
 
-Do not write code that enforces policies to keep code flexible for as longa s possible in the future
+* Do not write code that enforces policies to keep code flexible for as longa s possible in the future
 
-Avoid gatekeeping as much as possible
+* Avoid gatekeeping as much as possible
 
-Organizational debt exists from old/legacy processes that implede value flow
+* Organizational debt exists from old/legacy processes that implede value flow
 
-Succession planning is important for long term success of an organization
+* Succession planning is important for long term success of an organization
   * Create list of high to low risk areas that you do and work one-by-one to elimintate
 
-Leaders act like glue when gaps form in the system
+* Leaders act like glue when gaps form in the system
   * I assume this is more based on credibility in horizontal or formal authority in heriartical structures
 
-Measurements
+* Measurements
   * Label every flow (rate)
   * Label every stock (quantity)
 
-Model systems from code reviews to team structures to valute streams to find out where the blottle necks / blockers / flow limiters are
+* Model systems from code reviews to team structures to valute streams to find out where the blottle necks / blockers / flow limiters are
 
-Stratagies: Grounded documents that outline the actions and tradeoffs to address a specific challange.
+* Stratagies: Grounded documents that outline the actions and tradeoffs to address a specific challange.
 
-Visions: Aspirational documents taht enable people who do not work closey together to make decisiosn that fit together
+* Visions: Aspirational documents taht enable people who do not work closey together to make decisiosn that fit together
 
-Recommended reading: Nudge; Good Stratagies and Bed Stratagies
+* Recommended reading: Nudge; Good Stratagies and Bed Stratagies
 
-How to write stratagies:
+* How to write stratagies:
