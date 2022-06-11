@@ -1,5 +1,37 @@
 # An Elegant Puzzle: Systems of Software Engineering Management
 
+## Key takways
+
+Keep the innovation (e.g. feature work) and technical debt (e.g. bugs) for a given system the sole responsibility of a single team.
+
+You only get value when something is finished.
+
+Organizational debt exists from old/legacy processes and limit value flow.
+
+Model the product development lifecycle from team structures to code reviews in order to discover bottle necks or other flow limiters.
+
+There are 2 types of goals: investement goals and baseline goals. Both types of goals are measurable. But investements goals answer the question "where do we want to be?" and should be limited to 3. Whereas baseline goals ask "where are we now?" to guard against regressive behavior.
+
+Migrations are often the only meaningful solutions to technical debt.
+
+Making technical migrations and reorganizing people cheap is the key to long term organizational growth and market fit.
+
+Do not prioritize the individual - individuals are single points of failure.
+
+People do not process information well in large groups. Break large groups into smaller groups to gain more meaingful insight or feedback.
+
+To lead without authority: (1) measure, (2) model, (3) document, and (4) share how your recommended improvement impacted yourself or your team.
+
+Focus on building a learning community with peers by facilitating conversations to nuture long-term relationships.
+
+Culture is only changed through persistent and consistent effort.
+
+You cannot improve a flow without being able to observe and measure it.
+
+Remove accidental complexity from bad code, process, team, etc. design so that everybody can focus on essential complexity found in the economic market.
+
+## All notes
+
 * Manager should support at most 6 - 8 engineers
 * **Keep innovation and technical debt (e.g. bugs) as 1 team**
   * Avoid 2 teired system by keeping innovationg and learning in the same team
