@@ -34,13 +34,8 @@ Manager should support at most 6 - 8 engineers
 * Measurements
   * Label every flow (rate)
   * Label every stock (quantity)
-
 * Model systems from code reviews to team structures to valute streams to find out where the blottle necks / blockers / flow limiters are
-
 * Stratagies: Grounded documents that outline the actions and tradeoffs to address a specific challange.
-
 * Visions: Aspirational documents taht enable people who do not work closey together to make decisiosn that fit together
-
 * Recommended reading: Nudge; Good Stratagies and Bed Stratagies
-
 * How to write stratagies:
