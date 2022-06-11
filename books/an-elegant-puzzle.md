@@ -1,7 +1,7 @@
 # An Elegant Puzzle: Systems of Software Engineering Management
 
 * Manager should support at most 6 - 8 engineers
-* Keep innovation and technical debt (e.g.s bugs) as 1 team
+* **Keep innovation and technical debt (e.g.s bugs) as 1 team**
   * Avoid 2 teired system by keeping innovationg and learning in the same team
 * High performing teams know how to best elevate each other skills
   * I speculate this is from strong social connections and established psychological saftey
@@ -10,11 +10,11 @@
 * Systems are usually self healing
   * A database slows down
   * People take more time on tasks
-* You only get value when something is finished
+* **You only get value when something is finished**
 * Write discoverable documentation
 * Do not write code that enforces policies to keep code flexible for as long as possible in the future
 * Avoid gatekeeping as much as possible as to not inhibit innovation
-* Organizational debt exists from old/legacy processes that impede value flow
+* **Organizational debt exists from old/legacy processes that impede value flow**
 * Succession planning is important for long term success of an organization
   * Create list of high to low risk areas that you do and work one-by-one to elimintate
 * Leaders act like glue when gaps form in the system
@@ -22,7 +22,7 @@
 * Measurements
   * Label every flow (rate)
   * Label every stock (quantity)
-* Model systems from code reviews to team structures to value streams to find out where the blottle necks / blockers / flow limiters are
+* **Model systems from code reviews to team structures to value streams to find out where the blottle necks / blockers / flow limiters are**
 * Stratagies: Grounded documents that outline the actions and tradeoffs to address a specific challange
 * Visions: Aspirational documents taht enable people who do not work closey together to make decisions that fit together
 * Recommended reading: [Nudge](https://www.amazon.com/Nudge-Improving-Decisions-Health-Happiness/dp/014311526X); [Good Stratagies and Bad Stratagies](https://www.amazon.com/Good-Strategy-Bad-Strategy-audiobook/dp/B07R6XQ8YP)
@@ -36,11 +36,11 @@
   * Include value proposition/impact on end users
   * Use present tense
   * Write simply: no buzz words
-* Goals
+* **Goals**
   * Investement goals: where do you want to be?
     * Limit to 3
   * Baseline goals: where are we currently so that we do not regress?
-* Migrations are often the only meannigful solutions to technical debt.
+* **Migrations are often the only meannigful solutions to technical debt.**
   1. Derisk migration
   2. Enable/afford through ...
       * Good documentation
@@ -49,14 +49,14 @@
   3. Finish the migration with 100% adoption
       * Stop the bleeding by enforcing new standard/policy for new work
       * Prioritize finishing the migration
-* Making technical migrations and reorganizing people cheap is the key to long term organizational growth and market fit
+* **Making technical migrations and reorganizing people cheap is the key to long term organizational growth and market fit**
 * Put teams as close together as possible to facilitate shared context
   * Most poor relationships are information gaps that can be fixed with closer proximity
-* Do not optimize for the individual - individuals are single points of failure
-* People do not process well in large groups - break into smaller groups (e.g. one-on-ones) for more meaningful feedback
+* **Do not optimize for the individual - individuals are single points of failure**
+* **People do not process well in large groups - break into smaller groups (e.g. one-on-ones) for more meaningful feedback**
 * Career narratives: How you can facilitate career growth in others
   * Discover the intersection of business value and personal passion
-* Model, document, and share to lead without authoirty
+* **Model, document, and share to lead without authoirty**
   1. Build metrics to measure change
   2. Do personally / at the team level (experiment)
   3. Document how another team could adopt this process
@@ -75,8 +75,8 @@
       5. Decision making principles
       6. What next and when it will be done
       7. Return to explicit ask
-* In time maangement, always prioritize long term success
-* Focus on building a learning community with peers
+* In time mangement, always prioritize long term success
+* **Focus on building a learning community with peers**
   * Be a facilitator not lecturer
   * Short presentations with long discussions
   * Break out groups vs large groups
@@ -96,7 +96,7 @@
   1. Close out and quickly and permanently as possible
   2. Solve: Design a solution so that you do not have to handle it again within 6 months (e.g. policies)
   3. Delegate to somebody else
-* Culture only changes through persistent and consistent effort
+* **Culture only changes through persistent and consistent effort**
 * Inclusive Cultures: everybody has access to opportunity and membership
 * Make policies explicit
   * You have $X per year in education
@@ -130,7 +130,7 @@
 * Crisis designations to retain "important" people should be used rarely and all implications to the ladder sould be considered
 * Specialists are single points of failure
 * Ensure there is career growth for every role as best as possible in your organization to retain people
-* You cannot improve a flow without being able to observe and measure it
+* **You cannot improve a flow without being able to observe and measure it**
 * Avoid design by committee in favor of small working groups to iterate faster
   * Committee results in bike shedding
 * Management is about staying out of the details but keeping the work aligned to business value
@@ -140,6 +140,6 @@
 * Read: [No Silver Bullet](https://en.wikipedia.org/wiki/No_Silver_Bullet)
 * Teams need clear goals they can visually look at to better focus/align on those outcomes as a team
 * Add constraints to the system to discover optimizations
-* Accidental vs essential complexity
+* **Accidental vs essential complexity**
   * Remove accidental complexity from bad code, organization, etc. design so that we can focus on essential complexity in our business domain/market
 * Source code rejuvination: migrate old code to current standards using automated scripts
