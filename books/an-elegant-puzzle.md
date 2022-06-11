@@ -32,7 +32,7 @@ Leaders act like glue when gaps form in the system
     * I assume this is more based on credibility in horizontal or formal authority in heriartical structures
 
 Measurements
-    * Label every flow (rate)
+  * Label every flow (rate)
     * Label every stock (quantity)
 
 Model systems from code reviews to team structures to valute streams to find out where the blottle necks / blockers / flow limiters are
