@@ -2,7 +2,7 @@
 
 ## Key takways
 
-Keep the innovation (e.g. feature work) and technical debt (e.g. bugs) for a given system the sole responsibility of a single team.
+Larson suggest that for any system, keep the responsibility of innovation (e.g. features) and technical debt (e.g. bugs) the responsibility of a single team. This will avoid the creation of a two class culture in which one class builds new things and then throws those things over a wall for the other class to maintain.
 
 You only get value when something is finished.
 
