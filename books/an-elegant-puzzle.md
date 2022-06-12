@@ -1,5 +1,7 @@
 # An Elegant Puzzle: Systems of Software Engineering Management
 
+To be a credible engineering leader you must know the art of culture and software craftsmanship at the heart of Will Laron's "An Elegant Puzzle". Written from his years of engineering leadership at hypergrowth startups at Uber and Stripe: Larson shares his personal principles and oppinionated policies that turned him into an effective engineering leader.
+
 ## Key takways
 
 Larson suggest that for any system, keep the responsibility of innovation (e.g. features) and technical debt (e.g. bugs) the responsibility of a single team. This will avoid the creation of a two class culture in which one class builds new things and then throws those things over a wall for the other class to maintain.
