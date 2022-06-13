@@ -1,6 +1,6 @@
 # An Elegant Puzzle: Systems of Software Engineering Management
 
-To be a credible engineering leader you must know the art of culture and software craftsmanship at the heart of Will Laron's "An Elegant Puzzle". Written from his years of engineering leadership at hypergrowth startups at Uber and Stripe: Larson shares his personal principles and oppinionated policies that turned him into an effective engineering leader.
+To be a credible engineering leader you must understand the art of culture and software crafsmanship at the heart of Will Larson's "An Elegant Puzzle". From his years of engineering leadership experience at hypergrowth startups like Uber and Stripe: Larson details the importance of leading through metrics, committment to continous flow improvement, and nurturing a peer-first learning culturel. Traits cultured by enginering leaders that setup, organize, and drive the business for long term success.
 
 ## Key takways
 
