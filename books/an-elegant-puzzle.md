@@ -138,7 +138,7 @@ Remove accidental complexity from bad code, process, team, etc. design so that e
   * Facilitate conversations across people to nurture relationships
 * Let people apply for opportunities to lead secretly (i.e. non-public facing) and give 3 days time to get new people in
 * Attach a mentor to every new leader
-* Foster a culture that focuses on the growth of others, not yourself
+* **Foster a culture that focuses on the growth of others**, not yourself
   1. Know about peers work
   2. Evolve perception of character into a living person
   3. Referee defection to ensure good faith between everybody
