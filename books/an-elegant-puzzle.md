@@ -1,6 +1,41 @@
 # An Elegant Puzzle: Systems of Software Engineering Management
 
+## Article
+
 To be a credible engineering leader you must understand the art of culture and software crafsmanship at the heart of Will Larson's "An Elegant Puzzle". From his years of engineering leadership experience at hypergrowth startups like Uber and Stripe: Larson details the importance of leading through metrics, committment to continous flow improvement, and nurturing a peer-first learning culturel. Traits cultured by enginering leaders that setup, organize, and drive the business for long term success.
+
+### Leading through metrics
+
+Metrics are the cornerstone of effective leadership and are generated through goals. Goals make cause-and-effect known and organizational flows measurable. Larson describes two tyupes of goals that drive and reinforce change: investment goals and baseline goals. Investment goals are aspirational and answer the question "Where do we want to be?". These goals must be derived from first-principles and exist to drive behavioral changes that align more closely with those principles. For example, if a team is committed to continous education, perhaps an investment goals is having a shared reading hour per week. Investment goals require experimentation and since most experiments fail, Larson points out that it is crtical to regularly evaluate and perhaps rethink goals, policies, and process changes to ensure they are moving the organizatoin in the right direction. To counterbalance investment goals, baseline goals answer the question "Where are we now?" and act as an alarm against undesirable regressive behavior. With the data gathered from investment and baseline goals, leaders can experiment with process, policy, or team changes and how they meaingfully improve the flow of the organization.
+
+You can only improve flows that are observable and measurable.
+
+Write discvoerable metrics
+Model systesm from code review to team structure to discover flow limiters
+Goals: Investmenet goals versus baseline goals
+Model document share
+You can only imrpove flows that are oversable and measureable.
+
+### Improving flow
+
+Keep innovation and technical debt as 1 team
+Systems are usually self-healing: look for slow downs or bottle necks to determin where to otpimize your flow
+You only get value when something is finished.
+Organizational debt, like technical debt, eixts from old/legacy processes that limit flow.
+Succession planning is important for long term organizational success
+Migrations are often the only meaningful solutions to debt
+Make technical migrations and people reorganizations cheap for long term organizational success and market fit.
+Do not optimize for the individual - they are a single point of culture
+Accidental versus essential complexity
+
+### Peer-first learning
+
+High performing teams know how to best elevate each other skills
+Gelling factor
+De cenralize decisoing making
+Build sociall networks
+Culture only changes through persistent and consistent effort
+foster a culture of growth in others
 
 ## Key takways
 
