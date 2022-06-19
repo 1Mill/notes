@@ -6,15 +6,16 @@ To be a credible engineering leader you must understand the art of culture and s
 
 ### Leading through metrics
 
-Metrics are the cornerstone of effective leadership and are generated through goals. Goals make cause-and-effect known and organizational flows measurable. Larson describes two types of goals that drive and reinforce change: investment goals and baseline goals. Investment goals are aspirational and answer the question "Where do we want to be?". These goals must be derived from first-principles and exist to drive behavioral changes that align more closely with those core organizational principles. For example, if a team is committed to continous education an investment goal might be to have every employee read for 1 hour every week. Investment goals require experimentation and since most experiments fail, Larson points out that it is crtical to regularly evaluate and perhaps rethink goals, policies, and process changes to ensure they are moving the organizatoin in the right direction. To counterbalance investment goals, baseline goals answer the question "Where are we now?" and act as an alarm against undesirable regressive behavior. With the data gathered from investment and baseline goals, leaders can experiment with process, policy, or team changes and how they meaingfully improve the flow of the organization.
+Metrics are the cornerstone of effective leadership and are generated through goals. Goals make cause-and-effect known and organizational flows measurable. Larson describes two types of goals that drive and reinforce change: investment goals and baseline goals. Investment goals are aspirational and answer the question "Where do we want to be?". These goals must be derived from first-principles and exist to drive behavioral changes that align more closely with those core organizational principles. For example, if a team is committed to continous education an investment goal might be to have every employee read for 1 hour every week. Investment goals require experimentation and since most experiments fail, Larson points out that it is crtical to regularly evaluate and perhaps rethink goals, policies, and processes to ensure they are moving the organizatoin in the right direction. To counterbalance investment goals, baseline goals answer the question "Where are we now?" and act as an alarm against undesirable regressive behavior. With the metrics gathered from investment and baseline goals, leaders can experiment with process, policy, or team changes and how they meaingfully improve the flow of the organization.
 
-You can only improve flows that are observable and measurable.
+### Making change easy
 
-Write discvoerable metrics
-Model systesm from code review to team structure to discover flow limiters
-Goals: Investmenet goals versus baseline goals
-Model document share
-You can only imrpove flows that are oversable and measureable.
+After making change measurable, Larson emphasizes the importance of leading by example. In his past, when leading without authority, Larson has found success in
+    1. Implementing a change within a single team
+    2. Measuring the impact of that change on goals
+    3. Modeling and documenting how other teams could adopt this change
+    4. Sharing all of the above with the wider organization
+This change evangelism encourges progressive organizational adoption if and when teams are ready.
 
 ### Improving flow
 
