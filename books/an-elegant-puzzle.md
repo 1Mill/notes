@@ -15,7 +15,20 @@ After making change measurable, Larson emphasizes the importance of leading by e
     2. Measuring the impact of that change on goals
     3. Modeling and documenting how other teams could adopt this change
     4. Sharing all of the above with the wider organization
-This change evangelism encourges progressive organizational adoption if and when teams are ready.
+This decentralized approach to leadership coupled with Laron's change evangelism encourages progressive organizational adoption. Teams will then implement changes that they think will improve their flow. However, not every change can be optional.
+
+Larson points out that sometimes the only wya to meaningfully tackle technical debt is by replacing old code with new. These migrations might be third-party APIs being depricated, frameworks entering end of life, or simply discovering better solutions to business problems. Larson recommend that organization needs to derisk and afford migrations by:
+    1. Discover common use cases from user/engineering interviews
+    2. Write how-to documents that are searchable
+    3. Always be able to revert back to a working state.
+Once this foundation has been established, Larson then enforces adoption through two policies:
+    1. All new work must use the new standard
+    2. Prioritize work that finishes the migrations
+Larson places special emphasis on finishing the migration to avoid real and cognitive costs on organizations ot maintain multiple competing standards.
+
+### Specialists
+
+The desire to optimize for an individual is a single point of fulture that demonstrates a culture that prioritizes short-term value over long-term growth.
 
 ### Improving flow
 
