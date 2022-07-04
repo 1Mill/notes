@@ -2,33 +2,37 @@
 
 ## Article
 
-To be a credible engineering leader you must understand the art of culture and software crafsmanship at the heart of Will Larson's "An Elegant Puzzle". From his years of engineering leadership experience at hypergrowth startups like Uber and Stripe: Larson details the importance of leading through metrics, committment to continous flow improvement, and nurturing a peer-first learning culturel. Traits cultured by enginering leaders that setup, organize, and drive the business for long term success.
+To be a credible engineering leader you must understand the art of culture and software crafsmanship at the heart of Will Larson's "An Elegant Puzzle". From his years of engineering leadership experience at hypergrowth startups like Uber and Stripe: Larson details the importance of leading through metrics, committment to continous flow improvement, and nurturing a peer-first learning culturel. Traits cultured by enginering leaders that setup, organize, and drive the business towards long term success.
 
 ### Leading through metrics
 
-Metrics are the cornerstone of effective leadership and are generated through goals. Goals make cause-and-effect known and organizational flows measurable. Larson describes two types of goals that drive and reinforce change: investment goals and baseline goals. Investment goals are aspirational and answer the question "Where do we want to be?". These goals must be derived from first-principles and exist to drive behavioral changes that align more closely with those core organizational principles. For example, if a team is committed to continous education an investment goal might be to have every employee read for 1 hour every week. Investment goals require experimentation and since most experiments fail, Larson points out that it is crtical to regularly evaluate and perhaps rethink goals, policies, and processes to ensure they are moving the organizatoin in the right direction. To counterbalance investment goals, baseline goals answer the question "Where are we now?" and act as an alarm against undesirable regressive behavior. With the metrics gathered from investment and baseline goals, leaders can experiment with process, policy, or team changes and how they meaingfully improve the flow of the organization.
+Metrics are the cornerstone of effective leadership and are generated through goals. Goals make cause-and-effect known and organizational flows measurable. Larson describes two types of goals that drive and reinforce change: investment goals and baseline goals. Investment goals are aspirational and answer the question "Where do we want to be?". These goals must be derived from first-principles and exist to drive behavioral changes that align closely with core organizational principles. For example, if a team is committed to continous education an investment goal might be to have every employee read 1 hour every week. Investment goals require experimentation and since most experiments fail, Larson points out that it is crtical to regularly evaluate and perhaps rethink goals, policies, and processes to ensure investments goals are moving the organizatoin in the right direction. To counterbalance investment goals, baseline goals answer the question "Where are we now?" and act as an alarm against undesirable regressive behavior. With the metrics gathered from investment and baseline goals, leaders can experiment with process, policy, or team changes and measure how they meaingfully impact the flow of work.
 
 ### Making change easy
 
 After making change measurable, Larson emphasizes the importance of leading by example. In his past, when leading without authority, Larson has found success in
     1. Implementing a change within a single team
     2. Measuring the impact of that change on goals
-    3. Modeling and documenting how other teams could adopt this change
+    3. Modeling and documenting how other teams may adopt this change
     4. Sharing all of the above with the wider organization
-This decentralized approach to leadership coupled with Laron's change evangelism encourages progressive organizational adoption. Teams will then implement changes that they think will improve their flow. However, not every change can be optional.
+This decentralized approach to leadership coupled with Laron's change evangelism encourages progressive organizational adoption. Teams will adopt changes when and if they think those changes will improve their flow. However, Larson points out that not every change can be optional.
 
-Larson points out that sometimes the only wya to meaningfully tackle technical debt is by replacing old code with new. These migrations might be third-party APIs being depricated, frameworks entering end of life, or simply discovering better solutions to business problems. Larson recommend that organization needs to derisk and afford migrations by:
-    1. Discover common use cases from user/engineering interviews
-    2. Write how-to documents that are searchable
-    3. Always be able to revert back to a working state.
-Once this foundation has been established, Larson then enforces adoption through two policies:
-    1. All new work must use the new standard
-    2. Prioritize work that finishes the migrations
-Larson places special emphasis on finishing the migration to avoid real and cognitive costs on organizations ot maintain multiple competing standards.
+Larson points out that sometimes the only way to meaningfully tackle technical debt is by replacing old code with new code. Examples of this might be third-party APIs being depricated, frameworks entering end of life, or simply discovering better solutions to business problems. To make technical migrations successful, Larson recommends that organizations need to derisk and afford change by:
+    1. Do user/engineering testing to discvoer common guse cases to inform implementation details
+    2. Write how-to documents that are searchable and easy to follow
+    3. Always allow engineers to revert back to a working state
+Once this foundation has been established, Larson then enforces doption through two new policies:
+    1. All new work must be down following the new standard
+    2. Prioritize "done"
+Larson places special emphasis on "done", which is the 100% adoption of the new standard, to avoid the real infastructure and cognitive costs associated with maintaing multiple standards within a team or organization.
 
-### Specialists
+### Use policies to focus
 
-The desire to optimize for an individual is a single point of fulture that demonstrates a culture that prioritizes short-term value over long-term growth.
+To be an effective manager Larson defines oppinionated policies that focus people. From a pragmatic perspective, having concret policies for solved problems should prevent personal interuptions and a need for real (or percieved) bias in value judgements. For example, letting an engineer spend $1000 per year on conferences at their discretion may be more effective than needing to scrutinize each line item. Policies, like goals, need to align with the core principles of the organization. However, moreso than goals, policies need to be critically reevaluated frequently to ensure they are having the desired impact on the orgnaization. A bad policy left unchecked can unnessearily limit flow.
+
+### Focus on learning
+
+One policy recommended by Larson is to avoid specialists. Specialists are a single point of failure that manifest themselves in cultures that prioritize short-term individual value over long-term team growth.
 
 ### Improving flow
 
