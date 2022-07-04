@@ -30,9 +30,9 @@ Larson places special emphasis on "done", which is the 100% adoption of the new 
 
 To be an effective manager Larson defines oppinionated policies that focus people. From a pragmatic perspective, having concret policies for solved problems should prevent personal interuptions and a need for real (or percieved) bias in value judgements. For example, letting an engineer spend $1000 per year on conferences at their discretion may be more effective than needing to scrutinize each line item. Policies, like goals, need to align with the core principles of the organization. However, moreso than goals, policies need to be critically reevaluated frequently to ensure they are having the desired impact on the orgnaization. A bad policy left unchecked can unnessearily limit flow.
 
-### Focus on learning
+### Culture of learning
 
-One policy recommended by Larson is to avoid specialists. Specialists are a single point of failure that manifest themselves in cultures that prioritize short-term individual value over long-term team growth.
+One policy recommended by Larson is to avoid specialists. Specialists are a single point of failure that manifest themselves in cultures that prioritize short-term individual value over long-term team growth. Larson suggests establishing a culture of peer-first learning. A growth mindset that avoids siloing knowledge through specialization. As a manager, Larson recommend pairing junior and senior in roles together to facilitate that learning and knowledge transfer. Larson also recommend focusing on succession planning so that managers are actively working to be replaced, ideally as they are being promoted in the organization.
 
 ### Improving flow
 
