@@ -2,7 +2,7 @@
 
 ## Article
 
-To be a credible engineering leader you must understand the art of culture and software crafsmanship at the heart of Will Larson's "An Elegant Puzzle". From his years of engineering leadership experience at hypergrowth startups like Uber and Stripe: Larson details the importance of leading through metrics, committment to continous flow improvement, and nurturing a peer-first learning culturel. Traits cultured by enginering leaders that setup, organize, and drive the business towards long term success.
+Culture and software craftsmanship are the levers to effective leadership. In "An Elegant Puzzle", author Will Larson shares his learnings from Uber and Stripe. Hypergrowth startups where he discovered the importance of metrics, opinionated policies, and peer-first learning to achieve business outcomes. Characteristics cultured by engineering leaders that align people and code with goals. Goals that afford business agility for long term business success.
 
 ### Leading through metrics
 
