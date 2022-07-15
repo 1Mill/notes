@@ -34,9 +34,13 @@ Larson places special emphasis on the definition of "done" for technical migrati
 
 ### Use policies to focus
 
-To be an effective manager Larson defines oppinionated policies that focus people. From a pragmatic perspective, having concret policies for solved problems should prevent personal interuptions and a need for real (or percieved) bias in value judgements. For example, letting an engineer spend $1000 per year on conferences at their discretion may be more effective than needing to scrutinize each line item. Policies, like goals, need to align with the core principles of the organization. However, moreso than goals, policies need to be critically reevaluated frequently to ensure they are having the desired impact on the orgnaization. A bad policy left unchecked can unnessearily limit flow.
+Larson views effective managers as those who write opinionated policies that focus people. From a pragmatic perspective, concrete policies solve problems to prevent personal interruptions. Likewise, concrete policies avoid real (or perceived) bias in value judgements. Like goals, policies serve to focus people on the companies current strategy. More so than goals, policies must be more frequently reevaluated to ensure they are having the desired impact. Larson recommends collecting any policy exceptions to make informed policy changes. An old or bad policy left unchecked may artificially impede the flow of work.
 
 ### Culture of learning
+
+A focus on short-term value usually leads to specialists who are a single point of failure. Specialists act as a silo of knowledge
+
+---
 
 One policy recommended by Larson is to avoid specialists. Specialists are a single point of failure that manifest themselves in cultures that prioritize short-term individual value over long-term team growth. Larson suggests establishing a culture of peer-first learning. A growth mindset that avoids siloing knowledge through specialization. As a manager, Larson recommend pairing junior and senior in roles together to facilitate that learning and knowledge transfer. Larson also recommend focusing on succession planning so that managers are actively working to be replaced, ideally as they are being promoted in the organization.
 
