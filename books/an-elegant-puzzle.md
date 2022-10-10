@@ -2,7 +2,7 @@
 
 ## Article
 
-Culture and software craftsmanship are the levers to effective leadership. In "An Elegant Puzzle", author Will Larson shares his learnings from Uber and Stripe. Hypergrowth startups where he discovered the importance of metrics, opinionated policies, and peer-first learning to achieve business outcomes. Characteristics cultured by engineering leaders that align people and code with goals. Goals that afford business agility for long term business success.
+Culture and software craftsmanship are the levers to effective leadership. In "An Elegant Puzzle", author Will Larson shares his learnings from Uber and Stripe. Hypergrowth startups where he discovered the importance of metrics, opinionated policies, and peer-first learning to achieve business outcomes. Characteristics cultured by engineering leaders that align people and code with that afford business agility for long term success.
 
 ### Leading through metrics
 
@@ -14,10 +14,10 @@ After goal settings, Larson emphasizes the importance of leading by example. In 
 
   1. Implementing a change within a single team
   2. Measuring the impact of that change on baseline and investment goals
-  3. Model and document how another team may adopt that change into their own team
+  3. Model and document how another team may adopt that change
   4. Share the above with the wider organization
 
-Decentralized leadership coupled with change evangelism encourages progressive organizational adoption. Meaning that teams will adopt changes if and when the team thinks those changes will improve their flow. However, Larson points out that not every change can be optional.
+Decentralized leadership coupled with change evangelism encourages progressive organizational adoption. Meaning that teams will adopt changes if and when the individual team thinks those changes will improve their flow. However, Larson points out that not every change can be optional.
 
 Writing new code is sometimes the only path forward when paying technical debt. For example, if a third-party API is being deprecated the only option is to replace it. To make technical migrations successful, Larson recommends organizations derisk and afford change by:
 
@@ -30,19 +30,19 @@ After establishing this new standard, Larson then enforces adoption through two 
   1. Complete all new work using the new standard
   2. Prioritize "done"
 
-Larson places special emphasis on the definition of "done" for technical migrations. According to Larson, "done" is the adoption of the new standard in the entire code base: even in old code. These migrations act to avoid the the real infrastructure and cognitive costs of competing standards. Costs that inhibit the flow of work.
+Larson places special emphasis on the definition of "done" for technical migrations. According to Larson, "done" is the adoption of the new standard in the entire code base: even in old, rarely touched code. These migrations act to avoid the the real infrastructure and cognitive costs of competing standards. Costs that inhibit the flow of work.
 
 ### Use policies to focus
 
 Larson views effective managers as those who write opinionated policies that focus people. From a pragmatic perspective, concrete policies solve problems to prevent personal interruptions. Likewise, concrete policies avoid real (or perceived) bias in value judgements. Like goals, policies serve to focus people on the companies current strategy. More so than goals, policies must be more frequently reevaluated to ensure they are having the desired impact. Larson recommends collecting any policy exceptions to make informed policy changes. An old or bad policy left unchecked may artificially impede the flow of work.
 
-### Culture of learning
-
-A focus on short-term value usually leads to specialists who are a single point of failure. Specialists act as a silo of knowledge
-
----
+#### Culture of learning
 
 One policy recommended by Larson is to avoid specialists. Specialists are a single point of failure that manifest themselves in cultures that prioritize short-term individual value over long-term team growth. Larson suggests establishing a culture of peer-first learning. A growth mindset that avoids siloing knowledge through specialization. As a manager, Larson recommend pairing junior and senior in roles together to facilitate that learning and knowledge transfer. Larson also recommend focusing on succession planning so that managers are actively working to be replaced, ideally as they are being promoted in the organization.
+
+#### Contionuse Code Feedback
+
+Another policy from Larson is to keep innovation (e.g. feature work) and technical debt (e.g. feature maintinance, bugs, etc.) the responsibility of a single team. This forces code ownership. Ownership that will expose weaknesses in code, people, or processes that should be expeirmented on or leveled up to improve flow. Additionally, siloing ownership prevents a 2-class sytem of one team doing "cool work" and then throwing that work over a wall for another team to maintain.
 
 ### Improving flow
 
