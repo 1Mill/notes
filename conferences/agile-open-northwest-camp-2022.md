@@ -85,4 +85,61 @@
   * Be intentional with what you want to learn from each iteration.
 
 * Cross displinary mobbing
-  *
+  * Happens all the time outside of programming
+    * Surgery teams
+    * NASA
+    * Music
+    * Ships
+  * Most team efforts are cross disiplinary out of the box and have one shared missin / objective.
+  * Cross dispinary coding works well with "export" mode (from differnt  types of mobbing from another talk)
+  * Mobbing reduces hand-off costs to 0. Code reviews, design discussions, brain storming solutions, etc. all happen in real time.
+  * All decisions have diverse perspective and know by all as tribial knowledge.
+  * Some teams employ static meeting location / URL in which anybody can join from inside the team or across the organization
+    * Akin to office hours: easy to find the people you want to talk to for a second
+  * "Everybody I need to deliver this is in the room" - ?
+    * All focus on the most important or valuable problem to solve
+  * All authors of the Agile Manifesto have their own unique implementation of Agile, all rooted in Extreme Programming
+
+* TEAL
+  * Ron Quartel (FAST Agile)
+  * Open Space is scalled Extreme Programming
+  * You need local psychological saftey to expeirment, learn, fail, etc.
+  * Dynamic reteaming around the work to be done
+  * Self-organizing is not for everybody
+    * Individual recognitision is sparse / non-existant
+  * Can't control chaos, but can create structure to handle chaotic events
+  * Dependencies between people manage themselves through conversations. No need for a controller (e.g. manager) to facilitate those conversations.
+  * Shared understanding of opportunity the busines is trying to realized / capture is critical. This requires transparency, otherwise, buy in is difficult.
+    * When organizations lack buy in, authority is used to make up the difference.
+  * Cliques work for delivery, but not innovation. Break up cliques to generate new ideas.
+    * Facilitated by structures (e.g. innovation days)
+  * People work better with meaning and purpose in their lives
+
+* Book: 9 Rules to Debugging
+
+* Turning Agile Woo Woo into Action
+  * Waterfall: I know what I don't like once it is done. Meaning there is a lot of wated effort on things I do not want.
+  * Agile: Iterative feedback throughout to avoid wasted effort.
+  * Book: XP Explained
+  * Mobbing reduces hand off costs such as conversations around design, architecture, and trade offs. All members are aligned and have a shared understanding
+  * Mobbing forces reconciliation, so if there is ever uncertainty the mob reaches out for clarity. This is a step-by-step process: constant feedback from peers in mob.
+    * How to architect feature
+    * Clarify business requiement
+  * Introduce changes as experiments during retrospectives.
+    * Keep experiments small, not sweaping.
+    * Have to get buy in from the team, can't force it.
+  * Agile Litmus Test: "When was the last time you changed something because of your Retrospective?" - ?
+  * How an organization runs during a crisis is how it truely runs. During a crisis, people cut the fluff to be as efficient as possible.
+
+* What is Product Ownership?
+  * Constantly advocting for Customer Value to drive Business Value
+
+* Agile Leader Community of Practice
+  * Servant leadership
+  * Transparency
+  * No formal leader
+  * Trust
+  * Safe space / psychologyal saftey
+  * Design effective working environments
+  * Quality of Information
+  * Executive coaching does not usually solve systemic cultural issues
