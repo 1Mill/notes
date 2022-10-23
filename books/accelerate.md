@@ -2,7 +2,7 @@
 
 ## Book
 
-https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339
+<https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339>
 
 ## Article
 
