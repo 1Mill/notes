@@ -10,7 +10,7 @@
   1. Team planning to define sprint goals
   2. People self-organize into squads to meet sprint goals
   3. Squads perform scrum events (e.g. stands ups, retros, planning, etc.) independently
-  4. At end of the sprint, disolve squads
+  4. At end of the sprint, dissolve squads
   5. Retro as a team.
 
 * The self-organizing nature of FLUID Scrum (1) aligns personal passion with work to be done to promote ownership and (2) maximizes team flow because if somebody cannot contribute to Squad A they can jump to Squad B. If somebody is not passionable about their assigned work in traditional scrum or do not have the skills to contribute to the sprint goals that it unutilized capacity. A good and perhaps common example is engineers doing nothing while designers design and designers doing nothing while engineers engineer. In reality both work on non-sprint goal related outcomes (e.g. next feature ticket, bugs) but FLUID Scrum brings that to the surface.
@@ -21,7 +21,7 @@
 * Silos lead to misalignments and delays
 * Team collectively knew everything they supported and were able to self-organize themselves into smaller groups / squads when needed to parellize work.
   * -> Sounds very similar to FAST Agile
-* Team was forced by management to break into team (i.e. Tribe) into 3 smaller teams to be more by-the-book scrum.
+* Team was forced by management to break team into 3 smaller teams to be more by-the-book scrum.
   * Loss of big picture / overview
   * Reduced sense of ownership
 * FAST Agile
@@ -36,11 +36,11 @@
   1. Team Sprint Planning to define sprint goals
   2. Self-organize team into squads around sprit goals
   3. Each squad performs scrum events (e.g. standsups, retrospectives) independently
-  4. At end of spring, disolve squads
+  4. At end of spring, dissolve squads
   5. Perform team retrospectives
 * Large pools of people to self-organize from ensure a wider set of skills to tap into to meet sprint goals.
-  * A designer can work on project A for one sprint, and then project B for the next sprint instead of being bottlenecked by engineering.
-  * If a team member cannot contribute to one squad, they can jump to another squad. In a stable team, they cannot contribute and is wasted capacity.
+  * A designer can work on project Z for one sprint, and then project Y for the next sprint instead of being bottlenecked by engineering.
+  * If a member cannot contribute to one squad, they can jump to another squad. In a stable team, they cannot contribute and is wasted capacity.
 * Self-management increases ownership because people are more engaged with the work they choose to work on.
 * Ref: Liberating Structures
 * Levels of fluidity in FLUID Scrum [in relation to (Cynefin framework](https://en.wikipedia.org/wiki/Cynefin_framework) in my opinion)
