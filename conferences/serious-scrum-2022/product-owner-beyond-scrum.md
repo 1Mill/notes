@@ -77,6 +77,7 @@
 * Asking questions that lead to "no" can lead to interesting conversations
 * Moving beyond scrum
   * Empowerment x learning speed
+    * TODO: Add photo
   * Phases of scrum
     1. Faster Waterfall (4 week, 3 week, 2 week, etc. sprints)
     2. Feature Factory
