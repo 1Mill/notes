@@ -132,3 +132,52 @@ https://miro.com/app/board/uXjVPHkRum4=/
   * https://www.youtube.com/watch?v=TQ9rng6YFeY&ab_channel=DevTernityConference
   * Trust influence loop: build trust, influence change, repeat
   * Quality Views by Colin Breck
+
+* Software developer habits
+  * https://jamesclear.com/habits - The Habits Guide: How to Build Good Habits and Break Bad Ones
+  * https://retrotool.io/ - https://retrotool.io/p_VwOMfEUZZXcrCdsRi9P
+  * Good habits
+    * Kanban hygieng - Ensuring that the stat of tasks is properly reflected / updated on the board
+    * Ensure things deployed successfully
+    * Be mindful of WIP limits
+    * Regular refactoring
+    * Breaking work down into smaller pieces
+    * Merging to main severl times a day
+    * Automated testing, infastructure, etc.
+    * Teaking breaks
+    * Learning frequently
+    * Blameless retros
+    * Declaring "backlog bankruptcy" to trash everything (bugs, ideas, ..., everything!); make work about doing not managing a list.
+    * Keeping dependencies up to date (try to automate as much as possible)
+  * Bad habits
+    * Giving fixed timelines because usually other stuff comes up
+    * Waiting to long to get feedback
+    * Not being conscientious of terminology, initialisms, etc. - try to make sure everybody is on the same page
+    * Big commits - bigger risks
+    * Not taking breaks to process through problems
+    * Not running tests before pushing
+    * Status meetings - status should be viewable through tool (e.g. JIRA) 
+    * Blaming - people do the best with the knowledge they have at the time
+    * Large batches
+    * No WIP
+    * Estimations - the act of estimations is waste, you never know what is going to come up between now and done
+    * Not asking clarifiying questions
+    * Ignoring failing tests
+    * Conflating "refactoring" with "rewriting" - refactoring means it does not change the current behavior
+    * Creating complex solutions when simple ones suffice
+  * Desired habits
+    * Continous retros
+      * Do retros very frequently and regularly
+      * Some people do multiple retros a day (works best when mobbing)
+      * The most important thing is being addressing what is not working and amplifying what is working
+      * Add ideas to retro board async as ideas are generated rather than trying to remember them all on the day of
+      * Give feedback at the right time - training a pet requires instant feedback to relate action to consequence. 
+      * "I have this feeling about this ..."
+    * Having difficult conversations
+      * Use a friend (somebody with psychological saftey, trust) to moderate
+      * Use Situation Behavior Impact (SBI) to help frame the conversations to make it more productive
+    * Thin slicing
+    * Giving better feedback
+    * Fearlessly examining our ways of working to find improvements
+    * Learn as a team
+    * Batching questions for team lead / product owner
