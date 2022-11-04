@@ -39,3 +39,7 @@
     * Approval testing - https://www.youtube.com/watch?v=fCyu2ebXA8o, https://approvaltests.com/
     * Working effectively with legacy code - https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052
   * Sometiems you have to clean the campground without cleaning the entire forest. Focus on refactoring the immediately important stuff to deliver customer value. 
+  * People really like JetBrains
+  * Small steps with Source Control
+    * 2 minute Kata: every 2 minutes commit if tests pass or revert
+    
