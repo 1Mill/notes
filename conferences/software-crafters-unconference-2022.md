@@ -17,10 +17,25 @@
     * https://www.youtube.com/watch?v=yZzVzNovBNg
   * https://wallabyjs.com/ - get faster feedback on JS tests
   * "Never stop learning" - Art Bergquist
+ 
 * What practicies are "non-negotiable" at various org scales?
   * CICD
   * Infastructure as Code so that you can focus on business value rather than taking care of pets
     * Pets versus cattle infastructure. Pets you have to take care of, cattle are more replacable.
     * Terraform
   * Running tests as part of CICD so that tests never diverge from intented system behavior. 
-  * 
+  * Automation can be expensive (e.g. running preview environments), so find that balance between when it is needed when and be sure everybody is on the same page to keep costs down!
+  * 7 CTOs - https://7ctos.com/
+    * Trunk based development is a fundemental requirement
+  * What is the value of PRs? Burocracy, control, or that the code is reviewed?
+    * Mobbing eleminitates the need for async reviews.
+    * What value is being produced by the PR process?
+    * You can add multiple authors to commits in Git
+    * MobShell.sh - https://mob.sh/, does git handoffs using a temporary branch. Adds all authors on merge. 
+  * TDD
+    * Useful for preventing regressions
+    * TDD is a design tool
+    * Useful for tackling legacy code by (1) writing 
+    * Approval testing - https://www.youtube.com/watch?v=fCyu2ebXA8o, https://approvaltests.com/
+    * Working effectively with legacy code - https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052
+  * Sometiems you have to clean the campground without cleaning the entire forest. Focus on refactoring the immediately important stuff to deliver customer value. 
