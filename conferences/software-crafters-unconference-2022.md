@@ -97,3 +97,38 @@ https://miro.com/app/board/uXjVPHkRum4=/
   * Do not write tests for things in the middle - test inputs and outputs. 
   * Mock external APIs, not middle-man classes. 
     * When we call `Rudderstack.track()`, test that that the Rudderstack API is called. 
+
+* Boring infrastructure
+  * Infastructure is not a differentiator in business
+  * Wardley mapping - https://learnwardleymapping.com/landscape/
+    * K8 and VM are product space, Serverless in Commodity space
+    * https://twitter.com/swardley/status/1376930531976306699?lang=en
+  * Docker containers make it easier to manage infastructure
+    * Don't have to worry about what package is running in production versus development
+  * K8 is the new legacy softweare, serverless is argued to be the new standard (I definitely agree haha)
+  * Severs as pets to servers to cattle metaphore to describe infastructure
+    * Infastructure as code (cattle) affords differnt deployment strataegies
+  * Most K8 Docker containers have known vulnerability because building the docker container is an engineering problem and engineers typically don't usually handle security updates until there is a problem.
+  * https://www.npmjs.com/package/forever restarts node on any sort or error
+  * https://www.cloudfoundry.org/
+    * Makes developers jobs very easy
+    * Top down driven (K8 is bottom up)
+    * Small number of OPs people to manage
+  * Borning infastructure lets developers focus on customer value versus managing infastructure.
+  * https://aws.amazon.com/ecs/
+  * https://netflix.github.io/chaosmonkey/
+    * Build resilience through terminating instances in production to ensure code works as expected (nothing is to big to fail)
+  * Developers get paid for delivering customer value and only get punished for security flaws. Punishment is infrequent and therefore there is little incentive to be proactive about.
+    * Very similar argument for technical debt
+  * The type of deployment strategy an organization has is reflective of cultural practices
+  * Rent an OPs is a growing trend since maintaining an OPs team is expensive 
+  * OPs is firefighting and improving infastructure
+  * Borning does not mean primative
+    * Focus seems to be a simplicity, more turn-key
+  * Google has a philosophy that they won't do anything that requires a help desk, out sources this to 3rd parties, which makes GCP difficult (definitely been my experience)
+
+* Communicating technical debt
+  * 1-5 stars of technical debt per story / ticket
+  * https://www.youtube.com/watch?v=TQ9rng6YFeY&ab_channel=DevTernityConference
+  * Trust influence loop: build trust, influence change, repeat
+  * Quality Views by Colin Breck
