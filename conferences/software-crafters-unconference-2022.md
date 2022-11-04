@@ -91,3 +91,9 @@ https://miro.com/app/board/uXjVPHkRum4=/
     * Do a write up at the end of the day to facilitate async hand off for the next mob or your future self. 
   * As part of mini retro when clousing out the mob: "Where do we pick up next?"
   * "If you can only pick 1 agile practice make it retro spectives so you can improve"
+
+* Simulators over mocks + contract testing
+  * Test the flow of data through the system
+  * Do not write tests for things in the middle - test inputs and outputs. 
+  * Mock external APIs, not middle-man classes. 
+    * When we call `Rudderstack.track()`, test that that the Rudderstack API is called. 
