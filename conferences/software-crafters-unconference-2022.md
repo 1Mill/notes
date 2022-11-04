@@ -161,6 +161,12 @@ https://miro.com/app/board/uXjVPHkRum4=/
     * Large batches
     * No WIP
     * Estimations - the act of estimations is waste, you never know what is going to come up between now and done
+      * Estimates are just (informed) guess that people take to seriously
+      * Estimates should not be treated as a promise
+      * Estimates traditionally translate into scope + date
+        * What day (Y) will we have feature X (scope)?
+      * Work on the most valuable stuff first, pivot only when it is done or becomes not the most valuable.
+      * Agile product developmen fits more into a Kanban style than a Waterfall style
     * Not asking clarifiying questions
     * Ignoring failing tests
     * Conflating "refactoring" with "rewriting" - refactoring means it does not change the current behavior
