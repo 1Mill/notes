@@ -187,3 +187,23 @@ https://miro.com/app/board/uXjVPHkRum4=/
     * Fearlessly examining our ways of working to find improvements
     * Learn as a team
     * Batching questions for team lead / product owner
+
+* Why can't we have nice things?
+  * Limiting WIP forces the team to focus on delivery versus the number of incomplete things - done is better than started
+  * Async PRs increase WIP because of queueing and delays between feedback and reaction
+    * Mob programming eliminates async PRs - they happen sync
+    * Permit people to merge straight into main
+  
+* Overcoming communication barriers with remote work
+  * Try to schedule messages, emails, etc. for the person's working hours 
+  * The larger the power differenctial, the more cautious you need to be with when you send things. If the CEO sends you a message at 9pm you might feel the need to reply. 
+  * Social connection is difficult / different in fully remote life
+  * Timezone (e.g. east vs west coast) and lifestyle differences (children vs no children) are a challange when trying to establish core working hours in a time
+  * Lots of channels to monitor (e.g. email, slack, meetings, calls, etc.)
+  * Cross polination from co-located teams is missing in remote work. How to get it back?
+    * Try to recreate doing remote movie parties, jackbox party games
+    * Intentionally bring people together for social activities
+    * Over communicate
+  * Remote work is isolated, mob programming adds a few more people but still does not capture co-located life. 
+  * Remote lunchs
+  * You have to be intentional with social hang outs
