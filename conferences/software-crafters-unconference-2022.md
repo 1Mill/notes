@@ -193,6 +193,10 @@ https://miro.com/app/board/uXjVPHkRum4=/
   * Async PRs increase WIP because of queueing and delays between feedback and reaction
     * Mob programming eliminates async PRs - they happen sync
     * Permit people to merge straight into main
+  * Mob programming
+    * https://collaboration.csc.ncsu.edu/laurie/Papers/ieeeSoftware.PDF
+  * https://www.amazon.com/Nine-Lies-about-Work-Freethinking-ebook/dp/B07C3ZT28C
+    * Best way to evaluate employees is to ask employees "who would you want to work with on a critical project?"
   
 * Overcoming communication barriers with remote work
   * Try to schedule messages, emails, etc. for the person's working hours 
@@ -207,3 +211,10 @@ https://miro.com/app/board/uXjVPHkRum4=/
   * Remote work is isolated, mob programming adds a few more people but still does not capture co-located life. 
   * Remote lunchs
   * You have to be intentional with social hang outs
+
+* Experiences with mob programming
+  * https://fearlesschangepatterns.com/
+  * Eliminate waste in the process because handoffs are significantly reduced
+  * Large steps cost most because larger steps usually have more risk and so more work is put into mitigating that risk. 
+  
+  
