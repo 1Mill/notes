@@ -216,5 +216,8 @@ https://miro.com/app/board/uXjVPHkRum4=/
   * https://fearlesschangepatterns.com/
   * Eliminate waste in the process because handoffs are significantly reduced
   * Large steps cost most because larger steps usually have more risk and so more work is put into mitigating that risk. 
-  
-  
+
+* Closing circle
+  * People like eye-candy, translate your proposal into something that is catchy and gets people interested
+  * We can always iterate on anything
+  * Facilitate inclusion by getting everybody involved in the conversation
