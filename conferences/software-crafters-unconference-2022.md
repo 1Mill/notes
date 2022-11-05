@@ -17,8 +17,8 @@
     * Hunter Industries is an innovator in agile practicies
   * Found success with regular Katas to level up everybody in the organization
   * Find a piece of legacy to refactor as a mob on a regular basis to (1) share knowledge on how the code works and (2) establish software design patterns like a Kata.
-    * One person did it 15 minutes every day and recorded the session to build a repositiroy of practicies to reference in the future
-  * If you teach something you learn it better
+    * One person did it 15 minutes every day and recorded the session to build a repository of practicies to reference in the future
+  * If you teach something, you learn it better
   * Weekly mob refactor on production code
   * Stuggle to communicate practicies between teams because every team is so siloed.
     * Remote work makes this even more difficult because less hallway conversations to get the bigger picture
@@ -29,21 +29,21 @@
       * Film and upload it. Making a transcript akin to a blog post also helps.
       * Rotate every month between every interested department.
       * Make as easy to follow for an audience.
-      * Keep a theme for all dailies for that one month such as "Dailies C++", "Dailies Server Objects", Dailies ..." and only talk about that theme ever day
+      * Keep a theme for all dailies for that one month such as "Dailies C++", "Dailies Service Objects", Dailies Ruby", "Dailies ..." and only talk about that theme ever day for that 1 month period for that 1 department.
     * Not enough slack in the system to focus on anything except for output (e.g. coding features)
   * Diffusion of innovation theory
     * <https://sphweb.bumc.bu.edu/otlt/mph-modules/sb/behavioralchangetheories/behavioralchangetheories4.html>
     * 5 types of adopters
-      1. Innovators - like to try new things
+      1. Innovators - like to try new things / experiment
       2. Early adopters - leaders who embrase change opportunities. Need how-to manuals.
-      3. Early majority - rarely leaders who embrase chanage. Need proof-of-concept to adaopt.
+      3. Early majority - rarely leaders who embrase change. Need proof-of-concept to adaopt.
       4. Late majority - Skeptical of change. Need successful adoption stories.
       5. Laggards - Bound by tradition and very conservative. Need data and preasure from leaders.
-    * Get buy-in from early adopters to then evangelize it to effect change and build success stories.
+    * Get buy-in from early adopters to then evangelize the practice to then effect change and build success stories.
     * <https://www.youtube.com/watch?v=yZzVzNovBNg>
       * Innovation is the bleeding edge - lots of experiments, early adopters like some stability before adoption
-      * Every body is an innovator in some cases and a laggard in others
-      * If you are defensive about a practice, thinking about it the wrong way. Get people who want to participate to join to prove it out - lead by example, don't force it.
+      * Everybody is an innovator in some cases and a laggard in others
+      * If you are defensive about a practice, you are thinking about it the wrong way. Get people who want to participate to join to prove it out - lead by example, don't force it.
       * Don't try boiling the ocean to change everybody
   * <https://wallabyjs.com/> - get faster feedback on JS tests
   * "Never stop learning" - Art Bergquist
@@ -54,24 +54,26 @@
     * Pets versus cattle infastructure. Pets you have to take care of, cattle are more "replacable".
     * Terraform
   * Running tests as part of CICD so that tests never diverge from intended system behavior.
-  * Automation can be expensive (e.g. running preview environments), so find that balance between when it is needed when and be sure everybody is on the same page to keep costs down!
+  * Automation can be expensive (e.g. running preview / staging environments), so find that balance between when it is or is not needed. Be sure everybody in the org is on the same page to keep costs down!
   * 7 CTOs - <https://7ctos.com/>
-    * Trunk based development (i.e. no PRs reviews, straight to master) is a fundemental requirement
+    * Trunk based development (i.e. no PRs reviews, straight to main) is a fundemental requirement
+      * Need more context: what else is required like TDD, mob programming, etc. to hedge against broken code?
   * What is the value of PRs? Burocracy, control, or that the code is reviewed and knowledge is shared?
-    * Mobbing eliminates the need for async reviews.
+    * Mobbing eliminates the need for async reviews and knowledge is shared instantaneously because everybody is working in the same context.
     * What value is being produced by the PR process?
     * You can add multiple authors to commits in Git if tracking work history is valuable to organization
     * MobShell.sh - <https://mob.sh/>, does git handoffs using a temporary branch. Adds all authors on merge.
   * TDD
     * Useful for preventing regressions
     * TDD is a design tool
+      * -> Michael Feathers: if something is difficult to test then that is likely a software design issue. Listen to the feedback your test is giving you and break it down into smaller problems that are hopefully easier to test.
     * Useful for tackling legacy code in terms of understanding how it works and how to safely refactor it.
     * Approval testing
       * <https://www.youtube.com/watch?v=fCyu2ebXA8o>
       * <https://approvaltests.com/>
       * <https://github.com/approvals/Approvals.NodeJS>
     * Working effectively with legacy code - <https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052>
-  * Sometiems you have to clean the campground without cleaning the entire forest. Focus on refactoring the immediately important stuff to deliver customer value.
+  * Sometimes you have to clean the campground without cleaning the entire forest. Focus on refactoring the immediately important stuff to continoue deliver customer value.
   * People really like JetBrains
   * Small steps with Source Control
     * 2 minute Kata: every 2 minutes commit if tests pass or revert - forces you to really break down problems
@@ -81,9 +83,9 @@
   * How do you communicate the impact of technical debt on flow?
     * Create working agreements: every 2 feature tickets is 1 technical debt ticket
     * As you cook dinner you are making a mess, if you clean as you go it doesn't look messey. If you don't clean, eventually you are forced to clean and stop all cooking.
-    * A fear of stakeholders is that a focus on refactoring with stop outputtings.
-      * Some organizations see that a focus on technical excellence (ruthless refactoring) allows organizations to move and deliver faster (e.g. Fred George).
-    * Bugs take away from outputting but impact is rarely measured.
+    * A fear of stakeholders is that a focus on refactoring will stop outputtings.
+      * -> Fred George: Some organizations see that a focus on technical excellence (ruthless refactoring) allows organizations to move and deliver faster.
+    * Bugs take away from outputting / inhibit flow but that impact is rarely measured.
   * Need regression level testing so that corner cutting doesn't break existing features
   * "Microservices are like agile: it doesn't solve problems but reveals them more quickly." - Dave Adsit
   * How do you change the initera of the past?
@@ -95,12 +97,12 @@
 
 * Microservice architectures
   * Use shared library to standardize communication between microservices which includes logging, etc.
-  * Each microservice is a cell in an organization. Each cell is connected to the central nervus system but reacts differently.
+  * Each microservice is a cell in an organization. Each cell is connected to the central nervous system but reacts differently.
     * How do we do sync and async requests for every microservice? Need to be the same for every microservice.
 
 * How do you remote mob?
   * Agree on core working hours where everybody is online at the same time
-  * Do not create PRs outside of the mob, use that time for investigating but not comitting to decisions. Discuss and commit as a mob / team.
+  * Do not create PRs outside of the mob, use that time for investigating but not comitting to decisions. Discuss and commit as a mob / team only.
   * Do a break about every hour, mini retros just as frequently (experiment to find what works best)
     * Retro question: "What good can we turn up?"
     * Mobster timer - <http://mobster.cc/>
@@ -116,8 +118,10 @@
     * Some people prefer to work solo
     * Divide and conquer does not mean divide people but instead divide problems
       * Run multiple mobs around those smaller problems.
+        * -> FLUID Scrum, FAST Agile
       * A single person dividing their attention on multiple problems is a war on all fronts - not divide and conquering
-  * Cylcing between solo and mobbing is an akward state to navigate because of the uncertainty around when either is appropriate.
+  * Cycling between solo and mobbing is an akward state to navigate because of the uncertainty around when either is appropriate.
+    * Uncertain working agreements.
     * Commit to one.
   * The cost of communication is significantly reduced when everybody is in the same "room" / mob because people are constantly have conversations on everything form software design to functionality.
   * How do you find core working hours when people have different scheduled (e.g. pick kids up from school, morning birds, night owls, etc.)
@@ -141,10 +145,11 @@
     * <https://twitter.com/swardley/status/1376930531976306699?lang=en>
   * Docker containers make it easier to manage infastructure
     * Don't have to worry about what package is running in production versus development
-  * K8 is the new legacy softweare, serverless is argued to be the new standard (I definitely agree haha)
+  * K8 is the new legacy software, serverless is argued to be the new standard
+    * -> I definitely agree haha - severless, plug-and-play vendors for the win; more and more offerings every day from databases, event streams, etc. Just need a serverless orchistrator... (AWS Step Functions are clunky)
   * Severs as pets to servers as cattle metaphore to describe infastructure
-    * Infastructure as code (cattle) affords different deployment strategies than manual provisioning (pet)
-  * Most K8 Docker containers have known vulnerability because building the docker container is an engineering problem and engineers typically don't handle security updates until there is a problem.
+    * Infastructure as code (cattle) affords different deployment strategies than manual provisioning and manual maintinance (pet)
+  * Most K8 Docker containers have known vulnerability because building the docker container is a developer problem and developers typically don't handle security updates until there is a problem.
   * <https://www.npmjs.com/package/forever> restarts node on any sort or error
   * <https://www.cloudfoundry.org/>
     * Makes developers jobs very easy
