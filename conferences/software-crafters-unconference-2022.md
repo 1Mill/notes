@@ -11,63 +11,87 @@
 * Spreading technical practicies
   * <https://sammancoaching.org/>
     * Dedicated learning hours
-  * Hunter Industries has 7 dedicated learning hours per week. Use Microsoft Teams to host group learning sessions - like Katas on design patterns.
-  * Found success with regularl Katas to level up everybody in the org
-  * Find a peice of legacy to refactor as a mob on a regular basis to (1) share knowledge on how the code works and (2) establish software design patterns like a Kata.
+    * Two phases: (1) expert presents on a good technical practice and then (2) ensemble / mobs works with expert to practice this technical practice in code (akin to Kata)
+  * Hunter Industries has 7 dedicated learning hours per week.
+    * Use Microsoft Teams to host group learning sessions - like Katas on design patterns.
+    * Hunter Industries is an innovator in agile practicies
+  * Found success with regular Katas to level up everybody in the organization
+  * Find a piece of legacy to refactor as a mob on a regular basis to (1) share knowledge on how the code works and (2) establish software design patterns like a Kata.
     * One person did it 15 minutes every day and recorded the session to build a repositiroy of practicies to reference in the future
   * If you teach something you learn it better
   * Weekly mob refactor on production code
   * Stuggle to communicate practicies between teams because every team is so siloed.
-    * Remote work makes this even more difficult because less hall-way conversations to get the bigger picture
+    * Remote work makes this even more difficult because less hallway conversations to get the bigger picture
     * <https://www.fluentcpp.com/2017/04/04/the-dailies-a-new-way-to-learn-at-work/> - host dailies to have conversations with others in the organization
+      * Give a presentation once a day at the same time every day - be consistent and persistent!
+      * Present for only 10 minutes. Everybody has 10 minutes to spare.
+      * Keep it internal to the company; mission: "by people of the company, for people of the company"
+      * Film and upload it. Making a transcript akin to a blog post also helps.
+      * Rotate every month between every interested department.
+      * Make as easy to follow for an audience.
+      * Keep a theme for all dailies for that one month such as "Dailies C++", "Dailies Server Objects", Dailies ..." and only talk about that theme ever day
     * Not enough slack in the system to focus on anything except for output (e.g. coding features)
   * Diffusion of innovation theory
-    * Get buy-in from early adopters to then evangelize it to effect change.
     * <https://sphweb.bumc.bu.edu/otlt/mph-modules/sb/behavioralchangetheories/behavioralchangetheories4.html>
+    * 5 types of adopters
+      1. Innovators - like to try new things
+      2. Early adopters - leaders who embrase change opportunities. Need how-to manuals.
+      3. Early majority - rarely leaders who embrase chanage. Need proof-of-concept to adaopt.
+      4. Late majority - Skeptical of change. Need successful adoption stories.
+      5. Laggards - Bound by tradition and very conservative. Need data and preasure from leaders.
+    * Get buy-in from early adopters to then evangelize it to effect change and build success stories.
     * <https://www.youtube.com/watch?v=yZzVzNovBNg>
+      * Innovation is the bleeding edge - lots of experiments, early adopters like some stability before adoption
+      * Every body is an innovator in some cases and a laggard in others
+      * If you are defensive about a practice, thinking about it the wrong way. Get people who want to participate to join to prove it out - lead by example, don't force it.
+      * Don't try boiling the ocean to change everybody
   * <https://wallabyjs.com/> - get faster feedback on JS tests
   * "Never stop learning" - Art Bergquist
 
 * What practicies are "non-negotiable" at various org scales?
   * CICD
-  * Infastructure as Code so that you can focus on business value rather than taking care of pets
-    * Pets versus cattle infastructure. Pets you have to take care of, cattle are more replacable.
+  * Infastructure as Code so that you can focus on business value rather than taking care of pet infastructure
+    * Pets versus cattle infastructure. Pets you have to take care of, cattle are more "replacable".
     * Terraform
-  * Running tests as part of CICD so that tests never diverge from intented system behavior.
+  * Running tests as part of CICD so that tests never diverge from intended system behavior.
   * Automation can be expensive (e.g. running preview environments), so find that balance between when it is needed when and be sure everybody is on the same page to keep costs down!
   * 7 CTOs - <https://7ctos.com/>
-    * Trunk based development is a fundemental requirement
-  * What is the value of PRs? Burocracy, control, or that the code is reviewed?
-    * Mobbing eleminitates the need for async reviews.
+    * Trunk based development (i.e. no PRs reviews, straight to master) is a fundemental requirement
+  * What is the value of PRs? Burocracy, control, or that the code is reviewed and knowledge is shared?
+    * Mobbing eliminates the need for async reviews.
     * What value is being produced by the PR process?
-    * You can add multiple authors to commits in Git
+    * You can add multiple authors to commits in Git if tracking work history is valuable to organization
     * MobShell.sh - <https://mob.sh/>, does git handoffs using a temporary branch. Adds all authors on merge.
   * TDD
     * Useful for preventing regressions
     * TDD is a design tool
-    * Useful for tackling legacy code by (1) writing
-    * Approval testing - <https://www.youtube.com/watch?v=fCyu2ebXA8o>, <https://approvaltests.com/>
+    * Useful for tackling legacy code in terms of understanding how it works and how to safely refactor it.
+    * Approval testing
+      * <https://www.youtube.com/watch?v=fCyu2ebXA8o>
+      * <https://approvaltests.com/>
+      * <https://github.com/approvals/Approvals.NodeJS>
     * Working effectively with legacy code - <https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052>
   * Sometiems you have to clean the campground without cleaning the entire forest. Focus on refactoring the immediately important stuff to deliver customer value.
   * People really like JetBrains
   * Small steps with Source Control
-    * 2 minute Kata: every 2 minutes commit if tests pass or revert
+    * 2 minute Kata: every 2 minutes commit if tests pass or revert - forces you to really break down problems
 
 * Driving change from below
-  * Artificial deadlines promote cutting corners
+  * Artificial deadlines promote cutting corners - every organization runs into this same problem
   * How do you communicate the impact of technical debt on flow?
     * Create working agreements: every 2 feature tickets is 1 technical debt ticket
-    * As you cook dinner you are making a mess, if you clean as you go it doesn't look messey. If you don't clean, eventually you are forced to clean.
-    * Fear of stakeholders is that a focus on refacotiring will stop outputting.
-    * Bugs take away from outputting
+    * As you cook dinner you are making a mess, if you clean as you go it doesn't look messey. If you don't clean, eventually you are forced to clean and stop all cooking.
+    * A fear of stakeholders is that a focus on refactoring with stop outputtings.
+      * Some organizations see that a focus on technical excellence (ruthless refactoring) allows organizations to move and deliver faster (e.g. Fred George).
+    * Bugs take away from outputting but impact is rarely measured.
   * Need regression level testing so that corner cutting doesn't break existing features
   * "Microservices are like agile: it doesn't solve problems but reveals them more quickly." - Dave Adsit
   * How do you change the initera of the past?
     * Lead through example to demonstrate what change looks like and how they improve KPIs - a lighthouse team.
     * Share ideas through informal channels (e.g. learning sessions, paired programming, be in the same room together)
   * Working in a collaborative open space is better than in isolated spaces
-    * Open office concepts do not mean collaborative.
-  * If the team supports remote, the entire team should be remote. Hybrid in-person and remote meetings are clunky.
+    * Open office concepts do not mean collaborative. You need to be having meaningful and productive conversations.
+  * If the team supports remote working, then the entire team should be remote. Hybrid in-person and remote meetings are clunky (e.g. table phones rarely work well, remote works cut out from side conversations).
 
 * Microservice architectures
   * Use shared library to standardize communication between microservices which includes logging, etc.
@@ -77,27 +101,31 @@
 * How do you remote mob?
   * Agree on core working hours where everybody is online at the same time
   * Do not create PRs outside of the mob, use that time for investigating but not comitting to decisions. Discuss and commit as a mob / team.
-  * Break and mini retros about every hour
-    * "What good can we turn up?"
+  * Do a break about every hour, mini retros just as frequently (experiment to find what works best)
+    * Retro question: "What good can we turn up?"
     * Mobster timer - <http://mobster.cc/>
     * Everyone should feel safe enough to take breaks
-  * <https://mob.sh/>
-  * <https://mobti.me/>
-  * <https://pop.com/>
+  Mobbing tools:
+    * <https://mob.sh/>
+    * <https://mobti.me/>
+    * <https://pop.com/>
   * One year of Remote Mob Programming - <https://www.youtube.com/watch?v=2jxO8RYvmso>, <https://www.agilealliance.org/resources/experience-reports/one-year-of-remote-mob-programming/>
   * Try to build a culture of Open Space concepts for mobbing.
     * Whomever is present is the right people.
   * How to counter act "divide and conquere" mentality with the intent of siloing work?
-    * Some people prefere to work solo
-    * Divide and conqurue does not mean divide people but instead divide problems - run multiple mobs around those smaller problems.
-  * Cylcing between solo and mobbing is an akward state to navigate because of the uncertainty around team working agreements.
+    * Some people prefer to work solo
+    * Divide and conquer does not mean divide people but instead divide problems
+      * Run multiple mobs around those smaller problems.
+      * A single person dividing their attention on multiple problems is a war on all fronts - not divide and conquering
+  * Cylcing between solo and mobbing is an akward state to navigate because of the uncertainty around when either is appropriate.
+    * Commit to one.
   * The cost of communication is significantly reduced when everybody is in the same "room" / mob because people are constantly have conversations on everything form software design to functionality.
   * How do you find core working hours when people have different scheduled (e.g. pick kids up from school, morning birds, night owls, etc.)
     * Morning birds and night owls find overlap time everyday to transition mob from morning to night crew. Works also for international teams.
-      * Acts as handover to discuss decisions that were made or discoveres.
+      * Acts as handover to discuss decisions or discoveres that were made.
     * Whoever is present are the right people to keep things flexible
     * Do a write up at the end of the day to facilitate async hand off for the next mob or your future self.
-  * As part of mini retro when clousing out the mob: "Where do we pick up next?"
+  * As part of mini retro when closing out the mob: "Where do we pick up next?"
   * "If you can only pick 1 agile practice make it retro spectives so you can improve"
 
 * Simulators over mocks + contract testing
@@ -114,9 +142,9 @@
   * Docker containers make it easier to manage infastructure
     * Don't have to worry about what package is running in production versus development
   * K8 is the new legacy softweare, serverless is argued to be the new standard (I definitely agree haha)
-  * Severs as pets to servers to cattle metaphore to describe infastructure
-    * Infastructure as code (cattle) affords differnt deployment strataegies
-  * Most K8 Docker containers have known vulnerability because building the docker container is an engineering problem and engineers typically don't usually handle security updates until there is a problem.
+  * Severs as pets to servers as cattle metaphore to describe infastructure
+    * Infastructure as code (cattle) affords different deployment strategies than manual provisioning (pet)
+  * Most K8 Docker containers have known vulnerability because building the docker container is an engineering problem and engineers typically don't handle security updates until there is a problem.
   * <https://www.npmjs.com/package/forever> restarts node on any sort or error
   * <https://www.cloudfoundry.org/>
     * Makes developers jobs very easy
@@ -125,20 +153,20 @@
   * Borning infastructure lets developers focus on customer value versus managing infastructure.
   * <https://aws.amazon.com/ecs/>
   * <https://netflix.github.io/chaosmonkey/>
-    * Build resilience through terminating instances in production to ensure code works as expected (nothing is to big to fail)
+    * Build resilience through terminating instances in production to ensure code works as expected (nothing should be to big to fail)
   * Developers get paid for delivering customer value and only get punished for security flaws. Punishment is infrequent and therefore there is little incentive to be proactive about.
     * Very similar argument for technical debt
-  * The type of deployment strategy an organization has is reflective of cultural practices
-  * Rent an OPs is a growing trend since maintaining an OPs team is expensive
-  * OPs is firefighting and improving infastructure
+  * The type of deployment strategy an organization has is reflective of its cultural practices
+  * "Rent an OPs" is a growing trend since maintaining an OPs team is expensive
+  * OPs is all about firefighting and improving infastructure
   * Borning does not mean primative
-    * Focus seems to be a simplicity, more turn-key
-  * Google has a philosophy that they won't do anything that requires a help desk, out sources this to 3rd parties, which makes GCP difficult (definitely been my experience)
+    * Focus seems to be a simplicity, more turn-key, more plug-and-play
+  * Google has a philosophy that they won't do anything that requires a help desk, they out-source all of that to 3rd parties, which makes GCP difficult to user (definitely agree by my experience)
 
 * Communicating technical debt
   * 1-5 stars of technical debt per story / ticket
   * <https://www.youtube.com/watch?v=TQ9rng6YFeY&ab_channel=DevTernityConference>
-  * Trust influence loop: build trust, influence change, repeat
+  * Trust influence loop: (1) build trust, (2) influence change, (3) repeat
   * Quality Views by Colin Breck
 
 * Software developer habits
@@ -158,11 +186,11 @@
     * Declaring "backlog bankruptcy" to trash everything (bugs, ideas, ..., everything!); make work about doing not managing a list.
     * Keeping dependencies up to date (try to automate as much as possible)
   * Bad habits
-    * Giving fixed timelines because usually other stuff comes up
-    * Waiting to long to get feedback
-    * Not being conscientious of terminology, initialisms, etc. - try to make sure everybody is on the same page
+    * Giving fixed timelines because usually other stuff comes up that pushes those timelines out
+    * Waiting to long to get feedback on anything
+    * Not being conscientious of terminology, initialisms, etc. - try to make sure everybody is on the same page when having a conversation
     * Big commits - bigger risks
-    * Not taking breaks to process through problems
+    * Not taking breaks, walking away from the computer, to process through problems
     * Not running tests before pushing
     * Status meetings - status should be viewable through tool (e.g. JIRA)
     * Blaming - people do the best with the knowledge they have at the time
@@ -171,10 +199,11 @@
     * Estimations - the act of estimations is waste, you never know what is going to come up between now and done
       * Estimates are just (informed) guess that people take to seriously
       * Estimates should not be treated as a promise
-      * Estimates traditionally translate into scope + date
+      * Estimates traditionally translate into some sort of scope + date calculation
         * What day (Y) will we have feature X (scope)?
+        * If we eliminate requirements Z, can get get feature (X-Z) by date Y?
       * Work on the most valuable stuff first, pivot only when it is done or becomes not the most valuable.
-      * Agile product developmen fits more into a Kanban style than a Waterfall style
+      * Agile product developmen fits more into a Kanban style than a Waterfall style (e.g. Scrum)
     * Not asking clarifiying questions
     * Ignoring failing tests
     * Conflating "refactoring" with "rewriting" - refactoring means it does not change the current behavior
@@ -183,16 +212,16 @@
     * Continous retros
       * Do retros very frequently and regularly
       * Some people do multiple retros a day (works best when mobbing)
-      * The most important thing is being addressing what is not working and amplifying what is working
-      * Add ideas to retro board async as ideas are generated rather than trying to remember them all on the day of
+      * The most important thing is addressing (1) what is not working and (2) amplifying what is working
+      * Add ideas to retro board async as ideas are generated rather than trying to remember them all in the moment
       * Give feedback at the right time - training a pet requires instant feedback to relate action to consequence.
       * "I have this feeling about this ..."
     * Having difficult conversations
       * Use a friend (somebody with psychological saftey, trust) to moderate
       * Use Situation Behavior Impact (SBI) to help frame the conversations to make it more productive
-    * Thin slicing
+    * Thin slicing feateures
     * Giving better feedback
-    * Fearlessly examining our ways of working to find improvements
+    * Fearlessly examining our ways of working to find improvements - fearless experimentaion
     * Learn as a team
     * Batching questions for team lead / product owner
 
@@ -208,24 +237,24 @@
 
 * Overcoming communication barriers with remote work
   * Try to schedule messages, emails, etc. for the person's working hours
-  * The larger the power differenctial, the more cautious you need to be with when you send things. If the CEO sends you a message at 9pm you might feel the need to reply.
-  * Social connection is difficult / different in fully remote life
-  * Timezone (e.g. east vs west coast) and lifestyle differences (children vs no children) are a challange when trying to establish core working hours in a time
+  * The larger the power differential, the more cautious you need to be with when you send things. If the CEO sends you a message at 9pm you might feel the need to reply versus a peer because you value the CEO's time more than your own: you don't want to be a blocker.
+  * Social connection is difficult and different in fully remote life
+  * Timezone (e.g. east vs west coast) and lifestyle differences (e.g. picking up children from school) are a challange when trying to establish core working hours
   * Lots of channels to monitor (e.g. email, slack, meetings, calls, etc.)
-  * Cross polination from co-located teams is missing in remote work. How to get it back?
+  * Cross pollination from co-located teams is missing in remote work. How to get it back?
     * Try to recreate doing remote movie parties, jackbox party games
     * Intentionally bring people together for social activities
     * Over communicate
   * Remote work is isolated, mob programming adds a few more people but still does not capture co-located life.
-  * Remote lunchs
+  * Remote lunches
   * You have to be intentional with social hang outs
 
 * Experiences with mob programming
   * <https://fearlesschangepatterns.com/>
   * Eliminate waste in the process because handoffs are significantly reduced
-  * Large steps cost most because larger steps usually have more risk and so more work is put into mitigating that risk.
+  * Large steps cost most because larger steps usually have more risk and so more work is put into mitigating that risk (e.g. manual QA).
 
 * Closing circle
-  * People like eye-candy, translate your proposal into something that is catchy and gets people interested
+  * People like eye-candy, translate your proposal or innovation into something that is catchy and gets people interested
   * We can always iterate on anything
   * Facilitate inclusion by getting everybody involved in the conversation
