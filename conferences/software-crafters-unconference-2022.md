@@ -4,7 +4,21 @@
 
 ## Key takways
 
-* TODO
+* Influence organizational change through informal communication channels. Host informal "Dailies" or other low committment events with the intent of getting people together to share ideas. These ideas can be on technical practicies, software design patterns, or anything that is relevant to your organization.
+
+* When trying to experiment with new practicies, seek out others who enjoy learning through failure. What people enjoy failing at is different though. So when you want to experiment with something new, over communicate your intent to gauge alignment.
+
+* Once a new practice is showing promise, Diffusion of Innovation Theory suggest courting early adopters in leadership positions to evangelize and create success stories. Success stories encourage further adoption. To court early adopters, you new practice need how-to guides.
+
+* Mob / ensemble programming is a powerful practice because it reduces waste across the board. One example is PRs. PRs traditionally serve as a gatekeeper to enforce software design, architecture, code readability, and other in-house technical practicies in an async fashion. This async fashion inflates WIP limits because the delay of feedback encourages people to start new, less important work. Mobbing produces the same outcomes of traditional async PRs but without delay, without context switching, and with a focus on done over started.
+
+* Borning infastructure lets developers focus on producing customer value over managing complex infastructure. Boring infastructure is best characterised by is simplicity to adopt, maintain, and deploy to. Infastructure as code tools like Terraform make infastructure less mystical and sometimes it makes sense to have a dedicated infastructure team to make complex infastructure simple for others. Also, the type of infastructure you have says a lot about your organization's structure (i.e. Conway's Law). But rarely is innovative infastructure a differentiator in producing customer value, particularly for startups.
+
+* Estimates are just (hopefully informed) guesses that should not be treated as promises or plugged into any `F(S-X) -> D` functions where `S` is scope, `X` is removed scope, and `D` is a deadline with any sense of certainty. Sometimes deadlines are real and are only meaningfully communicated with transparency so that estimates are not gamified.
+
+* When mobbing / ensambleing, take a break every hour. This will help keep people focused. Also, have retrospectives just as regularly; experiment for best results: every mob is different.
+
+* In remote-first orgs, you have to be extremely intentional to build social connections with peers when compaired to co-located organizations. This means deliberately plannings hang outs, 1-1s, clubs events, etc. to build social connections. Social connections drive psychological saftey so that people can safely share feedback, ideas, fail, learn, and navigate difficult conversations throughout the organization.
 
 ## Notes
 
