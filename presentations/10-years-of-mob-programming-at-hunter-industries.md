@@ -17,17 +17,16 @@
 * Mobbing breaks down barriers so that asking for help or clarifiation is more normal and not an inconvenience to somebody else.
 
 * Rough schedule for a mob at Hunter
-
-| Time | Event |
-|---|---|
-| 9am | Mob + 10 minute break |
-| 10am | Mob + 10 minute break |
-| 11am | Mob + 10 minute break |
-| 12pm | Lunch |
-| 1pm | Mob + 10 minute break |
-| 2pm | Mob + 10 minute break |
-| 3pm | Mob + 10 minute break |
-| 4pm | Learning hour |
+    | Time | Event |
+    |---|---|
+    | 9am | Mob + 10 minute break |
+    | 10am | Mob + 10 minute break |
+    | 11am | Mob + 10 minute break |
+    | 12pm | Lunch |
+    | 1pm | Mob + 10 minute break |
+    | 2pm | Mob + 10 minute break |
+    | 3pm | Mob + 10 minute break |
+    | 4pm | Learning hour |
 
 ## Notes
 
