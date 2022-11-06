@@ -4,7 +4,7 @@
 
 ## Key takeaways
 
-* Lean Coffee Q&A Format is a cool approach to the Q&A format since people get to vote on the questions they want to hear answers to rather than first-come-first-answered like traditional Q&A sesions.
+* Lean Coffee Q&A Format is a cool approach to the Q&A format since people get to vote on the questions they want to hear answers to rather than first-asked-first-answered like traditional Q&A sesions.
 
 * Hunter industries is an early adopter of many noval agile practicies like mob programming, no estimates, learning hours, TDD, and others. However, this was not an overnight change. Mob programming and no estimates was a cycle of experimentaion and buliding trust with stakeholders. Though, eventually stakeholders saw the higher quality of the output which further engrained mob programming into Hunter's culture.
 
