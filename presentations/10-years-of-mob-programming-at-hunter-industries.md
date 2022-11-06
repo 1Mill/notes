@@ -8,7 +8,7 @@
 
 * Hunter industries is an early adopter of many noval agile practicies like mob programming, no estimates, learning hours, TDD, and others. However, this was not an overnight change. Mob programming and no estimates was a cycle of experimentaion and building trust with stakeholders. Though, eventually stakeholders saw the higher quality of the output which further engrained mob programming and these other agile practicies into Hunter's culture.
 
-* Mob programming works best when everybody is in-person or remote: no hybrid sessions. Additionally, mobbing works best with a size of 4 to 5 people with the mandate that everybody is both contributing and learning. If somebody is not contributing or learning, Hunter lets people jump between mobs. Sometimes this means jumping to another project on a different team.
+* Mob programming works best when everybody is in-person or remote: no hybrid sessions. Additionally, mobbing works best with a size of 4 to 5 people with the mandate that everybody is both contributing and learning. If somebody is not contributing or learning, Hunter lets people jump between mobs. Sometimes this means jumping to another project on a different team. This takes inspiration from the "Laws of 2 feet" from Open Spaces.
 
 * Hunter differiences between mobs and teams. A mob should only be composed of 4 to 5 people but a team can be composed of multiple mobs working towards the same outcomes. One example given was a team of 12 people which composed weekly into 3 mission driven mobs.
 
