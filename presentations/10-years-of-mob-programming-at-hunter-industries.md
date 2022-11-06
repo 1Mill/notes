@@ -10,11 +10,11 @@
 
 * Mob programming works best when everybody is in-person or remote: no hybrid sessions. Additionally, mobbing works best with a size of 4 to 5 people with the mandate that everybody is both contributing and learning. If somebody is not contributing or learning, Hunter lets people jump between mobs. Sometimes this means jumping to another project on a different team. This takes inspiration from the "Laws of 2 feet" from Open Spaces.
 
-* Hunter differiences between mobs and teams. A mob should only be composed of 4 to 5 people but a team can be composed of multiple mobs working towards the same outcomes. One example given was a team of 12 people which composed weekly into 3 mission driven mobs.
+* Hunter differentiates between mobs and teams. A mob should only be composed of 4 to 5 people but a team can be composed of multiple mobs working towards the same outcomes. One example given was a team of 12 people which composed weekly into 3 mission driven mobs. This dynamic reteaming is very similar to FAST Agile or FLUID Scrum.
 
-* Mobbing is not limited to just programming, but also emailing, asking for help / insight, etc.: anything that a normal individual would do day-to-day.
+* Mobbing is not limited to just programming, but also emailing, asking for help / insight from a product owner, etc.: anything that a normal individual would do day-to-day in a traditional organization.
 
-* Mobbing breaks down barriers so that asking for help or clarifiation is more normal and not an inconvenience to somebody else.
+* Mobbing breaks down barriers so that asking for help or clarifiation is more normal and does not feel like you are inconvenience somebody else.
 
 * Rough schedule for a mob at Hunter
 
