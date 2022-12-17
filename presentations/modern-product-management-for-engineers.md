@@ -4,6 +4,14 @@
 
 ## Key takeaways
 
+* Modern product management is the next phase of agile transformation. The Agile Manifesto focused on agile delivery (e.g. CICD, trunk based development, XP) from inside waterfall projects to make delivery quick, cheap, and frequent. Building on top of that, Lean Startups then focused on delivering the right feature through data-driven learning loops. Now, modern product management requires organizations to entrust ownership to product teams.
+
+* Product teams are a tight knit group of people (i.e. tribe) with one role: product ownership. Product teams are autonomous and composed of engineers, designers, product managers, analytist, or any other role required to deliver end-to-end product value and business insights. Company leaders establish visions, whereas product teams establish and execute on strategies.
+
+* One method to communicate how low-level tasks drive high-level business are Opportunity Solution Trees (OST). An OST is similar to a Discovery Tree (DT) in how to visually communicate work and start conversations to build alignment. However, a DT focuses on communicating the state of delivery work. Whereas an OST focuses on communicating the impact of experiments (e.g. features) on the larger organizational vision.
+
+* To keep themselves grounded and clearly communicate their contribution to the organizatin's vision, a product team must have metrics. These metrics may be qualitative, quantitative, or a mix of both. But the most important take away is that these metrics must be meaningful and exist.
+
 ## Notes
 
 * Currently a product team is defined as key stakeholders around a SCRUM Team. The SCRUM team is composed of a product owner, SCRUM master, and embeded Development Team.
@@ -85,7 +93,7 @@
     | Area of Auntomoty | Role |
     |---|---|
     | Generate [long-term business outcome] | General manager (GM) |
-    | Directly generate [short-term business outcome] | GM + Project manager (PM) |
+    | Directly generate [short-term business outcome] | GM + Product manager (PM) |
     | Explore potential leverage point and run experiments to influence [specific business outcome] | GM + PM + Product Team (PT) |
     | Increase / decrease [metric] known to influence [specific business outcome] | TM + PM + PT |
     | Expore challanges or imporove experience for [segment of customers] | PM + PT |
@@ -123,7 +131,7 @@
   * Build and run experiments
 * Experimentalism usually focuses on quantitative data, however, sometimes things are more qualitative.
   * Outputting more lines of codes does not mean a team is deliverying more value or more effectively than another team with less lines of code.
-  * Metrics are important in telling a story, but the storyteller must be human (Extreme Agility)
+  * Metrics are important in telling a story, but the storyteller must be human (Book: Extreme Agility)
 * Write an experiment down, else you are just messing around
 * Psychological saftey is observed through equal speaking time in meetings, calls, etc.
   * Project Aristotle out of Google
