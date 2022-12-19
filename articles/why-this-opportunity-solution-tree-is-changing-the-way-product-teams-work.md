@@ -4,11 +4,11 @@
 
 ## Key takeaways
 
-* Modern product management requires teams to cycle rapidly between discovery and delivery work to double check they are meeting customers needs. For delivery work, Discovery Trees (DTs) help build alignment and communicate state up and across the product team. In a similar way to DTs, Opportunity Solution Trees (OSTs) fill the same role for discovery work. OSTs help build alignment, communicate priorities, and visually represent the how outputs (e.g. features) hope to impact larger organizational outcomes.
+* Modern product management requires teams to cycle rapidly between discovery and delivery work to double check they are meeting customers needs. For delivery work, Discovery Trees (DTs) help build alignment and communicate state up and across the product team. In a similar way to DTs, Opportunity Solution Trees (OSTs) fill the same role for discovery work. OSTs help build alignment, communicate priorities, and visually represent how outputs (e.g. features) hope to impact larger organizational outcomes.
+
+* OSTs are composed of 4 layers: (1) desired business outcomes, (2) opportunities that drive those outcomes, (3) solutions that enable those opportunities, and (4) experiments that validate solutions work in an iterative fashion. At each layer, each outcome, opportunity, solution, and experiment must be force ordered. Doing so communicates priority and builds alignment across the product team about the work to be done. This is critical when two solutions, opportunities, or outcomes conflict with each other: a team must know which to prioritize to enable autonomous decision making.
 
 * Having an OST that is to broad means a team is tring to many things at once with diminishing returns. On the other hand, having an OST that is too narrow means a team is focusing too much on one bet. Modern product management requires teams to multitrack. In which they must run multiple experiments, solutions, and opportunities to discover which output best drives the desired business outcome.
-
-* Like DTs, each business outcome, opportunity, solution, and experiment must be force ordered to clearly communicate priority. A higher rank, a higher priority. This build alignment and, more critically, indicates what should take priority if two solutions, opportunities, or outcomes conflit.
 
 ![Diagram of opportunity solution tree from https://www.producttalk.org/2016/08/opportunity-solution-tree/](../images/opportunity-solution-tree.PNG)
 
