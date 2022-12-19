@@ -4,7 +4,7 @@
 
 ## Key takeaways
 
-![image](./images/opportunity-solution-tree.PNG)
+![image](../images/opportunity-solution-tree.PNG)
 
 ## Notes
 
