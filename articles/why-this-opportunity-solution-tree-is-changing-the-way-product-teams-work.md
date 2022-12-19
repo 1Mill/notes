@@ -4,6 +4,12 @@
 
 ## Key takeaways
 
+* Modern product management requires teams to cycle rapidly between discovery and delivery work to double check they are meeting customers needs. For delivery work, Discovery Trees (DTs) help build alignment and communicate state up and across the product team. In a similar way to DTs, Opportunity Solution Trees (OSTs) fill the same role for discovery work. OSTs help build alignment, communicate priorities, and visually represent how work to be done intends to impact larger organizational outcomes.
+
+* Having an OST that is to broad means a team is tring to many things at once with diminishing returns. On the other hand, having an OST that is too narrow means a team is focusing too much on one bet. Modern product management requires teams to multitrack. In which they must run multiple experiments, solutions, and opportunities to discover which output best drives the desired business outcome.
+
+* Like DTs, each business outcome, opportunity, solution, and experiment must be force ordered to clearly communicate priority. A higher rank, a higher priority. This build alignment and, more critically, indicates what should take priority if two solutions, opportunities, or outcomes conflit.
+
 ![Diagram of opportunity solution tree from https://www.producttalk.org/2016/08/opportunity-solution-tree/](../images/opportunity-solution-tree.PNG)
 
 ## Notes
