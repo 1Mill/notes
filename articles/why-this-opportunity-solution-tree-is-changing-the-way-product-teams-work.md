@@ -4,7 +4,7 @@
 
 ## Key takeaways
 
-![image](../images/opportunity-solution-tree.PNG)
+![Diagram of opportunity solution tree from https://www.producttalk.org/2016/08/opportunity-solution-tree/](../images/opportunity-solution-tree.PNG)
 
 ## Notes
 
