@@ -85,3 +85,6 @@
     2. Rough elements - usually sketches
     3. Address risks and rabit holes
     4. Write a "pitch" to place on the "betting table"
+
+* Settings Boundaries
+  * TODO
