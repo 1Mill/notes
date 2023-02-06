@@ -12,6 +12,8 @@
 
 * Basecamp is composed of multiple compartmentalized shaper (i.e. discovery) teams and delivery teams. A shaper team discoveres, evaluates, and roughly sketches out a bet to a business opportunity / problem. A delivery team takes up bets and outputs product features.
 
+* Shaping is "done" when (1) the "baseline" (i.e. root customer problem) is discovered from one or many "raw ideas" (e.g. customer feedback) and then (2) "batched" into a solution that can be delivered in 6 or less weeks by one designer and one to two engineers.
+
 ## Notes
 
 * Culture is foundational to flow.
@@ -86,5 +88,16 @@
     3. Address risks and rabit holes
     4. Write a "pitch" to place on the "betting table"
 
-* Settings Boundaries
-  * TODO
+* Settings Boundaries for shaping
+  * All shaping sessions need to start with a "raw idea" (e.g. customers are asking for X) with no pretense.
+  * "Raw ideas" need to be aligned with business outcomes.
+  * A "batch" is a "raw idea" that is shaped.
+  * An "appetite" is compose of one or more "batches" that fit into a 6 week delivery cycle for a team of 1 designer and 1 or 2 engineers.
+  * If a "batch" cannot fit into that 6 week mark, then cut scope or slice an independently releasable chunk off that can be delivered within that time frame.
+  * Use "Fixed time, varaible scope" philosophy to keep focus on the most important work.
+  * "Without a time limit, there’s always a better version. ... But when you’re hungry and in a hurry, a hot dog is perfect."
+  * Raw ideas are exciting but keep a poker face and do not commit excitedly or begrugenly until you understand the idea.
+  * Narrow down the problem to solve the root issue. Do not just accept the "raw idea" at face value.
+  * A "baseline" is a specific problem a customer is trying to solve and is usually the root of a "raw idea" .
+  * If an idea is too vauge / large to work on after researching it, punt on it until other examples come up to provide more context and discover the "baseline".
+  * Shaping is done when (1) a "baseline" is discovered and (2) it is "batched" into a sketched solution.
