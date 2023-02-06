@@ -101,3 +101,6 @@
   * A "baseline" is a specific problem a customer is trying to solve and is usually the root of a "raw idea" .
   * If an idea is too vauge / large to work on after researching it, punt on it until other examples come up to provide more context and discover the "baseline".
   * Shaping is done when (1) a "baseline" is discovered and (2) it is "batched" into a sketched solution.
+
+* Finding the elements
+  * TODO
