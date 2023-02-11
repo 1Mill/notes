@@ -4,6 +4,8 @@
 
 ## Key takeaways
 
+*
+
 ## Notes
 
 * "DTs are very dynamic"
@@ -20,9 +22,9 @@
   * Emerged from FAST Agile - <https://www.fastagile.io/>
   * Quinn Gil article on feature trees - <https://quinngil.com/2020/02/03/feature-mapping/>
 * "Agile has given us tools to get really good at software delivery. We now need better dynamic ways to get good at discovery." - Ron Q.
-* "[DTs are] the simplest/easiest way that I have yet discovered to visualize work (and give estimates) without doing all Agile PLanning Theater." - Steve K.
+* "[DTs are] the simplest/easiest way that I have yet discovered to visualize work (and give estimates) without doing all Agile Planning Theater." - Steve K.
   * How much customer value is there in estimations? - Steve K.
-* DTs are a collection of cards that visually communicate work and its state (to do, in progress, done, blcoked, etc.)
+* DTs are a collection of cards that visually communicate work and its state (to do, in progress, done, blocked, etc.)
 * Card colors
   * Blue - theme of this frame
   * Yellow - to do
@@ -30,7 +32,7 @@
   * Oranage - blocked
   * Green - done
   * Black - parking lot item
-* Online, DTs can house other information outside of just the work to be done
+* Online DTs can house other information outside of just the work to be done
   * References / links
   * Reminders
   * Notes
@@ -46,8 +48,8 @@
 * Emergent design / evolutionary architecture - responding to real (code) signals to deliver
 * Always append to DTs - never rewrite old stuff.
 * Reference for Monte Carlo estimations: <https://www.focusedobjective.com/pages/free-spreadsheets-and-tools>
-* If estimates are too high, cut scope - focus on feature slicing. Monte Carlo forecasts help information and visualize this conversations with confidence intervals.
-* Updates estimates on a weekly basis to inform scope cutting
+* If estimates are too high, cut scope - focus on feature slicing. Monte Carlo forecasts help inform and visualize this conversations with confidence intervals.
+* Update estimates on a weekly basis to inform scope cutting
 * DTs help communicate where the trouble spots are
 * Ask every week: "Can we put this in front of a customer?" - Steve K.
 * DTs are not
@@ -70,17 +72,17 @@
   * Helps bring down walls between traditionally siloed groups. Get engineers insight into how work impacts outcomes.
   * DTs encourage feature slicing
 * Weekly status report are useful for people that are not involved day-to-day in the Discovery Tree.
-  * They seem like office hours for stakeholders or other teams that are removed from the team itself.
-* Monte Caro simulations
-  * Use "done" cards to inform how much work was completed each week to inform the next Monte Carlo estimation. Use historical week-by-week examples to output an average team velocity.
+  * They seem like office hours for stakeholders or other teams that are removed (e.g. external) from the team doing the work.
+* Monte Carlo simulations
+  * Use "done" cards to inform how much work was completed each week to then inform how much work is forcaste to get done next week. Use historical week-by-week examples to output an average team velocity.
   * Constraints are important to help focus teams (e.g. WIP limites). Timeboxes are another example and Monte Carlo simulations help teams communication when the given timebox might not be right so that scope can be cut instead of teams crunching to meet the timebox - encouraging feature slicing.
   * Have regular conversations about scope, complexity, etc. - growing forecasts act as a trigger to re-evaluate scope
 * How do you manage parellized work? Mintain multiple DTs for each isolated stream of work.
-* Keep DTs simple so that communication remain adaptable - MIRO is good enough, feel not need for a DT specific tool
+* Keep DTs simple so that communication remain adaptable - MIRO is good enough, feel no need for a DT specific tool akin to JIRA.
   * Creating new tasks is a friction point in other tools that discourages people from wanting to make tasks. DTs in MIRO make it simple so that the friction isn't an inhibitor.
-* Break large tasks into more smaller and managable chunks. What "smaller" and "managable" means is unique to each time.
-  * I personally find 100 lines diff a good rule of thumb
-* Make DTs very visible and use color to communicate state. This way, anybody can look at a DT and see what is going on and where the team is currectly at.
+* Break large tasks into more smaller and managable chunks. What "smaller" and "managable" means is unique to each team.
+  * I personally find 100 lines diff a good rule of thumb that covers scope of refactors, cleaning up code, adding tiny incremental feature slices, etc.
+* Make DTs very visible and use color to communicate state. This way, anybody can look at a DT and see what is going on and where the team is currently at.
 * DTs act as a living document to communicate what was or was not done. Then, teams can pick back up from where they left off in the future if they need to.
   * This allows teams to pivot without having to lose every bit of context and without having to manage complex documentation.
 * DTs make work more visible. This includes the amount of work in progress.
