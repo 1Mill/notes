@@ -74,3 +74,20 @@
 * Monte Caro simulations
   * Use "done" cards to inform how much work was completed each week to inform the next Monte Carlo estimation. Use historical week-by-week examples to output an average team velocity.
   * Constraints are important to help focus teams (e.g. WIP limites). Timeboxes are another example and Monte Carlo simulations help teams communication when the given timebox might not be right so that scope can be cut instead of teams crunching to meet the timebox - encouraging feature slicing.
+  * Have regular conversations about scope, complexity, etc. - growing forecasts act as a trigger to re-evaluate scope
+* How do you manage parellized work? Mintain multiple DTs for each isolated stream of work.
+* Keep DTs simple so that communication remain adaptable - MIRO is good enough, feel not need for a DT specific tool
+  * Creating new tasks is a friction point in other tools that discourages people from wanting to make tasks. DTs in MIRO make it simple so that the friction isn't an inhibitor.
+* Break large tasks into more smaller and managable chunks. What "smaller" and "managable" means is unique to each time.
+  * I personally find 100 lines diff a good rule of thumb
+* Make DTs very visible and use color to communicate state. This way, anybody can look at a DT and see what is going on and where the team is currectly at.
+* DTs act as a living document to communicate what was or was not done. Then, teams can pick back up from where they left off in the future if they need to.
+  * This allows teams to pivot without having to lose every bit of context and without having to manage complex documentation.
+* DTs make work more visible. This includes the amount of work in progress.
+* Terms being used
+  * Leafs - tasks
+  * Branches - arrows between tasks denoting dependencies / blockers (e.g. task B blocks tasks A)
+  * Tree - collection of leafs connected by branches
+* Use nametags to communicate who is working on what
+  * At GoodDog we leave namestags on "done" tasks so that we know who worked on what incase we need to revisit and gain more context.
+* Take snapshots to document history of learning captured in the growth of the tree.
