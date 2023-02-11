@@ -4,7 +4,20 @@
 
 ## Key takeaways
 
-*
+* Discovery Trees (DTs) jump start conversations about scope, capacity, and capability by making the work visible. Other tools add friction to change. DTs on the other hand make change easy so that a DT reflects a teams current understanding of the work to be done.
+
+* A rule of thumb of DTs is to break work down into tiny managable chunks. What "tiny" and "managable" mean is unique to each team. For coding tasks, a rule of thumb I use at Good Dog is to break work into 100 line diffs in GitHub.
+
+* DTs communicate state through color. At Good Dog for example, we use:
+  * White - To do
+  * Blue - In progress
+  * Teal - In code review
+  * Green - Done
+  * Grey - Skipping
+
+* Monte Carlo simulations can be paired with DTs to calculate velocity and forecasts metrics. These metrics can spark conversations around scope creep or cutting scope.
+
+![Example of a Discovery Tree changing over time.](../images/discovery-tree.gif)
 
 ## Notes
 
