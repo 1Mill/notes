@@ -2,7 +2,15 @@
 
 ## Key Takeaways
 
-* TODO
+* TEAL is a management paradigm where people lead and manage others through self-organization. This is different to leading or managing through hierarchical authority like many traditional organizations. This idea of self-organization and collective ownership is echoed in many modern product management frameworks, like Continous Discovery, which embrace this sign up versus assignment philosophy. Traits which have demonstrated better customer and business outcomes.
+
+* TEAL is not anarchy and structure is still imposed at various levels. The difference between TEAL and other operating systems is that TEAl does not regulate how people talk or work togethr. In a traditional company, for person A to talk to person B they usually have to go through somebody else: usually their bosses. In a TEAL organization, people just walk to each other.
+
+* Self-organization enables innovation from anywhere because everyone can act autonomously. In traditional organizations, a person has a boss who acts as their controller between others and about the work they do. In TEAL, the role of boss is eliminated and replaced with self-organizing teams powered by this auntonomy (i.e. Law of Two Feet).
+
+* Radical transparency is required within an organization to enable TEAL so that everybody is working within the same shared business context. Without radical transparency people cannot make informed decisions.
+
+* TEAL asks that people contribute more than just the role they were hired for. Contributing in different roles at different skill levels gives teams a more rounded and diverse perspective.
 
 ## Notes
 
@@ -30,7 +38,7 @@
 * More innovation activity leads to higher revenue - Ed
   * Try lots of ideas and see what sticks
 * Radical transparency is taking off more quickly than Teal, but radical transprancy is required to enable Teal so lots of stuff happening just not quite Teal in name.
-* Reference: SCRAPPY PROJECT MANAGEMENT, https://drive.google.com/file/d/15Za1nUG1Rhw5G7GHiVftwHf1Y0RzGFFe/view
+* Reference: SCRAPPY PROJECT MANAGEMENT, <https://drive.google.com/file/d/15Za1nUG1Rhw5G7GHiVftwHf1Y0RzGFFe/view>
 * Many organizations have not been running their companies like a factory for a long time, but difficult given North America's traditional factory mindset - Rachel Murch
 * People leave bad company cultures (e.g. people leave bad bosses) - Rachel M
 * North America embraces the hero CEO; the company gets what the CEO values - Ron Q
