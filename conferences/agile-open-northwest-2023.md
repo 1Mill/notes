@@ -132,4 +132,5 @@
   - Not every part of an organization must be adaptive - but making the parts that should be adaptive be adaptive makes adapting to changes in the market much eaiser
   - Right sizing of agile transformation: what level are you being brought into and what area of influence do you have?
     - Who is trying to lead the agile transformation within the company and what level of influence is being given? Sometimes, it is just making a few teams better.
-  -
+  - Build repor so that making change is eaiser
+  - Help teams realize where flow is not being achieved
