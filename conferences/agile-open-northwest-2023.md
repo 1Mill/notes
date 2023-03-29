@@ -120,6 +120,7 @@
   - Learn to understand and adjust ways of working to different cultures
 
 - Escaping the Agile Industrial Complex
+
   - People with credentials use those credentials as an authority to do non-agie things.
   - Management believes "doing agile" is at the individual contributor level, not the management level.
   - Businesses care about
@@ -134,3 +135,50 @@
     - Who is trying to lead the agile transformation within the company and what level of influence is being given? Sometimes, it is just making a few teams better.
   - Build repor so that making change is eaiser
   - Help teams realize where flow is not being achieved
+
+- Techincal debt
+
+  - Is it an overloaded term?
+  - Code quality is a snapshot in time and that definition can change over time making old previously prestine code no longer prestine code.
+  - Technical Dirt: teams rushing too fast without concern for quality
+  - Technical Debt Quadrant: <https://martinfowler.com/bliki/TechnicalDebtQuadrant.html>
+
+- Psychological Saftey Intro
+
+  - Levels
+    1. Saftey to act
+       - "When we feel save enough and say we have a problem here"
+    2. Saftey to be
+       - Do we feel safe in this environment, less about behavior
+    3. Saftey is a state where we have access to our rational thinking
+       - If we do not feel psychologically safe we do not have access full and total access to all our thinking power
+  - Two survival mechanisms
+    - Freeze response is our oldest survival instinct which inhibits oxegyn to the prefrontal cortext
+    - Flight or Fight is the rapid movement response which stops pushing engergy to all non-essential services - we need to react not think
+  - What (in theory) can we do to get higher levels of productivity? SAFTEY model
+    - Security
+      - Predict what is coming next in our environment - consistency, committment, certainty, no change
+      - Teams have a regulare routine
+    - Autonomy
+      - Need to have control over our environment and have choises
+      - People cannot have autonomy without security
+    - Fairness
+      - Our need to engage in and experience fair exchanges to us and others
+    - Esteem
+      - Our need to be highly regarded
+      - Don't want to get kicked out
+    - Trust
+      - Our social need to belong and protect our group
+    - You
+      - Unique factors to yourself like personality, bias, etc.
+
+- Software Teaming
+  - New name for mob programming
+  - Mob with non-enigneers doing simple examples like FizzBuzz to help learn how the process works
+  - Co-locating mobbing pre COVID: <https://www.youtube.com/watch?v=dVqUcNKVbYg>
+  - Start learning how to mob by tackling a small function nobody likes
+  - Strong Style Pairing: "For an idea to go from your head into the computer it must go through someone else's hands."
+  - People naturally mob during high stress situations like an outage because fast and clear communication is so critical. However, why do people not fast and clear communication during less stressful situations?
+  - Group memory is better than individual memory which help make context switching easier and faster.
+  - When mobbing, the absense of one person is minimized on the work flow. With solo work, the work completely stops.
+  - Mobbing only works with psychological saftey.
