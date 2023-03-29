@@ -109,4 +109,27 @@
   - Retro frequently - such as 2 times per day during learning sessions
 
 - Simulating Scaled Agile
+
   - Kanban Drivers Edition - a boardgame to simulate ways of working
+
+- Cross cultural agile
+
+  - Different cultures have different ways of working which causes miscommunication
+    - Solve through ad-hoc demos frequently to verify communication was truely successful
+    - Solve through 1-1 conversations
+  - Learn to understand and adjust ways of working to different cultures
+
+- Escaping the Agile Industrial Complex
+  - People with credentials use those credentials as an authority to do non-agie things.
+  - Management believes "doing agile" is at the individual contributor level, not the management level.
+  - Businesses care about
+    - Direct Value - money
+    - Learning Value - know we know
+    - Option Value - we have options we didn't have before
+  - Companies hire people with credentials to reduce percieved risk
+  - Build working relationships at the team level and then work your way up the organization
+  - Being agile is a cultural missison which means all levels of the organization must be bought in - particularly C-Suite
+  - Not every part of an organization must be adaptive - but making the parts that should be adaptive be adaptive makes adapting to changes in the market much eaiser
+  - Right sizing of agile transformation: what level are you being brought into and what area of influence do you have?
+    - Who is trying to lead the agile transformation within the company and what level of influence is being given? Sometimes, it is just making a few teams better.
+  -
