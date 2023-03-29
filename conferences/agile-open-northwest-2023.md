@@ -189,7 +189,6 @@
 - Closing Circle
   - Do not attribute to a person a trait that can be attributed to a company's culture.
   - To support self-organization you need a container.
-  -
 
 ### Day 2
 
