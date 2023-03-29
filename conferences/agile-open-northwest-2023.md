@@ -77,3 +77,36 @@
   - Technology must be an equal partner at the stakeholder level.
   - Vendors lead with a lot of promises and usually have a lot of hidden costs
     - What is the usually hidden cost to manage a vendor?
+
+- Refreshing the Coding Dogo for Remote
+
+  - <https://ted.dev/articles/2022/01/15/remote-learning-ensembles/>
+  - Try and "discuss in code" versus just disussing on the abstract
+  - Learn non-judgemental self-observation
+  - Sparrow Deck to help identify code smalls, etc.
+    - <https://llewellynfalco.blogspot.com/p/sparrow-decks.html>
+  - Find opportunities for refactoring within your own code base: not fake code.
+  - Work with peole on frequent small batches (e.g. 3 hours a week every Monday) versus infrequent intese session (e.g. 1 week every year)
+  - Start simple
+  - Demonstrate or ask for wrong ways to solve a problem to kick off conversations
+  - Think about the code critically together
+  - The intent is to build
+    - A way to review code without being judgemental about it
+    - Get on the same page about terms
+  - You have to let people make mistakes so that they can learn
+  - Timezones make it difficult to find shared learning time
+    - Solve by making "focus time" on shared blocks
+    - Solve by employing dynamic reteaming to not try and control when people can and cannot work - let people work and form teams when they are avalibile.
+      - Term: Liquid Mobs
+  - How do you get buy in from management to get learning / improvements hours?
+    - Go bottom up and get short sessions going with peers - only through experiencing it do people see the value.
+    - Introduce in high safty environments where they are working on non-product related stuff versus low saftey environments which is must-have product work done.
+      - People started incorporating things they learned into the lower saftey environments.
+  - Power structures interfere with productive / efficient ways of working
+  - Prove out efficiencny of change by doing in small team specific changes - not by prophisizing
+  - Book: Coaching for Learning
+  - It is impossible to guague learning, attention, etc. without a camera. People must feel comfortable and safe to have their cameras on.
+  - Retro frequently - such as 2 times per day during learning sessions
+
+- Simulating Scaled Agile
+  - Kanban Drivers Edition - a boardgame to simulate ways of working
