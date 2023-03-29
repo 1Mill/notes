@@ -8,6 +8,8 @@
 
 ## Notes
 
+### Day 1
+
 - Agile Safari: Join a company for half a day to see if prospective employee is a good fit.
   - Usually best with team programming to see how they fit and interact with the team.
   - They do this at Hunter Industries
@@ -173,6 +175,7 @@
       - Unique factors to yourself like personality, bias, etc.
 
 - Software Teaming
+
   - New name for mob programming
   - Mob with non-enigneers doing simple examples like FizzBuzz to help learn how the process works
   - Co-locating mobbing pre COVID: <https://www.youtube.com/watch?v=dVqUcNKVbYg>
@@ -182,3 +185,12 @@
   - Group memory is better than individual memory which help make context switching easier and faster.
   - When mobbing, the absense of one person is minimized on the work flow. With solo work, the work completely stops.
   - Mobbing only works with psychological saftey.
+
+- Closing Circle
+  - Do not attribute to a person a trait that can be attributed to a company's culture.
+  - To support self-organization you need a container.
+  -
+
+### Day 2
+
+### Day 3
