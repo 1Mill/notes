@@ -33,6 +33,7 @@
   - Chat GPT and CoPilot uses private or not opened source code as a reference, so legal fears of using generated code.
 
 - Failure to Communicate
+
   - Reference / Facilitator: Woody Zuill
     - How can I introduce change in a place where I am just an engineer?
     - Why do we have teams?
@@ -57,3 +58,22 @@
   - Team programming makes communication alignment obvious
   - Some people are not verbal processors so using chat to think through their response can also help include more people into the conversations
   - How people are primed changes how people perceive and interpret communications
+
+- Product Roadmap Maturity Model
+
+  - Levels of maturity
+    - Level 1: Reactive Work and One-Off Solutions
+      - Work is identified based on the direct needs of your customers
+      - Solutions are delivered in a non-reusable way that is customized solely for that customer/need
+    - Level 2: Reactive Features and Reusable Solutions
+      - Features are identified based on the direct needs of your customers
+      - Solutions are built in a reusable way that allows any future customer with a similar need to be implemented without additional investment
+    - Level 3: Proactive Features and Cohesive Solutions
+      - Features are identified based on a desire to build a product the meets the needs of an identified target market and/or ideal customer
+      - NOT based only/directly on current customers and existing needs (although these should be considered).
+      - Solutions are built in a way that pulls the entire product towards the identified target market / ideal customer
+    - Level 4: Market Leading
+    - Level 5: Market Creation
+  - Technology must be an equal partner at the stakeholder level.
+  - Vendors lead with a lot of promises and usually have a lot of hidden costs
+    - What is the usually hidden cost to manage a vendor?
