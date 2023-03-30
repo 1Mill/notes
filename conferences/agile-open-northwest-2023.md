@@ -268,5 +268,13 @@
   - A mob can be of any size.
   - Diffussion is innovation - mobbing needs early adopters to provide more successful examples for early majority.
   - "Science advances one dead scientists at a time" as new ideas are embraced by new generations.
+  - Mobbing makes work more fun and social
+  - If a market competitor adopts mob programming, who is that benefiting? The competitor or the companies they are competing against?
+  - "Does mobbing not work in general or not here? Because mobbing works in other places"
+  - Examples of mobs where each members contributes in their own ways:
+    - Bands
+    - Surgery - a nurse has slack (i.e. idle time) so they can react to whatever the team needs instantly
+    - Pilots
+  - Managers try to make things easier to manage - Woody Zuill
 
 ### Day 3
