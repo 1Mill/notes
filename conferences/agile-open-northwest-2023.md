@@ -305,4 +305,54 @@
     - Build portfolio
   - Michael Larson does something called "live blogging" - seems similar to what this document is...
 
+- Coaching UP - what we've learned and can share to improve our approaches in our leadership engagement
+
+  - Ask to try something out just to see if this thing turns out to be super awesome
+  - "I am trying to help you solve your problem, will you let me help by trying X?"
+  - Get buy-in by being aligned about the problems trying to be solved.
+  - Ensure that problems trying to be solved are problems higher ups want to be solved - part of their job responsibilities / something in their domain.
+  - Build trust with leader
+    - Have shared experiences (i.e. you have worked in their role before)
+    - Frame ideas / experiments in ways that make sense to the person being worked with
+  - "Agile is for them not for me" in agile transformations
+    - Successful transformations require top-to-bottom shifts in cutlure
+    - Changing behaviors (i.e. performings standups) is not a mindshift change.
+  - Build relationships to be invited to the table with higher ups
+    - Actively listen to the problems they are trying to solve
+    - Give higher ups options so they can pick their own adventure, even if it perhaps the long road
+    - You must be trying to solve their problems, not your problems.
+  - Book: Inspired
+  - Leadership loves metrics
+    - Use metrics to help higher ups understand how they are serving their employees
+  - You can only coach a team if you are also coaching their manager at the same time because the working agreements need to change.
+  - You can only coach if you have a coachable team. If people are not interested then it doesn't matter how much you try.
+
+- Time Shred and the Flow of work
+
+  - Being interupted virtually is more socially acceptable then in person.
+  - Shift cultural expecations that people will respond when the time is right: not immediately.
+  - Use malicous compliance to highlight where issues are in the system
+    - Give yourself a 1 WIP limit. If a PR takes 3 days it is what it is - eventually somebody will notice wait.
+  - Call everything an "experiment" to get people to participate. Also timebox so that it is only a 30 minute committment like "live PR review"
+    - Easier to ask for an hour than a day
+  - You need social capital
+  - The work is blocked - not a person.
+  - Multitasking is 1 thing being worked on and all other work being blocked.
+  - An ideal person is never blocking work
+  - Do not keep people busy (max resource utilization) and instead focus on delivering work faster (max flow utilizaion).
+    - Flow requires slack / ideal time.
+    - A freeway at 100% utilization is gridlock - people and teams are the same way.
+  - Book: The Goal: A Process of Ongoing Improvement
+  - Reference: Litte's Law
+    - Working on one thing each items arrives at the absolutely fastest time
+    - Working on everything delivers everything at exactly the same time
+    - A team has to find that balance fastest and quantity.
+  - Big chunks do not flow well. Break chunks into smaller chunks.
+  - Book: [Slack](https://www.amazon.com/Slack-Getting-Burnout-Busywork-Efficiency/dp/0767907698)
+
+- Closing Circle
+  - Referenc: Gemini Agile
+  - Zero silos
+  - Software should help people. Is this software making humanity better?
+
 ### Day 3
