@@ -354,5 +354,6 @@
   - Referenc: Gemini Agile
   - Zero silos
   - Software should help people. Is this software making humanity better?
+  - "It's a reminder of how often I've worked in environments which neglect team effectiveness and knowledge transfer, which interpret 'embrace change' as 'jump into the whirlpool" - Jeff Miller
 
 ### Day 3
