@@ -193,4 +193,80 @@
 
 ### Day 2
 
+- LEAN Coffee
+
+  - Many conferences are not interested in FAST.
+
+- Opening Circle
+
+  - Q1: What’s a profession or skill you’ve used before doing Agile
+  - Q2: Is there any way we can use that to refresh our work now?
+  - "We will find a way along the way" - Joel Robinson
+  - People that work in higher education have a collective understanding that education is extremely valuable. How can we get that same sense of mission in other environments?
+  - Continuous education is very valuable - particularly around making companies more efficient.
+  - Visualizing the work is extremely important.
+  - Most innovation happens when stakes are low.
+  - No decisions is a decision but doesn't make it a good decisions.
+
+- Intellectual Humility: What I don't know yet?
+
+  - During a job interview, it is okay to say "I don't know" but also dig into the problem to show how you would dig into a problem. "I don't know" is only the first step of curisoity.
+    - "I don't know; lets find out!"
+  - People are afrid to contribute when they are uncertain if they are an authority or not on a subject
+    - Try to speak to personal experiences.
+    - Depends on the context of the conversation. Brainstorming is different than being a keynote speaker.
+  - Best practicies only work in certain contexts. Learning where the boundries of those context are is important but also only learned through trial and error.
+
+- Experiments and Failure: Friction in Agile Adoption
+
+  - There is so much systemic compention in the market place everything inside a company is viewed in that same way.
+  - Benefits of failing (and learning) are not often though of. Usually it is winning and reducing risks to minimizing losing which means doing things that are familiar.
+  - Failing is part of growing.
+  - Experimental and learning mindset are vaguely defined in most companies which means people bring in their own personal definitions / interpretations to fill any voids.
+  - Learning must be intentional and explicit within an organization.
+  - "A bug is a difference between what you expect and what you got" - Matt Plavcan.
+  - Having a hypothesis sets boundaries and helps communicate / frame expectations and what is hoped to be learned.
+  - Reference: Celebration Grid
+    - Active learning happens through intentional expermentation
+  - Without failure there is no learning and is not a bad thing
+  - Celebrate failures that drive learning so that failing to learn becomes a cultural norm
+  - How do we get to this culture of learning through failure?
+    - Lead by example at an individual level.
+    - Experiment using time boxes to help cut scope which in term gets to the essense of a theme of work
+    - You need to measure something to know if the experiment worked or not
+    - Must have a way to verify the hypothesis
+  - Some companies think of experiments as deliberatly trying to make mistakes to stress tests systems rather than learning how to build better in the long term
+
+- Software Teaming Question and Answer
+
+  - How do you present mob programming to other teams?
+    - Just share things to make things fun and get people intersted
+    - People have to come to it at their own free will
+  - Paired programming, let alone mob programming, is not widely adopted - Woody Zuill
+  - Software engineers typically think of themselves as solo artists not band mates
+  - Do mob programming in a new environment like a private room to get people out of their normal day to day contexts
+
+- Software Teaming, [Mob Programming, Ensemble] And Flow
+  - Changes the focus from the individual (low bus factor) to the team (high bus factor) - resiliance
+  - Change the focus from an individual's flow to a team's flow
+  - Book: Flow
+    - Invisible queues are the most expensive problem in product development
+    - Backlogs are queues and inventory - waste upon waste
+    - Waiting for another team to finish task A so you can work on task B is another queue
+  - Software Teaming is always moving the work forward towards the customer
+  - If a team is at max utilization then any teams dependent on that team must wait until their work is plucked from the queue and means they are not making progress on that work at all.
+  - Most companies try to maximize utilization which increases queues which manifest themselves in the form of waiting
+  - Obsticals to getting management to buy-in
+    - Most managers use resource accounting derived from the factory mindset.
+    - Historically resources meant machines which now translates into programmers
+    - If a programmer is not 100% utlizies like a machine then money is being wasted, but does not account for the invisible queues that significantly increase time to deliver.
+  - Mob programming only persists if it is bought in by management because management feel it is wasteful.
+    - Get data to support change.
+  - Introduce mob programming inadventeraly through asking for help to look into some bug, some function, etc. to introduce the ideas.
+  - Traditionally companies believe people working seperately get more stuff done.
+    - "I don't want to get 1 thing done I want to get 5 things done" - is there research to support this claim?
+  - A mob can be of any size.
+  - Diffussion is innovation - mobbing needs early adopters to provide more successful examples for early majority.
+  - "Science advances one dead scientists at a time" as new ideas are embraced by new generations.
+
 ### Day 3
