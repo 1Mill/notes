@@ -279,6 +279,7 @@
   - Managers try to make things easier to manage - Woody Zuill
 
 - Measurement - What is wrong with this? Change Yourself
+
   - Ourselves are the easiest person for ourselves to fool
   - Planned versus completed is sometimes the only metric some companies look at. Does not answer if the team is working on the right things / is customer value being delivered?
     - Very output driven versus outcome driven
@@ -287,5 +288,21 @@
   - Metrics give teams focus, however, is that the right focus?
     - If a goal is to fix bugs but there are 0 bugs how can you fix what doesn't exist?
   - A single metric to determin the impact of multiple activies seems dubious.
+
+- Speaking/Presenting at Conferences
+
+  - Sometimes people need to hear information from multiple different people about the same topic before it clicks. So never be afraid to share on a topic that somebody else or you have already presented on before.
+    - Reference: [Lucky 10,000](https://xkcd.com/1053/)
+  - Reference: <https://pnsqc.org/blog/blog/2023-03-22-how-to-write-an-abstract-for-pnsqc>
+    - Write a good elevator pitch otherwise they won't read the rest
+    - Write a peer reviewed paper that ensures your presentation is well rounded and/or focused instead of meandering.
+    - A paper lets you structure and translate your paper into a presentation without a fear of it not being relevant.
+  - Get feedback early on presentations
+  - Spin common activites with your unique perspective. Breaking down user stories may be familiar to everybody but perhaps you do something different others hadn't considered before.
+  - You don't have to be the expert when you present. Just speak to personal experience.
+  - Use social media like YouTube to make presentations without having to do it at a conference to practice and discover what your process is.
+    - Maximize feedback by sharing
+    - Build portfolio
+  - Michael Larson does something called "live blogging" - seems similar to what this document is...
 
 ### Day 3
