@@ -247,6 +247,7 @@
   - Do mob programming in a new environment like a private room to get people out of their normal day to day contexts
 
 - Software Teaming, [Mob Programming, Ensemble] And Flow
+
   - Changes the focus from the individual (low bus factor) to the team (high bus factor) - resiliance
   - Change the focus from an individual's flow to a team's flow
   - Book: Flow
@@ -276,5 +277,15 @@
     - Surgery - a nurse has slack (i.e. idle time) so they can react to whatever the team needs instantly
     - Pilots
   - Managers try to make things easier to manage - Woody Zuill
+
+- Measurement - What is wrong with this? Change Yourself
+  - Ourselves are the easiest person for ourselves to fool
+  - Planned versus completed is sometimes the only metric some companies look at. Does not answer if the team is working on the right things / is customer value being delivered?
+    - Very output driven versus outcome driven
+  - On time and on budget is not a good meausre of customer value
+  - Reference: Chaos Report
+  - Metrics give teams focus, however, is that the right focus?
+    - If a goal is to fix bugs but there are 0 bugs how can you fix what doesn't exist?
+  - A single metric to determin the impact of multiple activies seems dubious.
 
 ### Day 3
