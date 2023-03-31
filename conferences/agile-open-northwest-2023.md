@@ -357,3 +357,19 @@
   - "It's a reminder of how often I've worked in environments which neglect team effectiveness and knowledge transfer, which interpret 'embrace change' as 'jump into the whirlpool" - Jeff Miller
 
 ### Day 3
+
+- LEAN Coffee
+  - Sometimes people have perceptions that no conflict is the best conflict.
+  - Healthy confict sharpens ideas.
+  - Humans can hold dialog in their head for a very long time.
+  - Sitting side by side versus face to face creates different types of conversations - "are we walking together or into each other"
+  - "If somebody expresses intent, unless you have a reason to deny it, run with it!" - Woody Zuill
+  - Argue pros and cons from the other perspective
+  - Make conversations about the idea, not the person
+  - Reference: https://mathlair.allfunandgames.ca/fourcard.php
+  - Reference: Asset Based Community Management
+    - https://johnmcknight.org/
+  - DevOps is a post-XP framework just like Fast or
+  - References: Promiscuous Pairing
+    - Rotate pairing with all members of the team frequently: not just a single person.
+    - This ensures that knowledge is distributed across the team and not concentrated in a small group
