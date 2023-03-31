@@ -10,7 +10,7 @@
 
 * A vertically scaled agile company disolves these design, database, and security teams and embedded these people into each end-to-end team. This ways, teams get all the needed skills to deliver customer value independently but without dependencies. A trait which eliminates waiting from the cycle time.
 
-* How to adopt Fast Agile:
+* How to adopt FAST Agile:
   1. Start with two willing teams that work closely together
   2. Teach collective ownership and collaborative skills (i.e. working agreements) if needed
   3. Implement FAST
