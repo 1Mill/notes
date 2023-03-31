@@ -419,6 +419,7 @@
     - Intorduce these ideas to new generations
 
 - Six lenses for seeing team/system
+
   1. As parts only - We only see the parts of the syste, not the whole
      - What I experience
      - No boundaries, just parts
@@ -440,3 +441,33 @@
      - Boundaries are based on interactions and their interdependencies
      - Organized by attrators on agents (i.e. how people want to contribute)
   6. There are no systems - we see the autonomy and interdependencies without the self-organizing container
+
+- A Fresh Look at Agile Scaling
+
+  - Purpose of scaling - Halim Dunsky
+    - Spread the goodness of agility done well
+    - Balance alignment, coordination, and autonomy across the enterprise
+    - Customer value and orgnaizational (i.e. employee) quality of life
+  - Domains of scaling - Halim
+    - Team ability - everything about engineering practicies and performance
+    - Technical coordination - everything about architecture, interfaces; building and operating the thing in the right way
+    - Goal coordiation - building the right thing from market place feedback
+    - Process coordiination - dependency management; planning, architecture, shared processes, etc.
+    - Vision coordination - portofilo / funding management; balancing responsibility with responsivness
+    - Visibility - how information flows through an organization; can people see the things they need to see?
+    - Top down and bottom up - There is huge value in both the sattalite and frontlines views, learn to combine these
+    - Organizational change approach - What does change look like and how does it go from started to finished?
+    - Engagement with culture challanges - collaborative, command and controll, diversity, etc.; how does a company engage with the real needs of organizational culture.
+  - Use a subjective scale to measure how each employee feels the company is doing in each of these categories to inform wher the company can start improving.
+  - Standardization is tricky because of it's balance between control (i.e. diminished autonomy) and value to the business.
+
+- Turn up the Good
+  - Just in time retospectives
+  - Try and amplify what is working well but do not ignore the bad because it can fester
+  - Having slack in the system makes people feel less stressed
+  - A lot of little things created a better working environment
+  - Most of what we consider management just makes it hard to do the work - Woody Z. paraphrasing somebody else
+    - More management is rarely the answer to solving business problems.
+  - People self-organize their day
+  - Try and create larger and larger cultural bubbles
+  - It is easy to not awknowledge wins
