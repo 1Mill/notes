@@ -477,4 +477,16 @@
 
 #### What is Sustainability Erosion?
 
-- sdklfjdslfk
+- Overtime code becomes steadly more maintain, steadly more complex, steadly more problems... that the organization starts adding barriers to deploying code. This code used to be making progress but now it is unsustainable. - Kevin Meadows
+  - "Accrued more \_ than we can master" - Kevin M.
+- Common Outcomes
+  - Engineer ask for time to reachitecture and the process starts over again
+  - Capability Trap: teams fight so many fires progress can never be made.
+    - Working overtime to keep the system alive, never a feeling of enough time to actually fix the problem.
+    - Work harder, harder, and harder and getting less and less value.
+- This is made worse when we seperate workers that should be working together.
+  - People working idependently create hidden abstractions, duplicate, code, same problem different solution
+  - Deadline problems make problem worse - put TODO in code because people know it isn't quite right.
+- When people collaborate more through Software Teaming / mob programming many of these problems fade away because of real-time code review, quality checks, etc.
+- Sustainable Erosion: thing start out good but erode over time.
+- Greenfield always start out fast.
