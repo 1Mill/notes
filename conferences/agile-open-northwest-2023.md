@@ -535,3 +535,32 @@
   - Feeling of lack of contribution or purpose
   - Passive versus active speaking roles
   - Distracted by other tasks (e.g. eating food)
+
+#### Ask Me (Woody Zuill) Anything
+
+- Look for how to turn up the good on stuff is a magical power
+- Software Teaming verifies communication instantly
+- When working in chaos clear and understood communication is critical and leads to meaningful action.
+- Start communications at a very high level to build a shared context and then break it down
+- People in general are highly motivated but what gets people motivated is different
+  - Some people are super into agile
+  - Some people are super into coding
+  - Some people are super into people
+- Stop trying to motivate people, let people motivate themselves by destroying barriers to how people can contribute
+  - You are a programmer therefore you can't have business insights.
+- When people are not working well as a team it is because the company is making it impossible to make them working well as a team.
+- In basket ball a team is always looking to pass the ball to you. If you are not paying attention you will get hit in the face. In Software Teaming, if you are not contribuing you need to go somewhere else.
+  - Must be contributing or learning. Otherwise, Law of Two Feet.
+  - Focus enough to contribute just enough at the right time in the right way.
+- A team has to self select into Software Teaming: you can't force it on people because it is driven from collective, personal, and business goals.
+- Auntonomy in a company is a self governing body. "How we are going to be autonomous, not ..." how am I going to be autonomous.
+- When you get into a taxi to the airport you don't micromanage their adhearance to traffic laws. But you do need to provide a direction like which airport.
+- Light weight processes work in pretty much every environment
+  - Agile light weight processes focused on software delivery
+  - Reference: Cynefin domains (clear, complicated, complex, chaotic)
+    - Getting milk from a store is a clear domain: go to the store.
+    - Making a birthday cake is is more complicated but the process is all well defined (no unknowns).
+    - Complex introduces unknown unknowns which must be discovered which is more about thinking / philosophy over trying to apply known / existing best practicies to things that are unknown.
+- Book: Team of Teams
+- Agile and Lean software development applies to many different domains outside of software.
+- Book: The Joy of Agility
