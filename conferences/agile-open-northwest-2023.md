@@ -534,3 +534,4 @@
 - Lots of people with their camera off
   - Feeling of lack of contribution or purpose
   - Passive versus active speaking roles
+  - Distracted by other tasks (e.g. eating food)
