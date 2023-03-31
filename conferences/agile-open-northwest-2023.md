@@ -564,3 +564,17 @@
 - Book: Team of Teams
 - Agile and Lean software development applies to many different domains outside of software.
 - Book: The Joy of Agility
+
+#### Closing Circle - Day 3
+
+- "As a modeling behavior I made a point to leave for home on time" - Woody Z.
+  - Gives space for other people to leave.
+  - Difference between creating and dwelling in a space.
+- Agile is split
+  - Agile software delivery practicies (CICD, trunk based development)
+  - Agile software development practicies (Software Teaming)
+  - Agile discovery mindset (experiments, learning)
+- Whenver things get slow, plan and communicate a vacation to clients and they will start giving you work.
+- When a meeting is silance and nobody is asking questions, clearly state you are going to leave but give space for people to speak up. The meeting ends when it ends not when the calendar say so.
+- Working side by side is powerful and collaborative versus face to face where you may be trying to go through each other.
+- Create space for people to contribute as a facilitator.
