@@ -376,6 +376,7 @@
     - This ensures that knowledge is distributed across the team and not concentrated in a small group
 
 - Opening Circle
+
   - Create an affinity board about "What are you passionate about?" to find topics to talk about in an open space.
   - Three types of open space sessions
     - I would like to share ...
@@ -385,3 +386,57 @@
   - What is sustainability erosution as delivering customer values becomes more and more complex within a company over time and how can we address it (Kevin & Woody Z.)?
   - Book: <https://www.amazon.ca/Gender-Knot-Unraveling-Patriarchal-Legacy/dp/1439911843>
   - Tool: <https://logseq.com/>
+
+- The theory underlying Agile, or the 5-whys of Agile
+
+  - Every engineering practice is only good until the world changes.
+  - A solid theory enables practicies to adapt
+  - Agile for teams works pretty well but agile at scale runs into friction
+    - Mostly for social reasons
+  - Large companies don't really care much about culture they care more about continuing to be large companies
+  - Agile is more of a mindset, not a process, that tries to maximize social interactions to encourage good processes
+  - Healthy practicies increase the health of the system.
+  - Most business systems are complex so agents (i.e. people) change the system through their actions which impacts the health of the system.
+  - Minimizing waste is a health habit.
+  - Reference: Queueing theory - why works waits / gets blocked
+  - Frame ideas / new processes to try as short timeboxed experiments
+  - Agile and growth mindset are usually equated - Aki Namioka
+    - Usually related in a lot of ways like respondig to change
+  - Agile / Growth mindset fail when it meets command and controll - Aki N.
+    - Results in doing agile (in practice) versus being agile (in theory)
+  - "Everybody wants to drive the bus - but not everyone can. Agile can help who drives the bus, along with when and why that happen" - John
+  - Self organization does not mean somebody isn't in control, it just lets control flow more elegency throughout a team: it doesn't have to be the same person in controll 100% of the time.
+  - Sprints are just a container to build a common understanding about what is being worked on.
+  - It is easier to maintain quality in smaller iterations over large iterations
+  - Small iterations let teams get feedback more frequently from customers
+    - Creates opportunities to pivot if needed
+  - Reference: Beyond Budgeting
+    - The annual budgeting process is the bane of American Corporations - Aki N
+    - Use rolling forecasts
+    - The leadtime between discovery to delivery can be 14+ months because of fixed budgets and out dated plans.
+  - Agile is a mindset, and really the desire to learn from through failed experiments, must be embraced through the entire organization to succeed.
+  - How do we bridge agile into the future?
+    - Intorduce these ideas to new generations
+
+- Six lenses for seeing team/system
+  1. As parts only - We only see the parts of the syste, not the whole
+     - What I experience
+     - No boundaries, just parts
+     - Organized by what is there today
+  2. As machines - We break everything down into small parts and define the function they play to make the systme work
+     - Objective
+     - Closed systems
+     - Organized by a rational controller / CEO
+  3. As living creatures - We see systems tak on charactieric os living organizisms that are learning, growing, and changing
+     - Subjective
+     - Open systems
+     - Organized by a rational controller / CEO
+  4. As connections - We see the system as creations of the connections between different parts
+     - Normative
+     - Boundaries are soft
+     - Organized by rational participants and cultural norms
+  5. As complex and adaptive - We see as a collective of semiautonomus agents interacting and adapting to each other
+     - Complex
+     - Boundaries are based on interactions and their interdependencies
+     - Organized by attrators on agents (i.e. how people want to contribute)
+  6. There are no systems - we see the autonomy and interdependencies without the self-organizing container
