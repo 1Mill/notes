@@ -194,7 +194,7 @@
 
 ### Day 2
 
-#### LEAN Coffee
+#### LEAN Coffee - day 2
 
 - Many conferences are not interested in FAST.
 
@@ -351,7 +351,7 @@
 - Big chunks do not flow well. Break chunks into smaller chunks.
 - Book: [Slack](https://www.amazon.com/Slack-Getting-Burnout-Busywork-Efficiency/dp/0767907698)
 
-#### Closing Circle
+#### Closing Circle - day 2
 
 - Referenc: Gemini Agile
 - Zero silos
@@ -360,7 +360,7 @@
 
 ### Day 3
 
-#### LEAN Coffee
+#### LEAN Coffee - day 3
 
 - Sometimes people have perceptions that no conflict is the best conflict.
 - Healthy confict sharpens ideas.
@@ -377,7 +377,7 @@
   - Rotate pairing with all members of the team frequently: not just a single person.
   - This ensures that knowledge is distributed across the team and not concentrated in a small group
 
-#### Opening Circle
+#### Opening Circle - day 3
 
 - Create an affinity board about "What are you passionate about?" to find topics to talk about in an open space.
 - Three types of open space sessions
@@ -511,3 +511,26 @@
 - Reference: Personal User Guides
   - Inform others how to best utilize you
 - Continous development is about building not pivoting / context switching between goals
+
+#### The Elephants
+
+- "Organizations have elephants which are blairing but unsaid" - April Jefferson
+- When an economy goes bad or a budget becomes tighter a company goes the opposite way of agile and go back to more command and controller
+  - During a crisis people revert to the most efficient strategy which is usually activities they are most familiar with which by chance is command and control.
+- Companies want to try and add guardrailes to grassroots because it is percieved to be so uncertain versus embrasing innovation.
+- Insurence companies want to grow, get market share, etc. but insurence companies are actively trying not to take on new business because they are struggling to produce business value. - John
+- Product managers responsibile for customer value and Scrum masters responsible for productivity? - John.
+- Slighting management for not being agile. How can we get them onboard or bought in? - Thomas O'Connor.
+  - Difference in power so either side is not listening to each others challanges and solutions. Need to bridge that gap.
+- Percieved job security working for a larger company versus a 5 person start up.
+  - Lots of uncertainty, risk, etc. that it would all fail.
+- The business is usually proxied by a group that takes the responsibility without the accountability - John
+  - Many tech folks see "the business" (i.e. management) as the problem and waste - John
+  - Ask managers to screen share to facilitate shared working contexts.
+- "Are the people making big decisions making good decisison?" - Jeff Miller
+- Jounrey through emotions to come to solutions rather than ignore them. - Marielle Mooijekind
+- Replicating a customer problem is sometimes impossible until you see the customer doing it.
+- Psychological saftey is need to talk about elephants.
+- Lots of people with their camera off
+  - Feeling of lack of contribution or purpose
+  - Passive versus active speaking roles
