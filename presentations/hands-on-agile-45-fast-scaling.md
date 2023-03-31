@@ -4,7 +4,20 @@
 
 ## Key takeaways
 
-* TODO
+* There are two ways to scale agile: horizontally or vertically. Horiziontally is when a company increases the number of interdependent teams required to deliver customer value. Vertically is when a company increases the number of people in a team so that the team can deliver customer value independently.
+
+* A horiziontally scaled agile company usually partitions people along capabilities. Examples include a company have a design team, a database team, a security team, and so forth that work together to deliver value. The issue with single responsibility teams is that work and people to not fit nicely into auto scaling boxes. Additionally, these teams are often over utilized forcing dependent teams to wait: incrasing the cycel tiem
+
+* A vertically scaled agile company disolves these design, database, and security teams and embedded these people into each end-to-end team. This ways, teams get all the needed skills to deliver customer value independently but without dependencies. A trait which eliminates waiting from the cycle time.
+
+* How to adopt Fast Agile:
+  1. Start with two willing teams that work closely together
+  2. Teach collective ownership and collaborative skills (i.e. working agreements) if needed
+  3. Implement FAST
+  4. Wait for collective to stabalize
+  5. Include another team into the collective (3 - 5 people at a time) - do not expand too fast
+  6. Repeat steps 4 and 5 until collective feels strained from size (e.g. Dunbar's Number).
+  7. Repeat step 1 with new collective.
 
 ## Notes
 
