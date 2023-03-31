@@ -490,3 +490,24 @@
 - When people collaborate more through Software Teaming / mob programming many of these problems fade away because of real-time code review, quality checks, etc.
 - Sustainable Erosion: thing start out good but erode over time.
 - Greenfield always start out fast.
+
+#### Refresh: Agile Principles
+
+- Change the word "working software" to the "working product"
+  - People disengaged from "working sofware" because they were not software engineers.
+  - Encouraged a shift in perspective to feature slice from an end-to-end perspective not just a code perspective.
+- A product manager must be part of the team, sitting with the mob writing the code to quickly answer "Is this what you meant?" without having to play telephone.
+  - Truely embeded, not just there for the morning meeting.
+- Teams have to be intentional about bulding social relationships. In remote first environments the water cooler disappeared.
+  - Create a Zoom that is always open - this is the team's space to collaborate, work, invite others to have conversations, etc.
+- Have clear and explicit working agreements when it comes to Slack in remote first environments.
+- Get to know people as people: talk about things that aren't work related.
+- For many tech people the nice paycheck and quality of life are equal across many companies so they are seeking more mission driven organizations as the diffierientating factor.
+- A lot of principles derived from self-organization around meaningful contributions, autonomoy, connecting with others, etc. are all focused on building motivated individuals.
+- Reference: Motivation 3.0
+  - Must have purpose
+  - Must have autonomy
+  - Must have mastery / continue to grow / continue to get better - which is often lost at many companies because people are boxed into one role.
+- Reference: Personal User Guides
+  - Inform others how to best utilize you
+- Continous development is about building not pivoting / context switching between goals
