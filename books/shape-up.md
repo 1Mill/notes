@@ -99,7 +99,7 @@
 * An "appetite" is compose of one or more "batches" that fit into a 6 week delivery cycle for a team of 1 designer and 1 or 2 engineers.
 * If a "batch" cannot fit into that 6 week mark, then cut scope or slice an independently releasable chunk off that can be delivered within that time frame.
 * Use "Fixed time, varaible scope" philosophy to keep focus on the most important work.
-* "Without a time limit, there’s always a better version. ... But when you’re hungry and in a hurry, a hot dog is perfect."
+* "Without a time limit, there's always a better version. ... But when you're hungry and in a hurry, a hot dog is perfect."
 * Raw ideas are exciting but keep a poker face and do not commit excitedly or begrugenly until you understand the idea.
 * Narrow down the problem to solve the root issue. Do not just accept the "raw idea" at face value.
 * A "baseline" is a specific problem a customer is trying to solve and is usually the root of a "raw idea" .
@@ -108,4 +108,54 @@
 
 ### Finding the elements
 
-* TODO
+* Only work with highly trusted partners or nobody at all to brainstorm ideas quickly.
+* Right level of high level details: "fat marker sketches"
+* Three basics to draw:
+  1. Places - the where in the product
+  2. Affordances - the how in the product
+  3. Connecting lines - the effect in the product
+* Breadboarding sounds extremely similar to [Event Storming](https://wiki.prooph-board.com/event_storming/what-is-event-storming.html)
+* UI elements are the expected output from this brainstorming session
+* The purpose of this step is to try make a "raw idea" actionable - but does not mean the company is committed to acting on this bet
+*
+
+### Risks and Rabbit Holes
+
+* Can't predict unknowns unknowns but can try and tackle known unknowns in shaping before diving into doing to reduce risk of wasted.
+* Try to shape projects to be made of "independent, well-understood parts that assemble together in known ways."
+* Discovery during the delivery process can add days of work (i.e. should I design this like this or that?) - this makes it easy to creep over the 6 week timebox
+* Scope Hammering: "Forcefully questioning a design, implementation, or use case to cut scope and finish inside the fixed time box."
+* Define a things-we-are-not-doing section to keep the work focused called "out of bounds"
+* Friendly-Conspiratorial Mood: "Here's something I'm thinking about... but I'm not ready to show anybody yet... what do you think?"
+* Asking "Is this possible?" and "Is this possible in 6 weeks?" are significantly different questions
+* Betting Table: "A meeting during cool-down when stakeholders decide which pitches to bet on in the next cycle."
+
+### Writing the Pitch
+
+* 5 ingredients to always include in a pitch:
+  1. Problem - the `raw idea` or a motiviation for change
+      * Make this a single specific story to "show why the status quo doesn't work"
+  2. Appetite - time box and constraints on the solution from that time box
+  3. Solution - core elements immediately easy for people to understand
+  4. Rabbit Holes - pitfalls worth calling out to avoid problems
+  5. No gos - things that will be intentionally not done to fit the time box
+  6. Bonus (optional) - if this bet works, what are future raw ideas?
+
+* Teams cann't compair solutions without a shared understanding of the problem trying to be solved - align on the problem before diving into solutions.
+* Baseline: What customers are doing without the thing we're currently building
+* Visuals helps communicate ideas / solutions
+  * Turn abstract solutions into fat marker sketches to help communicate the main story
+  * Annotate fat marker sketches to start conversations around key interactions and their effects
+
+* Once a pitch is written and before bringing it to the betting table create a public (to the company) RFC to gather more feedback.
+
+### Bets, Not Backlogs
+
+* Every pitch written in the last 6 weeks is put onto the `betting table` as a `bet`.
+* If a `bet` is picked up it immediately start getting worked on
+* If a `bet` is not picked up it is immediately deleted - not put into a backlog, etc. as a historical artifact
+* Each individual can track deleted bets as they see fit but nothing is kept in a backlog that must be managed over multiple cycles
+  * Everything is just in time - no stale ideas sitting around for 123+ years
+* Informal conversations driven by 1-1s help generate `raw ideas` and `friendly conspiritors` to brainstorm solutions
+* "Important ideas come back" - can't say this enough!!!!!!
+* "If you hear it once and never again, maybe it wasn't really a problem."
