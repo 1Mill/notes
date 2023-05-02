@@ -16,6 +16,8 @@
 
 ## Notes
 
+### Introduction
+
 * Culture is foundational to flow.
 * Doing something the wrong way works in the short term, but destroys team morale.
 
@@ -53,54 +55,57 @@
   * Start with the most unknown or risky work.
   * Deploy often
 
-* Principles of shaping
-  * Something is shaped when it is a good balance between abstract and concrete.
-    * Translated to Opportunity Solutions Trees, this seems like finding clear opportunities that impact business outcomes. But leave the experimentation / solutions to the delivery team.
-  * Design too early is too concrete that biases implementation and limits innovation.
-    * When scope is not clearly communicated as variable, artifacts like wireframes cause teams to deliver exactly what is handed to them. Even if this means lots of work for little customer value.
-    * Rough sketches to facilitate conversations is as concrete as needed.
-  * Don't be too abstract, boundaries need to be given to communicate buisness context to the team if they do not have it.
-    * "We'll know it when we see it" is not meaningful
-    * Too abstract projects usually grown in scope because of all the shots in the dark
-  * 6 week cycles naturally scope down work to the must-haves, not the should or could haves that 'feel' like must haves
-    * If they are still important from customer feedback after the must haves, you can always iterate later.
-  * Properties of shaped work
-    * It is rough
-    * It is thought through - big picture concepts are present, no open questions
-    * It is bounded - team know where to stop
-  * A group of 2-3 people should shape a project that cover the entire lifecycle from business, technology, and design
-  * "[Shaping] defines what the feature does, how it works, and where it fits into existing flows"
-  * Basecamp uses "Appetite" as a synonym for "scope"
-  * Answer the questions:
-    * What are we trying to solve?
-    * Why does it matter?
-    * What counts as success?
-    * Which customers are affected?
-    * What is the cost of doing this instead of something else?
-  * Do not shape by committee - keep the process agile
-  * Two tracks: shaping work and building work
-    * Akin to duel track agile or product trio
-  * Shaping and delivery work are compartmentalize.
-    * Shaping not shared with deliveries until prioritized / bet on
-  * Steps to shaping
+### Principles of shaping
+
+* Something is shaped when it is a good balance between abstract and concrete.
+  * Translated to Opportunity Solutions Trees, this seems like finding clear opportunities that impact business outcomes. But leave the experimentation / solutions to the delivery team.
+* Design too early is too concrete that biases implementation and limits innovation.
+  * When scope is not clearly communicated as variable, artifacts like wireframes cause teams to deliver exactly what is handed to them. Even if this means lots of work for little customer value.
+  * Rough sketches to facilitate conversations is as concrete as needed.
+* Don't be too abstract, boundaries need to be given to communicate buisness context to the team if they do not have it.
+  * "We'll know it when we see it" is not meaningful
+  * Too abstract projects usually grown in scope because of all the shots in the dark
+* 6 week cycles naturally scope down work to the must-haves, not the should or could haves that 'feel' like must haves
+  * If they are still important from customer feedback after the must haves, you can always iterate later.
+* Properties of shaped work
+  * It is rough
+  * It is thought through - big picture concepts are present, no open questions
+  * It is bounded - team know where to stop
+* A group of 2-3 people should shape a project that cover the entire lifecycle from business, technology, and design
+* "[Shaping] defines what the feature does, how it works, and where it fits into existing flows"
+* Basecamp uses "Appetite" as a synonym for "scope"
+* Answer the questions:
+  * What are we trying to solve?
+  * Why does it matter?
+  * What counts as success?
+  * Which customers are affected?
+  * What is the cost of doing this instead of something else?
+* Do not shape by committee - keep the process agile
+* Two tracks: shaping work and building work
+  * Akin to duel track agile or product trio
+* Shaping and delivery work are compartmentalize.
+  * Shaping not shared with deliveries until prioritized / bet on
+* Steps to shaping
     1. Set boundaries
     2. Rough elements - usually sketches
     3. Address risks and rabit holes
     4. Write a "pitch" to place on the "betting table"
 
-* Settings Boundaries for shaping
-  * All shaping sessions need to start with a "raw idea" (e.g. customers are asking for X) with no pretense.
-  * "Raw ideas" need to be aligned with business outcomes.
-  * A "batch" is a "raw idea" that is shaped.
-  * An "appetite" is compose of one or more "batches" that fit into a 6 week delivery cycle for a team of 1 designer and 1 or 2 engineers.
-  * If a "batch" cannot fit into that 6 week mark, then cut scope or slice an independently releasable chunk off that can be delivered within that time frame.
-  * Use "Fixed time, varaible scope" philosophy to keep focus on the most important work.
-  * "Without a time limit, there’s always a better version. ... But when you’re hungry and in a hurry, a hot dog is perfect."
-  * Raw ideas are exciting but keep a poker face and do not commit excitedly or begrugenly until you understand the idea.
-  * Narrow down the problem to solve the root issue. Do not just accept the "raw idea" at face value.
-  * A "baseline" is a specific problem a customer is trying to solve and is usually the root of a "raw idea" .
-  * If an idea is too vauge / large to work on after researching it, punt on it until other examples come up to provide more context and discover the "baseline".
-  * Shaping is done when (1) a "baseline" is discovered and (2) it is "batched" into a sketched solution.
+### Settings Boundaries for shaping
 
-* Finding the elements
-  * TODO
+* All shaping sessions need to start with a "raw idea" (e.g. customers are asking for X) with no pretense.
+* "Raw ideas" need to be aligned with business outcomes.
+* A "batch" is a "raw idea" that is shaped.
+* An "appetite" is compose of one or more "batches" that fit into a 6 week delivery cycle for a team of 1 designer and 1 or 2 engineers.
+* If a "batch" cannot fit into that 6 week mark, then cut scope or slice an independently releasable chunk off that can be delivered within that time frame.
+* Use "Fixed time, varaible scope" philosophy to keep focus on the most important work.
+* "Without a time limit, there’s always a better version. ... But when you’re hungry and in a hurry, a hot dog is perfect."
+* Raw ideas are exciting but keep a poker face and do not commit excitedly or begrugenly until you understand the idea.
+* Narrow down the problem to solve the root issue. Do not just accept the "raw idea" at face value.
+* A "baseline" is a specific problem a customer is trying to solve and is usually the root of a "raw idea" .
+* If an idea is too vauge / large to work on after researching it, punt on it until other examples come up to provide more context and discover the "baseline".
+* Shaping is done when (1) a "baseline" is discovered and (2) it is "batched" into a sketched solution.
+
+### Finding the elements
+
+* TODO
