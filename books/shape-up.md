@@ -159,3 +159,59 @@
 * Informal conversations driven by 1-1s help generate `raw ideas` and `friendly conspiritors` to brainstorm solutions
 * "Important ideas come back" - can't say this enough!!!!!!
 * "If you hear it once and never again, maybe it wasn't really a problem."
+
+### The Betting Table
+
+* Having every person work on the same cycle (1) standardizes project sizes and (2) simplifies when people will be available.
+* 2 week cycles are too short to meaningfully deliver something of value and introduce much administrative overhead and frequently breaking flow
+* Cool Down Period: "A two-week break between cycles to do ad-hoc tasks, fix bugs, and hold a betting table"
+* Big Batch Team: A team that works on "one project that occupies a team for a whole cycle and ships at the end"
+* Small Batch Team: A team that works on "a set of 1-2 week projects that a single team ships by the end of the six week cycle"
+* A betting table meeting is held during the cool down period to kick off the next cycle.
+* A bettle table at Basecamp consists of the CEO, CTO, a senior engineer, and a product strategiest.
+* Take the [zero bugs approach](https://www.xolv.io/blog/articles/zero-bug-software-development/) to prevent cycle interuptions that kill flow
+* Circut Breaker: "A risk management technique: Cancel projects that don't ship in one cycle by default instead of extending them by default"
+  * Projects that go on for too long now usually block more valuable work from happening later
+  * If used, means something missing from the shaping sessions.
+  * Encourages teams to consistently reevaluate scope
+* Schedule a "bug smash cycle" during a low priority time of the year like December which is frequently interupted by holidays
+* Always start each cycle with a clean slate: put everything through the betting table to ensure it aligns with the business today and not some old snapshot
+* Shape and scope all work down to the cycle time: spit multi-cycle projects into multiple bets for different cycles. If the first cycle fails you can easily pivot.
+
+### Place Yours Bets
+
+* At the betting table this is when teams will be assigned bets
+* This is an opportunity to re-organize teams / people for new bets
+* Some companies let people self-select which bet they work on versus being assigned a bet
+
+* Types of bets
+  * Adding to an existing product (usually a single cycle)
+    * "Done" is it is in the hands of customers
+  * Research and development mode (usually multiple cycles)
+    * Usually composed of senior engineers, designers, etc. to setup a foundation for a new product
+    * Spike on something new
+    * "Done" is finding a way forward
+  * Production mode
+    * Building a new product (usually multiple cycles)
+    * "Done" is getting the product ready for customers to use
+  * Cleanup mode
+    * Clean up code, handle edge cases, etc. similar to a "bug smash cycle" before "launch" of a new product
+    * No formal shaping
+    * Clean up should never be longer than 2 cycles
+    * "Done" is getting the product ready for customers to use
+
+* Choosing the right bets
+  * Does the problem matter?
+  * Is bet A more or less valuable than bet B?
+  * Is the appetite right?
+  * Is the solution attractive? - only spend a moment in the weeds, otherwise keep it high level
+  * Is this the right time?
+  * Are the right people available? - account for vacations, etc.
+
+* Send a kick-off message detailing which bets are being worked on in the next cycle
+
+### Hand Over Responsibility
+
+* Break down the work as a team to keep the "whole" intact
+* Testing and QA must happen within the cycle time: not after.
+
