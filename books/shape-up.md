@@ -4,7 +4,7 @@
 
 ## Key takways
 
-* Basecamp operates on a 6 week delivery cycle. If a project cannot be delivered within 6 weeks the project is not prioritized. Not fitting into the 6 week window means either (a) the project is to big or (b) there are to many unanswered questions. Both mean the project is too risky.
+* Basecamp operates on a 6 week delivery cycle. If a `bet` cannot be delivered within 6 weeks the `bet` is not prioritized. Not fitting into the 6 week window means either (a) the `bet` is to big or (b) there are to many unanswered questions. Both mean the `bet` is too risky.
 
 * If a project is in-progress but isn't finished in that 6 week window, it is stopped. This avoids sunk-cost fallacy. Which avoids burdening the organization (and team) with a potentially never ending project. This project can go back to the shaping phase.
 
