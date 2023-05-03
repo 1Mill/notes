@@ -6,13 +6,15 @@
 
 * Basecamp operates on a 6 week delivery cycle. If a `bet` cannot be delivered within 6 weeks the `bet` is not prioritized. Not fitting into the 6 week window means either (a) the `bet` is to big or (b) there are to many unanswered questions. Both mean the `bet` is too risky.
 
-* If a project is in-progress but isn't finished in that 6 week window, it is stopped. This avoids sunk-cost fallacy. Which avoids burdening the organization (and team) with a potentially never ending project. This project can go back to the shaping phase.
+* If a `bet` is in-progress but isn't finished in that 6 week window then a `circuit-breaker` is activating: stopping the work immediately. This avoids the `bet` from burdening the company with a potentially never ending `bet`. This project can go back to `shaping` process.
 
-* Basecamps is composed of multiple compartmentalized shaper (i.e. discovery) teams and delivery teams. A shaper team comes up with, evaluates, and produces sketches to produce a bet. Bets are projects that can be finished in 6 weeks. Delivery teams take up and deliver bets in that 6 week period.
+* Basecamps is composed of compartmentalized `shaper` teams (i.e. discovery teams) and delivery teams. A `shaper` team comes up with, evaluates, and produces `fat market sketches` and outputs a `bet`. A `bet` is a project that is believed to be doable within a single 6 week cycle. Delivery teams take up and turn a `bet` into working software.
 
-* Basecamp is composed of multiple compartmentalized shaper (i.e. discovery) teams and delivery teams. A shaper team discoveres, evaluates, and roughly sketches out a bet to a business opportunity / problem. A delivery team takes up bets and outputs product features.
+* Shaping is "done" when (1) the `baseline` (i.e. root customer problem) is discovered from one or many `raw ideas` (e.g. customer feedback) and then (2) translated into a `fat market sketch` that can be delivered in 6 or less weeks by one designer and one to two engineers called a `pitch`.
 
-* Shaping is "done" when (1) the "baseline" (i.e. root customer problem) is discovered from one or many "raw ideas" (e.g. customer feedback) and then (2) "batched" into a solution that can be delivered in 6 or less weeks by one designer and one to two engineers.
+* Every 6 week delivery cycle is followed by a 2 week `cool-down` period. This time is used to address bugs, refine `pitches`, and eventually host a `betting table`. Every `pitch` is evaluated async for feedback like an RFC and the `betting table` is where senior leadership selects which `bets` to commit to in the next cycle. Any `bet` that is not taken is deleted.
+
+* When working on a `bet`, `scope hammering` to fit the `time horizon` of 6 weeks is critial to (1) keep a clean slate between cycles and (2) find the highest value feature slice. Each feature slice has an `uphill` and `downhill` phase. Moving `uphill` is learning whereas `downhill` is doing.
 
 ## Notes
 
@@ -267,7 +269,6 @@
 
 * Avoid knee-jerk reactions to immediate customer feedback from a recent change - save it for a new bet; keep a clean slate for the next cycle.
 * Saying "yes" to something limits your freedom - saying "no" keeps your options open
-
 
 ### Conclusion +
 
