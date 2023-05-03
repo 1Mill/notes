@@ -214,4 +214,70 @@
 
 * Break down the work as a team to keep the "whole" intact
 * Testing and QA must happen within the cycle time: not after.
+* The first 3 days of a cycle are just learning the lay of the land and how that impacts scope - longer than 3 days may be a sign of a problem
+* Different between imagened and discovered / real tasks once teams start digging into the code.
+  * Sounds like a good case for Discovery Trees
 
+### Get One Piece Done
+
+* Do [vertical feature slicing](https://basecamp.com/shapeup/3.2-chapter-11)
+* Work as a team - avoid hand offs because they can cause a huge amount of waste from miscommunication
+* The first peice of work should be (1) core, (2) small and (3) novel; if multiple slices are tied start with the most uncertain.
+
+### Map the Scopes
+
+* Make themse of work visible after the domain is understood - something stakeholders can understand
+  * Use Discovery Trees
+  * Use Event Storming
+* Scope mappings "reflect the real ground truth of what can be done independently - the underlying interdependencies and relationships in the problem"
+* Nomenclature emerges organically from scope mapping to make conversations flow more easily
+* Scopes should be remapped when either
+  1. "Done" is not clear
+  1. The nomenclature is not unique
+  1. Feature slicing doesn't appear to be working
+* Iceberg-ing where one part of the code feels like it will be too complicated. Try and re-think implementation / domains.
+* Use symbols to communicate must-have versus nice-to-haves
+  * `(empty space)` - Must have
+  * `~` - Nice to have
+  * Can likely expend to MoSCoW
+
+### Show Progress
+
+* Use Discovery Trees to visualize the work and communicate to managers what is known versus what is unknown
+* All work follows a hill like pattern: discovery (upward slope) and delivery (downward slope)
+  * Discovering the code, requirements, etc
+  * Delivering working software
+* Knowing where a team is at on this slope is more a feeling
+* [Hill Charts](https://basecamp.com/shapeup/3.4-chapter-13#status-without-asking) help communicate where each feature slice to stakeholders
+  * If a dot doesn't move for a while may be an opportunity to remap the scope / break it into smaller feature slices that can be independently tracked
+
+### Decide When to Stop
+
+* "Okay, this isn't perfect, but it definitely works and customers will feel like this is a big improvement for them."
+* Don't compair up to what could be prefect in an ideal world, instead compair down to real baseline
+* Be picky about scope to stay competative in the market
+* Write tests to ensure core functionality works as expected and continues to work as expected
+
+* When to extend a project
+  1. It contains "must haves" that cannot be "scope hammered"
+  2. All work must be "downhill" meaning there is no known unknowns to finishing the work
+* Sometimes last "must haves" can be finished during the cool down period, but if this happens regularly it is a red flag that the shaping process is not working well enough
+
+### Move On
+
+* Avoid knee-jerk reactions to immediate customer feedback from a recent change - save it for a new bet; keep a clean slate for the next cycle.
+* Saying "yes" to something limits your freedom - saying "no" keeps your options open
+
+
+### Conclusion +
+
+* Focus on making product delivery simple before focusing on improving the discovery pipeline.
+  * Generating ideas is easy but deploying value is more difficult
+  * Make sure you can deliver the ideas that are already generated
+  * Focus on done over started
+* Worring about maximizing utilization by having a designer sit idle is inconsequential to them being ready to immediately provide feedback as soon as an engineer is done with the frontend code to keep the work flowing
+  * Something done is more important than max utilization of a single person
+  * Focus on macro, not micro
+* <https://basecamp.com/shapeup/4.5-appendix-06>
+  * Appetite: "The amount of time we want to spend on a project, as opposed to an estimate."
+  * Time horizon: "The longest period of time where we can feel a deadline pushing on us from the beginning. Six weeks."
