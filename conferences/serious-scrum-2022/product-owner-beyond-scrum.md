@@ -103,4 +103,3 @@
   * Simply and try having more meaningful conversations
   * Encourage teams to step back, reflect, and challange the status quo.
   * Do not accept the status quo as unchangable.
-
