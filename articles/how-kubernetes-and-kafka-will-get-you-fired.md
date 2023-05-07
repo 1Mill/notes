@@ -18,7 +18,7 @@
 * Using off the shelf solution is usually more cost effective until the service can (a) is not effective at new operating sizes or (b) is missing some sort of functionality important to the business.
 * Serverless is almost always better than managing it yourself until you get to a certain size.
 * Sometimes engineers try to be "cloud agnostic" to avoid vendor lock in by over engineering their server infastructure for a risk that is often meaningless to the business
-  * How often do you migrate between SQL versus NoSQL databases?
+  * How often do you migrate between SQL to NoSQL databases?
   * How often do you migrate from AWS to Azure?
   * How often do you migrate from GitHub to Bitbucket?
   * How often do you migrate from Node to Python?
