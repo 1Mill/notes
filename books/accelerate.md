@@ -19,9 +19,54 @@ TODO
 * Authors studied many organizations across different industries
 * Improvement is possible as long as leadership commits the resources and members commit to improve
 * Used snowball sampling
+  * "...existing study subjects recruit future subjects from among their acquaintances."
 * Key research questions:
   * What does it mean to deliver software and can it be measured?
   * Does software delivery impact organizations?
   * Does culture matter and how do you measure it?
   * What technical practicies appear to be important?
-*
+
+* Technology is the tool used by companies to serve people more effectively: making their business more competitive in the market.
+
+* Focus on capabilities, not maturity.
+* Maturity models helps organizations get to a mature state and then are considered "done" whereas capability models help companies to consciously focus on improving.
+* Capability models are dynamic and customizable which let teams, departments, etc. adjust them to their needs.
+* Capabilities set a big picture from leadership for teams to work towards
+* Focusing on capability teams can continously focus on improvement and focusing on the right capabilities companies drive improvements in their outcomes
+
+### Chapter 2: Measuring Performance
+
+* Most measures focus on outputs rather than outcomes (e.g. lines of code vs improved customer experience)
+* Velocity is often misused for capacity planning or compairing how must "faster" one team is versus another
+* Velocity is often misused to maximize utilization, which means there is no slack in the system to adjust or handle unplanned work (e.g. fix unexpected edge cases, improve readability of existing code)
+* As utilization nears 100% then lead time trends towards infinity
+* Measures must focus on outcomes, not outputs - avoid meaningless busy work
+
+* Key metrics for measuring performance
+  1. Delivery lead time
+  2. Deployment frequency
+  3. Time to restore service
+  4. Change fail rate
+
+* Delivery lead time
+  * Lead Time is the amount of time between a customer making a request and a customer being satisfied.
+    * Cycle Time is the amount of time between the work moving from In Progress to Done, which is a subset of Lead Time.
+  * Lead Time is composed of both Discovery (i.e. figuring out how to satisfy the customer) and Delivery work (i.e. doing something to actually satisfy the customer).
+  * Short Lead Time lets companies get feedback sooner if the customer was satisfied or not.
+
+* Deployment frequency is a stand in for reduced batch size
+  * A deployment is pushing code to production so that it is used by customers
+  * A deployment may consist of multiple releases which are new features, changes, etc. deployed together to customers
+
+* A common misconception is that moving faster must mean trade offs with these other metrics (e.g. "move fast and break things")
+* High tempo comes from discipline around these metrics
+
+* Working and delivering in small batches lets teams get customer feedback more frequently to ensure they are building the right thing.
+
+* [Wardly Mapping](https://learnwardleymapping.com/)
+
+* Make evidence based decisions to improve teams (e.g. does X improve, hinder, or maintain Y?)
+
+* In learning cultures metrics help drive improvement, but in non-learning cultures they are used to control.
+
+### Chapter 3: Measuring and Changing Culture
