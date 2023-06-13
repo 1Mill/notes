@@ -132,4 +132,11 @@ TODO
 
 ### Chapter 6: Integrating Infosec into the Delivery Lifecycle
 
+* Finger pointing is a sign the right people are not on the right team together - throwing stuff over a wall is not a good practice.
+* Build important outcomes such as security, privacy, accessibility, etc. into the process starting from the first conversation around an idea
+
+* Reference: [Rugged Manifesto](https://ruggedsoftware.org/)
+
+### Chapter 7: Management Practices for Software
+
 * TODO
