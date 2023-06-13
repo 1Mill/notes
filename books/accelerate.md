@@ -70,3 +70,53 @@ TODO
 * In learning cultures metrics help drive improvement, but in non-learning cultures they are used to control.
 
 ### Chapter 3: Measuring and Changing Culture
+
+* Company culture has 3 levels:
+  1. Basic Assumptions - Norms (very invisible, hard to put in writing)
+  1. Values - Lense to interpret events
+  1. Artifacts - Written mission statements, standard operating procedures, etc. (very visible)
+
+* Good information flow is critical to successful companies
+* Generative companies encourage collaboration through shared vision
+* Burocrative companies encourage efficiency
+* Trust is needed for open communication so problems are identified and solved quickly
+
+* Change failure rate was not found to be valid in their construct so they excluded it from their analyses
+
+* Who is on a team matters less than how a team works together
+* Accidents are rarely one peron's fault: instead they are emergent from many actions taken by many different people, so, working together to create a big picture is important to avoid and or accidents.
+* Human error should be a chance to improve how companies communicate.
+
+### Chapter 4: Technical Practices
+
+* Continously delivery
+* Build quality in to eliminate the need for inspection
+* Work in small batches with target outcomes / metrics
+* Automate repetative work
+* Relentlessly pursue continous improvement
+
+* Goal of management is to make the above system-level outcomes extremely apparent
+
+* Keep Git branches sort lived and merge into trunk frequently
+* Write automated tests so engineers are confident in their changes
+* Continously delivery so that it becomes non-event and not a special event
+
+* If you want to improve culture do CICD because it is a shift in mindset
+
+* Rework and un-planned work was significantly differnt between high and low performers indicating code quality is important to being effective
+
+* Failure Demand: rework caused by not doing the right thing the first time.
+
+* To be effective use ...
+  * Version Control (e.g. GitHub)
+  * Reliable Test Automation - flaky test erode trust
+  * Test Data Management
+  * Trunk Based Development - most branches live less than 1 day
+    * Speculated multiple long-lived branches discourages refactoring and communication - people go live off in their own world for too long without feedback
+  * Information Security
+  * Continuous Delivery
+    * Improve quality, culture, etc.
+
+### Chapter 5: Architecture
+
+* TODO
