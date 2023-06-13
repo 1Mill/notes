@@ -119,4 +119,17 @@ TODO
 
 ### Chapter 5: Architecture
 
+* Architecture is an artifact of culture and can help, or more likely hinder, transformations / mindset shifts
+* Focus on code deployablility and code testability to increase team performance
+* Architecture should let teams work independently to build, test, and deploy changes without sign off, coordination, etc. from other teams because you want to minimize external dependencies
+  * Architecture and teams should be loosely coupled
+  * Teams must be cross functional so they can deliver work from design to deployment
+* A good architecture will have teams talking about business solutions / outcomes and not tiny technical details
+* Architecture enables company / team scaling because teams are decoupled from architecture to reorganize in whatever ways they need to
+* Debugging somebody elses code is nearly impossible without tests
+* Developer / Engineer Experience for testing is just as important as UX for any sort of product - if the tool sucks people won't use it.
+* Focus on engineers (people) and outcomes; not tools and technologies.
+
+### Chapter 6: Integrating Infosec into the Delivery Lifecycle
+
 * TODO
