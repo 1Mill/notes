@@ -139,4 +139,67 @@ TODO
 
 ### Chapter 7: Management Practices for Software
 
+* LEAN Software development
+  1. Limit work in progress
+  2. Visually communicate the status of work, goals, and align everything with business outcomes
+  3. Collect and use data to make day-to-day operating decisions
+
+* Use a light weight change approval process such as team programming or code review internal to the team.
+* Adding external required code reviews only slows down the work with no benefits - "risk security theory"
+
+* Only let CICD Pipeline push code to production
+
+
+### Chapter 8: Product Development
+
+* Faux agile is common which unmasks itself as fixed budgets, large requirements docs, etc.
+* Experimental approach to product development: learn, do, learn
+
+* LEAN Product Development Practicies
+  1. Slicing work into tiny batches that can be released within a week: including MVPs
+  2. Teams understand how work flows from the business to customer and have visibility into this flow such as the status of new features
+  3. Teams actively seek and incorporate customer feedback into products
+  4. Do teams have authority to change product requirements without external approval
+
+* Deploy tiny feature iterations quickly - avoid complex feature that take a long time to develop
+* Must delight and engage customers
+* If changes to requirements must be signed off then innovation is stunted
+* Focus people around business outcomes so that they aren't going around doing random things
+
+### Chapter 9: Making Work Sustainable
+
+* "Deployment pain" (the fear engineers have pushing to production) explains disconnect between development practicies like testing and operational concerns used to maintain the product / keep the business going.
+  * It works in development but not in production (e.g. polyfills)
+* Where code deployments are the most painfull you will find the worst team performances
+
+* Write tests
+* Trunk based development
+* CICD pipeline
+
+* Ask "How painful are deployments?" to gain insight into how a team works
+
+* Manual configurations are bad and lead to weird states across environments
+* Ensure every environment can easily be reproduced
+
+* Deployment pain leads to burnout
+* To avoid burnout
+  * Invest in employee development
+  * Ask employees what is stoping them from achieving their objectives and then removing those obseicals
+  * Give engineers time, space, and resources to experiment and learn
+  * Employees must be given authority to make decisions that effect their work outcomes they are responsibile for
+* Things that lead to burn out
+  * Work overload
+  * Lack of control
+  * Insufficient awards
+  * Break down of community
+  * Lack of fairness
+  * Culture mismatch
+
+* Power orientated cultures lead to burn out because of blame instead of learning
+* Invest in the skills of team members to avoid burn out
+* Create environment that lets team members experiment, learn, and grow during work hours
+* Every day lived values are what people use in their day to day - not aspirational values written on paper
+
+### Chapter 10: Employee Satisfaction, Identity, and Engagement
+
 * TODO
