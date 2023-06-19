@@ -202,4 +202,11 @@ TODO
 
 ### Chapter 10: Employee Satisfaction, Identity, and Engagement
 
-* TODO
+* People are the heart of any transformation
+* Higher performing employees have higher company loyalty
+* NPS scores
+  * 9 - 10: Promotos, they use and evagilize the product the lot (positive word of mouth)
+  * 7 - 8: Passives, satisfied with product but will leave of something better comes along
+  * 0 - 6: Detracters, defect quickly and hurt word of mouth
+* Emloyees need to see and get bought into the end-to-end value stream to become strong promoters
+* People are a companies greatest assets but are often seen as expendible
