@@ -210,3 +210,12 @@ TODO
   * 0 - 6: Detracters, defect quickly and hurt word of mouth
 * Emloyees need to see and get bought into the end-to-end value stream to become strong promoters
 * People are a companies greatest assets but are often seen as expendible
+* Higher performing delivery cycles produce more employee satisfaction, company performance, and validates ideas faster in a circle: each feeding into the next
+* Personal and company values leads to burnout
+* Must institude a company culture of experimentation and learning
+* People are best at creative tasks, computers are best at repeating tasks - ensure people are working on creative endeavours.
+* Teams with more diversity work better; Teams must be inclusive before diversity can happen.
+
+### Chapter 11: Leaders and Managers
+
+* TODO
