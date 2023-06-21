@@ -1,12 +1,10 @@
 # Accelerate
 
-## Book
-
 <https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339>
 
-## Article
+## Key Takways
 
-TODO
+* TODO
 
 ## Notes
 
