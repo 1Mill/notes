@@ -218,4 +218,59 @@ TODO
 
 ### Chapter 11: Leaders and Managers
 
+* Leadership is not about reporting structures, leadership is about inspiring and motivating those around you.
+  * Write good code
+  * Architecture good systems
+  * Achieve non-commercial and commercial goals
+* Characteristics of transformational leader:
+  * Clear Vision:  where the company is going and where it should be in 5 years
+  * Inspirational communication: communicating in such a way that motivates even during uncertainty or changing environemtn
+  * Intellectual stimulation: challenge followers to think of problems in new ways
+  * Supportive leadership: demonstrates care and consideration of followers needs and feelings
+  * Personal recognition: praises and awknoledges achievements of goals and improvements in work quality, personally commplements others when they do outstanding work
+* Shared vision gets people aligned to move in the same collective direction
+* Strong transofrmational leaders build and reenforce culture driving high performance teams
+* Leaders cannot achieve goals on their own: they need followers which requires buy-in from followers.
+* Make performance metrics visible so that teams can improve them (e.g. business metrics, ops metrics, deployment metrics, etc).
+* Trust is built by acting predictiblely even during times of uncertainty.
+* Build strong personal relationships between teams so that teams work effectively together
+* Encourage sharing like lunch-and-learns
+* Let engineers choose their tools
+
+### Chapter 12: The science behind the book
+
+* Primary research: collecting new data; secondary research: analyzing data already collected through primary research.
+* Qualitative research: conversations, etc.; quantitative research: numbers, etc.
+* Likert-like scales are cool
+* Correlation is not causation, it is only an exploritory step
+* State a hypothesis and collect data to disprove it; write a hypothesis based on some sort of hunch involving some sort of research
+* Data in this book collected over a 4 years period
+
+### Chapter 13: Intro to Psychometrics
+
+* It is difficult to write unbiased questions
+  * Leading questions
+  * Loaded questions
+  * Multiple questions in one
+  * Unclear language
+* We cannot measure latent variables directly, we must measure them indirectly through observable variables linked to latent variables.
+
+* Good company cultures have:
+  * High trust
+  * Fosters information flow
+  * Builds bridges across teams
+  * Encourages novelty
+  * Shares risks
+
+* Good teams cultures have:
+  * Information is actively sought
+  * Messangers are not punished when they deliver bad news
+  * Responsibilities are shared
+  * Cross functional collaboration is encouraged and rewarded
+  * Failure causes inquery
+  * New ideas are welcomed
+  * Failures are though of as opportunities to improve the system
+
+### Chapter 14: Why use a survey?
+
 * TODO
