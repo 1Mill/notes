@@ -273,4 +273,82 @@ TODO
 
 ### Chapter 14: Why use a survey?
 
-* TODO
+* Surveys lets you analyze data quickly versus other methods like interviews which require much more clean up
+
+* Periodic conversations around metrics is important, particularly if customers are reporting something different than what your metrics say.
+
+* A system only has visibility into the things within it, to get a more wholistic picture you need to ask people working with those systems to know where the gaps are.
+  * GitHub can only tell you how many files are tracked - not how many files are not tracked (unless your .gitignore is file-by-file which is unlikely)
+
+* Humans make systems and humans can introduce errors into systems or humans can modify system data
+
+* Survey's should be annonomous so that people respond honestly
+
+### Chapter 15: The Data for the Project
+
+* Targeted more a bigger group by ignoring questions about infastructure as code, etc. which many people may no be familiar with.
+* Used questions that target latent variables, like using trunk based development to know if a company does CICD
+
+
+### Chapter 16: High-Performance Leadership and Management
+
+* We must not only build high performing teams but also products customers actually want which means buildings systems (e.g. teams) that get and react to feedback from multiple sources.
+
+* High organizational performance
+  * Profitability
+  * Marketshare
+  * Productivity
+
+* Value streams enables the contiuous flow of customer value
+* Each tribe delivers a portofilio of related products and services
+* Each tribe is composed of multiple self-sterring teams called squads
+* Each squad is responsibile for a distinct customer mission
+* Each squad is lead by a product manager and tech lead with 2 pizza rule
+* Each squad is a cross functional of engineers and marketers - BizDevOPs
+* They use guilds
+* They introduce product area leads to coordinate across squads
+
+* Visualize problems, questions, work, etc. so that it is easy to see how it fits into the big picture
+
+* Develop the people! For people to bring their best people need to know their leaders value them. Trust which is build through investing in that person to show you value the person and their long term contributions: not just the stuff they are getting out the door today.
+* The work will change and people must be able to easily learn and adapt through investment by leadership.
+
+* Psychological saftey is needed to have honest conversations to make improvements to the team / organization
+* Quality is often overlooked for speed which is a difficult cycle to break without leadership buy-in
+* Go deep before going wide - understand the details before scaling a new practice
+* REF: Generative Leadership
+* Storytelling is important but sometimes people need to learn something for themselves to make it stick
+* Gather the right people to identify areas of improvements to have a diverse perspective; experiment and measure long term effects (e.g. was the improvement successful or only temporary?).
+
+* When you change the way you work you change the routines which changes the culture
+* To change the way you work you must be able to learn
+* To be able to learn you must have a safe environment to do so
+
+* How to change culture:
+  * How do we learn how to learn?
+  * How do I learn?
+  * How can I make it safe for others to learn?
+  * How can I learn from and with them?
+  * How do we, together, establish new behaviors and new ways of thinking that build new habits and cultivate our new culture?
+  * Where do we start?
+
+* You cannot implement culture change. Trying to mimick another company's behavior is counter to generative culture.
+
+* Suggestions to guide change:
+  * Develop and maintain the right mindset about organizational learning
+  * Make it your own
+    * Don't look to copy others - experiment and learn what does and doesn't work from those others
+    * Don't contract it out because then tribal knowledge and culture is lost long term
+    * Do develop your own in-house coaches
+  * Lead by example by changing the way that you work - don't expect others to change unless you also change
+    * A generative culture starts through new behaviors
+  * Practise discipline
+  * Practice courage
+  * Practice patience - the culture there today didn't happen over night so a new culture will take time to root and flower
+  * Practice practice - learn, succeed, fail, learn, adjust, repeat (rythm and routine)
+
+
+### Conclusion
+
+* Delivering quality software at high tempo with stability is a market differentiator and key value driver for all sizes for companies
+* You can't buy or copy high performance - you have to discover what works for you
