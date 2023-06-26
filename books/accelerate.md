@@ -4,7 +4,77 @@
 
 ## Key Takways
 
-* TODO
+* Key metrics for measuring performance of software teams:
+  1. Delivery lead time to seek feedback often
+  2. Deployment frequencey to avoid human made bottlenecks
+  3. Time to restore service so people can sleep easy at night
+  4. Change fail rate so people can deploy without debilitating fear
+
+* In learning cultures metrics are helped to drive improvement and innovation whereas in non-learning cultures they are used to command and control.
+
+* How a team works together is more important than who the individuals on the team are. ["When a flower doesn’t bloom, you fix the environment in which it grows, not the flower."](https://julieparkerpracticesuccess.com/when-a-flower-doesnt-bloom-you-fix-the-environment-in-which-it-grows-not-the-flower/)
+
+* Automate all repretative work and relentlessly pursue continous self and team improvement. Building products is an inherently creative art so get people to a point where they can focus on solving creative only-humans-can-do business challanges instead of manually testing code, manually inspecting others code, constantly rewriting code, constantly fighting fires, or constantly fighting tools.
+
+* Visualize business outcomes, team goals, the status of work, and how everything links together.
+
+* Processes must be light and flexible: not imposing. If something grows to be imposing maybe the wrong people are working together. Or, maybe somebody is missing important context. Either way, it is likely an environment issue: something is too constraining or communication is lacking.
+
+* LEAN Product Development Practicies
+  1. Slice work into tiny batches which can be released within a week: including MVPs, spikes, etc.
+  2. Teams understand and have visibility into how work flows from the business to customers
+  3. Teams actively seek and act on customer feedback to improve products
+  4. Teams have authority to change product requirements without external approval based on customer feedback.
+
+* People are the heart of any transformation or culture shift: seek promotors. Nurture promotors through real working examples (not just theory).
+
+* Characteristics of a transformational leader:
+  1. Clear vision on where the company is going today and where it should be in 5 years
+  2. Inspirational communication which motivates or guides during uncertainty or in changing environments.
+  3. Intellectual stimulation to challenge others to think of problems in new ways
+  4. Supportive leadership who demonstrates care and consideration of others through language and action.
+  5. Personally recognizes and praises others achievements and masterworks.
+
+* Good company cultures have:
+  1. High trust
+  2. Fosters transparent information flow
+  3. Builds working relationships between people
+  4. Encourages novelty
+  5. Shares risks
+
+* Good team cultures have:
+  1. Information is actively sought
+  2. Messengers are not punished when they deliver bad news
+  3. Responsibilities are collectively shared
+  4. Cross functional collaboration is encouraged and rewarded
+  5. Failure caues inquery: not blame
+  6. New ideas are actively sought
+  7. Failure are viewed as opportunities to improve
+
+* Metrics are created by people for people. People are prone to error and people are prone to change. Metrics should help a person tell a story but should not be the story itself. Always tell the human narrative behind the metric.
+
+* Invest in people today to get the most out of people tomorrow.
+
+* Changing the way you work changes routines which changes culture. To change how you work you must be able to learn in a safe environment. If the culture is "you failed, you fired" people will play it safe stunting innovation.
+
+* To change culture, answer these questions:
+  * How do we learn how to learn?
+  * How do I learn?
+  * How can I make it safe for others to learn?
+  * How can I learn from and with them?
+  * How do we, together, establish new behaviors and new ways of thinking that build new habits and cultivate our new culture?
+  * Where do we start?
+
+* Culture is unique to each company - experiment with other company's processes / habits to learn but find what works uniquely for you: make it your own.
+
+* To guide change:
+  * Develop and maintain a mindset for learning
+  * Discover your own better practicies unique to your team, company, etc.
+  * Invest in others
+  * Lead by example
+  * Practice discipline, courage, patience, and practice (learn, succeed, fail, adjust, repeat)
+
+* High performing teams and product market fit are market differentiators are an output of company culture.
 
 ## Notes
 
