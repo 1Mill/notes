@@ -217,7 +217,6 @@
 
 * Only let CICD Pipeline push code to production
 
-
 ### Chapter 8: Product Development
 
 * Faux agile is common which unmasks itself as fixed budgets, large requirements docs, etc.
@@ -356,7 +355,6 @@
 
 * Targeted more a bigger group by ignoring questions about infastructure as code, etc. which many people may no be familiar with.
 * Used questions that target latent variables, like using trunk based development to know if a company does CICD
-
 
 ### Chapter 16: High-Performance Leadership and Management
 
