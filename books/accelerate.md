@@ -415,7 +415,6 @@
   * Practice patience - the culture there today didn't happen over night so a new culture will take time to root and flower
   * Practice practice - learn, succeed, fail, learn, adjust, repeat (rythm and routine)
 
-
 ### Conclusion
 
 * Delivering quality software at high tempo with stability is a market differentiator and key value driver for all sizes for companies
