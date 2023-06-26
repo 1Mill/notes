@@ -74,7 +74,7 @@
   * Lead by example
   * Practice discipline, courage, patience, and practice (learn, succeed, fail, adjust, repeat)
 
-* High performing teams and product market fit are market differentiators are an output of company culture.
+* High performing teams and product market fit are market differentiators and are outputs of company culture.
 
 ## Notes
 
