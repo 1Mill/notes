@@ -2,7 +2,7 @@
 
 ## Article
 
-<https://erik-ekberg.medium.com/an-elegant-summary-79dbfed26886>
+<https://erik-ekberg.medium.com/navigating-the-challenges-of-engineering-leadership-insights-from-an-elegant-puzzle-by-will-80d2417fc1f7>
 
 ## Key takways
 
