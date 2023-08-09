@@ -79,4 +79,4 @@
 
 WorkSource North Seattle
 Pacific Associates
-cmarquez@pacassoc.com
+<cmarquez@pacassoc.com>
