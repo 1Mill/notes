@@ -40,4 +40,3 @@
 
 * The OREO superbowl tweet was a mix of having the right processes, the right people, and the right guardrailes to publish topical, timely, and on-brand content. This was not something that happened over night and was an iterative process that resulted in the OREO superbowl tweet "You can still dunk in the dark".
   * What companies were unable to captilize on such a shared cultural moment because of how their internal processes were structured?
-
