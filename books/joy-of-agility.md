@@ -36,4 +36,4 @@
   1. Be poised to adapt: develop a readiness to revise and respond quickly and easily to change.
   1. Start minimal and evolve: being quicly and easily with something basic and rapidly improve it based on what you learn.
   1. Drive out fear: make safety a prerequisite to protect people and pave the way for high performance.
-  1. Be readily resourceful: solve problems without hesitation by being quick, cleaver, and creative.
+  1. Be readily resourceful: solve problems without hesitation by being quick, clever, and creative.
