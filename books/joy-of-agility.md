@@ -37,3 +37,7 @@
   1. Start minimal and evolve: being quicly and easily with something basic and rapidly improve it based on what you learn.
   1. Drive out fear: make safety a prerequisite to protect people and pave the way for high performance.
   1. Be readily resourceful: solve problems without hesitation by being quick, clever, and creative.
+
+* The OREO superbowl tweet was a mix of having the right processes, the right people, and the right guardrailes to publish topical, timely, and on-brand content. This was not something that happened over night and was an iterative process that resulted in the OREO superbowl tweet "You can still dunk in the dark".
+  * What companies were unable to captilize on such a shared cultural moment because of how their internal processes were structured?
+
