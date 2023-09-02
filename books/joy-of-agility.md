@@ -32,7 +32,7 @@
 
 * Six agile mantras (<https://waiyancan.com/summary-joy-of-agility-by-joshua-kerievsky/>)
   1. Be quick - but don't hurry: succeeed sooner via quickness undercontrol and avoid costly mistakes from hurrying or rushing.
-  1. Be balanced and graceful: resolve imbalances, collaborate harmoniously with others, and make change empowering: not forced.
+  1. Be balanced and graceful: resolve imbalances, collaborate harmoniously with others, and make change empowering - not forced.
   1. Be poised to adapt: develop a readiness to revise and respond quickly and easily to change.
   1. Start minimal and evolve: being quicly and easily with something basic and rapidly improve it based on what you learn.
   1. Drive out fear: make safety a prerequisite to protect people and pave the way for high performance.
