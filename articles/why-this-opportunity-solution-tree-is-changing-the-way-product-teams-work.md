@@ -2,7 +2,7 @@
 
 <https://www.producttalk.org/2016/08/opportunity-solution-tree/>
 
-## Key takeaways
+## Key Takeaways
 
 * Modern product management requires teams to cycle rapidly between discovery and delivery work to double check they are meeting customers needs. For delivery work, Discovery Trees (DTs) help build alignment and communicate state up and across the product team. In a similar way to DTs, Opportunity Solution Trees (OSTs) fill the same role for discovery work. OSTs help build alignment, communicate priorities, and visually represent how outputs (e.g. features) hope to impact larger organizational outcomes.
 

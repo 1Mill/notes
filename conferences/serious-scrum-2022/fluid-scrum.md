@@ -2,7 +2,7 @@
 
 <https://www.youtube.com/watch?v=Mv71OvkuDgk&list=PL3bwi3QF6gpi492UWYhhipnsuib23_Iq1&index=3>
 
-## Key takeaways
+## Key Takeaways
 
 * FLUID Scrum is a compromise between FAST Agile and Scrum. Like FAST Agile, it benefits from dynamic reteaming so that the team (in FLUID Scrum, tribes in FAST Agile) has the right people working on the right work. FLUID Scrum does this by defining a team as 20-50 people who self-organize into small squads every sprint. Each team is capabile of end-to-end delivery. In a traditional sense, this means the team is composed of designers, product owners, scrum masters, engineers, data anlytics, etc. to drive a feature from ideation to done. This pool of people self-organize themselves into smaller squads to focus exclusively on a sprint goal.
 

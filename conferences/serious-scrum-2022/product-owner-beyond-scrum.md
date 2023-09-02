@@ -2,7 +2,7 @@
 
 <https://www.youtube.com/watch?v=K1Wp-suAC7s&list=PL3bwi3QF6gpi492UWYhhipnsuib23_Iq1&index=4>
 
-## Key takeaways
+## Key Takeaways
 
 * People are the most important aspect of organizations. When the human element is removed from the process, empower teams to challange that status quo to effect change.
 

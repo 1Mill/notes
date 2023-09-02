@@ -2,7 +2,7 @@
 
 <https://www.producttalk.org/2023/01/singularity-creations/>
 
-## Key takeaways
+## Key Takeaways
 
 * Opportunity Solution Trees (OSTs) make saying "no" easier. OSTs create a visual narrative about the organization's mission so that ideas can be juxtaposed. If an idea dosn't align with the org's mission, is more costly than alternatives, or other factors, it is easy to say "no" to remain focused.
 

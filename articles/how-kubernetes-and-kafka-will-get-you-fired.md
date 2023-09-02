@@ -2,7 +2,7 @@
 
 <https://medium.com/@jankammerath/how-kubernetes-and-kafka-will-get-you-fired-a6dccbd36c77>
 
-## Key takeaways
+## Key Takeaways
 
 * Sometimes engineers strive to be "cloud agnostic" to avoid vendor lock in. But, this usually only increases operating costs with no real benefit to the business. For example, what is the cost to build a "cloud agnostic" solution versus a non-"cloud agnostic" solution? If the latter is only hypothetical it means it isn't a real business concern yet.
 

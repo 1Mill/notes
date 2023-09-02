@@ -2,7 +2,7 @@
 
 <https://www.youtube.com/watch?v=WbPLjuvyCUA>
 
-## Key takeaways
+## Key Takeaways
 
 * There are two ways to scale agile: horizontally or vertically. Horiziontally is when a company increases the number of interdependent teams required to deliver customer value. Vertically is when a company increases the number of people in a team so that the team can deliver customer value independently.
 

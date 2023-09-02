@@ -2,7 +2,7 @@
 
 <https://www.producttalk.org/2023/03/culture-of-accountability-empowered-product-teams/>
 
-## Key takeaways
+## Key Takeaways
 
 * Empowered teams balance customer values with business outcomes inside the constraints established by company leaders.
 

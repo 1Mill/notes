@@ -2,7 +2,7 @@
 
 <https://www.producttalk.org/2023/03/okrs-vs-outcomes/>
 
-## Key takeaways
+## Key Takeaways
 
 * OKRs are an aspirational qualitative goal with quantitative key results. An example is a person wanting to be healthier their measurable key results might be something like going to the gym 3 times a weak, having salads for lunch 3 times a week, and so forth.
 

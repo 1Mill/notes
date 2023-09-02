@@ -2,7 +2,7 @@
 
 <https://www.youtube.com/watch?v=9y-r7styha0>
 
-## Key takeaways
+## Key Takeaways
 
 * Modern product management is the next phase of agile transformation. The Agile Manifesto focused on agile delivery (e.g. CICD, trunk based development, XP) from inside waterfall projects to make delivery quick, cheap, and frequent. Building on top of that, Lean Startups then focused on delivering the right feature through data-driven learning loops. Now, modern product management requires organizations to entrust ownership to product teams.
 

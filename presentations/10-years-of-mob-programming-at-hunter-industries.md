@@ -2,7 +2,7 @@
 
 <https://www.youtube.com/watch?v=hS0SQ3CqIi4>
 
-## Key takeaways
+## Key Takeaways
 
 * Lean Coffee Q&A Format is a cool approach to the Q&A format since people get to vote on the questions they want to hear answers to rather than first-asked-first-answered like traditional Q&A sesions.
 

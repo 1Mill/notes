@@ -2,7 +2,7 @@
 
 <https://lethain.com/eng-strategies/>
 
-## Key takeaways
+## Key Takeaways
 
 ## Notes
 

@@ -2,7 +2,7 @@
 
 <https://www.youtube.com/watch?v=BvRF8Nv_wmA>
 
-## Key takeaways
+## Key Takeaways
 
 * Discovery Trees (DTs) jump start conversations about scope, capacity, and capability by making the work visible. Other tools add friction to change. DTs on the other hand make change easy so that a DT reflects a teams current understanding of the work to be done.
 

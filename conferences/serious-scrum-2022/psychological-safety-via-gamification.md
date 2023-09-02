@@ -2,7 +2,7 @@
 
 <https://www.youtube.com/watch?v=E8l21oFieyI&list=PL3bwi3QF6gpi492UWYhhipnsuib23_Iq1&index=6>
 
-## Key takeaways
+## Key Takeaways
 
 * Games break down social barriers and help people bond over shared experiences - shared experiences which promote psychological saftey.
 

@@ -2,7 +2,7 @@
 
 <https://www.youtube.com/watch?v=rXSoQQHGYGw>
 
-## Key takeaways
+## Key Takeaways
 
 * There are two different types of product development teams: missionary and mercenary teams. Mercenary teams intake requriements from business stakeholders and output deliverables. A litmut test for mercenary teams are hand offs and/or a need to get sign off (particularly on deviations). A missionary team on the other hand does both discovery and delivery work (red and blue work from Leadership is Language). This builds tribal knowledge around the business, customer, and technology context of the work to be done. Traits which afford autonomous bottom-up decision making.
 
