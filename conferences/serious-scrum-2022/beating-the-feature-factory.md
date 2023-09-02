@@ -2,7 +2,7 @@
 
 * <https://www.youtube.com/watch?v=f3QFZ7Hy0gA&list=PL3bwi3QF6gpi492UWYhhipnsuib23_Iq1>
 
-## Key takways
+## Key Takeaways
 
 * If an org is running multiple projects, then cross-team collaboration becomes unreliable. Teams self-organize around valauble work to themselves. So if Team A and Team B are planned to work on Project X together, but Team B is still working on Project Y. Perhaps because of overrun deadlines, bugs, scope creep, etc. then Team A and Project A are left hanging. To unblock themselves to stick to the established roadmap plan, Team A usually finds a workaround. This rigidity in long term roadmap planning does not leave room for learning or doing better: it is just go-go-go.
 

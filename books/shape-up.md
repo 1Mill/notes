@@ -2,7 +2,7 @@
 
 <https://basecamp.com/shapeup>
 
-## Key takways
+## Key Takeaways
 
 * Basecamp operates on a 6 week delivery cycle. If a `bet` cannot be delivered within 6 weeks the `bet` is not prioritized. Not fitting into the 6 week window means either (a) the `bet` is to big or (b) there are to many unanswered questions. Both mean the `bet` is too risky.
 

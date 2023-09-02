@@ -4,7 +4,7 @@
 
 <https://erik-ekberg.medium.com/navigating-the-challenges-of-engineering-leadership-insights-from-an-elegant-puzzle-by-will-80d2417fc1f7>
 
-## Key takways
+## Key Takeaways
 
 Larson suggest that for any system, keep the responsibility of innovation (e.g. features) and technical debt (e.g. bugs) the responsibility of a single team. This will avoid the creation of a two class culture in which one class builds new things and then throws those things over a wall for the other class to maintain.
 

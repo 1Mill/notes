@@ -2,7 +2,7 @@
 
 <https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339>
 
-## Key Takways
+## Key Takeaways
 
 * Key metrics for measuring performance of software teams:
   1. Delivery lead time to seek feedback often

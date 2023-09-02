@@ -2,7 +2,7 @@
 
 <https://miro.com/app/board/uXjVPHkRum4=/>
 
-## Key takways
+## Key Takeaways
 
 * Influence organizational change through informal communication channels. Host informal "Dailies" or other low committment events with the intent of getting people together to share ideas. These ideas can be on technical practicies, software design patterns, or anything that is relevant to your organization.
 
