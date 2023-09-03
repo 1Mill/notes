@@ -82,4 +82,40 @@
 
 ### Be Quick - But Don't Hurry
 
+* Agility isn't a mystery, it is a learned skill.
+* Achieve a state of flow
+* People adopt an avoidance for "speed" usually from managers / leaders pushing speed over quality or other traits. Strive to be graceful.
+
+* If you hurry, you are more likely to make mistakes. But if you are not quick you won't get things done.
+* Quickness without control does not produce champions.
+* Too many risks can add up to too many costly mistakes unneededly.
+* Quickness under control requires balance which starts with emotional, feeds into mental, and lastly feeds into physical balance.
+* Activity without achievement.
+* Learn quickness under control through deliberate practice.
+
+* Chooing the path of least resistance may at first feel faster, but usually takes on some sort of debt (e.g. technical debt) that slows down the organization significantly in the future.
+* Don't mistake being hasty with being agile.
+
+* Very successful companies feel very laid back, not tinged with fear that comes with being late / behind on a project.
+* People need to be able to reflect in order to innovate. Without time to do so (i.e. slack in the system) nothing changes - people are just go-go-go.
+* **The overstressed organization focuses so much on trying to be efficient that it loses sight about how to be effective.**
+* Be strategic about what to do, and merciless about what not to do.
+* Develop a capacity for change.
+
+* A true crasftsperson is not somebody who can create the finest works, but can create the finest works efficiently.
+* Mastery includes speed, not just technique.
+
+* Stop starting, start finishing - focus on done over started.
+* Activity without achievement is keeping people busy without meaningful impacts on the business / customers.
+* Relentless focus means saying no to something else.
+
+* Chartering helps build alignment.
+* Charters are collaborative from within the team, not dictated from management.
+* Charter a vision, strategy, community, and working agreements to define shared person. This is a living document.
+* Book Reference: [Liftoff: Start and Sustain Successful Agile Teams](https://www.amazon.com/Liftoff-Start-Sustain-Successful-Agile/dp/1680501631/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
+
+* Maximize the amount of work not done.
+* When migrating a system, figure out what functionality is important to keep and what functionality is not important to keep.
+* To increase agility, find the right work to do.
+
 * TODO
