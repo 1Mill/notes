@@ -193,4 +193,29 @@
 * Recognize and actively improve unsafe working conditions (e.g. being able to delete production datebase without much thought)
 * Focus on improving the environment in which people are working rather than blaming people foreasy mistakes they make (rather easily) in the environment they are working in.
 
+* Culture eats strategy for breakfast.
+* Safey to fail means safey to learn, safey to innovate, and safey to create.
+* Mistakes are the portal to discovery.
+
+* Always give feedback gracefully. Perhaps outside of the office like on a walk.
+* Do not avoid addressing behavior that inhibits the team's ability to collaborate. Sometimes this means difficult conversations about things people do, like picking their nose.
+
+* **Tables can either foster or inhibit collaboration.**
+* Make spaces collaborative by making conversations easy. If people can't see each other people will not work together. This is why I like my oval dinning room table - people rarely block each other's views unlike traditional rectangle tables.
+* Never let a poorly designed space inhibit your collaboration - redesign the space!!!
+
+* Assume innocence, avoid blame, and then move forward when actively sabbotaged.
+
+* The team is the smallest unit of accountability - not individuals.
+* Do not try to micromanage individuals.
+
+* Three (more) agile mantras
+  1. Start minimally and evolve.
+  1. Be readily resourceful.
+  1. Be balanced and graceful.
+* Change by Attraction encourages incremental adoption and pushed through seeing what the future looks like instead of being told what the future will look like.
+  * Change by choice versus decree.
+
+### Be Poised to Adapt
+
 * TODO
