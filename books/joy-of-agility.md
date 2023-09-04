@@ -153,4 +153,44 @@
 
 ### Be Balanced and Graceful
 
+* Balance enables grace - flowing.
+
+* The cause for most waste is doing things right in the conventional / traditional / existing system for how to do things. So waste is hard to realize at first.
+  * Waiting for PR approval feels right, but can be eliminated through paired programming.
+* Answer each of these questions as "yes" to achieve habitual excellence:
+  1. Am I treated with respect and dignity every day, regardless of race, pay, gender, rank, etc.?
+  1. Am I given the support, training, resources, etc. so that I can contribute to this organization in a way that brings meaning to my life?
+  1. Am I recognized by somebody everyday whos judgement I value?
+* Care deeply for people to achieve habitual excellence throughout the organization.
+
+* Mixed messages deteriorate trust.
+* Communication is not a finite, absolute thing. Assume any communication will be interpreted differently by another and may resulted in a mixed message.
+
+* Care for people, use your heart, not your brain - employees, customers, etc.
+
+* If not everybody is sharing equally in the work of the team, then the team is not in balance. Every person should be having equal contribution because that means each person trusts each other.
+  * How frequently a team is passing the ball in Soccer - are there certain players getting the ball more than others and for that reasons?
+  * Hero programmers versus teams.
+
+* Throwing work over a wall rarely works - build communities / teams that can do both discovery and delivery work.
+
+* If people do not feel safe to contribute their ideas to a community, you will never hear their ideas and so never hear divergent thinking.
+* Try to be a facilitator to get other people to jump into the conversations and share their own ideas.
+* How to create psyhologically safe meetings:
+  1. C - Curious, caring, and opened minded
+  1. L - Listen to one another
+  1. E - Encourage everybody to contribute
+  1. A - Avoid dominating and interupting
+  1. R - Repeat and review people's points
+
+* Interupting women in the business world is a common occurence which discourages speaking up and hearing new perspectives.
+* Stop interupting people.
+
+* Use failures as opportunities to learn and improve.
+* Cultures with a focus on learning rather than assigning blame help focus people on solutions / improvement thinking instead of hiding mistakes.
+
+* Make it safe to fail.
+* Recognize and actively improve unsafe working conditions (e.g. being able to delete production datebase without much thought)
+* Focus on improving the environment in which people are working rather than blaming people foreasy mistakes they make (rather easily) in the environment they are working in.
+
 * TODO
