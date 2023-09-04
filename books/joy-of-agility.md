@@ -116,6 +116,41 @@
 
 * Maximize the amount of work not done.
 * When migrating a system, figure out what functionality is important to keep and what functionality is not important to keep.
-* To increase agility, find the right work to do.
+* To increase agility, find the right work to do and maximize the amount of work not done.
+
+* Feature Fakes: build fake features to collect product analytics / custoemr interest to then make informed decisions about customer value.
+* Explore if something needs to be built before building it.
+
+* Take small, iterative steps. Validating the expected behavior with each small step.
+* Validate continousely.
+
+* A siloed teams focuses on their own work and does not work gracefully with other teams.
+* Cross silo-work means long hand-off processes which is waste.
+* A balanced team can deliver value end-to-end.
+* Stratagies to reduce waste
+  1. Remove one slow hand-off at a time.
+  1. Insource slow dependencies.
+  1. Make the slowness visible.
+  1. Limit work in process (focus on done over started)
+* To fight siloed teams, experiment with innovation through isolation with buy-in to experiment with a new team outside of the traditional organizational structures already found in the org. This way change is isolated to this new team instead of trying to change how an old team already works.
+
+* Do CICD to make deployments quick, simple, and safe through automation.
+* Need zero-downtime deployments
+
+* Proactively learn what is and isn't needed for success as soon as possible to reduce waste
+
+* Have customer-centric metrics. A customer does not care about MMR, but they do care about the time to resolve their problem.
+* Respond rapidly to people to build and maintain trust.
+
+* Widsome of the crowd / crowd sourcing knowledge is a powerful tool.
+* Avoid unnessesary rules, regulations, etc. to remain adaptable.
+
+* Experiential learning accelerates learning
+
+* Seek diverse opinions early and often.
+
+* Learn (and likely fail) fast by validating ideas with cheap experiments.
+
+### Be Balanced and Graceful
 
 * TODO
