@@ -218,4 +218,38 @@
 
 ### Be Poised to Adapt
 
+* Be ready to act and move based on new information.
+* Readiness to revise and respond before a new situation emerges.
+
+* Daily committment to pursue excellent.
+
+* Think through and actually test contingency plans in simulated (or safe but real) environments.
+* Find opportunities to improve.
+
+* You will have happier customers if you can adapt your product rapidly to their exact needs.
+
+* The number of experiments per hour / day / month / year is (throught) to be linked to how successful a company will be long term.
+* Must have a clear, valid hypothesis
+* Make learning cheap and learn frequently.
+
+* Create a safe and effective way to learn rapidly and frequently.
+
+* Work items are assigned to the team, not individuals.
+* Activity without achivement is not a way to improve
+* Predicability is significantly less valuable than a committment to improve sprint to sprint through experiments.
+* Balanced teams make being adaptive easier because all the knowledge needed to make a change resides within the team.
+
+* The Build Trap: Buildling a product before validating it is feasible and desirable.
+  * ["Building is the easy part of the product development process. Figuring out what to build and how we are going to build it is the hard part"](https://melissaperri.com/blog/2014/08/05/the-build-trap)
+* Create cheap and quick ways to test your ideas
+
+* To invent, you have to experiment.
+* The size of your mistakes have to grow with the size of the company, otherwise things will stagnate.
+
+* The ability to quash ideas based on title stagnates innovation.
+* To enable innovation from anywhere, data driven decision making through metrics must be the norm - top to bottom.
+
+* Make product ownership a team sport.
+* Let teams generate, implement, release, and most importantly measure the impact of their ideas on customers.
+
 * TODO
