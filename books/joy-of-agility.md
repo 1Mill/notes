@@ -252,4 +252,26 @@
 * Make product ownership a team sport.
 * Let teams generate, implement, release, and most importantly measure the impact of their ideas on customers.
 
+* Tests are a saftey net that reduce change anxeity and deployment anxiety.
+
+* Don't wait until something is finished to finally get feedback from customers, stakeholders, etc. Share and/or release frequently to get real meaningful feedback in order to learn and improve.
+
+* If you don't know what your customers are actively doing and not doing with your product you may not know how you are failing your customer.
+* Actively monitor usage of your product / service so you know how to adapt.
+
+* Be a silent observer to how people are actively using your product and you will learn how to improve your product. What is obvious to you is often times not obvious to real customers.
+
+* Bargain hunting: searching for low cost implementations for high value outcomes.
+* Focus on value creation with rough estimates instead of sprint planning with rigid committments.
+* Encourage frequent organic / just-in-time conversations
+  * As an example, at Good Dog we articulated these as "decision points" where we would take a step back from doing and think about what is next. If this was a new business requirement, it is at these moments we would sync with our PO and scope out our next branch (e.g. answer questions, build alignment around functionality, etc.). I personally found this more efficient than waiting until pre-determined points in time (e.g. stand ups, planning, etc.) to have important conversations to keep the work flowing.
+* Sprints are not vital to agility.
+
+* Commit to a daily pursurt of excellence.
+* Balanced teams to deliver value end-to-end without any external dependencies (e.g. another team).
+* Make product ownership a team sport.
+* Learn from real customers.
+
+### Start minimal and evolve
+
 * TODO
