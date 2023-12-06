@@ -4,7 +4,11 @@
 
 ## Key Takeaways
 
-* TODO
+* There are only three ways to express intent through code: (1) punctuation, (2) spacing, and (3) naming. Most programming languages are very opinionated about punctuation and spacing can only express so much (e.g. loose groupings). This leaves naming as the most powerful technique to crafing high quality code. So, instead of being verbose, be specific and intentional with names.
+
+* Poor quality code is systemically created. It isn't random or by chance; it is a symptom of company culture. Some try to force quality through automation, like linting in the IDE. However, this only shifts the conversation to discussing "sacred defaults" instead of teaching others how to craft high quality code.
+
+* Crafting high quality code is an art and must be intentionally practiced to improve.
 
 ## Notes
 
