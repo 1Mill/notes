@@ -4,7 +4,30 @@ LINK
 
 ## Key Takeaways
 
-* TODO
+* Focus metrics on the throughput of work at the team level, not the utilization of individuals. Having more hands on keyboards creates more activity making utilization metrics look good, but, it does not deliver value faster to customers. Instead, focus on reducing cycle time by creating slack in the system so people are waiting to jump on the next most valuable thing instead of adding to the cost of delay because they are too busy.
+
+* High performance teams are happy teams with high emotional intelligence and psychology saftey. Jeff Dean and Sanjay Ghemawat, two senior fellows at Google, paired almost every day to scale Google from hard disk optimizations in the early days to tensors powering Google's AI systems today.
+
+* Ask emotional questions to get emotional responses.
+
+* A user story is a reminder to have a conversation: nothing more. In A cross-functional team, anything important will be discovered as part of doing the work.
+
+* We need heuristics to be effective. However, unquestioned or unquestionable heuristics become dogmatic. Do not be dogmatic. Instead, be open minded and intentionally challange your own biases to continuously learn and improve. At an organizational level, competitors are constantly adapting and so not being dogmatic is fundemental to survival.
+
+* To lead without authority build relationships, build credibility, and gain influence with decision makers to nudge change. This is inherently political and leading by example builds credibility. But, it doesn't have to be transactional. Instead, continuously try to build the environment you want to work in and where greatness can occur.
+
+* Knowledge sharing ceremonies coupled with fluid reteaming create opportunities for the right people to contribute their best effort just at the right time to make the work as best as it could have been given the circumstances.
+
+* The purpose of a team is to monetize customer value. Producivity metrics like velocity are one lense to observe and help improve throughput. However, productivity metrics become the primary goal for teams deteached from leading and lagging indicators.
+
+* Ensamble programming is the best way to maximize throughput long term because the most important work is owned collectively. So, knowledge is organically shared without the need for complex documentation strategies, feedback is continuously provided without the need for formal review processes, and missing people are often not blockers to making progress. It does feel counter intuitive. On the surface, it feels like more hands on keyboards should deliver more working software. But, this isn't the case. Solo programming maximizes utilization at the cost of throughput whereas ensamble programming maximizes throughput at the cost of utilization with a lot less overhead.
+
+* Agility, in part, comes from maximizing the amount of work not done. So, companies must continously improve in these three areas to work smarter and not harder to stay competative and alive:
+  1. Make the work easier to do (e.g. improved tooling, new practicies)
+  2. Make the work effortless (e.g. automation, reduce overhead, eliminate blockers to collaboration)
+  3. Make the work unnessesary (e.g. scope hammering, automation).
+
+* TODO: Utilization Considered Harmful
 
 ## Notes
 
@@ -39,6 +62,7 @@ LINK
   * Clear who needs a break
   * Clear who is struggling
 * The two Sr. Fellows at Google paired programmed every day until one of them left to go head their AI department in 2010s.
+  * Reference: [The Friendship That Made Google Huge](https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge)
 * If people are in a competative environent, then game theory says sabotage is the best strategy.
   * Individual metrics invite competition
 * How do you build a team identity versus a competative culture?
@@ -46,9 +70,9 @@ LINK
 * Limit WIP enables agility
   * Allows people to be responsive to changes in the environment.
 * "Name that tune" but for requirements
-  * How little info do you need to sole the business problem?
+  * How little info do you need to solve the business problem?
   * Often, just the missoin statement (e.g. user story), not a bunch of requriements.
-* A user story is a reminder to have a conversations - nothing more - because maybe that conversatoin will become obsolete by the time the conversation would happen and you want to minimize waste as much as possible.
+* A user story is a reminder to have a conversations - nothing more - because maybe that conversation will become obsolete by the time the conversation would happen and you want to minimize waste as much as possible.
   * Building a list of requirements encourages sunk cost falacy versus just deleting a single uesr story because you don't want that work building out requirements to be waste.
 
 ### I Are Wrong
@@ -162,12 +186,12 @@ LINK
 
 ### Agile Naked And Afraid
 
-* How can an exeutive help the team? Servent based leadership. Not how can the team help the execuitive.
+* How can an exeutive help the team? Servant based leadership. Not how can the team help the execuitive.
 * How do leaders become part of the team from a bottom up approach versus an enforcer of policies from a more top down approach?
 * Invite the team to the conversation to build agency and competency.
 * Find ways to resonate with the team by meeting them where they are.
 * Find areas of agility to "turn up the good" to help the team become more and more agile.
-* Don't mention "agile" whenn trying to do a transformation. Show and tell, not theory craft. Feel the benefits.
+* Don't mention "agile" when trying to do a transformation. Show and tell, not theory craft. Feel the benefits.
 
 ### The 5 Ps
 
