@@ -27,7 +27,15 @@ LINK
   2. Make the work effortless (e.g. automation, reduce overhead, eliminate blockers to collaboration)
   3. Make the work unnessesary (e.g. scope hammering, automation).
 
-* TODO: Utilization Considered Harmful
+* Finding more work to fill periods of wait solves the utilization problem but does not solve the throughput problem which is much more valuable. When the most important work is blocked teams shouldn't start less valuable work to stay utilized: they should start thinking about how to systemically solve the blocker. A WIP limit of one helps teams discover where their inefficiencies are and where to start improving to maximize throughput.
+
+* Borrowing from Leadership is Language, Taylorism seperates thinking into blue and red work. Blue workers try to discover the "right way" of doing the red work whereas red work is done by "dumb labor" just following the instructions output by the blue worker. This seperation of thinking (blue) and doing (red) finds it way into today's teams where software engineers are not included in the blue work and just expected to code to the output requirements document. Innovation in the complex cynefin domain, where most technology buisness operate, comes from red and blue workers being the same people. Meaning teams must dedicate time to thinking and doing to continuously innovate.
+
+* Queing and inventory are the biggest cost centers in Lean Manufacturing because of the logistics and costs associated with storage. Maintaining an storage of critical components is a min-max strategy to maximize throughput in manufacturing. However, such a strategy is not needed in product develompent. For example, ideas are abundent in product development so maintaining a backlog of old ideas provides almost no value. Instead, just in time pick the most interesting idea and continue working on it until it isn't interesting any more or something obviously more valuable gets discovered.
+
+* Cultivate a team habit of tiny improvements. Tiny improvements over a long period of time compound significantly. However, before one can improve one must learn a new way. This can be ah-ha moments while doing the work. But more often it is intentionally learning from others. Allocating time for continuous learning is critical to cultivating a habit of tiny improvements enabling continuous improvement. Otherwise, teams get stuck in the capability trap where they only focus on doing the work, never improve, and stagnate until they finally collapse.
+
+* TODO: Lean Coffee - Day 2
 
 ## Notes
 
@@ -316,7 +324,7 @@ LINK
 * Use "On line 21.5" to mean create a new line below line 21.
 * Hard to keep silane as observer in strong style where only the navigator is supposed to speak (unless they call on an observer)
 * Rapid rotations stress test collective understanding of the work and working agreements / team agreements
-* Best to practice rols / working agreements in low stakes environments because real stress will estroy working agreements.
+* Best to practice roles / working agreements in low stakes environments because real stress will estroy working agreements.
   * Trial by fire is not a good way to practice new skills.
 * Stand the navigator far enough away from the driver so they have to project their voice to ensure everybody has the same working context.
 
