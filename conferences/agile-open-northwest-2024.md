@@ -37,7 +37,13 @@ LINK
 
 * Cultivate a team habit of tiny improvements. Tiny improvements compound over time to drive significant change long term. However, before one can improve one must learn a new way. This can be an internal ah-ha moments while doing the work. But more often it is intentionally learning from others. Allocating time for continuous learning is critical to cultivating a habit of tiny improvements to enable continuous improvement. Otherwise, teams get stuck in the capability trap where they only focus on doing the work, never improve, and stagnate until they finally collapse.
 
-* TODO: Lean Coffee - Day 2
+* The CTO is responsible for the technology culture. This includes how teams work with and tackle technical debt, setting direction and standards for code quality, and a framework for how teams are to collaborate. Often, this direction is set through metrics which teams optimize for. However, just as much as metrics encourage certain behaviors they also discourage other behaviors. For example, measuring the line of output code will probably result in teams writing mode code at the cost of quality. Alternatively, measuring for bugs will probably make teams extremely risk averse: resulting in zero bugs but also slower throughput. So, the CTO is responsible for tailoring metrics towards the outcomes the business is looking for and continously learning if they are encouraging and/or discouraging the right behaviors.
+
+* Write down team working agreements in GitHub. This way, pull requests can be made, changes will be documented, and history will be archived. Additionally, how a team agrees to work together can directly point to this document. If there is a gap, discuss, make a pull request, get the appropriate approvals, and merge.
+
+* Write down team working agreements in GitHub. This way, working agreements are concrete, changes will be documented through pull requests, and the history will forever be archived. For some companies, working agreements are broken down into four parts: policies, requirements, recommendations, and guidelines. Policies are guiding principles whereas requirements are hard must-dos from leadership. Anybody can propose a policy or requirements change, however, they must be approved by leadership. Recommendations and guideliens on the other hand are self-govered by the team and may be changed with a majority approval (or however a team decides these things). Another section is running experiments again self-govered by the team. Ultimiately, writing down working agreements makes it easier to address gaps and align around the nuance of how a team wans to collaborate together.
+
+* TODO: No estimates; Can't predict the future.
 
 ## Notes
 
