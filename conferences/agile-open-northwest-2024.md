@@ -43,7 +43,78 @@ LINK
 
 * Write down team working agreements in GitHub. This way, working agreements are concrete, changes will be documented through pull requests, and the history will forever be archived. For some companies, working agreements are broken down into four parts: policies, requirements, recommendations, and guidelines. Policies are guiding principles whereas requirements are hard must-dos from leadership. Anybody can propose a policy or requirements change, however, they must be approved by leadership. Recommendations and guideliens on the other hand are self-govered by the team and may be changed with a majority approval (or however a team decides these things). Another section is running experiments again self-govered by the team. Ultimiately, writing down working agreements makes it easier to address gaps and align around the nuance of how a team wans to collaborate together.
 
-* TODO: No estimates; Can't predict the future.
+* The complex Cynefin domain is where most software products are build and where cause and effect are only known in retrospect. So, "probe–sense–respond" with safe to fail bets is the best way to learn in the complex domain. However, this means many tools from the complicated and clear Cynefin domains do not work. Estimations are one such example. Paiting a wall is a complicated domain problem becuse all the variables are known: how much paint, how much time, and how much profit are all well understood variables with well understood cause and effect. But, building revenue generating software products do not have such elegant equations. This makes estimations at best fuzzy, if not outright impossible. So, instead of focusing on getting better with estimates to plug into ROI equations, focus instead on building constraints so any bet is safe to fail.
+
+* Define people by their capabilities, not their roles. Instead, focus on building systems which get people to work collaboratively in the same general direction because limiting how people can and can't contribute inhibits innovative ideas.
+
+* Test Driven Development (TDD) uses the practice of Red, Green, Refactor.
+
+* The 6 Minute Interview
+
+* Do not front load learning. Learning is part of doing the work and front loading learning will only tell you what worked before in some other context: not what will work now in this current context. Instead, learn until you have an idea worth trying and then try it immediately.
+
+* Communities of practice are built and sustained through voluntary contributions. Do not mandate participation because that invites the wrong mindset. Instead, make people aware of your community, maintain an open invitation, and make the community welcoming and habitable. An important trait of a community is they are self sustaining. So it is critical to grow leaders in the community who can continue to keep the community going indefinitely. Also, since communities of practice are voluntary, it is critical to understand what attracts people to the community, what keeps them in the community, and what makes them leave the community.
+
+* There is a brooding anti-agile movement happening because of the agile-industrial complex. Agility comes from uncovering new ways of working which requires a learning mindset. But, while early adopters and innovators have this learning mindset, the majority and laggards do not. Laggards in particular have a more practice oriented mindset. To jump this chasm, agile-industrialists focus mostly on the practices. But the practicies in themselves do not create agility. So, the fluid guidelines calcified into the rigid systems many people work in today and are starting to push back against because it just feels more and more like waterfall 2.0.
+
+* Woody's Huristics on the agile manifesto:
+  1. Right must serve and support the left
+  2. Right should support mulitple lefts
+  3. Right must not detract from __any__ lefts
+  4. Right may have some value, but does not mean we need it.
+
+* Agile Maxims by Woody Zuill
+  1. Do and discover; engage and see
+  2. Technical excellence
+  3. Question everything
+  4. Working software
+  5. Stress diminishes value of contributions
+  6. We are the innovators and keep of our process
+  7. Liberate people to discover excellence
+  8. Study, automate, and innovate to avoid the capability trap
+  9. Disclaimer to be able to change any of the above at any time
+
+* Communication is about creating a shared understanding to accomplish some goal. But, senders often don't know what they are trying to stay, senders often say too much or too little, and listerns do not listen well enough. Also, we can only know a communication was successful in highsight after some sort of action has been taken towards the goal. For this reason, check-ins throughout the software delivery lifecycle are valauble. These check-ins provide an opportunity to validate communication.
+
+* Most organizatinos collaborate ineffectively through documentation, meetings, and async messages instead of just-in-time face-to-face collaboration. For meetings, collaboration is scheduled so it can't happen at the right time and it is timeboxed often cutting collaboration short. For writing, context which is more easily expressed through face-to-face conversations is lost. Common practicies which inhibit collaboration and effective communication. To communicate and collaborate effectively, Woody Zuill recommends the following tips:
+  1. Communicate at a very high level with no details
+  2. Communicate details just in time, often as they are discovered / needed
+  3. Communicate face to face or side by side - walking helps
+  4. Communicate in rapid loops (e.g. dialog) - not just monologues
+  5. Verify through real observation the communication was successful
+  6. Do the actual work together so check-ins are near real time
+
+* A preasure to deliver is a sign of the capability trap.
+
+* To influence without authority: spark curiosity in others by sharing ideas, lead by example when possible, and meet regularly around a common interest or topic. Little by little, maybe this will build into a community of practice.
+
+* Simple rules lets organizations adapt to complex markets.
+
+* Visual Workspaces & Task Mapping in Miro to visualize:
+  * Valuable increments
+  * Done-Done lists
+  * PTO
+  * Preferred working hours
+  * Working agreements
+  * Now, Next, Later, and Ideas themes of work
+
+* Culture originates from leadership and roots itself in middle management. This is why in many reorganizations middle management is laid off and teams are shuffled so working agreements are reset. This provides an opportunity for a new, and hopefully more efficient, culture to take root.
+
+* In Wardly mapping, the Genesis and Custom Built domains map to the Complex Cynefin domain. This means "probe–sense–respond" is the optimial strategy for learning cause and effect to bring these complex problems into the Complicated and Clear Cynefin domains. The Complicated and Clear domains then map back to the the Product and Commodity domains in Wardly mapping. The Commodity domain in particular is all about reducing prices to stay competative which is where economies (and diseconomies) of scale start to take effect.
+
+* As a consultant, try to improve the system but don't struggle to force the system to change. Instead, put that effort into improving the lives of people by helping them understand the system and their place in it.
+
+* A team has two core responsibilities: keep the business alive and look for opportunities to improve. A habit of tiny improvements are compounding and what we must strive for to avoid the capability trap.
+
+* Systems either change or stagnate - meaning businesses either change or stagnate.
+
+* Learning gives you options.
+
+* Areas to focus on for continous system improvments
+  * Work smarter - embrace a habit of tiny improvements
+  * Make it easy - optimize for the flow of work, not the utilization of people.
+  * Create a bubble - sytems resist change, so you need a bubble that lets you work differently but with adapters to integrate with the wider organization.
+  * Create space for sub-systems to evolve and let them evolve - there will be a lot of ungretness before greatness.
 
 ## Notes
 
@@ -497,7 +568,7 @@ LINK
 * Do not mandate, just leave an open invite.
 * Lead throught example, not authority as much as possible.
 
-* Communities of practice must hav ea funnel to be sustainable long term.
+* Communities of practice must have a funnel to be sustainable long term.
   1. Awareness - people must know it exists and when it is happening.
   2. Consideration - Is this a place I want to be?
   3. Convert - I registr / go / particpiate.
@@ -588,7 +659,7 @@ LINK
   * Practicies must be dumbed down to work in low-trust bureaucratic cultures over high-trust generative cultures.
 
 * Agile Maxims by Woody Zuill
-  1. It is doing of the work that we discuss the work we must do. Doing exposes reality. Do and Discover, engage and see.
+  1. It is doing of the work that we discover the work we must do. Doing exposes reality. Do and Discover, engage and see.
   2. Technical Excellence.
     * Embracing change is impossible if our cide is not easy to read, maintain, grow, change, throw awway: all else is secondary.
     * Clean code, simplicity.
@@ -683,7 +754,7 @@ LINK
   * Documents
   * Async messaging
 
-* "What hs inhibited your effectivness in the last 3 months?" (TODO: look at photo)
+* "What has inhibited your effectivness in the last 3 months?" (TODO: look at photo)
   * Many symptoms of big problems related to collaboration
   * Many symptoms disappear with Ensamble Programming.
 
