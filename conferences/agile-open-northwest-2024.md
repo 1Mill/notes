@@ -2,68 +2,6 @@
 
 LINK
 
-## Presentation
-
-### Introduction
-
-In March, I attended Agile Open Northwest 2024.
-
-Agile Open Northwest is a non-profile organization which hosts an annual Open Space for people to come and converse about the most interesting things.
-
-I use the word "converse" intentionally because an Open Space is a participant-driven conference with no planned agenda and no formal speakers.
-
-Instead, we, as the participants, fill something we call the marketplace just-in-time, every morning, with the most interesting ideas we wanted to talk about with others.
-
-Throughout the day, people jump from conversation to conversation just to listen, share, or ask questions with the intent to learn or contribute.
-
-I have enjoyed attending Agile Open Northwest in the past because I often learn about innovative practicies, interesting ways of working, or thought-provoking theories to understand the why and how.
-
-Inovative practicies like Test Driven Development, Discovery Trees, and Ensamble Programming.
-
-Interesting ways of working like Fast Agile, Holocracy, or Dojo Academy.
-
-Or thought-provoking theories like Laloux's 5 Organizational Structures, Diffusion of Innovation, and Cynefin domains.
-
-And though I did learn more about many practicies at Agile Open Northwest this year like:
-  * TDD's red-green-refactor-integrate
-  * TDD's evolution into approval testing
-  * The roles of effective Ensamble Programming
-  * The 6-minute crafter screener
-  * The value of visualizing how we work - not just the work we do
-  * ... and more
-
-This years theme was "Grow with the Flow: Cultivate Agility with Continuous Learning." A theme which invited a more meta conversation about agility, how we get it, and how we keep it.
-
-### Key personal learnings
-
-* Focus on throughput, not utilization.
-* High performance teams are happy teams.
-* Don't be dogmatic.
-* Lead through credibility.
-* Fluid / Dynamic reteaming.
-* Visualize how we work - not just the work.
-* The mission of a team is to monetize customer value.
-* Ensamble Programming: how to, roles, and recommendations.
-* Enabling agility by maximizing the amount of work not done.
-* Done over started: avoiding the capability trap.
-* Red vs Blue: Taylorism isn't effective in the Complex Cynefin domain.
-* Useless queues and inventory
-* Tiny Improvements Habit.
-* Metrics drive culture.
-* Write down your working agreements in GitHub.
-* Forget estimates, just pick the most interesting thing
-* Capabilities > roles.
-* Learning is part of doing.
-* Anti-agile movement.
-* Woody's Huristics on the agile left over rights
-* Agile Maxims by Woody Zuill
-* Successful communications: trust, but verify.
-* Ineffective collaboration
-* How to influence without authority
-* Companies either adapt or stagnate
-* Learning gives you options.
-* Continuous systems improvement
-
 ## Key Takeaways
 
 * Focus metrics on the throughput of work at the team level, not the utilization of individuals. Having more hands on keyboards creates more activity making utilization metrics look good, but, it does not deliver value faster to customers. Instead, focus on reducing cycle time by creating slack in the system so people are waiting to jump on the next most valuable thing instead of adding to the cost of delay because they are too busy.
