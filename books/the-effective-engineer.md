@@ -35,7 +35,7 @@
 * Pair new hires with existing hires for 2-3 months to facilitate effective onboarding and learning of how the organization runs.
 * Reoccuring Tech Talks + Codelabs (workshops + homework) to teach and validate comprehsion of core systems to grow collective understanding.
 
-#### Use Leverage as your yardstick for effectiveness
+##### Use Leverage as your yardstick for effectiveness
 
 * `Leverage = Impact Producted / Time Invested`
 * Leverage is a way to measure Return on Investment (ROI)
@@ -48,7 +48,7 @@
 * Pair programming is a minor investement to drive alignment and really onboard people quickly.
 * Startup success depend more on the team then the capabilities of any one single person, so effective onboarding is a high leverage activity.
 
-#### Increase your leverage in three ways
+##### Increase your leverage in three ways
 
 How to increase leverage:
 1. By reduciing the time it takes to complete a certain activity (Woody Zuill: make the work easier)
@@ -62,12 +62,54 @@ Questions to increase leverage:
 
 * Going through the motions does not mean value is being produced.
 
-#### Direct Energy towards leverage oints, not just easy wins
+##### Direct Energy towards leverage oints, not just easy wins
 
 * High leverage activities are not always quick easy wins, sometimes they require consistent effort over long periods of time to drive high leverage.
 
-#### Key takeaways - part 1
+##### Key takeaways - part 1
 
 * Use leverage to measure your engineering effectivness.
 * Systemtically increase the leverage of your time.
 * Focus your effort on leverage points.
+
+#### Optimize for learning
+
+* "Optimizing for learning is a high-leverage activity for the effective engineer ..."
+* "... a growth mindset is a prerequisite for improving our abilities."
+
+
+##### Adopt a growth mindset
+
+* Connecting with others opens more opportunities than going alone.
+* "... how we view our own effectiveness impacts how much effort we invest in improving it."
+* "The students who were taught about the nature of intelligence and how it could be increased through experience and hard work saw their math grades improve over the year."
+  * How can we incorporate such messaging into our team language?
+* "own your story"
+* Growth mindset: believe capabilities can improve; fixed indset: believe capabilities are fixed.
+* "... [take] control of the parts of [your] story that [are] within [your] sphere of influence."
+* "... optimize for exeprience where you learn rather than for experience where you effortlessly succeed."
+
+##### Invest in your rate of learning
+
+* Compound interst is a modern marvel
+* Learning is compounding
+  1. The more you learn today, the easier it is to learn new stuff more quickly tomorrow
+  2. Invest in learning early - just like retirement
+  3. Small deltas in personal learning lead to huge difference in the long run
+* Reference: Delivering Happiness (Zappos CEO)
+* Improving by 1% every day is a high leverage investment
+
+##### Seek work environments conductive to learning
+
+* When choosing a new job, look for
+  1. Fast growth creates more opportunities to grow personally
+  2. Training / effectove onboarding "... indicates the team prioritizes professional growth."
+    * "What new things have team members learned recently?"
+  3. Openness to continous improvement by seeking feedback
+  4. Faster pace from idea to delivery gives you more opportunities to learn
+  5. People around you are more important for learning than the work you end up doing
+  6. Autonomy enables you to learn more quickly because you can choose the areas you want to learn more about rather than being assigned something.
+
+  ##### Dedicate time on the job to develop new skills
+
+  * TODO
