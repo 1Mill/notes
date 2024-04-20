@@ -4,6 +4,8 @@ LINK
 
 ## Key Takeaways
 
+* [Nurturing Innovation through Continuous Learning](https://erik-ekberg.medium.com/nurturing-innovation-through-continuous-learning-deda0cbd3a57)
+
 * Focus metrics on the throughput of work at the team level, not the utilization of individuals. Having more hands on keyboards creates more activity making utilization metrics look good, but, it does not deliver value faster to customers. Instead, focus on reducing cycle time by creating slack in the system so people are waiting to jump on the next most valuable thing instead of adding to the cost of delay because they are too busy.
 
 * High performance teams are happy teams with high emotional intelligence and psychology saftey.
