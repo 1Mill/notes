@@ -110,6 +110,46 @@ Questions to increase leverage:
   5. People around you are more important for learning than the work you end up doing
   6. Autonomy enables you to learn more quickly because you can choose the areas you want to learn more about rather than being assigned something.
 
-  ##### Dedicate time on the job to develop new skills
+##### Dedicate time on the job to develop new skills
 
-  * TODO
+* It is easy to fall into the Capability Trap because of all the work teams need to get done, so they are always trying to catch up: never improving or learning.
+* Carve out 20% time to learn (Woody Zuill think it should be 50%) in 1-2 daily hour chunks
+* Use team to learn more about the work
+  * Improve at tooling
+  * Improve understanding of domain
+  * Improve at neighboring disciplines
+* To get better at a skill, you need do to rote learning of the basics - you can't just jump into complex topics and expect to be efficient if you don't know the basics.
+  * What the basics are change from discipline to discipline.
+  * Reading about is not the same as skills in a skill, technique, etc.
+* "... interleaved practice of different skills i more effective then repeated, massed practice of a single skill at prepairing people to tackle unfamiliar problems."
+  * [Interleaved practice](https://psychology.ucsd.edu/undergraduate-program/undergraduate-resources/academic-writing-resources/effective-studying/other-learning-techniques.html#:~:text=Interleaved%20practice%20%E2%80%93%20when%20you%20are,B%20on%20the%20next%2C%20you): "when you are learning two or more related concepts or skills, instead of focusing exclusively on one concept or skill at a time, it can be helpful to alternate between them"
+* "Create learning opportunities out of your 20% time ..."
+
+##### Always be learning
+
+* "... continual learning is injextricably linked with increased hapiness."
+* Invest in these areas
+  * Learning new programing languages or frameworks
+  * Invest in skills thare are in high demand
+  * Read books
+  * Join a discussion group
+  * Attend talks, conference, meetups
+  * Biuld and mtain a strong network of relationships
+  * Follow bloggers who teach
+  * Write to teach
+  * Tinker on the side
+  * Pursue what you love.
+* Reading book is a high leverage investment because you learn from others who already have the experience so you don't have to start from the ground up and rediscover the wheel.
+* Networking creates more opportunities for lucky encounters
+
+##### Key takeaways
+
+* Own your story: focus on chages within your sphere of influence / control; don't spend too much energy on area's you can't control
+* Don't shortchange your learning rate: the more you learn, the easier it is to learn more in the future; learning is compouding
+* Find work environments that can sustain your growth
+* Capitilize on opportunities to improve technical skills at work: learn from the best within the org.
+* Locate learning opportunities outside of work: strive to become 1% better every day
+
+#### Prioritize Regularly
+
+* TODO
