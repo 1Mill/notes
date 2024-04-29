@@ -51,14 +51,14 @@
 ##### Increase your leverage in three ways
 
 How to increase leverage:
-1. By reduciing the time it takes to complete a certain activity (Woody Zuill: make the work easier)
-2. By increasing the output of a particular activity (Woody Zuill: make the work effortless)
-3. By shifting to higher-leverage activities (Woody Zuill: Make the work unnessesary)
+    1. By reduciing the time it takes to complete a certain activity (Woody Zuill: make the work easier)
+    2. By increasing the output of a particular activity (Woody Zuill: make the work effortless)
+    3. By shifting to higher-leverage activities (Woody Zuill: Make the work unnessesary)
 
 Questions to increase leverage:
-1. How can I complete this acivity in a shorter amount of time?
-2. How can I increase the value prduced by this activity?
-3. Is there something else that I could psend my time on that would poduce more value?
+    1. How can I complete this acivity in a shorter amount of time?
+    2. How can I increase the value prduced by this activity?
+    3. Is there something else that I could psend my time on that would poduce more value?
 
 * Going through the motions does not mean value is being produced.
 
@@ -76,7 +76,6 @@ Questions to increase leverage:
 
 * "Optimizing for learning is a high-leverage activity for the effective engineer ..."
 * "... a growth mindset is a prerequisite for improving our abilities."
-
 
 ##### Adopt a growth mindset
 
@@ -104,7 +103,7 @@ Questions to increase leverage:
 * When choosing a new job, look for
   1. Fast growth creates more opportunities to grow personally
   2. Training / effectove onboarding "... indicates the team prioritizes professional growth."
-    * "What new things have team members learned recently?"
+      * "What new things have team members learned recently?"
   3. Openness to continous improvement by seeking feedback
   4. Faster pace from idea to delivery gives you more opportunities to learn
   5. People around you are more important for learning than the work you end up doing
