@@ -153,4 +153,87 @@ Questions to increase leverage:
 
 #### Prioritize Regularly
 
+* Focus on how customers flow into and out of the product to maximize ROI.
+* "Even small 0.5% wins in key areas can compound like interest and add a million users down the line."
+  * Reminders me of Duo Lingo's culture about learning fast by experimenting fast
+* Working on the wrong items not only returns 0 compounding interest - it eats up opportunity cost setting you back
+  * Small, incremental bets over large changes.
+* Reprioritization is a high level activity
+
+##### Tackel to-dos in a single, easily accessible list
+
+* Checklists eliminate large chunks of avoidable errors - so have a check list of everything that needs to get done
+* Human brain is optimized for processing information, not storing information
+* Garbage data in, get garbage data out for estimates, predicted ROI, etc.
+* Better to do and learn over trying to predict the future and doing nothing (or very little)
+  * How much waste in estimates?
+* Continously ask "Is there something else I could be doing that's higher leverage?"
+
+##### Focus on what directly produces value
+
+* Time and effort do not equal profitable customer value.
+* Prioritize the ideas which feel like they will produce the most value for the least amount of effort
+  * Building this feeling is a high leverage activity
+
+##### Focuson the important and non-urgent
+
+* "We let life's daily interruptions, rather than our priorities, dictate our schedules."
+* Urgency is not the same thing as important - other's peoples fires don't have to be your fires.
+
+* Urgen + important
+  * Crises
+  * Deadlines
+* Non-urgent + important
+  * Planning
+  * Prevention
+  * Building relationships
+  * Personal development
+
+* Dedicated time to continous learning may be slow at first, but will increase long term effectiveness which out weights initial slowness / investement
+* In your to-do list of taks for a day, label things 1 - 4 for the different quadrants to know what is important vs unimportant and priority
+
+##### Product your maker's schedule
+
+* Achieving flow (as in the state of mind) requires deep focus without distractions
+* 30 minutes is barly enough time for a maker to get started on a task
+* Create large, dedicated blocks for making / doing
+
+##### Limit the amount of work in progress
+
+* Multi-tasking is one thing being worked on and everything else being blocked.
+* Serialize different projects to reduce context switching
+* Focus on done over started
+* Teams not working as teams because they fracture into solo contributors lose slowly lose the same working context making PRs and conversations less efficient.
+  * Competing priorities divide the team and the lowest bandwith common element becomes a bottleneck.
+
+##### Fight procrastination with if-then plans
+
+* If-then planning ahead of time to fight of procrastination so big and important things can be meaningfully tackled, even if just in smaller chunks.
+
+* In a to-do list, give each task a number representing how many 25 minute chunks are predicted to complete that task
+  * Done
+    * [1] Review tasks for today
+    * [1] Check with team on results from last weeks UI expeirment
+  * Doing
+    * [2] Investigate and fix bug
+  * Today
+    * [6] Prototype expeirment for new UI
+  * This week
+    * [6] Write first draft of article
+
+* Spend one chunk Daily to review and set the to-do list for that day.
+* Spend one chunk on Friday to reflect on the week, and outline opportunities for next week.
+
+##### Key takways
+
+* Write down and review to-dos.
+* Work on what directly leads to value.
+* Work on the important and non-urgent.
+* Reduce context switches.
+* Make if-then plans to combat procrastination.
+* Make prioritization a habit.
+
+### Part 2: Execute, execute, execute
+
 * TODO
+
