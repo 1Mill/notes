@@ -237,5 +237,51 @@ Questions to increase leverage:
 
 ### Invest in iteration speed
 
-* TODO
+* Continuous deployment (CD) reduces the amount of work done and when coupled with CI and automated tests reduces deployment anxiety.
+* Automation and observability lets teams move faster than manual repetition and anxeity.
+* Manual or batched deploys contribute to cycle time.
+* Configuration / feature flags allow teams to deploy unfinished code so that code can be continously integrated
+  * Avoid "merge hell"
+* Effective engineers invest heavily in iteration speed
+
+### Most fast to learn fast
+
+* The faster you can deploy, release, and iterate increase the opportunity to do and learn more.
+* CD lets team focus on small batches and more than likely right where the issue is if something goes wrong.
+
+### Invest in time-saving tools
+
+* Slowing down / create slack in the system to incrementally invest in process improvements such as tooling.
+* Time saved creates opportunities to
+  * Do and learn more
+  * Enable new opportunities not prevously feasible
+* Tools scale across people and teams: having a significant impact on productivity if / when adopted.
+* The cost of switching tools can be high, discouraging adoption: try to make adoption cheap.
+* Avoid the capability trap where you never invest time to improve your process and/or tooling
+
+### Shorten your debugging and validation loops
+
+* Take a step back to reflect and uncover better ways of working
+
+### Master your programming environment
+
+* Pair programming is a great way to learn about shortcuts to improve productivity.
+* "Mastery is a process, not an event"
+* Learn to use hotkeys
+
+### Don't ignore your non-engineering bottlenecks
+
+* Cycle time is composed of many elements, many of them are not code related. When looking to improve, look for the bottlenecks across the entire cycle from idea to done.
+* Seek feedback early and often, even through unofficial channels. Though, this is probably a sign the process is broken to begin with.
+* Projects fail from under communication, (rarely) over communication
+* Be aware of your sphere of influence to know where to invest your time in improvements
+
+### Key takeaways
+
+* THe faster you can iterate, the more you can learn
+* Moving to slowly to avoid mistakes errodes opportunity cost
+* Invest in tooling
+* Optimize your debugging workflow.
+* Master the fundamentals of your craft
+* Take a holistic view of your iteration loop
 
