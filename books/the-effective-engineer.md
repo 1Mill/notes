@@ -30,12 +30,12 @@
 
 ### Part 1: Adopting the right mindset
 
-#### Focus on high leverage activities
+### Focus on high leverage activities
 
 * Pair new hires with existing hires for 2-3 months to facilitate effective onboarding and learning of how the organization runs.
 * Reoccuring Tech Talks + Codelabs (workshops + homework) to teach and validate comprehsion of core systems to grow collective understanding.
 
-##### Use Leverage as your yardstick for effectiveness
+### Use Leverage as your yardstick for effectiveness
 
 * `Leverage = Impact Producted / Time Invested`
 * Leverage is a way to measure Return on Investment (ROI)
@@ -48,7 +48,7 @@
 * Pair programming is a minor investement to drive alignment and really onboard people quickly.
 * Startup success depend more on the team then the capabilities of any one single person, so effective onboarding is a high leverage activity.
 
-##### Increase your leverage in three ways
+### Increase your leverage in three ways
 
 How to increase leverage:
 
@@ -64,22 +64,22 @@ Questions to increase leverage:
 
 * Going through the motions does not mean value is being produced.
 
-##### Direct Energy towards leverage oints, not just easy wins
+### Direct Energy towards leverage oints, not just easy wins
 
 * High leverage activities are not always quick easy wins, sometimes they require consistent effort over long periods of time to drive high leverage.
 
-##### Key takeaways - part 1
+### Key takeaways - part 1
 
 * Use leverage to measure your engineering effectivness.
 * Systemtically increase the leverage of your time.
 * Focus your effort on leverage points.
 
-#### Optimize for learning
+### Optimize for learning
 
 * "Optimizing for learning is a high-leverage activity for the effective engineer ..."
 * "... a growth mindset is a prerequisite for improving our abilities."
 
-##### Adopt a growth mindset
+### Adopt a growth mindset
 
 * Connecting with others opens more opportunities than going alone.
 * "... how we view our own effectiveness impacts how much effort we invest in improving it."
@@ -90,7 +90,7 @@ Questions to increase leverage:
 * "... [take] control of the parts of [your] story that [are] within [your] sphere of influence."
 * "... optimize for exeprience where you learn rather than for experience where you effortlessly succeed."
 
-##### Invest in your rate of learning
+### Invest in your rate of learning
 
 * Compound interst is a modern marvel
 * Learning is compounding
@@ -100,7 +100,7 @@ Questions to increase leverage:
 * Reference: Delivering Happiness (Zappos CEO)
 * Improving by 1% every day is a high leverage investment
 
-##### Seek work environments conductive to learning
+### Seek work environments conductive to learning
 
 * When choosing a new job, look for
   1. Fast growth creates more opportunities to grow personally
@@ -111,7 +111,7 @@ Questions to increase leverage:
   5. People around you are more important for learning than the work you end up doing
   6. Autonomy enables you to learn more quickly because you can choose the areas you want to learn more about rather than being assigned something.
 
-##### Dedicate time on the job to develop new skills
+### Dedicate time on the job to develop new skills
 
 * It is easy to fall into the Capability Trap because of all the work teams need to get done, so they are always trying to catch up: never improving or learning.
 * Carve out 20% time to learn (Woody Zuill think it should be 50%) in 1-2 daily hour chunks
@@ -126,7 +126,7 @@ Questions to increase leverage:
   * [Interleaved practice](https://psychology.ucsd.edu/undergraduate-program/undergraduate-resources/academic-writing-resources/effective-studying/other-learning-techniques.html#:~:text=Interleaved%20practice%20%E2%80%93%20when%20you%20are,B%20on%20the%20next%2C%20you): "when you are learning two or more related concepts or skills, instead of focusing exclusively on one concept or skill at a time, it can be helpful to alternate between them"
 * "Create learning opportunities out of your 20% time ..."
 
-##### Always be learning
+### Always be learning
 
 * "... continual learning is injextricably linked with increased hapiness."
 * Invest in these areas
@@ -143,7 +143,7 @@ Questions to increase leverage:
 * Reading book is a high leverage investment because you learn from others who already have the experience so you don't have to start from the ground up and rediscover the wheel.
 * Networking creates more opportunities for lucky encounters
 
-##### Key takeaways
+### Key takeaways
 
 * Own your story: focus on chages within your sphere of influence / control; don't spend too much energy on area's you can't control
 * Don't shortchange your learning rate: the more you learn, the easier it is to learn more in the future; learning is compouding
@@ -151,7 +151,7 @@ Questions to increase leverage:
 * Capitilize on opportunities to improve technical skills at work: learn from the best within the org.
 * Locate learning opportunities outside of work: strive to become 1% better every day
 
-#### Prioritize Regularly
+### Prioritize Regularly
 
 * Focus on how customers flow into and out of the product to maximize ROI.
 * "Even small 0.5% wins in key areas can compound like interest and add a million users down the line."
@@ -160,7 +160,7 @@ Questions to increase leverage:
   * Small, incremental bets over large changes.
 * Reprioritization is a high level activity
 
-##### Tackel to-dos in a single, easily accessible list
+### Tackel to-dos in a single, easily accessible list
 
 * Checklists eliminate large chunks of avoidable errors - so have a check list of everything that needs to get done
 * Human brain is optimized for processing information, not storing information
@@ -169,13 +169,13 @@ Questions to increase leverage:
   * How much waste in estimates?
 * Continously ask "Is there something else I could be doing that's higher leverage?"
 
-##### Focus on what directly produces value
+### Focus on what directly produces value
 
 * Time and effort do not equal profitable customer value.
 * Prioritize the ideas which feel like they will produce the most value for the least amount of effort
   * Building this feeling is a high leverage activity
 
-##### Focuson the important and non-urgent
+### Focuson the important and non-urgent
 
 * "We let life's daily interruptions, rather than our priorities, dictate our schedules."
 * Urgency is not the same thing as important - other's peoples fires don't have to be your fires.
@@ -192,13 +192,13 @@ Questions to increase leverage:
 * Dedicated time to continous learning may be slow at first, but will increase long term effectiveness which out weights initial slowness / investement
 * In your to-do list of taks for a day, label things 1 - 4 for the different quadrants to know what is important vs unimportant and priority
 
-##### Product your maker's schedule
+### Product your maker's schedule
 
 * Achieving flow (as in the state of mind) requires deep focus without distractions
 * 30 minutes is barly enough time for a maker to get started on a task
 * Create large, dedicated blocks for making / doing
 
-##### Limit the amount of work in progress
+### Limit the amount of work in progress
 
 * Multi-tasking is one thing being worked on and everything else being blocked.
 * Serialize different projects to reduce context switching
@@ -206,7 +206,7 @@ Questions to increase leverage:
 * Teams not working as teams because they fracture into solo contributors lose slowly lose the same working context making PRs and conversations less efficient.
   * Competing priorities divide the team and the lowest bandwith common element becomes a bottleneck.
 
-##### Fight procrastination with if-then plans
+### Fight procrastination with if-then plans
 
 * If-then planning ahead of time to fight of procrastination so big and important things can be meaningfully tackled, even if just in smaller chunks.
 
@@ -224,7 +224,7 @@ Questions to increase leverage:
 * Spend one chunk Daily to review and set the to-do list for that day.
 * Spend one chunk on Friday to reflect on the week, and outline opportunities for next week.
 
-##### Key takways
+### Key takways
 
 * Write down and review to-dos.
 * Work on what directly leads to value.
@@ -234,6 +234,8 @@ Questions to increase leverage:
 * Make prioritization a habit.
 
 ### Part 2: Execute, execute, execute
+
+### Invest in iteration speed
 
 * TODO
 
