@@ -68,7 +68,7 @@ Questions to increase leverage:
 
 * High leverage activities are not always quick easy wins, sometimes they require consistent effort over long periods of time to drive high leverage.
 
-### Key takeaways - part 1
+### Key takeaways
 
 * Use leverage to measure your engineering effectivness.
 * Systemtically increase the leverage of your time.
@@ -224,7 +224,7 @@ Questions to increase leverage:
 * Spend one chunk Daily to review and set the to-do list for that day.
 * Spend one chunk on Friday to reflect on the week, and outline opportunities for next week.
 
-### Key takways
+### Key takeaways
 
 * Write down and review to-dos.
 * Work on what directly leads to value.
