@@ -285,3 +285,60 @@ Questions to increase leverage:
 * Master the fundamentals of your craft
 * Take a holistic view of your iteration loop
 
+### Measure what you want to improve
+
+* Measure customer happiness / delight
+* Long clicks in Google Search results (behavior which indicated a successful search had happened because the user no longer interacted with the search results pages) was a success / deligt indicator
+* Long click metrics over time provided deeper business insights into different types of searches (e.g. news vs food vs actors; is "houston baker" a person or a company search?)
+* Metrics influence which work gets prioritizied.
+* Be skeptical of data integrity
+
+### Use metrics to drive progress
+
+* "If you can't measure it, you can't improve it"
+* Metrics help guard against regression (e.g. is the product or process getting worse over time?)
+* Performance ratcheting: establish a current baseline / status quo, and never let the metric go above that baseline. Ideally, over time through other improvements this baseline slowly decreases.
+
+### Pick the right metric to incentivize the behavior you want
+
+* Make sure the customer metrics align with customer outcomes.
+  * Short clicks at Google mean the search results were bad, long clicks mean the search results were good
+* Metrics influence decisions and behaviors - [Hawthorne effect](https://en.wikipedia.org/wiki/Hawthorne_effect)
+* What you don't measure is just as important
+* Instead of writing 3 hours per day, focus on writing 1,000 words per day creates a change in mindset and behavior.
+* When deciding a metric to use, choose metrics which fulfill all three traits:
+  1. When optimized for, maximizes impact
+  2. Are actionable
+  3. Are responsive and robust
+* Reference: Good to Great
+  * Align all employees around a single metric called the "economic denominator"
+  * Profit per X; what is the X factor that everybody should focus on and improve the most collectively?
+* Vanity metrics don't measure actually customer interactions with the core of the product; actionable metrics should be linkable to feature releases.
+* Responsive metrics tell you if a change was good or bad.
+* Balance responsiveness and robustness - tracking something minute-by-minute is very volitile and unreliable versus perhaps hour-by-hour of month-by-month depending on what you are measuring.
+
+### Instrument everything to understand whats going on
+
+* Instrumentation / product analytics let teams know when things are going wrong and where to look to implement fixes rather than flying blind.
+* Observability helps detect and traige problems which builds confidence in continous deployment practicies.
+
+### Internalized useful numbers
+
+* Have ballpark benchmarks for how your system operates so you know if features, pages, code, etc. are being slow so they need to be optimized or much faster so you can learn how to better optimize other instances.
+
+### Be skeptical about data integrity
+
+* Be wary of P-hacking personally or from others for political purposes
+* Once you compute a metric ask, "Does this make sense?"
+
+### Key takeaways
+
+* Measure your progress
+* Carefully choose your top-level metric.
+* Instrument your system
+* Know your numbers
+* Prioritize data integrity
+
+### Validate your ideas early and often
+
+* TODO
