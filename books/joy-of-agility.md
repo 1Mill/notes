@@ -274,4 +274,64 @@
 
 ### Start minimal and evolve
 
+* Acknowledge you are working in an uncertain environment
+
+### Cheap, minimal Teleportation
+
+* Be fast and frugal - learn fast and cheaply
+* Start with the most cheapest solution to solve a problem, to the point it almost feels like cutting too many corners, then lear.
+
+### Deliver value sooner
+
+* Evolutionary design and delivery - start with one core workflow, and then iterate / expand from there.
+* Seek little-bang releases rather than waiting for big-bang releases to start generating value sooner.
+
+### An evolutionary path
+
+* Desire paths inform where sidewalks need to be built
+* Start with something basic, and then let customer insights inform what you need to build next.
+
+### Being with a primitive whole
+
+* A primitive whole is a basic, immature implementation which fulfills the need.
+* Building piecemeal by sub-parts hopes integrating the sub-parts will be trivial. But, this is rarely the case and is often built without customer insight informing what is and isn't important.
+* Customers must be part of the process to help shape the work / solution.
+* Say no to everything but the essense.
+
+### Birth of an online shoe company
+
+* Start minimally and evolve is cheaper than trying to have the perfect solution right out of the gate.
+
+### The ballroom
+
+* If people are measured on time and under budget, they inflate their timeline and budget (i.e. sandbagging) so they always come in early and under budget.
+* Cross-discipline pair programming significantly helps collaboration and delivering more robust solutions because experts from all disciplines can continously provide feedback early and often.
+* Start with one great success and evolve from there.
+
+### Sketch, craft, refine
+
+* Every sketch lives a short life to help brainstorm ideas and discover what works and what doesn't rapidly.
+* Saftey enables speed.
+* Rapidly sketch out ideas, craft a more fleshed out single solution, and then refine whatever parts need more detail to finish the work.
+* Humans are visual problem solves - so actually visualizing a problem makes us more effective.
+
+### Evoling a new ticketing system
+
+* Start minimal around a single core use case, then experiment, and evolve.
+
+### Birthing a best seller
+
+* Reference: Stop over-engineering
+* Leverage wisdom of the crowd to help write books
+* Don't get a publisher because they will impose a deadline versus communicating the right message
+* Continous learning, continous refinment, and active marketing (e.g. workshops, free manuscripts, free online)
+  * Also doubled to market self as an expert in the field
+
+### Summary: start minimal and evolve
+
+* Don't rush evolution, give yourself time and space to evolve something exceptional.
+* Start with the essense of the core workflow - say no to anything that isn't part of the core.
+
+### Drive out fear
+
 * TODO
