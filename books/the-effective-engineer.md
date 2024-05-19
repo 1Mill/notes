@@ -341,4 +341,24 @@ Questions to increase leverage:
 
 ### Validate your ideas early and often
 
+* Seek feedback early and often by releasing early and often, even just to alpha / beta users.
+* Customer feedback is the most valuable feedback.
+* Optimize workflows / team processes for getting customer feedback
+  * Customer interviews
+  * A/B testing
+
+### Find low-effort ways to validate your work
+
+* The more often you validate you are heading the correct direction, the more decision points you create to address errors, bugs, or know if you are heading in the wrong direction
+* Incorrect assumptions compoud into worse and worse outcomes over longer periods of time
+* Building a prototype is cheaper and provides more valuable insight than building the whole thing and being wrong.
+* Building a fake implemenetation into the product is a great strategy to guage customer interest in some new feature
+
+### Continuously validate product changes with A/B Testing
+
+* Using intuitition to know where to improve, prototypes to understand the improvements and collect early estimates for impact, and then use A/B testing to validate (or invalidate) speculated impact.
+* A/B testing is time intensive, which means expensive - know where and where not to test.
+
+### Beware the one-person team
+
 * TODO
