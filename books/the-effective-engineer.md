@@ -361,4 +361,36 @@ Questions to increase leverage:
 
 ### Beware the one-person team
 
-* TODO
+* Tiny PRs are less risky, easier to review, and easier to fix if going the wrong direction than large PRs.
+* Incentive and team processes often encourage one-person teams owning a single project, even if on paper they belong to a larger team.
+* Other "teammates" don't have context or detaile knowledge to support one-person team projects once that one-person is gone or know how to provide meaingful feedback.
+* Anti-pattern: Hero Programming.
+
+* Strategies to increase the chance for feedback:
+  * Be open and receptive to feedback - don't be defensive.
+  * Commit code early and often - iteratnive progress vs large changes to make feedback more meaningful and easly to get from others
+  * Requst code revies from thorough critics - better to get hard feedback early from peers than customers later
+  * Ask to bounce ideas off your teammates - seek feedback early and often
+  * Design the interface or API of the new system first - the developer experience is just another form of the customer experience wher you are the customer of your own code so make it simple to use.
+  * Send out a design document before devoting your enegy to your code - validate you are solving the right customer problem with the right solutions and to get feedback about forseeable pitfals.
+  * If possible, structure ongoing porjects so that there is osome shared context with your teammates - pair programming, team swarming; focus on the flow of done and successful work, not on the activity of doing the work.
+  * Solicit buy-in from controversial features before investing too much time - get good at office politics to get good at getting buy-in and getting valuable feedback.
+
+* Software development is a team sport, optimize for feedback.
+
+### Build feedback loops for your decisions
+
+* Every decision needs a feedback loop, otherwise you are just guessing and hoping it is working for the best which is often not the case.
+* Run experiments on team processes / with how teams work to uncover better ways of working.
+  1. Form a hypothesis
+  2. Design an experiment
+  3. Think about good and bad outcomes
+  4. Run the experiment
+  5. Review findings
+
+### Key takeaways
+
+* Approach a problem iteratively to reduce wasted effort - make learning cheap.
+* Reduce the risk of large implementations by using small validations.
+* Use A/B testing to continuously validate your product hypotheses.
+* Adopt a willingness to validate your decisions - feedback loops are critical to learning and learning is critical to change.
