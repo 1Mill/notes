@@ -394,3 +394,63 @@ Questions to increase leverage:
 * Reduce the risk of large implementations by using small validations.
 * Use A/B testing to continuously validate your product hypotheses.
 * Adopt a willingness to validate your decisions - feedback loops are critical to learning and learning is critical to change.
+
+### Improve your project estimation skills
+
+* Automated tests via TDD help with deployment axiety and not breaking existing features.
+
+### Use accurate estimates to drive project planning
+
+* Estimates: best guesse around timing created by engineers; Targets: desired buisness goals created by business leaders.
+
+* Strategies
+  * Decomopse the porject into granular tasks of less than 2 days of work
+  * Estimate based on how long tasks will take, not on how long you or someone else wants them to take
+  * Think of estimates as robability distributions, not best-case scenarios.
+  * Let the person doing the actual task make the estimate.
+  * Beware of anchoring bias
+  * Use multiple approaches to estimate the same task
+  * Beware the mythical man-month - adding more people to a project won't speak it up; each person works at a different pace so one perons estimate may be radically differnt than anothers
+  * Validate estimates against istorical data
+  * Use timeboxing to constrain tasks that can grow in scope or may be too open ended (e.g. which database should we use?)
+  * Allow others to challenge estimates
+
+* Visulize projections versus actuals to improve estimations
+
+### Budget for the unknown
+
+* A project taking 5 days does not always equate to next week: it is 5 working days of work, not 5 calandar days from now. Meetings, jury duty, etc. start and stop these working days.
+* Create a conversion rate: 1 engineering day is 2 calendar days to account for interuptions
+
+### Define specific project goals and measureable milestones
+
+* "First, a well-defined goal provides an important filter for separating the must-haves form the nice-to-haves in the task list."
+* Having a well defined goal makes it easy to juxtapose ideas to stay focused
+* Concrete milestones have (1) have a clear goal and (2) have a clear projected calandar date
+
+### Reduce Risk Early
+
+* Start with the riskiest stuff first, not the easiest stuff, to better inform earily projections / estimates.
+* Integrating with sub-systems grows quickly in complexity so edge cases are a common cause of increasing scope and calendar days.
+
+### Approach rewrite projects with extreme caution
+
+* Rewrite projects are some of the riskiest projects.
+* Small, incremental and opinionated milestones are better than doing everything all at once.
+
+### Don't sprint in the middle of a marathon
+
+* Hourly productivity dcreases with each additional hour worked
+* 60+ hours per work for more than 2 months is less productive than just normal 40 hour weeks
+* More hours leads to more burnout.
+* Overtime is often followed up by undertime where people become more lax at work to catch up on life.
+* More communication overhead means less time to work
+* Working fast enocurages technical debt over quality.
+
+### Key takeaways
+
+* Incorporate estimates into the poroject plan - don't let the target dictact the estimate
+* Allow buffer room for the unknown in the schedule
+* Define measurable milestones
+* Do the riskiest tasks first
+* Know the limits of overtime
