@@ -454,3 +454,65 @@ Questions to increase leverage:
 * Define measurable milestones
 * Do the riskiest tasks first
 * Know the limits of overtime
+
+### Balance quality and pragmatism
+
+* Rigid coding practicies discourage quick and dirty prototyping - something that has its pros and cons.
+* High quality code is stable and easy to change, but diminishing returns with being too rigid around coding practicies.
+
+
+### Establish a sustainable code review process
+
+* Code reviews are good for
+  * Catching buts or design shortcomings early
+  * Increasing accountability for code changes
+  * Positive modeling of how to write good code
+  * Sharing working knowledge of the codebase
+  * Increasing long-term agility
+* Dropbox didn't adopt code reviews for their first 4 years
+* There are many ways to do code reviewing (e.g. pair programming, post-merge)
+* Evolve your process to and use automation as much as reasonabily possible for syntax things.
+
+### Manage complexity through abstraction
+
+* Engineergs, and businesses, care about application logic first and foremost.
+* The right abstractions increase engineering productivity
+  * Reduces the complexityf of the original problem into easy-to-understand primitives.
+  * Reduces and centralizes maintenance and future improvements
+  * Solves the hard problem once and makes it reusable.
+* Time saved must be outweighed by time invested - over engineering is wasteful.
+* Building the product is more important for startups than having the perfect tool, especially when building the perfect tool from scratch.
+* Early abstractions may be overfitting for the handful of use cases today - bad abstractions add more friction to the development process.
+* Good abstractions should be
+  * Easy to learn
+  * Easy ot use even without documentation
+  * Hard to misuse
+  * Sufficiently powerful to satisfy requirements
+  * Easy to extend
+  * Appropriate to the audiance
+* Simple abstractions handle one concept; they don't try to juggle multiple concepts.
+
+### Automated testing
+
+* Automated testing scales more simply and cost effectively than manual testing
+* Automated tests reduce deployment anxiety (e.g. did my change break something I am not aware of somewhere else?)
+* Just a few integration tests verifying core workflows continue to work is a high leverage activity
+* Look for strategic tests to start with to reduce cycle time - don't start with the goal of 100% code coverage.
+
+### Repay technical debt
+
+* The feeling / need to ship sooner often creates a lot of technical debt.
+* "Technical debt refers to all the deferred wor that's necessary to improve the health and quality of the codebase and that would slow us down if left unaddressed."
+* With our first implementation we don't have a complete understanding of the problem we are solving, so surviver bias immediately creates technical debt.
+* Take on technical debt iteratively, avoid a whole rewrite which is often doomed to grow.
+
+### Key takeaways
+
+* Establish a culture of reviewing code
+* Invest in good software abstractions to simplify difficult problems
+* Scale code quality with automated tests
+* Manage your technical debt
+
+### Minimize operational burden
+
+* TODO
