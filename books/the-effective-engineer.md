@@ -515,4 +515,63 @@ Questions to increase leverage:
 
 ### Minimize operational burden
 
+* "Shaving time off reoccuring costs frees you to focus on what matters most"
+* Everything from features to infastructure must be maintainted which costs time - make this stuff simple to manage and do.
+
+### Embrace Operational Simplicity
+
+* "Effective engineers focus on simplicity"
+* Always ask: "Is this the simlilist thing" (i.e. iteration, process, etc.) for what we are trying to do?
+
+* Commplex architectures have high upkeep costs
+  * Engineering expertise gets splintered across multiple systems
+  * Increased complexity introduces more potential single points of failure.
+  * New wengineers face steeper learning curve when learning and understanding the new systems
+  * Efort towards improviing abstractions, libraries, and tools get diluted across the different systems
+
+* Scale horizontally by adding more of the same component instead of vertically by adding more complexity.
+
+### Build systems to fail fast
+
+* No nulls - throw errors quickly and often.
+* Surfacing errors fast means they can be addressed faster than failing slowly or silently.
+* Don't fail fast for customers, but be sure to notify engineerings about the error quickly - try to fail gracefully for customers.
+
+### Relentlessly automative mechnical tasks
+
+* Time is our most valuable resource.
+
+* Engineers don't automate for the following resources:
+  * They don't feel like they have the time right now
+  * They suffer from the tragedy of the commons (i.e. bad team structures or company cultures which encourage social loafing over action)
+  * They alck familiarity with automation tools.
+  * They underestimate the future frequency of the task
+  * They don't feel the time savings over a long time horizon (e.g. 10 seconds per task is huge over a 1 year period in productivity)
+
+* Do automate mechanics (e.g. deploying); don't automate decision making (i.e. should I deploy?)
+* Machenics are often easy to automated; decisions are often not easy to automate and can become time sinks because they quickly grow in scope because of the amount of complex intreactions happening with decision making - especially if it isn't part of your customer value
+
+### Make batch processes idempotent
+
+* Idempotence - ability to run multiple times but only apply the expected side-effects once.
+* Reentrantce - ability to run multiple times
+
+* Run scripts early and often to catch failures caused by other changes in the system, even if it is just a dry run.
+
+### Hone your ability to respond and recover quickly
+
+* Netflix has Chaos Monkey which randomly skills severs during working hours so engineers can fix issues during the work week rather than the weekend.
+* Higher leverage activity is to focus on faster recovery rather than preventing bugs
+* "Script for success" - write out a play book for quick recovery
+
+### Key takeaways
+
+* Do the simple things first
+* Fail fast to he pinpoint the source of the error
+* Automate mechnics over decision-making
+* Aim for idempotence and reentrancy
+* Plan and practice failure modes
+
+### Invest in your team's growth
+
 * TODO
