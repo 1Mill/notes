@@ -574,4 +574,23 @@ Questions to increase leverage:
 
 ### Invest in your team's growth
 
+* Engineering leaders are measured more on their impact on others than their individual contributions.
+* Help other succeed - rising tides lift all boats.
+
+### Make hirng everyone's responsibilities
+
+* Make the interview process fun but rigorous
+* Leet code is not real world or practical working expeirence - use better practicies to screen canidates.
+
+* High-leverage interview stratagies
+  * Take time with your team to identify which qualities in a potential team-mate you care about the most (e.g. mastery, debugging, communication, culture fit, etc.) and make sure all are covered in the interview process
+  * Meet regularly to refine interview process
+  * Design interview problems to have multiple layers of difficulty from so you can add and remove layers to make problems easier or harder to guague capability
+  * Control ther interview pace to maintain high signal-to-noise ratios - don't get bogged down in meaningless noise.
+  * Scan for red flags using rapid fire short-answer questions to cover a large surface area of topics
+  * Shadow and/or pair during interview to improve interrater reliability
+  * Use unconventional interview approaches if they help you identify the signals your team cares about
+
+### Design a good onboarding process
+
 * TODO
