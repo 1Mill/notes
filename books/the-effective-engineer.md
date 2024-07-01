@@ -612,5 +612,52 @@ Questions to increase leverage:
 
 ### Share ownership of the code
 
-* TODO
+* A lack of collective code ownership means more bottle necks and more single points of failure.
+* Invest in team learning so the team can maintain the code - not individuals.
 
+* Strategies to encourage collective code ownership:
+  * Avoid one-person teams
+  * Code reviews
+  * Rotate tasks and responsibilities to encourage leveling up / learning
+  * Keep code readable and code quality high
+  * Present tech talks on software decisions and architecture
+  * Document your software in high-level documents or code comments
+  * Document complex workflows or non-obvious workarounds
+  * Invest time in teaching and mentoring other team members
+
+### Build collective wisdom through post-mortems
+
+* Hold post-mortem retrospectives after each project to reflect and learn where you can continue to improve before starting the next project.
+* Share / socialize learnings from retrospectives so other teams can learn from your improvements instead of being doomed to repeat the same lessons.
+* NASA Flight Rules is a tomb of all steps and their reasons for encounting previously encountered problems during space flight - a manifestation of the collective wisdom of the crowd.
+  * Also includes previous project retrospectives - what worked and what didn't; previous experiments ran; etc.
+* Reference: 5 Whys to discover the root cause of a symptom
+* Optimize your process to maximize collective learning.
+
+### Build a great engineering culture
+
+* Empowered engineers get things done, which makes them happier and more productive and translates into retention.
+
+* Great engineering cultures cultivate:
+  * Optimize for iteration speed
+  * Push relentlessly towards automation
+  * Build the right software abstractions
+  * Focus on high code quality by using code reviews
+  * Maintain a respectful work environment
+  * Build shared ownership of code
+  * Invest in automated testing
+  * Allot experimentation time, either through 20%time or hackathons
+  * Foster a culture of learning and continous improvement
+  * Hire the best
+
+* High leverage investments are often the ones which cultivate great engineering cultures which creates an environment for engineers to do great works.
+* Cultivate a great engineering culture through high-leverage investments which makes great works inevitible.
+
+### Key takeaways
+
+* Help the people around you be successful
+* Make hiring a priority
+* Invest in onboarding and mentoring
+* Build shared ownership of code
+* Debreif and document collective wisdom
+* Create a great engineering culture.
