@@ -593,4 +593,24 @@ Questions to increase leverage:
 
 ### Design a good onboarding process
 
+* Investing in people early to be more effectively is a one-time upfront cost that pays for itself in the long run.
+* Building onboarding resources can be amoritized.
+
+* Goals for an onboarding program
+  * Ramp up new engineers as quickly as possible
+  * Impart the team's culture and values.
+  * Expose new engineers to the breadth of fundamentals needed to succeed
+  * Socially integrate new engineers onto the team.
+
+* Core mechanics for onboarding programs
+  * Codelabs - Document outlining key tools, technologies, and abstractions
+  * Onboarding talks - Make sure key tools, technologies, and abstractions are socialized
+  * Mentorship - Pair new hires with senior members to facilitating learning and overall onboarding
+  * Starter tasks - Get new hires familiar with the code and how the organization works starting simple and slowly adding complexity
+
+* Reflect on your own onboarding experiences to know where to improve.
+
+### Share ownership of the code
+
 * TODO
+
