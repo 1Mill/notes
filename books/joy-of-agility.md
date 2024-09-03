@@ -334,4 +334,15 @@
 
 ### Drive out fear
 
-* TODO
+* Innovation comes from environments where it is safe to share and try ideas. So psyhological saftey is critical to innvation.
+* Make it safe to fail; have contigencies / escape hatches. The purpose isn't to be overbearing and know everything before doing anything, but to understand the risks, their possible side effects, and if things are starting to go wrong how to correct / fix them (e.g. rollback, redundency, etc.). Be careful, but don't play it safe.
+* Reference: Stop work authority cards
+* Reference: The cycle of mistrust
+
+### Be resourceful
+
+* As a consultant, don't have one client be more than 1/4 of your business - gives them too much leverage and you too few options if they let you go.
+* Bullet Train Thinking: how Japan achieved 120 mi/hr trains instead of adopting the existing 60 mi/hr trains - be willing to challange the status quo
+* Diligently and contiously ask why something isn't possible in the status quo and how it could be improved to drive innovative thinking / solutions
+  * Moonshot ideas (e.g. 60 mi/hr -> 120 mi/hr trains; 3 deploys per day -> 10 deploys per day)
+* Ensamble programming breeds resilience.
