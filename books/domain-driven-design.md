@@ -61,7 +61,53 @@ LINK
 
 * Models evolve as we learn; sometimes that means even the business problem we started out with changes.
 
-
 ### Communication and the use of language
+
+* Language around the model is critical and informs how people collaborate and how the code is ultimately written.
+* If only a few members of the team know how to bridge the domain <> code gap, they become an information bottle neck (i.e. process smell)
+  * Everybody must understand the model (perhaps to various different levels of detail but collectively nonetheless)
+  * Cost of translation multiplied by risk of misunderstanding is way to high
+* Language should be reflected in the code (i.e. function names match domain rules)
+* Reject the use of any terms or structures that are awkward or inadequate to convey domain understanding
+  * Eliminate ambiguity or inconsistency from the language.
+
+### Modeling out loud
+
+* "When people are talking, they naturally discover differences in interpretation and the meaning of their words, and they naturally resolve those differences."
+* Leverage both audio and visio-spacial capabilities to model domains - writing requirements is a process smell (i.e. information flowing one way) and prone to mis-communication.
+
+### One team, one language
+
+* People are smart and capable of learning (unless proven otherwise) - create a single language that programmers, product owners, etc. use; do not leave room for mis-communication.
+* Languages / models evolve with time, understanding, and nuance - start somewhere and always be willing to evolve.
+* "Multiple languages is often necessary, but the linguistic division should never be between the domain exports and the developers."
+
+### Documents and diagrams
+
+* When in doubt, draw it out!
+* The model is not the design, just a tool to help communicate, brainstorm ideas, and drive alignment.
+
+### Written design documents
+
+* Documents should complement code and speech.
+* XP asks for no documentation; only code which is unambiguous vs written words.
+* "A document shouldn't try to do what the code already does well. The code already supplies the detail."
+* Documents should clarify intent which cannot be communicated cleanly through code.
+* "Documents should work for a living and stay current"
+  * Most documents are short lived snap shots filled with vacation pictures (i.e. if you weren't there you don't get it) which means they fall out of usefulness quickly.
+* "A document must be involved in project activities"
+  * Oudated documents lead to confusion.
+* Don't be afraid to delete documentation.
+
+### Executable bedrock
+
+* Code should communicate intent, but this is not always easy and not always current: ruthlessly refactor to keep things current and expressive.
+
+### Explanatory models
+
+* Keep drawings simple and goal specific; you don't have to describe how the world works.
+* You can visualize the same information in different ways and sometimes those different ways better communicate the intent (e.g. Challenger O-rings)
+
+### Binding model and implementation
 
 * TODO
