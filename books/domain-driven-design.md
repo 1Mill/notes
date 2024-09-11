@@ -110,4 +110,28 @@ LINK
 
 ### Binding model and implementation
 
+* A good model is tightly coupled to the implementedion.
+* "...crucial discoveries always emerge during the design/implementation effort." - design is emergent / evoling
+  * Rarely from the start do you never know all the information you need to complete the work - you discover it along the way.
+* "If the managers perceive analysis [models] to be a separate process, the development team may not be given adequate access to domian experts."
+* There is a difference between thinking how to do something and actually doing something; the "analysis model" is created independently of the code / implementation and does not create opportunities for feedback based on learnings while coding.
+
+### Modeling paradigms and tool support
+
+* Reference: Prolog lanuage for model driven design (competitor to object orientated programming)
+* Domain driven designs have clean interfaces which are easier to unit test.
+
+### Letting the bones show: Why models matter to users
+
+* Try to avoid building meaningless abstractions around common tools / interfaces. Just expose the underlying abstraction to the user or create something new and unique to your domain.
+
+### Hands-on modelers
+
+* Do not silo people; leverage all their expertise / capabilities throughout every aspect of the buisness.
+* Programmers own the model - somebody should not dictate it to them.
+  * Also, the model is influenced by infastructure, deployments, etc. - they are tightly coupled.
+* Require everybody be a generalist, but that doen't mean they can't still be specialized - it just means they somewhat understand the whole picture through hands on practical experience.
+
+### The building blocks of a model-driven design
+
 * TODO
