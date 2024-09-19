@@ -134,4 +134,37 @@ LINK
 
 ### The building blocks of a model-driven design
 
+* Reference: "Responsibility driven design"
+* If domain driven design doesn't feel like it is working, it is likely an issue with the domain model and not the practice.
+
+### Isolating the domain
+
+* In object orientated programming UI, database, UI behavior, and more are often written directly into the object. This often results in requests to change how the UI works to also change how the buiness rules themselves.
+* In a layered architecture, things only depends on things in the same or a lower layer: never a higher layer.
+* Four common layers:
+  * UI / presentation layer - show relevant information
+  * Application layer - cooridnates tasks / delegates work to domain objects to take and resolve requests.
+  * Domain / model layer - the state and rules of the system / product.
+  * Infrastructure layer - technical capabilities to make the above layers work and communicate with each other.
+
+### Relating the layers
+
+* Keep things loosely coupled by using pub-sub models to communicat across layers.
+
+### Architectural frameworks
+
+* Using tools and frameworks which keeps the domain model adaptable to change; sometimes emergent frameworks seem cool but straitjacket an application in the long run.
+
+### The domain layer is where the model lives
+
+* Pitfall of Smart UIs (where business logic exists in both the UI and elsewhere) is that
+  * Business rules must be duplicated across stacks. Those stacks may be frontend Node, frontend Python, backend Go you must replicate the logic in each stack so the only way to reconcile state is ultimiately to hit the database.
+  * Create lock-in - you can't pivot to a new technology without a complete rewrite or starting to adapt a more layed approach.
+
+### Other kinds of isolation
+
+* People will mess up your domain model for the sake of speed, a lack of awareness, or perhaps a different mindset.
+
+### A model express in software
+
 * TODO
