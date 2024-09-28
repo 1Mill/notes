@@ -167,4 +167,21 @@ LINK
 
 ### A model express in software
 
-* TODO
+* "A SERVICE is something that is done for a client on request."
+* Three ways to make associations more tractable:
+  1. Imposing a traversal direction
+  2. Adding a qualifier, effectively reducing multiplicity
+  3. Eliminating nonessential associations
+* A bi-directional association means the objects are tightly coupled and can only be understood together: not independently.
+* Hunt for natural hierachies / traversal directions (e.g. a File belongs to a User)
+
+* "Does the user of the application care if I am the same person I ws at age five?"
+* An ENTITY is an abstract continuitity threading through a lifecycle and even passing through multiple forms.
+  * An ENTITY is consistent and unique to something, even as that something changes.
+  * Example: A customer may change their name, phone number, preferred email address, etc. but the "Customer" ENTITIY in your system should remain the same (but perhaps with updated attributes).
+* ENTITY values, traits, characteristics, attributes, etc. revolve around who the entity is describing / tracking vs the values in the attributes themselves.
+* When an object is distinghuiushed by its identity, rather than its attributes, keep the definition simple and focused on lifecycle continuitity and identity.
+* "The model must define what it means to be the same thing."
+  * E.g. A seat number in a theater is a unique way to identify a physical seat in a theater; this seat number must be unique to the seat.
+
+* TODO: Modeling ENTITIES
