@@ -184,4 +184,34 @@ LINK
 * "The model must define what it means to be the same thing."
   * E.g. A seat number in a theater is a unique way to identify a physical seat in a theater; this seat number must be unique to the seat.
 
-* TODO: Modeling ENTITIES
+* "... the most basic responsibility of ENTITIES is to esatblish continuity ..."
+* An identifying attribute must be unique across the system, even in distributed systems where delays may happen.
+* If an ID attribute is randomly generated, it must be unique and unchaning forever.
+
+* VALUE OBJECTS have no conceptual identity, they instead describe the characteristics of something.
+* VALUE OBJECTS must be immutable, and can only change through full and complete replacement.
+* VALUE OBJECTS can be passed by reference or copy - each has their pros and cons and is influenced by the design of the system (e.g. centralized vs distributed)
+
+* Use denormalizatoin when time is more critical than storage space.
+
+* Domain layers manage state and govern system behavior; application layers make requests to the domain layer (i.e. the application asks the domain authority to do something); both use the infrastructure layer to communicate with each other and do other things (e.g. send emails).
+* SERVICES are stateless versus ENTITIES or VALUE OBJECTS which are stateful.
+* There can be both application or domain services; services is kind of a catch-all for stateless helpers.
+
+* Medium grain services, services wich encapsulate a good chunk of functionality behind an intuiitive interface, are the most ideal - especially in distributed systems.
+* Small grain services require tight coordination which often leak into the application layer to coordinate and creates tight coupling.
+  * Choreography is better than orchestration.
+
+* MODULES (i.e. packages) are abstractions.
+* MODULES should be well named so their intent is clear to keep cognitive load down and code simple to understand.
+
+* Do not let infrastructure or idealistic coding patterns get in the way of developing practical working software.
+* Picking off the beaten patch technologies ois probably not worth the risk or cost to most companies - but sometimes it is the only solution to gain an competitive advantage.
+  * Doing complex statistical analysis is simple in Julia or R vs Ruby; but Ruby is better at general product development then Julia or R.
+* The paradigm influces the model and visa versa.
+  * Try to conform to keep things easy
+  * Always be skeptical and look for compatable alternatives that aren't too far off the beaten path to improve.
+
+### Chapter 6
+
+* TODO
