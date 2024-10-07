@@ -212,6 +212,16 @@ LINK
   * Try to conform to keep things easy
   * Always be skeptical and look for compatable alternatives that aren't too far off the beaten path to improve.
 
-### Chapter 6
+### Chapter 6 - The lifecycle of a domain object
 
-* TODO
+* An AGGREGATE contains an single ENTITY (the root) and a clear boundary.
+  * Things within the boundary should (and ideally cannot) be access by things outside of the boundary.
+* A car is a AGGREGATE ROOT for tires, whereas a car engine might be another AGGREGATE ROOT which is associated with a car depending on who is tracking the engine. Using the tires as an example, a tire manufacturer may care consider a tire an AGGREGATE ROOT for quality purposes, but a local car mechanic would not car too much.
+  * The frame of reference often influences if something is an AGGREGATE ROOT with a global identity vs just a local AGGREGATE within the AGGREGATE ROOT.
+
+* Rules that span multiple AGGREGATES should be expected to be eventually consistent - not always consistent.
+* AGGREGATES can output values / VALUES OBJECTS, but any state changes must be done and permitted through the AGGREGATE interfaces.
+* Maintaining AGGREGATES requires alignment - people will reach in and mess with internals to get their job done quickly.
+
+
+
