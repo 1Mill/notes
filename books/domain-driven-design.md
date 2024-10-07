@@ -223,5 +223,7 @@ LINK
 * AGGREGATES can output values / VALUES OBJECTS, but any state changes must be done and permitted through the AGGREGATE interfaces.
 * Maintaining AGGREGATES requires alignment - people will reach in and mess with internals to get their job done quickly.
 
-
+* FACTORIES encapsulate the creation of AGGREGATES when creating the AGGREGATE itself becomes too complicated.
+* A self-screwing screw is probably too complicated for it's core purpose of holding things together - we acknowledge somebody or something will do the some assembly required part when appropriate.
+* FACTORIES are the responsibility of the domain layer but they are not part of the domain model.
 
