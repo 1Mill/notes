@@ -227,3 +227,12 @@ LINK
 * A self-screwing screw is probably too complicated for it's core purpose of holding things together - we acknowledge somebody or something will do the some assembly required part when appropriate.
 * FACTORIES are the responsibility of the domain layer but they are not part of the domain model.
 
+* FACTORIES are useful when they are encapsulating setup complexity. If they are not encapuslating setup complexity and are merely just wrapping primitive code, perhaps stick with just the raw primitive to avoid unhelpful indirection / abstraction.
+* FACTORY operations must be atomic: all or nothing.
+  * Be consistent in throwing errors or returning null to communicate errors.
+* ENTITY FACTORIES just need the essentials to make a valid AGGREGATE - this has always been my take on FactoryBot factories in Rspec; you can always modify the AGGREGATE later to suit it to your particular use case.
+* When reconstructing an existing ENTITY using a FACTORY, and the existing ENTITY is invalid you must have a way to handle such cases (e.g. handle missing data which is newly required)
+
+* Coupling records tightly via foreign keys or loosely via search is an important design descision and influenced by the domain
+  * E.g. Is a tire a ROOT AGGREGATE or just a sub-AGGREGATE belonging to a car ROOT AGGREGATE? Depends on the frame of reference.
+* Engineers work so frequently at the database it becomes common to fall into the trap that the database is the domain - bypassing models / AGGREGATES.
