@@ -241,3 +241,17 @@ LINK
 * A client calling a REPOSITORY on the backend makes it easy to refactor the implementation without changing the result. Or, change the result without having to modify the client.
 * REPOSITORIES are read-only - let the client dictate when to save, update, create, etc. because they have more context about when those operations are appropriate.
 
+* Look for affinities between the frameworks you are using and domain driven design - but don't constantly fight against the framework because you are only going to make it more difficult on yourself.
+
+* FACTORIES manage the beginning of an object's life (e.g. initialize); REPOSITORIES manage the middle and end (e.g. find, delete).
+* The responsibility of a FACTORY is to initialize, not create, save, or modify database rows - push modifying / managing state up at least one level.
+* When using a relational database, compromise normalization if it helps maintain the structure of objects more simply.
+  * Relational vs Non-relational (i.e. document) databases for DDD?
+* Only REPOSITORIES should be interacting with the database and only external things should be interacting with AGGREGATES - if they start reaching into the database the schema becomes a lot more difficult to change.
+  * Contributes to signficant and growing technical debt - need clear and enforced wedges.
+* "The tradition of refactoring that has increasingly taken hold in the object world has not really affected relational database design much."
+
+
+### Chapter 7 - Using the language: An extended example
+
+* TODO
