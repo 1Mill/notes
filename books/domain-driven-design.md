@@ -236,3 +236,8 @@ LINK
 * Coupling records tightly via foreign keys or loosely via search is an important design descision and influenced by the domain
   * E.g. Is a tire a ROOT AGGREGATE or just a sub-AGGREGATE belonging to a car ROOT AGGREGATE? Depends on the frame of reference.
 * Engineers work so frequently at the database it becomes common to fall into the trap that the database is the domain - bypassing models / AGGREGATES.
+
+* A REPOSITORY is the interface for retreiving and reconstructing ENTITIES (e.g. scopes or Models in Rails)
+* A client calling a REPOSITORY on the backend makes it easy to refactor the implementation without changing the result. Or, change the result without having to modify the client.
+* REPOSITORIES are read-only - let the client dictate when to save, update, create, etc. because they have more context about when those operations are appropriate.
+
