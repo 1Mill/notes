@@ -251,7 +251,6 @@ LINK
   * Contributes to signficant and growing technical debt - need clear and enforced wedges.
 * "The tradition of refactoring that has increasingly taken hold in the object world has not really affected relational database design much."
 
-
 ### Chapter 7 - Using the language: An extended example
 
 * Intentionally try to place logic in one of the four layers: UI, application, domain, or infastructure.
