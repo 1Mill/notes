@@ -254,4 +254,22 @@ LINK
 
 ### Chapter 7 - Using the language: An extended example
 
+* Intentionally try to place logic in one of the four layers: UI, application, domain, or infastructure.
+* Sometimes it is best to manually identify ENTITIES so they can stay consistent across products (e.g. reuse Sales customer ID inside the product for continuitity)
+* "REPOSITORIES are prohibited from interior of AGGREGATE." - page 172
+* Walking through examples is helpful to troubleshoot and make sure the domain / application is going to work as expected.
+  * Event Storming is useful for this purpose as well
+* When you create a copy / duplicate of an AGGREGATE, it should only modify itself: nothing else outside of its boundary.
+
+* "Modeling and design is not a constant forwrd process. It will grind to a halt unless there is frequent refactoring to take advantage of new insights to improve the model and design" - page 177
+  * Radical refactoring
+
+* Visualize ENTITIES, SERVICES, etc. as parts of the domains they belong to: not part of layer they are in.
+  * Data visualization is all about telling a story and often the story with DDD is how things work together.
+* The visualization in DDD is critical to driving alignment and building a ubiquitous language.
+
+* Create SERVICES which translate the needs of one domain into the needs of another domain so that the system can easily interact without needing to worry about the others domain model.
+
+### Part 3 - refactoring towards deeper insights
+
 * TODO
