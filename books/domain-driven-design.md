@@ -269,6 +269,19 @@ LINK
 
 * Create SERVICES which translate the needs of one domain into the needs of another domain so that the system can easily interact without needing to worry about the others domain model.
 
-### Part 3 - refactoring towards deeper insights
+### Part 3 - Refactoring towards deeper insights
+
+* Useful domain models are build through:
+  1. Assuming they are worth while to achieve
+  2. Continuous refactoring derived from insights from domain experts
+  3. Require practice to implement and use effectively
+
+* Test make it safe to refactor code.
+* Micro-refactors encourages understanding the *why* of the code to help facilitate communication
+* Implement continuous collaboration between domain experts and software engineers to uncover undiscovered models which better capture the domain.
+* A well worn glove becomes flexible where the fingers bend; continuously reworking models again and again and again inform where the domain is well understood versus not.
+* Models are the foundation of systems.
+
+### Chapter 8 - Breakthrough
 
 * TODO
