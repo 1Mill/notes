@@ -284,4 +284,13 @@ LINK
 
 ### Chapter 8 - Breakthrough
 
+* The benefits of refactoring are not linear, they are often bursts in the form of breakthroughs in understanding before plateauing again.
+* Walk through examples is a great way to get quick feedback about how a model should work before writing any code.
+* If the domain expert doesn't know what what something is in the technical model, it probably means the technical model is wrong.
+* Radical refactoring requires trust and political will.
+* Use refactoring to crunch knowledge and improve clarity; insights which leads to breakthroughts: don't become paralyzed hunting for them.
+* Breakthroughts feel enlightening!
+
+### Chapter 9 - Making implicit concepts explicit
+
 * TODO
