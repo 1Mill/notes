@@ -293,4 +293,29 @@ LINK
 
 ### Chapter 9 - Making implicit concepts explicit
 
+* Recognizing hidden domain concepts in existing models is a big part of evolutionary design.
+* When the domain expert uses a word not in the design, it is a sign of mis-alignment and an opportunity to dig deeper into this domain / word to fill the gaps.
+* The frame of reference from the domain expert influences how we see and think about the domain space.
+* Books are often domain experts in their subject - use them in place of a person when nessesary.
+
+* Rules that a constraint is distorting the design of the host object:
+  1. Requires data unnessesary to the domain itself (e.g. fetches data from some other aggrigate)
+  2. Related / similar rules appear in multiple places - forcing duplication or inheritance between otherwise unreleated domains
+  3. A lot of design and requirements conversation revolves around the constraints (e.g. when X can do Y) but are hidden around procedural code instead of standalone domain objects or services.
+
+* "SPECIFICATIONS provide a concise way of expressing certain kinds of rules, extricating them from conditional logic and making them explicit in the model." - page 223
+* Rules / SPECIFICATIONS should exist and be enforced at the domain layer always
+  * Don't abstract them away to the application layer where only duplication is the way to enforce SPECIFICATIONS.
+* A SPECIFICATIONS is  a TRUE/FALSE checker to determine if an object does or does not satisfy some criteria.
+* SPECIFICATIONS are a subset of VALUE OBJECTS
+
+* Coupling SQL quiries to REPOSITORIES couples the database schema, which is the responsibility of the domain, making the domain / database schema more difficult to change.
+
+* Always build the frontend first.
+* Don't let good enouht get in the way of perfect.
+* Working software is better than theoretical software.
+* Feedback through early prototypes is often more valuable than theory crafting.
+
+### Chapter 10 - TODO
+
 * TODO
