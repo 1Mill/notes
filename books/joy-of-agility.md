@@ -346,3 +346,48 @@
 * Diligently and contiously ask why something isn't possible in the status quo and how it could be improved to drive innovative thinking / solutions
   * Moonshot ideas (e.g. 60 mi/hr -> 120 mi/hr trains; 3 deploys per day -> 10 deploys per day)
 * Ensamble programming breeds resilience.
+* Reference: Responsibility model
+  * Take responsibility for your learning; don't avoid responsibility.
+* Use opt-in strategies to create high performing teams (i.e. find people who want to try something new); managers often dislike this since they are paid to control.
+* Motivation to change is critical to actually making change stick.
+* People often associate change with loss; strive to associate it with gain to get buy-in.
+* Learned helplessness is difficult to triage, but easier to fix with inititive - moreso if given a helping hand.
+* Coaches help give a new perspective and notice things easily forgotten in the moment by the person doing the action.
+* Groups dig into and understand complexity far greater than any one individual.
+  * In programming, the hard work is thinking and designing: not writing the code; quicker, faster, and more feedback is more valuable than lines of written code.
+* "Achieving higher levels of success often requires us to unlearn the patterns and behaviors that worked for us in the past."
+
+* Reference: Satir's Six stages of change
+  1. Status quo
+  2. Introduction of new element
+  3. Chaos
+      * Strong leadership is required to navigate and mostly push through to see the new element take root; people will want to revert back to the status quo.
+      * Celebrate choas; don't shy away from it - it means things are changing.
+  4. Integration
+  5. Practice
+      * You often become worse before you become significantly better; this is why intentional practice is critical.
+  6. New status quo
+
+* The foundation of profitible software is reliability, utility, and usability. Ensure the foundation is firmly solid before building on top of it with new non-core features.
+* Visualizing problems in the right way significantly helps buy in significantly (e.g. work in progress, customer feedback, system stability, etc.)
+* Mental overload creates stress, stress makes it difficult to properly prioritize and make efficient decisions.
+* "Manage risks early and often"
+* Middle management will often try to preserve the status quo, resisting or ignoring change, because it is easier on them.
+* Reference: Fearless change patterns
+
+### Summary: Be Readily Resourceful
+
+* If little by little change isn't working out; go life-changingly big.
+* Motiviation to change is essential to making change happen.
+* Frame change in the sense of gains, not lose.
+* Being resentful is a sign it is time to become resourceful.
+
+### Conclusion
+
+* Ask yourself these agile mantras daily:
+  1. Are you being quick or hurrying?
+  2. Moving with ease or difficulty?
+  3. In or out of balance?
+  4. Graceful or awkward?
+  5. Adapting or stuck?
+  6. Being resourcesful or resentful?
