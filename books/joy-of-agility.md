@@ -4,7 +4,86 @@
 
 ## Key Takeaways
 
-* TODO
+* Products are built in markets and markets are volatile. Teams who embrace this principle celebrate learning and responding over planning or process. Breaking down barriers to collaboration from moving furnature to extreme programming are a few practicies highly effective teams use to respond to change. At the end of the day, happy customers drive profits and customers are happiest when your product works, so manage risks early and often.
+
+* Hand-offs are a symptom of bad organizational structure. When teams are siloed, they optimize their process for their own work making hand-offs inevitable. Well structured teams should be able to deliver end-to-end value from conversations with customers to reliable working software. This mean breaking down barriers to collaboration, particularly across disciplines. Instead, organizations fixate on optimizing hand-offs: trying to treat the symptom instead of the deeper rooted issue.
+
+* Learned helplessness is prevelent and often only changed through responsibility. An individual's responsibility to make themselves better, a managers responsibility to make people happier, or a team's responsibility to make customers delighted are but a few examples. But overcoming learned helplessness is difficult because it is reinforced by company culture past or present. Foster a culture of habitual excellence by striving for "yes" to all of these questions:
+  1. Am I treated with respect and dignity every day, regardless of race, pay, gender, rank, etc.?
+  2. Am I given the support, training, resources, etc. so I can contribute to this organization ina  way that brings meaning to my life?
+  3. Am I recognized by somebody everyday who's judgement I value?
+
+* Culture is more important than strategy. If the culture is bad, good ideas will never be heard and bad ideas will never be critiqued.
+
+* Teams are the smallest unit of accountability and understand complex systems significantly better than individual people. Leverage the wisdom of the crowd to seek rapid feedback around product and code design. At the end of the day, writing code isn't the bottleneck to profitability for most companies: it is finding a niche in the market.
+
+* Encourage change through volunteerism / the principle of attraction. It is much easier to experiment and learn from new ideas of the people participating are likeminded. However, these improvements are often small in size and may not safe a company. Sometimes, big life changing change must happen and it can only happen through decree: a mandate only sustained through political will.
+
+* Ask yourself these agile mantras every day:
+  1. Are you being quick or hurrying?
+  2. Moving with ease or difficulty?
+  3. In or out of balance?
+  4. Graceful or awkward?
+  5. Adapting or stuck?
+  6. Being resourcesful or resentful?
+
+### Key notes
+
+* Bureaucracy inhbits reponse time, but the clock has already started on cycle time.
+* Agility is about adaptation to new situations and market conditions.
+* When fearful, people hesitate to act which inhibits agility.
+
+* Agile mantras:
+  1. Be quick, but don't hurry.
+  2. Be balanced and graceful.
+  3. Be poised to adapt.
+  4. Start minimal and evolve.
+  5. Drive out fear.
+  6. Be readily resourceful.
+
+* Close, frequent collaboration with customers and peers increases agility.
+* Always consider 3 options before acting on something.
+
+* "Be the best at getting better" at
+  * Deployment frequency (DF)
+  * Lead Time to Change (LTTC)
+  * Mean Time to Recovery (MTTR)
+  * Change Failure Rate (CFR)
+
+* Aversion to "speed" is often a learned habit from managers choosing "speed" over "quality"; being hasty is not being agile.
+* Overstressed organizations focus so much on trying to be efficient they lose sight on how to be efficient. Also, efficency is the antithesis of innovation; economies of scale do not happen over night. To innovate, people need to collaborate and reflect.
+* Activity without acheivement is just keeping people busy. Instead, focus on making customers happy at the expence of activity.
+* Siloed teams or people focus on and optimize their process for their own work. This makes working with other teams difficult and oftens resluts in optimizing for hand-offs between teams instead of breaking down barriers to more efficient collaboration.
+
+* Caring deeply for people will bring out their best. So foster a culture of habitual excellence by getting "yeses" for all of these questions:
+  1. Am I treated with respect and dignity every day, regardless of race, pay, gender, rank, etc.?
+  2. Am I given the support, training, resources, etc. so I can contribute to this organization ina  way that brings meaning to my life?
+  3. Am I recognized by somebody everyday who's judgement I value?
+
+* Culture is more important than strategy. If the culture is bad, good ideas will never be heard and bad ideas will never be critiqued.
+* Make conversations easy: make spaces inviting, make people welcoming.
+* Teams are the smallest unit of accountability: not individuals.
+* Encourage change through volunteers / attraction, not by decree. But sometimes change must happen at which point decree is paramount.
+* To invest, you have to experiment and experiments should grow with the size of the company, otherwise you will stagnate.
+* What is obvious to you is often not obvious to others: including your customers. Being a silent observer fills these gaps.
+* Encourage just-in-time conversations.
+* Balanced teams deliver value end-to-end without any external dependencies. Make product ownership a team / collaborative sport and learn from real customers.
+* Acknowledge you are working in an uncertain market and manages risks early and often.
+* Learn fast and cheaply.
+* Desire paths informs where sidewalks need to be built. Do the same with your product: watch real people using it.
+* Sandbagging estimates is a common strategy to come in under time and under budget. But it is a wasteful practice which prioritizes predicability over learning and adapting to market conditions.
+* Humans are visual problem solvers. So visualizing problems like bottle necks, customer journies, or work in progress to us think about solutions.
+* Be careful, but don't play it safe. Undersatnd the risks and their possible side effects and then how to rollback. Trying to mitigate every risk is slow. If things are going really wrong, try using Stop Work Authority Cards.
+* Bullet train thinking: challange the status quo and include a diverse range of experts to drive innocation.
+* Groups dig into and understand complexity far greater than any one person.
+
+* Ask yourself these agile mantras every day:
+  1. Are you being quick or hurrying?
+  2. Moving with ease or difficulty?
+  3. In or out of balance?
+  4. Graceful or awkward?
+  5. Adapting or stuck?
+  6. Being resourcesful or resentful?
 
 ## Notes
 
@@ -15,7 +94,7 @@
   * Stand for one distinctive thing that will give you a competative advantage.
   * The Fear of Positioning: Companies are often afraid to stand for one thing since that means not standing for multiple other things
   * To broaded your appeal, narrow your position.
-* Author shifted focus from offering multiple product services to being "the XP consultancy": Industrial Logic's now single that was making them the most money.
+* Author shifted focus from offering multiple product services to being "the XP consultancy": Industrial Logic's now single focus that was making them the most money.
 
 * Organizations often suffer from too much buracracy which inhibit competition with more nimble competitors.
 * Being agile lets people (and companies) simply adapt to the real environment in which the people are working in with little overhead.
@@ -142,7 +221,7 @@
 * Have customer-centric metrics. A customer does not care about MMR, but they do care about the time to resolve their problem.
 * Respond rapidly to people to build and maintain trust.
 
-* Widsome of the crowd / crowd sourcing knowledge is a powerful tool.
+* Wisdom of the crowd / crowd sourcing knowledge is a powerful tool.
 * Avoid unnessesary rules, regulations, etc. to remain adaptable.
 
 * Experiential learning accelerates learning
@@ -191,7 +270,7 @@
 
 * Make it safe to fail.
 * Recognize and actively improve unsafe working conditions (e.g. being able to delete production datebase without much thought)
-* Focus on improving the environment in which people are working rather than blaming people foreasy mistakes they make (rather easily) in the environment they are working in.
+* Focus on improving the environment in which people are working rather than blaming people for easy mistakes they make (rather easily) in the environment they are working in.
 
 * Culture eats strategy for breakfast.
 * Safey to fail means safey to learn, safey to innovate, and safey to create.
@@ -279,7 +358,7 @@
 ### Cheap, minimal Teleportation
 
 * Be fast and frugal - learn fast and cheaply
-* Start with the most cheapest solution to solve a problem, to the point it almost feels like cutting too many corners, then lear.
+* Start with the most cheapest solution to solve a problem, to the point it almost feels like cutting too many corners, then learn.
 
 ### Deliver value sooner
 
