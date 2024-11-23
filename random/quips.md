@@ -3,6 +3,7 @@
 ## Knowledge and responsibility
 
 * "When attemping any challenging endeavor, you need someone with the right knowledge who will also take responsibility for getting things right. That is what you need to battle the inherent chaos and disorder of the universe. Otherwise, what you get is disaster."
+* Amelia Earhart lost her radio man, and probably through hubris, crashed into the ocean because of a lack of expert radio knowledge. Ship captians knew better, but never correct Earhart for whatever reasons, defering perhaps to her perceived expertise.
 * <https://www.youtube.com/watch?v=zTDFhWWPZ4Q>
 
 ## Perfect Customer Needs Statement
