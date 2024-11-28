@@ -4,7 +4,9 @@
 
 ## Key Takeaways
 
-* TODO
+* Business Capability Centric (BCC) teams are able to "think-it, build-it, run-it" with zero external dependencies. BCC teams are cross-functional outcome-orientated teams which drive profitability through innovation and responsiveness to the market rather than efficiency like activity-orientated teams. BCC should be supported through long-term capability funding models versus short-term project-based funding models. Long-term committments encourage long-term thinking so the product remains in a stable and clean state.
+
+* There are two types of BCC teams: strategic and utility. Strategic teams hunt for new opportunities in the market to drive profits. Alternatively, utility teams are more focused within keeping the lights on to provide the company with some sort of well established capability (e.g. payment processing). Both the structure, funding, and mission of BCC teams derive from some heirarchy above. It is critical for this heirarchy to not let these teams go derelict as it will probably cause problems for the organization.
 
 ## Notes
 
