@@ -316,6 +316,42 @@ LINK
 * Working software is better than theoretical software.
 * Feedback through early prototypes is often more valuable than theory crafting.
 
-### Chapter 10 - TODO
+### Chapter 10 - Supple Design
+
+* "A lot of overengineering has been justified in the name of flexibility." - p. 244
+* Code servers two user profiles: paying customers and software engineers.
+* Most designs start of rigid and evolve along with new uses cases - wait and response to those real signals before re-working.
+  * A glove bends becomes flexible where the fingers bend - not where it doesn't - because of real feedback.
+* Naming is critial to making the intent, side-effects, etc. of code clear and should confirm to the ubiquitous language; these are called INTENTION-REVEALING INTERFACES.
+
+* Queries read state, commands modify state; side-effects are unexpected commands. Avoid side-effects as much as possible through clear naming conventions.
+* "... easy to test" is a sign of good code design
+* Strive to get away from understanding through inspection (e.g. looking at the code to understand what is happening) and instead strive for understanding through naming.
+
+* The contract-mindset uses ASSERTIONS which are split into pre- and post-conditions. Pre-conditions are what state is verified before performing the lynch-pin commit, whereas post-conditions are the contracted state the system should now be in after. This makes things easier to test because the ASSERTION is only performed if the pre-conditions are meet, so tests just guard against the pre-conditions and ensure the post-condition is meet if all pre-conditions are happy.
+
+* "... modifying arguments is a particularly risky kind of side effect anyway." - p 257
+  * This has caused sooo many issues in the past because you have no idea where state is being set and modified. Instead, I recommend forcing the parent / client / consumer to pass through all the arguments they care about. In practice, this means rarely setting defaults because defaults assume you know the intent of the parent / client / consumer which is a coin flip.
+
+* Don't apply arbitrary rules to your SERVICE OBJECTS or other models - make them as large or as small as they need to be to encapsulate a meaningful behavior.
+* "CONCEPTUAL CONTOURS emerge as the code is adapted to newly understood concepts or requiements" - p 260
+
+* Every concept software engineers have to maintain in working memory increases cognitive load which is a finite resource. The intent of many coding practicies is to reduce this cognitive load as much as possible on engineers working in the code.
+
+* CLOSURE OF OPERATIONS
+  * 1 + 1 = 2 (i.e. addition with Integers returns another Integer)
+  * If you perform an operation on a model, VALUE OBJECT, etc. try and strive to return the same thing (e.g. valueObject.someAction => newValueObject)
+
+* Closure, iterators, etc. are all about reducing cognitive load on software engineers so software engineers can keep large models and their actions in chunked in their brain versus having to know all the tiny implementation details.
+
+* Adding, removing, or re-ordering rules (e.g. early returns) can often have unexpected and un-tested consequences.
+* Frameworks are often opinionated to make some sort of boiler plate easier on software engineers, but at some point they also run into limitations like they are not easy to extend for a new use case.
+
+* The ability to create and combine SPECIFICATIONS (i.e. simple rules for a domain) to create new SPECIFICATIONS (i.e. CLOSURE OF OPERATIONS) makes it easier to do Declaritive Designs.
+* Rules based SPECIFICATIONS lend themselves to stacking / composition easily.
+
+* Take domains on one at a time: "it is more useful to make a big impact on one area, ... then to spread your efforts thin." - p 283
+
+### Chapter 11 - TODO
 
 * TODO
