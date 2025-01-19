@@ -352,6 +352,15 @@ LINK
 
 * Take domains on one at a time: "it is more useful to make a big impact on one area, ... then to spread your efforts thin." - p 283
 
-### Chapter 11 - TODO
+### Chapter 11 - Applying analysis patterns
+
+* Familiarity with the domain and recurring patterns across domains makes one an expert in those patterns.
+* Patterns are easier to communicate through metaphors or examples.
+* Supple design / evolutionary design requires iterations - which means refactoring and reworking; you are never going to get it right the first time.
+
+* When using patterns, it is recommended to adapt the language of the pattern to your domain. It is more important to be clear what is happening by using the ubiquitous language versus more abstract pattern lanuage.
+* Analysis Patterns focus on trade offs, and often emphasizing downstream consequences which may be expensive if discovered too late.
+
+### Chapter 12 - Relating design patterns to the model
 
 * TODO
