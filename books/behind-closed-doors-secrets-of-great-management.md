@@ -16,4 +16,9 @@
 
 ### Introduction
 
+* Managers amplify the work of others - so bad managers often have unrealized productivity.
+* People often leave bad managers, churning highly productive or highly motivated workers while keeping the rest.
+
+### Week one
+
 * TODO
