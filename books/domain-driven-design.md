@@ -363,4 +363,52 @@ LINK
 
 ### Chapter 12 - Relating design patterns to the model
 
+* Domain models are business motivated, not technically motivated. Domain models encapsulate technical processes so that people don't have to think about what that technical processes unless they are actively working inside that domain. For example, I don't want to know the technical process to send an email: I just want to hit send.
+* A STRATEGY / POLICY pattern "... factors apart a rule and the behavior it governs." - p. 312
+  * STRATEGIES / POLICIES sound like configs which are passed into domain models
+  * STRATEGIES / POLICIES allow multiple configs to be experimented with in parellel
+* STRATEGIES / POLICIES are stateful but that state can be safe in a database or just a normal static file depending on your use case.
+* This is a different usage of the word POLICIES than how Event Storming uses it.
+
+* Bad domain models require constraints to be duplicated.
+* A COMPOSITE is a has-and-belongs-to-many relationship with the same model. For example, Route A may have start point A1 and end point A2 and Route B may have start point B1 and start point B2 whereas Route C is composed of Route A and Route B starting at A1 -> A2 -> B1 -> B2.
+* A COMPOSITE may be composed with other COMPOSITES of the same type to create a new COMPOSIT of the same time. For example, Route A + Route B = Route C
+
+### Chapter 13 - Refactoring towards deeper insight
+
+* Focus on:
+  1. Live in the domain
+  2. Keep looking at things a different way
+  3. Maintain an unbroken dialog with domain experts
+
+* Hunt for missing concepts or relationships in the domain layer
+* Try, try, and try again.
+* When you get something worth trying do it!
+
+* Productivity tips:
+  1. Self-determination - let the process take as much or little time as natural
+  2. Scope and sleep - place long breaks in between conversations so people can think about ideas
+  3. Excersising the UBIQUITOUS LANGUAGE - involve domain experts and trial-and-error using the language before coding anything
+
+* Use existing knowledge or patterns to get a leg up instead of always starting from scratch.
+
+* Code is as much for customers as it is for other software engineers.
+* "Continous refactoring has come to be considered a 'best practice', but most project teams are still too cautious about it." - p. 324
+* It is easy to see the costs of refactoring in terms of hours spent while it is difficult to see the cost of working around not-refactored code.
+* Needing to make a business case for refactoring often just drive refactoring underground or ensuring it doesn't happen at all - it should just be a practice engineers are empowered to do.
+
+* When to refactor:
+  * The design does not match the team's current understanding
+  * Implicit concepts can be made explicit
+  * An opportunity to make an important part of the design suppler
+
+* "Don't introduce 'suple designs' that are just demonstrations of technical virtuosity but fail to cut to the core of the domain"
+  * Let the domain evolve, don't over engineer - respond to real signals, not imaginary or wishful ones.
+* Don't build a domain model which you have to force experts to adopt - adapt to the domain exports.
+
+* Refactoring occassionally goes through ah-ha moments when new insights are discovered which completely change the domain model, but more often than not it is stable and small incremental improvements to improve the design of the system. It is these incremental improvements which lead to these often unexpected ah-ha moments of change.
+
+
+### Chapter 14 - TODO
+
 * TODO
