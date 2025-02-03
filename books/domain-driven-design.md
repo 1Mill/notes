@@ -408,7 +408,74 @@ LINK
 
 * Refactoring occassionally goes through ah-ha moments when new insights are discovered which completely change the domain model, but more often than not it is stable and small incremental improvements to improve the design of the system. It is these incremental improvements which lead to these often unexpected ah-ha moments of change.
 
+### Part 4 - Strategic design
 
-### Chapter 14 - TODO
+* "... domain-driven design does not produce models unconnected to the implementation" - everything is an implementation detail!
+
+### Chatper 14 - Maintaining model integrity
+
+* People will often take the shortest path to finish their job, which may make your job harder. Sometimes, this is mutiliating an otherwise stable domain model.
+* UNOFICATION: where a model is so complete it does not contain any contradictions or ambiguity - in reality there are always gaps.
+* "... model divergences are likely to come from political fragmentation and differing management priorities as from techincal concerns." - p 333
+* A BOUNDED CONTEXT is a slice of the UBIQUITOUS LANGUAGE and encampsulates a model and how it relates to other models.
+  * Draw it out, keep it updated!
+
+#### BOUNDED CONTEXT
+
+* Cells exists in biology because their membranes define what is in, what is out, and what can pass - like a BOUNDED CONTEXT
+* Lack of communication and alignment leads to models diverging.
+* How to keep a model clean: (1) define a BOUNDED CONTEXT, (2) keep the model strictly consistent within that BOUNDED CONTEXT.
+* It is better to have multiple slightly similar models than having one huge unstable model with a lot of conflicting or conditoinal rules.
+* Being specific with model naming makes it cleare the intent / BOUNDED CONTEXT of the model (e.g. Voyage Booking vs Rental Car Booking vs Booking)
+* FALSE COGNATES: two or more people using the same term and thinking they are talking about the same thing - but in realty they mean different things
+
+#### CONTINUOUS INTEGRATION
+
+* Defining a BOUNDED CONTEXT too small often isn't worth the effort - it is an art to figure out what is large enough to be a meaningful and practical BOUNDED CONTEXT.
+* Reference: Extreme Programming (XP)
+* Practicies to reduce model splintering / fragmentation:
+  1. Reproducible builds
+  2. Automated tests
+  3. Rules which plance an upper limit time limit on unintegrated changes (e.g. 2 hours, 1 day)
+  4. Constant exercise of the UBIQUITOUS LANGUAGE (e.g. pair programming)
+
+#### CONTEXT MAP
+
+* "Code reuse between BOUNDED CONTEXTS is a hazard to be avoided." - p. 344
+* "People who work closely will naturally share a model context. People on different teams, or those that don't talk, even if they are on the same team, will split off into differente contexts" - p. 334
+  * Frequent and effective communication if critical to maintainging the integrety of systems, domain models, etc.
+  * Reference: Conway's law - how a system is designed mirrors the ways in with the organization communicates.
+* If you can't describe a certain model, put a dragon there and return to it later - focus on diagraming the core and return to the danger areas later (which are hopefully not the core).
+* The CONTEXT MAP should always reflect the current reality - not wishful thinking.
+* Good interfaces / contracts are easy to test, and critically important to test to ensure the contract is never broken (unintentionally).
+
+* Using CONTEXT MAPS
+  1. The BOUNDED CONTEXT should have a name from the UBIQUITOUS LANGUAGE.
+  2. Everyone must know there the BOUNDED CONTEXT begings / ends within the larger system.
+
+* BOUNDED CONTEXTS are often broken down into smaller MODULES, which is where naming, folder conventions, etc. become very important to make it clear what MODULES belong to which BOUNDED CONTEXTS.
+* Keep the CONTEXT MAP approachable, don't make it super complicated - anybody with some knowledge of the domain should be able to understand what is going on to a degree.
+
+#### SHARED KERNEL
+
+* A SHARED KERNEL is often a generic domain model which is shared between one or more teams. A good example is the infastructure layer of a product: teams often plug-and-play their stuff without a formal KERNEL / Platform team.
+* A SHARED KERNEL is owned by one or more teams and therefore any changes to the SHARED KERNEL must be approved by all owners so the domain model does not drift.
+
+#### CUSTOMER / SUPPLIER DEVELOPMENT TEAMS
+
+* UPSTREAM and DOWNSTREAM dependencies are two seperate BOUNDED CONTEXTS and should be treated as such.
+* Engineers are customers of platform work / teams and normal customer testing / feedback should be sought after.
+* "... changing the test implies changing the interface." - p 358
+* Trust is critical in high performing teams / organizations - if you have to keep double checking the other teams / persons work it slows things down.
+  * Product development should focus on building profitable products, not making sure people aren't being things they know they shouldn't be breaking.
+* A BOUNDED CONTEXT should have a clear owner who can change the rules whenever they want - if that effects multiple BOUNDED CONTEXT that is a design issue that should be addressed. This same idea can be applied to UPSTREAM and DOWNSTREAM teams - keep them as decoupled as possible.
+* If an UPSTREAM team is not motivated / incentivized to support a DOWNSTREAM team like a paying customer, things go wrong quickly because incentive models are not aligned.
+
+#### CONFORMIST
+
+* A CONFORMIST team is one which "... slavishly adher[s] to the model of the upstream team." - p 362
+* Conforming often creates limitations in the DOWNSTREAM team in terms of capabilities (e.g. feature X is missing from platform Y, so we can't do X any time soon)
+
+#### ANTICORRUPTION LAYER
 
 * TODO
