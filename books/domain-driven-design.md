@@ -478,4 +478,46 @@ LINK
 
 #### ANTICORRUPTION LAYER
 
+* When a new system is built, it often has to integrate with an old system with not as clear domain boundaries or interfaces. This often causes the new system to adapt to the semantics of the old system causing the new system's models to become corrupted.
+* An ANITCORRUPTION LAYER converts exists between two systems as a translation layer so that system 1 can talk to system 2 without either having to know how the others works: just their interfaces. This also enpasulates how the two systems integrate together so details don't leak into either system.
+
+* System 1 -> ANTICORRUPTION LAYER owned by System 1 which calls SERVICES, ADAPTERS, AND TRANSLATORS which then make a request through a FACADE to SYSTEM 2.
+
+* ANTICORRUPTION LAYERS are useful for keeping a domain very clean and isolated, but they are also expensive to maintain and manage so be sure to be pragmatic about when they are nessesary versus unnessesary.
+
+#### SEPARATE WAYS
+
+* It is okay to have multiple BOUNDED CONTEXTS which do very very very similar things but in slightly different ways or for different purposes. It is better to have many decoupled and specialized SERVICES than to have a single SERVICE which is terrible to maintain.
+* Communication cost to manager shared things can be high, so sometimes having different things is pragmatic.
+
+#### OPEN HOST SERVICE
+
+* Sometimes it it best just to have a availible to anybody to use service, like a SHARED KERNEL, but don't like others modify / change it. Instead, gate keep how changes can be made to ensure they don't compromise the core DOMAIN MODEL. If somebody finds it doesn't do quite what they want, they can either (1) go through the review process, (2) CONFIRM, or (3) roll their own. Either way, don't destroy the core of the model for a one-off use case.
+* Provide a standard way for others to use your service, even if it requires them adaopting your SERVICES and/or UBIQUITOUS LANGUAGE - make them do the translation for their own needs.
+
+#### PUBLISHED LANGUAGE
+
+* Use common languages / tools / data formats to facilitate translations (e.g. JSON, XML, etc.)
+* Hide migrations behind interfaces so that people using the interface have no clue or need to worry about the implementation details.
+* During translations "None of them is likely to give up his model and adopt one of the others" - frame of reference influences how we think.
+* Unification of multiple models often requires a new model.
+* Teams are responsible for managing a BOUNDED CONTEXT, so the entire team must be on the same page when important decisions are being made.
+* "... a BOUNDED CONTEXT is defined by an ***intention*** to unify the model within certain boundaries." - p 384
+* ANTICORRUPTION LAYERS are often on-sided because they other side isn't going to help maintain your BOUNDED CONTEXT (e.g. Stripe doesn't care how you implement your product pages as long as you CONFORM to their API)
+* The UBIQUITOUS LANGUAGE is often localized to a specific group, so as groups splinter into smaller groups they each form their own UBIQUITOUS LANGUAGE which may make cross-group communication more difficult.
+
+* Communication costs grow exponentially with every person added, so having effective communication is critical to staying aligned. How each organization achieves this is different.
+  * Pair programming
+  * Documentation
+  * Law of two feet
+* Each type of strategy requires a different type of communication and alignment when implementing changes
+  * SHARED KERNEL needs everybody on the same page
+  * SEPERATE WAYS doesn't care what others are doing
+  * ANTICCORUPTION LAYER needs to say integrated with the external service, but the external service can care little about the ANTICORUPTION LAYER for some other service.
+
+* When replacing an old system with a new system, tests help make sure the old system continues to work as expected.
+* Maintaining a large BOUNDED CONTEXT may be a political endeavore more than an opertional one. Make sure the INTEGRATION and COMMUNICATION costs are worth it and continously reenforce the benefits.
+
+### CHAPTER 15 - Distillation
+
 * TODO
