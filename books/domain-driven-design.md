@@ -520,4 +520,36 @@ LINK
 
 ### CHAPTER 15 - Distillation
 
-* TODO
+* "DISTILATION is the process of separating the components of a mixture to extract the essence in a form that makes it more valuable and useful." - p. 397
+
+* Strategic DISTILATION (p. 398):
+  1. Aids all team mebers in grasping he overall design of the system and how it fits together
+  2. Facilitates comunication by identifying a cor emodel of manageable size to tenger the UBIQUITOUS LANGUAGE
+  3. Guides refactoring
+  4. Focuses work on areas of the omdel with the most value
+  5. Guides outsourcing, use of all-the-shelf components components, and decisions about assignments
+
+* People will often gravitate towards familiar and perhaps easy business problems to solve unless pushed to do otherwise. So, team refinements should focus on the CORE DOMAIN and justifying why working on its DISILLED PARTS help improve the CORE.
+* Softare engineers will often focus on more technical problems over business / customer problems because they are easier to do.
+* Break the cycle of technology-focused engineers by forcing them to become domain experts.
+* Engineers need to build long term domain knowledge; temp employees are leaks in this bucket, but hiring a temporary expert may help level up engineers more quickly than without.
+* "One way or another, creating distinctive software comes back to a stable team accumulating specialized knowledge and cruching it into a rich model. No shortcuts. No magic bullets." - p. 404
+  * Build systems which (1) encourage domain knowledge accumulation and (2) turning that knowledge into meaningful domain models.
+
+* GENERIC SUBDOMAINS are parts of a domain which are not unique to the CORE DOMAIN and make the CORE DOMAIN harder to understand if tangled together. So try to abstract this GENERIC SUBDOMAINS from the CORE DOMAIN.
+* Options for GENERIC SUBDOMAINS:
+  1. Off the shelf (pros: probably just works; cons: have to integrate, probably costs money)
+  2. Published design or model (e.g. use something an expert has already built; pros: wisdom of the crowd; cons: may or may not fit exact needs)
+  3. Outsorced implementation (pros: keep your team focused on CORE DOMAIN; cons: may be bumpy to integrate)
+  4. In-house implementation (pros: should be easy to integrate; cons: maintinance)
+* GENERIC SUBDOMAINS are not about reusability: they are about abstracting GENERICS which make the CORE DOMAIN easier to understand and work with. Code reusability is a different concern and everything should be done in support of your CORE DOMAIN: not somebody else's CORE DOMAIN.
+* XP is all about building an working end-to-end model and then iterating from there - letting the CORE DOMAIN evolve through real feedback. Jumping the gun to start abstracting GENERIC SUBDOMAINS too early is too risky and also not worth the effort to avoid doing it - react to real signals: not imaginary or wishful ones.
+* The CORE DOMAIN is the highest risk area of a product and without it a product cannot succeed - so manage and optimize for this risk early and often
+
+* A DOMAIN VISION STATEMENT is at most a one-pager which outlines the value proposition of the CORE DOMAIN describing the customer and business value. Leverage the UBIQUITOUS LANGUAGE to talk about how both should use this model. Speak broadly: do not make it a requirements checklist. This statement should ground and focus the team to think from a specific frame of reference.
+
+* "Significant structural changes to the code are the ideal way of identifying the CORE DOMAIN..." - p. 417
+* A DISTILATION DOUMENT is a high level document which outlines the CORE as it exists in the code. This document is minimal and light way to act as an entry point.
+* If you ever feel the need to change the DOMAIN VISION STATEMENT or the CORE DOMAIN no longers aligns with the DOMAIN VISION STATEMENT then the entire team must be onboard for the change.
+
+* TODO - COHESIVE MECHANISMS
