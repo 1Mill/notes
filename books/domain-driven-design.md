@@ -552,4 +552,16 @@ LINK
 * A DISTILATION DOUMENT is a high level document which outlines the CORE as it exists in the code. This document is minimal and light way to act as an entry point.
 * If you ever feel the need to change the DOMAIN VISION STATEMENT or the CORE DOMAIN no longers aligns with the DOMAIN VISION STATEMENT then the entire team must be onboard for the change.
 
-* TODO - COHESIVE MECHANISMS
+* "The proliferation of precedures is a symptom of a problem in a model." - p. 422
+  * If you require a X, Y, and then Z to happen before doing A, then encapsulate all that logic beind a clean interface so somebody can just do A and not worry about X, Y, and Z.
+  * Show the "what", hide the "how"
+
+* "A deep model distills the most essential aspects of a domain into a simple elements that can be combined to solve the important problems of the application." - p. 436
+
+* How to start refactoring large and poorly factored systems:
+  1. Just start anywhere, because it all has to be refactored. This assumes a lot of free time.
+  2. Start wherver it is hurting. In pain-driven refactoring, hunt for roots around the CORE DOMAIN and fix those first.
+
+### Chapter 16 - Large scale structures
+
+* TODO
