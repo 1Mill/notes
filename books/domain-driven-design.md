@@ -564,4 +564,45 @@ LINK
 
 ### Chapter 16 - Large scale structures
 
+* System should have stories which are approchable and shareable, in other words big picture, which easily helps others understand in broad strokes the different layers of a large system.
+
+* If systems are too rigid, people will either conform (i.e. dumb down) or subvert (i.e. anarchy). You want systems to get the best out of people and that means having strong guiding principles / rules, but leaving room for flexibility and nuance.
+
+* Metaphors for large systems, called SYSTEM METAPHORS, are helpful to create and incorporate into the UBIQUITOUS LANGUAGE, but make sure to not get sucked into the ideas of the metaphor and so continue to respond to real market signals.
+
+* Layers help stratify and communicate the intent of MODULES, SERVICES, etc. For example, a customer wanting to log in is or create an order is more a buisness / customer intent which belongs in the DOMAIN layer versus something more technical like how to persist that to the database which is more of a technical concern for a lower level layer which the DOMAIN layer shouldn't have to worry about to much except for integrating with.
+* Usefor characteristics to look and preserve for in LAYERS:
+  * Storytelling: the layer should communicate the basic realities or priorities of the DOMAIN.
+  * Conceptual Dependency: UPPER LAYERS may use LOWER LAYERS, but LOWER LAYERS should be meaingfully independent.
+  * Conceptual Contours: objects which belong to different LAYERS should have different rates and sources of change. A change in an UPPER LAYER should not require a change in a LOWER LAYER except to offer some new capability in a standalone way. LOWER LAYERS should be decoupled from UPPER LAYERS.
+* Capability / Potential layers: What could we do with all the people, process, code, etc. that we have access to?
+* Operation layers: What is being done? What have we realized from our Capabilities / Potential layers?
+* Decision Support layers: What action should be taken?
+* Policy layers: What are the rules and goals?
+* Commitment layers: What have we promised?
+
+* The KNOWLEDGE LEVEL has two useful traits:
+  1. It focuses on the APPLICATION DOMAIN
+  2. It does not strive for generality; it focuses on a specialized set of constraints.
+* An example of a KNOWLEDGE LEVEL may be a permissioning system which runs a user and resource through a ruleset and returns a true / false value. Each resource <> user combo might have different rules but at the end of the date are programmed into the KNOWLEDGE LEVEL.
+
+* Having a common interface makes it easy to plug-and-play things together. For example, when building a large quilt ensure each sub-panel is the same height and width to make panels interchangable. But, permissive enough so that creativity may exist.
+
+* The OPERATIONAL LAYER is all about acepting realtiy as it is - we must accept new information unconditionally, but we can choose how we react or what we ignore.
+* Every structural rule should make development easier - not harder.
+
+* p. 481
+  > A team committed to EVOLVING ORDER must fearlessly rethink the large-scale structure throughout the project life cycle. The team should not saddle itself with a structure conceived of early on, when no one understood the domain or the requirements very well.
+  >
+  > Unfortunately, that evolution means that your final structure will not be available at the start, and that means that you will have to refactor to impose it as you go along. This can be expensive and difficult, but it is necessary. There are some general ways of controlling the cost and maximizing the gain.
+* Strategies for min-maxing refactoring
+  * Keep the structure simple and light way
+  * Just address the most serious of concerns
+  * Do the minimum to prevent chaos
+* "Without consistent adherence by the many people involved [with maintaining a structure], structures have a tendency to deay." - p. 482
+* "Each time the structure changes, the entire system has to be changed to adhere to the new order" - p. 482
+  * This can be a lot of work, but is critical to maintaining the long term structure and product.
+
+### Chapter 17 - Bringing the strategy together
+
 * TODO
