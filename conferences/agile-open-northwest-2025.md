@@ -187,7 +187,6 @@ Utilize FizzBuzz to learn new languages.
 * Build systems and culture so you can eventually leave / retire
 * Ask emotional questions to get emotional answers, then ask "Why?" to get at how to fix, change, enhance, etc.
 
-
 ### Closing Circle - Day 1
 
 * Good to hear other people having the same problems and sharing their experiences trying to or solving the problem
