@@ -605,4 +605,40 @@ LINK
 
 ### Chapter 17 - Bringing the strategy together
 
+* The boundaries of LAYERS, STRUCTURES, etc. are not so isolated in real production environments. Many people across the organization may be working to maintain and/or iterate on these things from various perspectives.
+
+* Assessment first (p. 490):
+  1. Draw a CONTEXT MAP. Is this map consistent and/or have ambigious situtations?
+  2. Is there a rich UBIQUITOUS LANGUAGE for this project?
+  3. Understand what is and isn't important. Can the CORE DOMAIN be identified? Can a DOMAIN VISION STATEMENT be written?
+  4. Does the technology of the project work for or against a MODEL DRIVEN DESIGN?
+  5. Do the engineers have the necessary technical skills?
+  6. Are the engineers knowledgable AND interested about the domain?
+
+* In most organizations, a higher-in-power team dicates architecture which teams must follow (e.g. "wisdom-from-on-high") - but other times you can let architecture emerge / evolve just like any other product.
+
+* Six essentials for strategic design
+  1. Decisions must reach the entire team - everybody must know the strategy and words must match with action
+  2. The decision process must absorb feedback - decision makers must be aware and ideally fix the pain of the doers (e.g. engineers)
+  3. The plan must allow for evolution - respond to change / new information over following a plan
+  4. Architecture teams must not siphon off all the best and brightest - make guilds part-time, not full-time elite teams because they loose relevant hands-on expeirence and only leave the less capable to do the product work.
+  5. Strategic design requires minimialism and humility - ensure the benefit of something outweights the friction is causes; this can be in code, process, enforcement, etc.
+  6. Objects are specalists; engineers are generalists - code is the living documentation; engineers are the oral traditionalists for only a short amount of time
+
+* Don't write frameworks for dummies with the hope of producting them - but do encapsulate / hide nuanced technical details they shouldn't need to worry about
+* Use frameworks optional and encourage adoption through utility - not decree (at least for non-laggards)
+
+* Master plans fails because they cannot predict the future. So they either become abandoned or dogmaic. Let communities evolve.
+
+### Conclusion
+
+* "Take a system people depend on, make it opaque, and it will live forever as untouchable legacy." - p. 502
+  * The halmark of a good design is that it can change and evolve with new insights - not that it remains forever.
+* "New development today is on different platforms and is only indirectly influenced by the work we did - as the new developers CONFORM to their legacy." - p 503
+  * People, projects, technology, culture changes.
+* Event's last chance: a demonstration of the power of Extreme Programming culture and practicies to adapt and scale.
+* "But through improved tools will be valuable, we mustn't get distracted by them and lose sight of the core fact that cre3ating doos software is a learning and thinking activity. ... Efforts to automate what must be the product of thought are naive and counterproductive." - p. 506
+
+### Appendix
+
 * TODO
