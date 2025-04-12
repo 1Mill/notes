@@ -43,4 +43,32 @@
 
 * Make work visible so it can be managed - not hidden and unmanaged.
 
+* Multitaksing wastes mental cycles.
+* Multitasking feels more productivty because it maximizes uitilization but it does not eliminate the real waste: waiting - so cycle time remains the same if over opptimistically nothing goes wrong.
+
+* Know how to track and have insights into what people are really working on
+  * Assigned project work
+  * Ad hoc work (assigned or unassigned)
+  * Recurring work - work which needs to be constantly monitored and/or done and/or maintained
+  * Periodic work - work which needs to be done at regular business intervals
+
+* Make all the work visible, iterate, and seek to understand resistance.
+
+### Week two - Bringing order to the chaos
+
+* There is always more work than can be done - set clear priorities and clearly communicate what you are and are not working on.
+
+* Make guiding principle and/or company goals visible and reiterate them frequently.
+
+* "Focus on the funded work" and be sure to be able to justify and explain your reasoning.
+
+* With recurring or period work, make sure the work is still valuable and has a clear owner seeking that work to be done. Otherwise, eliminate it.
+
+* Categorize all projects
+  * Projects you will continue
+  * Projects you need to stop (e.g. provides not value to anybody anymore)
+  * Projects that may be important so you can transition it to a new group with more aligned goals.
+
+* People take a winding path throughou their careers, often cycling between IC and manager depending on the org and work to be done.
+
 * TODO
