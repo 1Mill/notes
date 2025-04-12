@@ -1,6 +1,6 @@
 # Leading highly effective 1-1s
 
-LINK
+<https://honehq.sirv.com/class_materials/classes/lead_highly_effective_1-1s/LearnerGuide_Lead%20Highly%20Effective%201_1s_vF.2.24.pdf>
 
 ## Key Takeaways
 
@@ -13,6 +13,8 @@ LINK
 In each section, ask follow up questions and takes notes to look for trends and more importantly dig deeper into what the person values and how they like to work.
 
 * Psychological safety is critical to high performing teams. If people do not feel psychologicaly safe they will not contribute as effectively as they could. So, 1-1s are a time to build that safe space to building highly effective teams.
+
+![image](./leading-highly-effective-1-on-1s_template.png)
 
 ## Notes
 
