@@ -18,7 +18,7 @@
 | Supportive         | Paraphrasing      | "It sounds like you're saying X"            |
 | Very supportive    | Approval          | "I agree with and support your plan to X"   |
 
-| Type                  | Example                                          |
+| Question Type         | Example                                          |
 |-----------------------|--------------------------------------------------|
 | Open Questions        | "Tell me more about ..."                         |
 |                       | "What else do you think about ...?"              |
