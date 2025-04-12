@@ -10,7 +10,7 @@
 
 * Use the Situtation Behavior Impact Way-Forward (SBIW) model to give feedback effectively and ideally unbiasly.
 
-![image](presentations/hone-2025/give-feedback-that-lands_sbiw-worksheet.png)
+![image](./give-feedback-that-lands_sbiw-worksheet.png)
 
 ## Notes
 
