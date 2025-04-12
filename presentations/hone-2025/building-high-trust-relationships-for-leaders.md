@@ -1,6 +1,6 @@
 # Building high trust relationships (for leaders)
 
-LINK
+<https://honehq.sirv.com/class_materials/classes/build_high_trust_relationships/LearnerGuide_BuildHighTrustRelationships.pdf>
 
 ## Key Takeaways
 
