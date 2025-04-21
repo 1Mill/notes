@@ -4,7 +4,7 @@
 
 ## Key Takeaways
 
-[!image](./7-key-tensions-every-leader-must-balance_leadership-styles.png)
+![image](./7-key-tensions-every-leader-must-balance_leadership-styles.png)
 
 ## Notes
 
