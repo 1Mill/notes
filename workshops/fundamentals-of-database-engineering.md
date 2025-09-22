@@ -23,3 +23,4 @@
 * `OR` statements cannot use indexes unless both sides of the `OR` are indexed - at which point the query planner will use a `BitmapOr` to find the relevant pages and then do a Heap recheck.
 
 * Indexes are ordered and randomness within those indexes often causes shuffling in the index itself to balance the B-tree which results in frequent rewrite of the index - some use <https://www.npmjs.com/package/ulid> to get UUID-like identifers but sortable by time.
+
