@@ -15,4 +15,3 @@
   * "I'm passionate about [something I value] to achieve [something my target audience values]"
   * "I'm known for [my strength] to achieve [something my target audience values]"
   * "I'm on a missoin to [ABCDEF] to achieve [something my target audience values]"
-
