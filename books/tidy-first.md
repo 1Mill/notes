@@ -69,4 +69,25 @@ LINK
 * "Give the gift of that sequence to the next reader." - p 11
   * Reader order / declaration order can help readers better understand the code (e.g. what is dependent on what like `import` vs `export` vs nothing (i.e.`private`) in Node)
 
-* TODO p 13
+* "... if two routines are coupled, put them next to each other." - p 13
+  * May be same file, same directory, same project.
+
+* "As you're executing this tidying, remember that you have to maintain the order of the data dependencies." - p 16
+* "You'll accidentally change the behavior ... No problem. Back up to a know correct version of the code. Work in smaller steps. That's the tidying way. Big design changes too hard and scary? Take samller steps. No, samller. Still scary? No? Good."
+
+* Variable names communicate important context - give variables explaining names. Same for constants - no magic numbers or magric strings.
+
+* Explicit parameters / arguments (e.g. keyword arguments) make code easier to reason about. - p 21
+
+* "You're reading a big chunk of code and realize, 'Oh, this part does *this* and then that part does *that*. Put a blank line between the parts." - p 23
+* "Here's the cool thing - compound interest. Software design also makes softeare design easier." - p 23
+* "Done well, software design enables software design that enables change." - p 23
+  * Steps for tidying - don't get stuck in an endless loop
+    1. Think
+    2. Think
+    3. Do
+
+* "Name the routine after the purpose (not how the routine works)." - p 25
+  * REF: 7 stages of naming (Arlo Belshee)
+
+* TODO p 27
