@@ -90,4 +90,15 @@ LINK
 * "Name the routine after the purpose (not how the routine works)." - p 25
   * REF: 7 stages of naming (Arlo Belshee)
 
-* TODO p 27
+* "Inline as much of the code as you need until it's all in one bilg peile. Tidy from there." - p 27
+* "The biggest cost of code is the cost of reading and understanding it, not the cost of writing it." - p 27
+
+* "You know that moment when you're reading some code and you say, 'Oh, so *that's* what's going on!' That's a valuable moment. Record it [with an explianing code comment]." - p 29
+
+* "When you see a comment that says exactly what the code says, remove it." - p 31
+* Only use comments to help communicate what the code cannot clearly communicate - do not be dogmatic about other comment practicies.
+
+* **Key takeaways**
+  * The primary goal of code is to help others (or your future self) understand what is happening. Computers understand binary, so higher level langauges were created to help facilitate understanding between humans: not machines. Strive to make code as understandable as posible: use explaining code comments, dependency ordering, empty lines, proximity, clear variable names, and more to improve how people understand the code.
+  * Understanding code is the most expensive things software engineers must do.
+  * Work in extremely tiny steps to reduce risk, particularly when refactoring. If a refactor does not feel safe, work try working in tinier and tinier steps until it feels safe. But, feeling safe is not the same as being safe. Use other practicies, such as TDD, to better guage safty.
