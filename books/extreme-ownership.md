@@ -66,6 +66,26 @@ LINK
   * "If you aren't winning ... then you aren't making the right decisions." (p 60), perhaps because the wrong decisions are being made or there is a lack of information making the decision space to narrow. If you don't feel like you are winning, figure out why.
   * A "Tortured Genius" is somebody who does not take extreme ownership (e.g. accepts zero responsibility) and drags teams down.
 
-  ### Believe
+### Believe
 
-  * TODO
+* Practice, practice, practice to execute effectively - low stakes means high safety to fail and in turn learn.
+* "In the SEAL Teams, the bond of our brotherhood is our strongest weapon. If you take that away from us, we lose our most important quality as a team." - p 69
+* "But as Task Unit Bruiser's commander, I knew my actions and mind-set carried great weight among my troops. These were my orders, and for me to lead, I had to believe. So I kept my doubts to myself as I asked the simple question: *Why?*" - p 69
+* "I knew I had to adjust my perspective, to mentally step back from the immediate fight just outside the wire and think about this question from a strategic level, as if I were one of those generals in Baghdad or back at the Pentagon. Sure, they were far from the front lines, but certainly, they had the same goal we did: to win. That lead to another question: What was winning?" - p 70
+* "But they did have to understand why they were doing it so that they could believe in hte mission." - p 73
+* "If I didn't believe in it, there was no way I could possibly convinec the SEALs in my task unit to believe it. If I expressed doubts or openly questioned the wisdom of this plan in front of the trooops, their derision toward the mission would increase exponentially. They would never believe in it. As a result, they would never commit to it, and it would fail." - p 74
+* "If a leader does not believe, he or she will not take the risks required to overcome the inevitable challenges necessary to win." - p 76
+* "Junior leaders must ask questions and also provide feedback up the chain so that senior leaders can fully understand the ramifications of how strategic plans affect execution on the ground." - p 78
+* "Belief in the mission ties in with the fourth Law of Combat: Decentralized Command (chatper 8). The leader must explain not just what to do, but *why*." - p 78
+* "She talked about maintaining and 'open-door policy'. But in the minds of her sales managers, she was still *The Boss*: experienced, smart, and most important, powerful. That position demanded a high level of reverence - so high, in fact, that for an employee to question her ideas seemed disrespectful." - p 81
+* "If you don't understand or believe in the decisions coming down from yuour leadership, it is up to you to ask questions until you understand how and why those decisions are being made. Not knowing the *why* prohibits you from believing in the mission." - p 84
+* "So, if you ever get a task or guidance or a mission that you don't believe in, don't just sit back and accept it. Ask questions until you understand *why* so you can believe in what you are doing and you can pass that information down the chain to your team with confidence, so they can get out and execute the mission. That is leadership." - p 85
+
+* **Key takeaways**
+  * Practice, practice, practice to fail in safe environments so learnings / insights can be gained and applied in real scenarios.
+  * The goal of a leader should be to understand the *why* and to ask questions of other leaders until they understand that *why* clearly. The *why* informs the *how*. So, to act effectively the *why* must be understood.
+  * Culture and principles, such as "open-door policies", must be demonstrated through practicies / actions. Saying and doing are different things. And many times folks do not being the saying until they see the doing. This is particularly true for leaders higher up in an organization; the higher the power differential, the more intentional acts must be.
+
+### Check the ego
+
+* TODO
