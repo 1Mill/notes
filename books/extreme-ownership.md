@@ -8,7 +8,7 @@ LINK
 
 ## Notes
 
-### Introduction
+#### Introduction
 
 * Laws of Combat: Cover & Move, Simple, Prioritize & Execute, Decentralize Command
 
@@ -29,7 +29,9 @@ LINK
   * Share the big picture - enable autonomous decison making in unfamiliar environments by making the goals / mission clear.
   * Leaders are either effective or ineffective.
 
-### Extreme Ownership (chapter)
+### Part 1
+
+#### Extreme Ownership (chapter)
 
 * Chapter describes blue-on-blue friendly fire incident and the different events / gaps / mishaps / lack of communications / ... which lead to the friendly fire situtation.
 * "I was responsible for everything ... I had to take complete ownership of what went wrong, That is what a leader does - evern if it means getting fired." - p 26
@@ -43,7 +45,7 @@ LINK
   * Leaders are responsible for everything and everyone under their command - no excuses.
   * Lead by example, teach through example - get the entire team from top-to-bottom to think and act in the same ways (REF: Turn This Ship Around)
 
-### No bad teams, only bad leaders
+#### No bad teams, only bad leaders
 
 * "SEAL officers were expected to perform like everyone else, but more important, they were also expected to lead." - p 46
 * "It was a shocking turn turn of events. Boat Crew VI, the same team in the same circumstances only under new leadership, went form the worst boat crew in the class to the best." - p 48
@@ -66,7 +68,7 @@ LINK
   * "If you aren't winning ... then you aren't making the right decisions." (p 60), perhaps because the wrong decisions are being made or there is a lack of information making the decision space to narrow. If you don't feel like you are winning, figure out why.
   * A "Tortured Genius" is somebody who does not take extreme ownership (e.g. accepts zero responsibility) and drags teams down.
 
-### Believe
+#### Believe
 
 * Practice, practice, practice to execute effectively - low stakes means high safety to fail and in turn learn.
 * "In the SEAL Teams, the bond of our brotherhood is our strongest weapon. If you take that away from us, we lose our most important quality as a team." - p 69
@@ -86,6 +88,25 @@ LINK
   * The goal of a leader should be to understand the *why* and to ask questions of other leaders until they understand that *why* clearly. The *why* informs the *how*. So, to act effectively the *why* must be understood.
   * Culture and principles, such as "open-door policies", must be demonstrated through practicies / actions. Saying and doing are different things. And many times folks do not being the saying until they see the doing. This is particularly true for leaders higher up in an organization; the higher the power differential, the more intentional acts must be.
 
-### Check the ego
+#### Check the ego
+
+* "Discipline in such a situation started with the little things ... with that, the more important things fall into place ..." - p 95
+* "Discipline created vigilance and operational readines, which translated to high performance and success on the battlefield." - p 95
+* "It was immaterial which units did what or who conducted the most operations. It was about the mission and how we could best accomplish it and win." - p 97
+* "But the colonel and his troops simply could not risk working with a group where some members' egos prevented them from ever fully integrating with the 1/506th battalion." - p 99-100
+* "Ego clouds and disrupts everyting: the planning process, the ability to take good advice, and the ability to accept constructive criticism." - p 100
+* "Implementing Extreme Ownership requires checking your ego and perating with a high degree of humility. Admiting mistakes, taking ownership, and developing a plan to overcome challenges are integral to any successful team." - p 100
+* "At a tactical level, on the front lines where the guys in the field execute the mission ... it is critical that the troops graps how what they do connects to the bigger picture." - p 103
+* "I'm confident it will. If you approached it as *he* did something wrong, and *he* needs to fix something, and *he* is at fault, it becomes a clash of egos and you will be ad odds. That's human nature. But, if you put your own ego in check, neaning *you* take the blame, that will allow him to actually see the problem without his vision clouded by ego. Then you both can make sure that your team's standard operating procedures - when to communicate, what is and isn't within his decision-making authority - are clearly understood." - p 104
+
+* **Key takeaways**
+  * Discipline in the little things it what affords bigger things to fall into place. From a coding perspective, standards around code patterns makes it easier to think about how to solve big buisnes problems instead of fighting the code as well.
+  * When folks are bought into a mission and understand the goals, it shouldn't matter who does what to achieve those goals in an ego-less culture.
+  * Ego clouds objective judgement.
+  * As a leaders with an extreme ownership mindset, you own the culture. If folks are not following standard operating procedures that is a failure on your part and a failure you must address through your leadership. Improve how to communicate the *why* of the mission so teams can make better autonomous decisions - but also when they need to better communicate upwards or seek permissions.
+
+### Part 2
+
+#### Cover and move
 
 * TODO
