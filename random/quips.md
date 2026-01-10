@@ -21,3 +21,7 @@
 * "The role of a product manager is to identify and articulate the right problem statement."
 * Teams then self-organize and provide solutions to this problem: not be dictated the solution as requriements.
 * Andrea Laforgia via LinkedIn
+
+## Product success
+
+* "In business, there are only two ways to win: to be the cheapest or to be different." - [When Ignoring Big Tech Backfires: Dropbox's Broken Business](https://www.youtube.com/watch?v=rsrmGcbNLT0)
