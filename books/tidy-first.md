@@ -102,3 +102,83 @@ LINK
   * The primary goal of code is to help others (or your future self) understand what is happening. Computers understand binary, so higher level langauges were created to help facilitate understanding between humans: not machines. Strive to make code as understandable as posible: use explaining code comments, dependency ordering, empty lines, proximity, clear variable names, and more to improve how people understand the code.
   * Understanding code is the most expensive things software engineers must do.
   * Work in extremely tiny steps to reduce risk, particularly when refactoring. If a refactor does not feel safe, work try working in tinier and tinier steps until it feels safe. But, feeling safe is not the same as being safe. Use other practicies, such as TDD, to better guage safty.
+
+### Part 2
+
+* "Tidying is geek self-care." - p 33
+
+* Code changes fall into two categories: B = Behavior, S = Structural - p 36
+* "Sequences of tidyings (or even just one tidying) go in one PR. Behavior changes go in a seperate PR. Each time we switch between tidying and changing behavior, we open a new PR." - p 36
+* "Review latency is also an incentive. If code gets reviewed rapidly, then you're encouraged to create more, smaller PRs. Those more-focsued PRs encourage even more rapid reviews. Equally, this reinforcing loop can run backwards, with slow reviews encouraging larger PRs, further slowing future reviews." - p 37
+  * The slower the process, the bigger (and more risky) the change(s) as people min-max
+* "I encourage you to experiment with not requiring reviews for tidying PRs. This reduces latency further, incentivizing even smaller tidying PRs." - p 37
+
+* Tidying leads to a chaining / avalanches: (p 39 - 40)
+  * **Guard clause** - can it be abstracted into an explaining helper? (e.g. age >= 18 -> isAnAdault?(age))
+  * **Dead code** - improves clarity
+  * **Normalize symmetries** - "... make identical code identical and different code different"
+  * **New interface**, old implementation - Make tools easier to use by giving them more inutitive interfaces (e.g. isAnAdult?(age, :smoking_rules) -> canSmoke?(age) === isAnAdult?(age, :smoking_rules))
+  * **Reading order** - Use ordering to improve clarity
+  * **Cohesion order** - hunt for abstractions after identifying patterns
+  * **Explaining variables** - improve variable names to improve understandabilty
+  * **Expicit parameters** - Use keyword arguments vs amorphic blobs (e.g. isAnAdult(person) === person.age >= 18 -> isAnAdult(person.age))
+  * **Chunk statements** - Use empty new lines before and after code blocks to communicate ideas in the code
+  * **Extract helper** - hunt for abstractions which make expaining variables or explaining comments unnessesary
+  * **One pile** - Pile everything into a single method to understand how everything works together, then start tidying from there
+  * **Explaining comments** - Last resort, prefer explianing variables, explaining constants, or explaining helpers; make the code self-documenting and comments unnessesary.
+  * **Delete redudent comments**
+
+* "Goldilocks Delemma[: what] are the competing costs that let us evaluate what consitutes too few tidyings per batch, to many tidyings per batch, and the range of just the right number of tidyhing per batch?" - p 43
+* Factors that go into the Goldilocks Delemma:
+  * **Collisions** - Frequency of merge conflicts
+  * **Interactions** - Accidentally changing behavior hidden within the changes
+  * **Speculation** - Tidying because we think we need to; focus on tidying just enough to make the next immediate behavior change easier
+* "In many organizations, the fixed cost of getting a single change through review and deployment is substantial. Programmers feel this cost, so they move right in the trae-off spcae, even as the cost of sollissions, interactions, and speculation rise." - p 45
+* "If we want to reduce the cost of tidying, thus increasing tidying and reducing the cost of making behavior changes, then we can reduce the cost of review." - p 45
+  * TODO: Insert photo p46
+
+* "You are tidying to make future changes to the behavior of the system easier." - p 47
+* "Software design has a strong 'pave the path' [(desire path)] tendency." - p 48
+  * Just like in nature, people will take the path of least action to achieve their goals.
+* "... tidying is a minutes-to-an-hour kind of activity." - p 48
+
+* "The sunk cost fallacy complicates the choice between these options. ... The answer, as always, is because you are not just instructing a computer, you are explaining your intentions for the computer to other people. The shortest path to instructing the computer is not an interesting end goal."
+  * When doing tidying, optimize for human understandability (e.g. tiny PRs, easy to see changes)
+
+* "Tidying makes future changes to the behavior of the system easier. If there is an area of the system that's guaranteed to change (strong word, 'guaranteed'), then tidying in that general area creates value if it simplifies those future changes." - p 52
+  * Tidying in itself can provide buisness value in the right situations - it should always strive to make the next behavior change easier.
+* "Tidying later creates value in a couple of other ways[:] ... One is by reducing the tax of mesiness[.] Another reason ... is as a learning tool. Finally, tidying later just feels good [and] Software development is a human process." - p 52
+* "... taking the pebble out of your shoe lets you walk better." - p 52
+* Tidy after if:
+  * "You're going to change the same area again. Soon." - p 53
+  * "It's cheaper to tidy now." - p 53
+  * "The cost of tidying is roughtly in proportin to the cost of the behavior changes." - p 53
+* "If tidying doesn't make it any easier, don't tidy first" - p 53
+* "Tidying helps you comprehend faster. Sure, tidy first." - p 53
+* "If this tidying will pay off weekly for years, then go for it." - p 54
+* "In general, bias towards tidying first, but be wary of tidying becoming an end in itself. The tidyings I've cateloged are tiny precisely so you don't have to think too hard about applying them. If you tidy and it doesn't pay off, no big deal. Bias towards tidying shouldn't cost you much, and most of the time it will pay off." - p 54
+
+* Summary (p 54)
+  * **Tidy Never when**
+    * "You're never changing this code again."
+    * "There's nothing to learn by improving the design."
+  * **Tidy Later when**
+    * "You have a big batch of tidying to do without immediate payoff."
+    * "There's eventual payoff for completing the tidying."
+    * "You can tidy in little batches."
+  * **Tidy After when**
+    * "Waiting until next time to tidy first will be more expensive."
+    * "You won't feel a sense of completion if you don't tidy after."
+  * **Tidy First when**
+    * "It will pay off immediately, either in improved comprehension or in cheaper behavior changes."
+    * "You know what to tidy and how."
+
+* **Key takeaways**
+  * Code changes are broken into two categories: Behavior Changes (B) and Structural Changes (S). Isolate B and S in their own seperate PRs to make code review easier. S changes are tidies and should not change behavior (i.e. refactoring).
+  * The lower the review + deployment process, the bigger PRs are encouraged to be. Find the Goldilocks Zone for your orgnaization which min-maxes time to review (i.e. human readability), time to delpoy, risk to deploy, chance of merge conflicts, and utility.
+  * Tidying leads to more tidying which leads to more tidying which leads to more ... in an avalanche of tidying. But you must have guardrailes; only tidy enough to make the next immediate behavior change easier to do: go no further.
+  * Bias towards tidying first, sometimes after, later, and never are valid strategies.
+
+### Part 3
+
+* TODO
