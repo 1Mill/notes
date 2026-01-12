@@ -8,7 +8,7 @@ LINK
 
 ## Notes
 
-#### Introduction
+### Introduction
 
 * Laws of Combat: Cover & Move, Simple, Prioritize & Execute, Decentralize Command
 
