@@ -109,4 +109,19 @@ LINK
 
 #### Cover and move
 
+* "No options were good options. We had to choose the least bad option." - p 117
+* "Our tactic, which we had trained for, practiced, and utilized, was a fundamental one we called 'Cover and Move.'" - p 119
+  * Practice, practice, practice the fundementals so they are second nature! Learning during an emergency is a setup for failure
+* "We had used Cover and Move within my own immediate OP2 team, but I had forgotten about the greater teama and support availible. We had operated independently, failing to support or help each other." - p 120-121
+* "The most important tactical advantage we had was working together as a team, always supporting each other. It was a rude awakening for me. I had become so immersed in the details, decision points, and immediate challenges fo my own team that I had forotten about the other team, what they could do for us and how we might help them." - p 121
+* "All elements within the greater team are crucial and must work together to accomplish the mission, mutually supporting one another for that single purpose. Departments and groups within the team must break down silos, depend on each other and understand who depends on them. If they forsake this principle and operate independently or work against each other, the results can be catastrophic to the overall team's performance." - p 122
+* "These individuals and teams must instead find a way to work together, communicate with each other, and mutually support one another. The focus must always be on how to best accomplish the mission." - p 122
+* "Those Army and Marine Corps units we worked with were not under our control. We had different bosses. But we depended on them and they depended on us. So we formed relationships with them and worked together to accomplish the overall mission of securing Ramadi. That's Cover and Move." - p 125
+
+* **Key takeaways**
+  * Practice, practice, practice the fundementals so they are second nature! Learning during an emergency is a setup for failure.
+  * It is easy to go heads down and focus on your own work - ignoring how others can support you in your mission or how you can support others in theirs. At the end of the day, everybody in a company has the same mission (i.e. profitability, job security, etc.) so intentionally support one another, intentionally build strong working relationships, and intentionally win together.
+
+#### Simple
+
 * TODO
