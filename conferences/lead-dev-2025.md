@@ -162,4 +162,54 @@
 
 ### From friction to focus
 
+* When product engineers falter
+  * Delivery slips
+  * Quality degrades
+  * Morale declines
+  * Don't understand / know the why
+* Product and engineers have different metrics (e.v. conversions vs cycle time)
+
+* The friction points:
+  * Change priorities without tech impact
+  * Tech debt deprioritizied
+  * Opaque decision-making
+
+* Balanced prioritization: (Tech Sustainability X Business Impact)
+
+|                     |      | Buisness Impact         |                   |
+|---------------------|------|-------------------------|-------------------|
+|                     |      | Low                     | High              |
+| Tech Sustainability | High | :\| -- Over engineering | :D                |
+|                     | Low  | :(                      | :\| -- Trade offs |
+
+* Translate technology concerns into buisness impact (REFERENCE: [Quality Views](https://dev.to/konrad_126/visualizing-technical-debt-with-quality-views-59e7))
+  * Tech debt often talks about in feelings, get into business numbers or customer impact
+* Did A/B test to look at crash -> cancel impact to quanitfy crash vs new feature development in $$$
+  * Intentionally would 5xx the site to empirically measure cancel rate
+* Present "Cost of delay" but not doing this tech debt work
+
+* Unite with metrics
+  * Retention <-> Reliability
+  * Conversation <-> Performance
+  * Time-to-market <-> Defact rate
+
+* Practices for partnership between leads and product owner
+  * Demand engineer voice in decision making process -> Invite yourself
+    * Get foot in the door by asking to just be a fly on the wall of meetings; being present often leads to people seeking your input
+  * Regular alignment rituals (talk to product)
+    * Create strong working relationships
+  * Transparency in trade-offs
+    * Inside and outside the team
+  * Mutual trust and coverage
+  * Psychological safety
+    * If can't solve, escalate immediately until it can be solved
+    * Very expensive to company if not solved
+  * Leaders model effective partnership to rest of team
+
+* **Key takeaways**
+  * Product Owners and Engineers often live in two different worlds. POs focus on adoption, customer flows, and customer converation rates / iterations. Engineers focus on time-to-delivery, site reliability, and defects. While PO metrics are easier to quantify in $$$ while engineering metrics are often communicated as idoloigcal versus any real buisness impact. But, a 5xx response indirectly impacts $$$, but the question is how much? Find ways to quantify technical debt in terms of $$$ to get it prioritized.
+  * Strive not to over engineer or create trade-offs to deliver features with low tech sustainability. Strive to stay in the Goldilocks Zone: High Sustainability and High Buisness impact by baking quality into the practicies and expectations from the start.
+
+### The uncomfortable middle
+
 * TODO
