@@ -180,7 +180,7 @@
 |---------------------|------|-------------------------|-------------------|
 |                     |      | Low                     | High              |
 | Tech Sustainability | High | :\| -- Over engineering | :D                |
-|                     | Low  | :(                      | :\| -- Trade offs |
+|                     | Low  | :( -- Why even bother?  | :\| -- Trade offs |
 
 * Translate technology concerns into buisness impact (REFERENCE: [Quality Views](https://dev.to/konrad_126/visualizing-technical-debt-with-quality-views-59e7))
   * Tech debt often talks about in feelings, get into business numbers or customer impact
