@@ -212,4 +212,107 @@
 
 ### The uncomfortable middle
 
+* Cultivating morale
+  * Frame opportunity, challenge, and uncertainty with equal honesty
+  * Don't be afraid to say "I don't know"
+  * Hoonesty better than toxic positivity
+* Foster team growth
+  * Balance high expectations with high empathy
+  * Expectations without empathy is a path to turn out and toxic culture
+  * Empathy without expectations leads to stagnation
+* Growing your leaders
+  * Self-doubt is very human
+  * Listen to what people are saying
+
+* **Key takeaways**
+  * As a leaders who wants to level up others: be honest, set high expectations, and have high empathy to work with people to grow towards those expectations.
+
+### Plugging into power
+
+* Power is what gives access
+* Everybody has power, often people don't think they have power
+
+* About systems:
+  1. Systems run on power
+  2. The purpose of a system is what it does
+  3. Systems express their values through their budgets
+
+* Institutions have power; people lend their power to institutions.
+* System are had to see, but budgets make it visible.
+
+* What systems lend power to people?
+
+* Burnout is accrued through moral injury, not long hours.
+  * Power missued by institutions.
+
+* "I need power" -> Fight the system
+* "We need power" -> Change the system itself
+
+* **Key takeaways**
+  * All the above.
+
+### Random - Day 1
+
+* REFERENCE: [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
+* Essential characteristics
+  1. Strategic vision, Risk Navigator: Understand business impact, navigate oportunities, and risk. Champion ethical ecisoin-making and data gonverence.
+  2. Cultured catelyst, Empowering
+  3. ______
+
+### Predictable is better than fast
+
+* Cost of delay has cascading effects
+  * Marketing, sales, and other downstream dependent teams
+  * Cut corners, cut quality
+  * Constant conversations about alignment / priorities
+* Cost of early is the same as delayed - particularly with downstream dependencies.
+
+* Use AI to enhance productivity, not eliminate teams in the delivery process
+
+* Projects have required due date, but not required sub-tasks - scope is always negotiable.
+* Team / ___ normalize noise in vaiance in the team itself (i.e. working collectively produces stable velocity so that feature A is not strongly dependent on person A not being sick)
+
+* **Key takeaways**
+  * Like heiarchy in physics, when looking at teams in aggregate individual variance is cancelled out to create a stable velocity. With this stable velocity, downstream teams can depend on the team so that higher order functions can occure with the organization. For this reason, stability and predictability are team characteristics teams leaders should strive for while continuing to level up in qualty internally.
+
+### Find the spark
+
+* Not everybody seeks promotion, but everybody must grow
+  * Teams that grow together, succeed together
+  * Continous learning keeps people interested
+  * Personal development is key to job satisfaction in this highly competitive market
+
+* REFERENCE: [Radical Candor](https://www.radicalcandor.com/)
+
+* High performance profiles
+  * Rock star: steady grow, stability, need to see / feel important
+  * Super star: rapid growth, enjoys change
+* Medium performers:
+  * Meet expectations
+  * May rely on high performers
+  * Risk of plateauing, not seeking next level
+  * Have conversations every 6 months to reevaluate growth goals
+* Low performers
+  * Growth potential: Misaligned role or ___, need coaching
+  * No potential: Poor quality work, no sign of improvement, hold team back -> Must be transfered off team (move to another team or lay off)
+
+* People can grow technically and non-technically (e.g. soft skills):
+  * Colaboration
+  * Communicatoin
+  * Leadership
+  * ...
+
+* Promotions require a buisness case and is influenced by many factors (e.g. budgets)
+* Growth is cultural whereas promotions are structural
+* 4 levesl of motivation:
+  1. Purpose - Connect to the mission / inpact
+  2. Progress - Make milestones visible
+  3. Mastery - New skills and/or new challenges
+  4. Flexibility - Control over time and work style (e.g. working hours, siloed vs pair programming)
+
+* **Key takeaways**
+  * TODO
+
+### Pay your (conflict) debt on time
+
 * TODO
