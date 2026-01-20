@@ -304,15 +304,122 @@
 
 * Promotions require a buisness case and is influenced by many factors (e.g. budgets)
 * Growth is cultural whereas promotions are structural
-* 4 levesl of motivation:
+* 4 level of motivation:
   1. Purpose - Connect to the mission / inpact
   2. Progress - Make milestones visible
   3. Mastery - New skills and/or new challenges
   4. Flexibility - Control over time and work style (e.g. working hours, siloed vs pair programming)
 
 * **Key takeaways**
-  * TODO
+  * Promotions require a buisness case while growing / leveling up is cultural; create environments where people are continously growing so when promotions make business sense those folks are ready.
+  * Figure out who on the team falls into which performance profile: rock stars, super stars, medium performers, growth potential, or no potential; and figure out what motivates them: purpose, progress, mastery, and/or flexibility.
 
 ### Pay your (conflict) debt on time
+
+* Conflict is only harmful when left unresolved, ___, or  unacknowledged.
+* REFERENCE: [The Good Fight](https://www.amazon.com/Good-Fight-Productive-Conflict-Organization/dp/198902520X)
+
+* Debt is unresolved conflicts (e.g. no strategic advantage)
+* Debt gains interest, turning conversations into confrontations
+* Costs materialize in constant meetings, working around people, lack of trust, and wasted effort
+  * Pushes misalignment underground because people can not effectively talk to one another
+
+* Conflict ___: Natural discomfort, but addresses conflict.
+* Conflict Avoidance: Never surfaces disagreement, defer conflict until they explode.
+
+* Architypes:
+  * Unproductive
+    * Side Stepper: Deflect, delay, disappear
+    * Peacemaker: People pleasuer, avoid hard truths
+    * Bulldog: All-or-nothing, deminated conversations
+    * Sycophant: Exclude people, ___ conversations
+  * Productive
+    * Engager: Learn into it
+    * Truth Teller: Constructive candor
+    * Challenger: Direct, flexible
+    * Connector: Transparent, inclusive
+
+* Conflict avoident often ...
+  * Recurring same conflict
+  * Low trust
+  * Echo chambers
+
+* Non-violent communication (NVC)
+  * Balance honesty vs empathy
+  * Discvoer unmeet needs
+  * Clear without being crule
+* Steps for NVC
+  1. Observe behavior
+  2. Reflect on feel
+  3. Discover needs
+  4. Make a constructive request
+* Recognize -> Practice -> Influence
+
+* **Key takeaways**
+  * Conflict is only harmful when left unresolved or unacknowledged. Learn to recognize where conflict falls into one of these categories (e.g. working around people, recurring issues) and practice how to communicate it effectively to influence change. Use the NVC to keep the conversation productive.
+
+### Effective cross team
+
+* Staff+ guild that reviewes all relevant ADRs / RFCs
+* If team working without a sponsor, then assign + bubble up to Staff+ guild
+
+### Learning
+
+* Dedicated time, must give back
+  * Presentation
+  * Adoption
+  * Spike
+* Everybody has capability to grow in some capacity
+
+### The magic of crisis
+
+* As a Staff+, never think out load as people will think your half-baked idea is the full plan
+
+* "Nothing ever changes until there is a crisis"
+* "Never let a good crsis go to waste" -> During a crisis people become more willing to change as the current way is obviously failing
+
+* Global configuration changes frequently cause outages.
+
+* Types of crisis
+  1. Fundemental suprise
+      * AWS outage turned off service and office lights
+      * New place, new rules to learn
+  2. Broken core functionality
+      * Change is not optional
+  3. High visibility
+      * News reporter calling about X
+      * Percieved as blocking progress
+  4. Perception breakdown
+      * Alert overload, information non-actionable
+      * "It works on my machine"
+      * Collapse in sense making, fog of war
+  5. Rigid timing
+      * Deadlines with real consequences (e.g. API will expire in 30 days; not made up ones from product)
+      * Force to improve collaboration / process (i.e. a lot of process / "waste" is suddently eliminated)
+
+* Crisis as an Opportunity (CaaO)
+  * Shifted incentives
+  * Inverted or diverted power structures
+  * Radically altered priorities
+  * Radically altered communication structures
+
+* Practical > Ideological (MVP > Perfect)
+* Ask for capacity for more robust solutions
+
+* Not crises
+  * Missed deadlines
+  * Budget overruns
+  * Technical debt
+  * Bad UX for customers
+  * Feeling of impending doom is not a crisis (yet)
+  * Manufactured crises (e.g. deadlines from product)
+
+* Be patient, be ready for 3 of 5 crisis types
+* REFERENCE: [Crisis Engineering](https://www.amazon.com/Crisis-Engineering-Time-Tested-Turning-Clarity/dp/0306836866)
+
+* **Key takeaways**
+  * Crisis are an opportunity to impart change as incentives, structures, and priorities have drastically shifted. Fix the immediate crisis and then leverage that win to get leadership bought into those long-term fixes which have been in the backlog.
+
+### Tackling technical debt
 
 * TODO
