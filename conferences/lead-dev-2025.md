@@ -422,4 +422,101 @@
 
 ### Tackling technical debt
 
+* Technical debt ...
+  * Makes code difficult to understand
+  * Makes code difficult to scale
+  * Makes code difficult to change
+* Knowing interested on debt is very important
+* Easy to look at old code and think they were dumb ("misattribution error" from psychology)
+
+* Developer Experience (DX) Factors negatively impacted by technical debt:
+  * Flow state
+  * Cognitive load
+  * Feedback loops
+
+* Technical debt -> Hard to test / verify -> Frequent incidents
+
+* How to deal with tech debt:
+  1. Visulize the problem (e.g. DORA metrics)
+  2. Benchmark against industry (e.g. DORA us vs them)
+  3. Evangelize and Explain
+  4. Secure some capacity (e.g. 50%, 20%, ..., capacity)
+  5. Deliver, deliver, deliver
+      * Slice & Dice, Strangle pattern
+      * Make the work visible
+      * Make the risk visible
+      * Observability
+
+* Rewrite always takes longer than expected; don't dedicate 100% capacity - may kill company.
+
+* Feedback Loops: Add tests
+* Cognitive load: [CRAP Measure](https://dx42.github.io/gmetrics/metrics/CrapMetric.html)
+* Flow: Documentation
+
+* Start with tech debt improvements before a settling on a rewrite
+* Put an expire date for hacks
+* Leave things better than you found it
+* Make space in capacity for improvement
+* Sometimes have to put foot down as lead to prioritize tech debt (be a stuborn, loud swan vs ?track)
+
+* **Key takeaways**
+  * Technical debt negatively impacts the Developer Experience (DX) and also makes software more expensive to change. Technical debt makes code difficult to reason through which makes code more difficult to test which results in more production incidents. To drive down technical debt, carve out capacity (e.g. 20%) to pay down this debt in tiny slices.
+  * Rewriting products is a huge investment which always takes longer than you think which may kill the buisness. Always always always try tackling technical debt before trying to rewrite from scratch.
+
+### Leading without committing
+
+* How to lead without being a direct contributor / writing code (i.e. committing)
+
+1. Identify + fill blind spots
+    * Admin what you don't know
+    * Mirror language team already uses; make glossary for product
+    * Become expert in big picture
+    * Build relationships to get feedback about gaps lack of technical and domain knowledge (i.e. leverage ICs)
+2. Build trust
+    * Establish credibility
+    * Shadow engineering doing the work
+3. Leverage what you do know
+    * Fundementals > Syntax
+      * Observability
+      * Performance
+      * Scaling
+    * Identify opportunities for folks to grow ownership
+4. Manage down to manage up
+    * Teach managing up
+    * Understand + develop career goals
+    * Shared 1:1 notes
+    * They set and articulate tech plans
+
+* **Key takeaways**
+  * Going into the management track at traditional organizations you will be writing less and less code which you will have less and less domain or technical knowledge in organizations you are supposed to be a leading in. Become an expert in the big picture, leverage your knowledge of the fundementals (e.g. ovservability, scalability) and build strong working relationships with technology leaders (i.e. Senior+ ICs) to help turn the big picture into working software.
+
+### Beyond the code
+
+* Culture
+  * Values: Shared understanding / mission
+  * Belief: Leadership approach
+  * Attitude: ???
+  * Behavior: How people interact
+  * Practices: Rituals (e.g. standup)
+
+* People collaborate more effectively the more overlap in culture they share
+* Culture scales easier than practicies.
+
+* Make sure culture interview questions have a scorecard as people in the same company often measure / observe culture differently
+
+* Spread cultural questions throughout the interview by asking "Why" and deeper questions during the other interview ___ to uncover their principles, practicies, etc.
+
+* Make culture transparent and public so people can self-select out early
+
+* Assessment criteria
+  1. What are you looking for?
+  2. What value does it align with?
+  3. Where does this person rate on that value / principle (e.g. Likert-like Scale)?
+
+* **Key takeaways**
+  * Culture scales where practicies plateau. Practicies are too context dependent. What may work for one team in one context may not work for a different team in a different context. Don't be dogmatic. Instead, scale culture. Culture is the mindset which shapes practice.
+  * Culture fit is a big factor for effective collaboration. Make your culture public and hunt for good culture fits throughout the entire interview process: not just the last question.
+
+### Estimates are a waste of time
+
 * TODO
