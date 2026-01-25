@@ -1,6 +1,6 @@
-# TITLE
+# Tidy First
 
-LINK
+<https://www.amazon.com/Tidy-First-Personal-Exercise-Empirical/dp/1098151240>
 
 ## Key Takeaways
 
