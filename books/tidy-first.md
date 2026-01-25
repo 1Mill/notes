@@ -181,4 +181,96 @@ LINK
 
 ### Part 3
 
-* TODO
+* "Understanding theory optimizes application. The forver questions in software design are:" (p 55)
+  * What do I start making software design decisions?
+  * When do I stop making software design decisions and get on with changing the behavior of the system?
+  * How do I make the next decision?
+
+* "When we're stuck on 'X', 'No, Y', then we're stuck in a battle of wills, likely to be resolved through our relative power positions in our relationship." - p 56
+
+* "software design is an exercise in human relationships" - p 57
+* The elements of software design are "tokens -> expressions -> statements -> functions -> objects / modules -> systems" - p 57
+* "Elements have boundaries. You know where they start and end." - p 57
+* "In software design, we have a handful of relationships like: Invokes, Publishes, Listens, Refers (as in fetting the value of a variable)" - p 58
+  * Refers are getters
+* "When I talk about the structure of the system, I'm talking about: The element Hierarchy; The relationships between elements; The benefits created by those relationships" - p 59
+
+* "Software creates value in two ways: What it does today; The possibility of new things we can make it do tomorow" - p 61
+* "Behavior can be caracterized in two ways: input/output pairs; invariants." - p 61
+  * Input / output: If you give me (A, B, C) I will automate the output of D for you for a small fee (e.g. tax software)
+  * Invariants: ???
+* "Behavior creates value." - p 61
+* "Bit rot is real. Something is always changing. Staying in place in the river requires constant paddling." - p 61
+* "Options are the economic magic of software - especially the option to expand." - p 62
+* "*Extreme Programming Explained* 'Embrace change'" - p 62
+* "... some scenarios that reduce [ ] options:" - p 62
+  * A key employee quites. Change that would have taken days now take months.
+  * You distance yourself from your customers. If you get a provocation suggestion a month instead of one every day, you have fewer options.
+  * The cost of changes skyrockets. Instead of being able to exercise an option a day, you can only excersie an ption a month. Fewer options, less value.
+* "The structure [of the code] creates options. The structure could make it easy to add new countries to our paycheck calculation, or it could make it hard." - p 62
+* "... structure changes and behavior changes are both ways to create value, but that they are fundementally fundementally different. How? In a word, reversibility." - p 63
+  * People do not become dependent on structure, but they do on behavior (i.e. breaking changes in major SEMVER releases).
+
+* "... money represents this 'frozen desire' [to want stuff later, but not right now]" - p 65
+* "When geeky imperatives clash with money imperatives, money wins. Eventually." - p 65
+* "Strategies that had made perfect sense to me now seemed bizarre where they contridicted the nature of money. Strategies that had seemed fringe or sketchy or naive become just sensible money management." - p 65
+* "... the time value of money encourages tidy after over tidy first." - p 68
+  * A dollar today is worth more than a dollar tomorrow. Tidying is often a fixed cost, so doing it later makes more economic sense. But, opportunity cost in refactor delay also needs to be appropriately managed.
+* "What behavior can I implement next?" - p 70
+* "I don't have to care which item will be most valuable, as long as I keep open the option of implementing it." - p 70
+* "Software design is preparation for change: change of behavior." - p 71
+
+* "Tidy first? Yes. And also no." - p 73
+* Tidy first if and only if "`cost(tidying) + cost(behavior change after tidying) < cost(behavior change without tidying)`" - p 73
+* At the scale of tidying - minutes to hours - we can't (and shouldn't try to) precisely calculate the economics of our tidying." - p 74
+  * Tidying should just be part of the work.
+  * If we must evaluate the economic benefits of a tidying (i.e. make a buisness case) then the tidying is too big.
+  * Tidying should be measure in minutes to hours - not longer.
+
+* "One property relevant to tidying first is that structure changes are generally reversible. You extract a helper function and you don't like it? Inline it. It's like that hallper never existed." - p 75
+* "There's great value in reviewing, double-ehcking, triple-ehcking rirreversibile decisions. The pace should be slow and deliberate." - p 75
+* Make decisions reversible -> Make it safe to fail -> Make it safe to learn / try. - p 76
+
+* "... what made them so expsnive. They noticed that the expensive programs all had one property in commong: changing one element required changing other elements. The cheap programs tended to require localized changes." - p 77
+* "... coupling has two properties that drag it center stage: 1-N; Cascading." - p 78
+  * 1-N: On element can be coupled with any number of other elements with respect to a change.
+  * Cascading: Once a change has rippled from one element to another, that implied change can trigger another round of changes, which can themselve trigger changes of their own.
+* "Cascading changes are the bigger issue. As we will see in the next book, the cost of changes follows a power law distribution. ... You will be using software esign to reduce the probability and magnitude of cascading changes." - p 78
+* "It's not enough to know that one service invokes another; we need to nkow what changes to one service would erquire changes to the other." - p 78
+* "Couplling drives the cost of software." - p 79
+
+* "turns out that mental model of software, as a *thing* that is *made* and then should run forever unchanged, like some kind of perpetual motion machine, is the opposite of what really happens, and what *should* happen, too. The future value of a system reveals itself in today's realities, not yesterday's speculation." - p 81
+* "'Constantine's Equivalance,' then, is that the cost of software is approximately equal to the cost of changeing it." - p 81
+  * `cost(software) ~= cost(change)`
+* "So, the cost of software is approximately equal to coupling:" - p 83
+      ```bash
+      cost(big changes) ~= cost(coupling)
+      cost(software) ~= cost(change)
+
+      => cost(software) ~= cost(change) ~= cost(coupling)
+      => cost(software) ~= cost(coupling)
+      ```
+* "To reduce the cost of software, we must reduce coupling." - p 83
+
+* "The boulder that was perched on the hill decided now was a good time to roll down." - p 85
+  * You rarely get to choose when technical debt or deferred maintinance must be paid; so best to be aware and managed eagerly rather than lazily.
+* "Here's something I believe but can't prove or adequately explain: the more you reduce coupling for one class of changes, the greater the coupling becomes for other classes of changes. THe practical implication of this (if it matches your intuition) is that you shouldn't bother to squeeze out every last bit of coupling." - p 86
+* "Cost of coupling trades off with cost of decoupling" - p 87
+  * Look at graph on page
+  * As you decreasing coupling in one space you are increasing coupling in another; so don't seek to eliminate all coupling, seek to find the optimal balance.
+
+* "Make the code tider for the next person. If everyone follows the Scount rule ('leave it better than you found it'), the code will become more livable-with over time." - p 90
+
+* "..." - p 91
+  * Cost - Will tidying make costs smaller, later, or less likely?
+  * Revenue - Will tidying make revenue larger, sooner, or more likely?
+  * Coupling - Will tidying make it so I need to change fewer elements?
+  * Cohesion - Will tidying make it so the elements I need to change are in a smaller, more concentrated scope?
+* "You can't be your best self if you're always rusing, if you're always changing code that's painful to change." - p 91
+* "Tidy to enable the enxt behavior change. Save the tidying binge for later, when you can go nuts without delaying the change someone else is waiting for." - p 91
+* "... making software design an ordinary, blaance part of development." - p 91
+* "Once you make software design part of both daily buisness and strategic planning, you have the opportunity to play your part in healing the rift between business and technology." - p 92
+* "Tidy first? Likely yes. Just enough. You're worth it." - p 92
+
+* **Key takeaways**
+  * TODO
