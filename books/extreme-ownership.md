@@ -124,4 +124,22 @@ LINK
 
 #### Simple
 
+* "Combat, like anyting in life, has inherent layers of complexities. Simplifying as much as possible is crucial to success. When plans and orders are too complicated, people may not understand them. And whe things go wrong, and *they inevitably do go wrong*, complexity compounds issues that can spiral out of control into toal disaster." - p 140
+* "Plans and orders must be communicated in a manner that is simple, clear, and concise. Everybody that is part of the mission must know and understand his or her role in the mission and what to do in the event of likely contingencies." - p 140
+* "... frontline troops [must] ask questions that clarify when they do not understand the mission or key tasks to be performed. Leaders must encourage this communication and take the time to explain so that every member of hte team understands." - p 140
+* "It was essential to keep things simple so that everyone on the team understood." - p 142
+* "What matters is that *they* understand it - your production team. And not in some theoretical way. They need to understand it to a point that they don't need to be thinking about it to understand it. It needs to be on the top of their minds all the time." - p 144
+* "It certainly is possible that they *could*. But they *don't*. People generally take the path of least resistance. It is just in our nature." - p 145
+* "While the troops might understand their individual pieces of the plan, they have a hard time following all the intricacies of the grand scheme. Perhaps they can even get away with that a few times if everything goes smoothly, but remember: the enegemy gets a vote." - p 145
+* "When something goes wrong - and it eventually does - complex plans add to confusion, which compound into disaster." - p 145
+* "If the plan is simple enough, everyone understands it, which means each person can rapidly adjust and modify what he or she is doing." - p 145
+* "The most impressive thing about this [sales bonus / incentive] improvement in performance ws that it did not come from a major process change or an advance in technology. Instead, it came through a leadership principle that has been around for ages: Simple." - p 147
+
+* **Key takeaways**
+  * Keep the mission simple and know everybody envolved with the mission understands their part and the bigger picture. Complexity or misunderstanding compounds into confusion which create disasters. Keep it simple so folks can think about the nuance of doing and adjust appropriately when something inevitably goes wrong.
+  * The people doing the work must ask clarifying questions when they don't understand the misson or key tasks to be performed to achieve that mission. On the other hand, leaders must encourage, grow, and enforce this culture.
+  * Impressive productivity gains can be earned through simplification and clear understanding by doers. It is the mission of leaders to make things simple and enforce understanding.
+
+### Prioritize and execute
+
 * TODO
