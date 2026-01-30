@@ -142,4 +142,25 @@ LINK
 
 ### Prioritize and execute
 
+* "How could we possibly tackle so many problems at once? Prioritize and Execute." - p 158
+* "Once the wheels were in motino and the full resources of the team were engaged in that highest priority effort, I could then determine the next priority, focus on the team's effor there, and then move on to the next priority. I could not allow myself to be overwhelmed. I had to relax, look around, and make a call. That was what Prioritize and Execute was all about." - p 158
+* "All the training had imparted the instrinct of Prioritize and Execute on the whole platoon. The entire team would simultaneously assess problems, figure out which one was most important with minimum direction from me, and handle it before moving on to the next priority problem." - p 159
+* "On the battlefield, countless problems compound in a snowball effect, every challenge complex in its own right, each demanding attention. But a leader must remain calm and make the best decisions possible. To do this, SEAL combat leaders utilize Prioitize and Execute. We verbalize this principle with this direction: 'Relax, look around, make a call." - p 161
+* "If the team has been briefed and understands what actions to take through such likely contingencies, the team can then rapidly execute when those problems arise, even without specific direction from leaders. This is a critical characteristic of any high-performance, winning team in any business or industry." - p 162
+* "It is critical, particularly for leaders at the top of the organization, to 'pull themselves off the firing line,' step back, and maintain the strategic picture." - p 162
+* "To implement Prioritize and Execute ... :"  - p 162
+  1. Evaluate the highest priority problem
+  2. Lay out in simple, clear, and concise terms the highest priority effort for your team
+  3. Develop and determine a solution, seek input from key leaders and from the team where possible
+  4. Direct the execution of that solution, focusing all efforts and resources toward this priority task
+  5. Move on t the next priority problem. Repeat.
+  6. When priorities shift within the team, pass situational awareness both up and down the chain.
+  7. Don't let the focus on one priority cause target fixation. Maintain the ability to see other problems developing and rapidly shift as needed.
+* "Prioritize your problems and take care of them one at a time, the highest priority first. Don't try to do everyting at once or you won't be successful." - p 165
+
+* **Key takeaways**
+  * Do not tackle every problem at once, evaluate and prioritize the first most important thing. Get the team working on that problem. Once the team has momentum, find the next most important thing. But do not get target fixation. If the situtation changes, hard-pivoting may be better than staying in a bad situtation.
+
+### Decentralized command
+
 * TODO
