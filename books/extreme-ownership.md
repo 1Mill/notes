@@ -163,4 +163,35 @@ LINK
 
 ### Decentralized command
 
+* "On the battlefield, I expected my subordinate leaders to do just that: *lead*." - p 170
+* "Pushing the decision making down to the subordinate, front-line leaders within the task unit was critical to our success. This Decentralized Command structure allowed me, as the commander, to manitian focus on the bigger picture: coordinate friendly assets and monitor enemy activity. Were I to get embroiled in the details of a tactical problem, there would be no one else to fill my role and manage the strategic mission." - p 171
+* "During the first few days of Task Unit Bruiser's MOUT training, my SEAL leaders tried to control everything and everyone themselves. They tried to direct every maneuver, control every position, and personally attempted attempted to manage each one of their men - up to thirty-five individuals in Task Unit Vruiser. It did not work. ... no person had the cognitive capacity, the physical presence, or the knowledge of everything happening across a complex battlefield to effectively lead in such a manner."  - p 172
+* "... Commander's Intend[], and standard operating procedures[:] that was effective Decentralized Command." - p 172
+* "Those junior leaders learned that they were expected to make decisions. They couldn't ask, 'What do I do?' Instead, they had to state: 'This is what I am *going to do*." - p 173
+  * I intend to ... from REFERENCE: Turn This Ship Around
+* "... commander's guideance ... my platoon commanders understanood this guidance as well - perhaps even better than I. Therefore, I did not need to spell it out for each operation; it was embedded in their thoughts." - p 175
+* "With my leaders running thei rteams and handling the tactical decisions, it made my job much easier by enabling me to focus on the bigger picture." - p 176
+* "The fog of war in a chaotic urban environment grows thick rapidly and could muddle even the most seemingly obvious situtations." - p 179
+* "Had I been engulfed in trying to lead and direct Charlie and Delta Platoons' tactical decisions from my distant position, I may very well have missed the other events unfolding. This could have had catastrophic results." - p 183
+* "Human beings are generally not capable of managing more than six to ten people, particularly when things go sideways and inevitably contingencies arise. ... Teams must be broken down into manageable elements of four to five operators, with a clearly designated leaders. Those leaders must understand the overall mission, and the ultimate goal of that mission - that Commander's Intent. Junior leaders must be empowered to make decisions on key tasks necessary to accomplish that missoin in the most effective and efficient manner possible." - p 183
+* "Every tactical-level team leader must undersatnd *not just what to do but why they are doing it*. If frontline leaders do not understand why, they must ask their boss to clarify the why. This ties in very closely with Believe (chapter 3)." - p 183
+* "... junior leaders must fully understand what is within their decision-making authority - the 'left and right limits' of their responsibility. Additionally, they must communicate with senior leaders to recommend decisions outside their authority and pass critical information up the chain so the senior leadership can make informed strategic decisions." - p 184
+* "We call this trait 'battlefield aloofness'. This attitude creates a significant disconnect between leadership and the trioops, and such a leader's team will struggle to effectively accomplish their mission." - p 185
+* "When that happens, he gets focused on the minutia of what's going on in the immediate room and loses situational awareness of what is happening with the rest of the team and can no longer provide effective command and control. Other times, the officer gets stuck in the back of the train, on cleanup duty. When that happens, he is too far in the rear to know what is happening up front and can't direct his assult force. I advised many officers that the right amount of involvement - the proper position for them - was somewhere in the middle, generally with the bulk of their force ..." - p 185
+* "Leaders must be free to move to where they are most needed, which changes throughout the course of an operation." - p 185
+* "Without a clear chain of command - people knowing who is in charge of what - you cannot have empowered leadership. And that is critical to the success of any team ..." - p 186
+* "... militaries throughout history, are based around building blocks of four-to-six-man teams with a leader. We call them 'fire teams.' That is the ideal number for a leader to lead. Beyond that, any leader can lose control as soon as even the minimal pressure is applied to the team when inevitable challenges arise." - p 188
+* "I could only truely lead, manage, and coordinate with about four to six, max." - p 189
+* "Proper Decentralized Command requires simple, clear, concise orders that can be understood easily by everyone in that chain of command." - p 189
+* "A mission statement tells your troops what you are doing. But they have got to understand the *why* they are doing it. When the subordinate leaders and the frontline troops fully understand the purpose of the mission, how it ties into strategic goals, and what impact it has they can then lead, even in the absence of explicit orders." - p 190
+* "Trust is not blindly given. It must be build over time. ... Open conversations build trust. Overcoming stress and challenging environments builds trust. Working through emergencies and seeing how people react builds trust." - p 191
+
+* **Key takeaways**
+  * Everybody on the team must understand the *mission* (i.e. what we want to accomplish) and the *why* behind this mission - this is the [Commander's Intent](https://github.com/1Mill/notes/blob/main/presentations/commanders-intent-enables-great-leadership.md) - to enable decentralized command. Understanding the Commander's Intent allows subordinate leaders to adapt the *how* to achive the *mission* in the fog of war. Since the fog of war can be thick, it is also critial for leaders to outline guardrailes for these subordinate leaders to make it clear what decisions they can and cannot make. Similarly, it is critical to build a communicative culture where subordinate leaders pro-actively bubble information up to leaders who also pro-actively bubble information down to stay aligned within the context of the big picture.
+  * People build trust by doing things together.
+  * A single person can only lead four to six people effectively in chaotic situations - otherwise communication and decision making break down. Build all layers of the organization with this constraint in mind.
+  * Junior leaders cannot ask 'What do I do?' in the middle of combat, instead they must state 'This is what I intend to do' communicated up the chain as part of an advise seeking process (not to be confused with permission seeking unless the situation requires it).
+
+### Plan
+
 * TODO
