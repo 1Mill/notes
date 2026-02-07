@@ -140,7 +140,7 @@ LINK
   * The people doing the work must ask clarifying questions when they don't understand the misson or key tasks to be performed to achieve that mission. On the other hand, leaders must encourage, grow, and enforce this culture.
   * Impressive productivity gains can be earned through simplification and clear understanding by doers. It is the mission of leaders to make things simple and enforce understanding.
 
-### Prioritize and execute
+#### Prioritize and execute
 
 * "How could we possibly tackle so many problems at once? Prioritize and Execute." - p 158
 * "Once the wheels were in motino and the full resources of the team were engaged in that highest priority effort, I could then determine the next priority, focus on the team's effor there, and then move on to the next priority. I could not allow myself to be overwhelmed. I had to relax, look around, and make a call. That was what Prioritize and Execute was all about." - p 158
@@ -161,7 +161,7 @@ LINK
 * **Key takeaways**
   * Do not tackle every problem at once, evaluate and prioritize the first most important thing. Get the team working on that problem. Once the team has momentum, find the next most important thing. But do not get target fixation. If the situtation changes, hard-pivoting may be better than staying in a bad situtation.
 
-### Decentralized command
+#### Decentralized command
 
 * "On the battlefield, I expected my subordinate leaders to do just that: *lead*." - p 170
 * "Pushing the decision making down to the subordinate, front-line leaders within the task unit was critical to our success. This Decentralized Command structure allowed me, as the commander, to manitian focus on the bigger picture: coordinate friendly assets and monitor enemy activity. Were I to get embroiled in the details of a tactical problem, there would be no one else to fill my role and manage the strategic mission." - p 171
@@ -192,6 +192,45 @@ LINK
   * A single person can only lead four to six people effectively in chaotic situations - otherwise communication and decision making break down. Build all layers of the organization with this constraint in mind.
   * Junior leaders cannot ask 'What do I do?' in the middle of combat, instead they must state 'This is what I intend to do' communicated up the chain as part of an advise seeking process (not to be confused with permission seeking unless the situation requires it).
 
-### Plan
+### Part 3
+
+#### Plan
+
+* "You could never assume that such hazard weren't waiting for you on a target. You had to assume they were, and you had to plan for them on *every* operation and mitigate the risk of those threats as much as possible. To assume otherwise was a failure of leadership. That was what mission planning was all about: never taking anything for granted, prepairing for likely contingencies, and maximizing the chance of mission success while minimizing the risk to the troops executing the operation." - p 203
+* "For any team in any business or industry, it is essential to develop a standardized planning process." - p 203
+* "A broad and ambiguous mission results in lack of focus, ineffective execution, and mission creep. To prevent this, the mission must be carefully refined and simplified so that it is explicitly clear and specifically focused to achieve the greater strategic vision for which that mission is a part." - p 204
+* "The mission must explain the overall purpose and desire result, or 'end state,' of the operation. The frontline troops tasked with executing the mission must understand the deeper purpose behind the mission." - p 204
+* "It is critical to utilize all assets and lean on the expertise of those in the best position to provide the most accurate and up-to-date information." - p 204
+* "Leaders must delegate the planning process down the chain as much as possible to key subordinate leaders. Team leaders within the greater team and frontline, tactical-level leaders must have ownership of their tasks within the overall plan and mission." - p 204
+* "While the senior leader supervises the entire planning process by team members, he or she must be careful not to get bogged down in the details. By maintaining a perspective above the microterrain of the plan, the senior leader can better ensure compliance with the strategic objecetives. Doing so enables senior leaders to 'stand back and be the tactical fgenius' - to identify weeknesses or holes in the plan that most immersed in the details might have missed. This enables leaders to fill in those gaps before execution." - p 205
+* "Leaders must carefully prioritize the information to be presented in a simple, clear, and concise a format as possible so that participants do not expeirence information overload." - p 205
+* "If frontline troops are unclear about the plan and yet are too intimidated to ask questions, the team's ability to effectively execute the plan radically decreases. Thsu, leaders must ask questions of their troops, encourage interactions, and ensure their teams understand the plan." - p 205
+* "U.S. Navy, John Paul Jones, said: 'Those who will not risk cannot win.'" - p 206
+* "What went right? What went wrong? How can we adapt our tactics to make us even more effective and increase our advantage over the enemy?" - p 206
+
+* "A leader's checklist for planning should include the following:" - p 207
+  * Analyze the mission - understand the Commander's Intent and restart your own.
+  * identify personnel, assets, resources, and time available.
+  * Decentralize the planning process
+  * Determine a specific course of actoin
+  * Empower key leaders
+  * Plan for likely contingencies
+  * Mitigate risk that can be controlled as much as [reasonably] possible
+  * Delegate portions of the plan and brief to key junior leaders
+  * Continually check and question the plan against emerging information to ensure it still fits the situtation
+  * Breif the plan to all participants and supporting assets
+  * Conduct post-operational debrif after execution
+
+* "The OPORD breifing format we were given was developed for a 96-hour planning cycle: it assumed we would have at least 4 days to prepare for a combat mission. ... In actual practice, we had only a few hours to plan for our training exercises, so the long and detailed format invariably left us far too little time. We wasted most of our efforts building slides and neglected important peices of the plan."
+* "Here is what I want you to do: forget about all this crazy PowerPoint. I want this plan to be clear to everyone that is actually *in* your platoon. I'm nmot worried about the CO or the master cheif. Brief it to your guys: the troops wo will be executing the mission." - p 213
+* "... as leaders, we must not get dragged into the details but instead remain focused on the bigger picture." - p 214
+* "With everyone understanding my 'Commander's Intnet' ... the team is able to be more decisive on the front lines. They can suport the mission without having to run evry question up the chain of command. Our ability to plan is enabling us to better execute and win." - p 218
+
+* **Key takeaways**
+  * Understand the Commander's Intent (e.g. goal, desired end state) and ask why for further clarity; shape and share your own Commander's Intent to the team and junior leaders. Then, start executing. Question the why behind the team's tactical decisions and ensure those decisions still line up with the desired end-state. Also, pro-actively communicate up these tactical decisions to keep the Commander informed.
+  * Make the Commander's Intent as clear and simple as possible so that everybody know how they can help support the mission without having to ask how.
+  * After outlining the Commander's Intent, the leader must get out of the way by delegating the details so they can keep the broader strategic mission in mind.
+
+#### Leaderup and down the chain of command
 
 * TODO
