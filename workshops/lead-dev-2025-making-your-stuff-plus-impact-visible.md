@@ -22,7 +22,7 @@ Author: Krys Flores
 
 * I want to be percieved as (pick 5) ...
 
-![image](./https://github.com/1Mill/notes/blob/main/workshops/lead-dev-2025-making-your-stuff-plus-impact-visible_good-words-list.jpg)
+![image](./lead-dev-2025-making-your-stuff-plus-impact-visible_good-words-list.jpg)
 
 | Phrases / adjectives | Who thinks this? | Notes |
 | --- | --- | --- |
