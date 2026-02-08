@@ -2,7 +2,15 @@
 
 Author: Krys Flores
 
-* I think I am percived as ...
+## Key Takeaways
+
+* As a Staff+ Enigneer, being visible is a requirement of the job. It means building strong working relationships with folks and using expert knowledge and political capital to influence organizational change.
+  * REFERENCE: <https://blog.jgefroh.com/p/how-to-drive-meaningful-change-improve>
+* To become a Staff+ Engineer, you must become visible in the right ways. Build a idealistic 5 word buisness card from the list below and then find mentors to (1) tell you if this aligns with the needs of the organization and (2) help level up in deficient areas.
+
+### Notes
+
+* I think I am percived as (give 5) ...
 
 | Phrases / adjectives | Who thinks this? | Notes |
 | --- | --- | --- |
@@ -12,7 +20,9 @@ Author: Krys Flores
 | | | |
 | | | |
 
-* I want to be percieved as ...
+* I want to be percieved as (pick 5) ...
+
+![image](./https://github.com/1Mill/notes/blob/main/workshops/lead-dev-2025-making-your-stuff-plus-impact-visible_good-words-list.jpg)
 
 | Phrases / adjectives | Who thinks this? | Notes |
 | --- | --- | --- |
@@ -21,6 +31,8 @@ Author: Krys Flores
 | | | |
 | | | |
 | | | |
+
+* These 5 words are your "5 word buisness card" - it is how you would describe yourself to new people you are networking with.
 
 * Eagerly praise peers to build informal relationships outside of directly doing the work. This build a foundation for future working relationships.
   * Project completion
@@ -52,7 +64,7 @@ Author: Krys Flores
     * What you hope to learn  or develop under them
     * An invitation to connect and explore mentorship
 
-## Minto Pyramid reminders for stakeholder weekly summaries
+#### Minto Pyramid reminders for stakeholder weekly summaries
 
 1. Start with the bottom line (conclusion)
     * What is the key message or main status update you want stakeholders to know right now?
@@ -64,7 +76,7 @@ Author: Krys Flores
     * What specific evidence, data, or results support these key points? Include metrics, dates, or relevant context.
     * For example, 'API integreated by Sept 15, vulnerability fixes reduced CVEs from 8 to 2. UAT performed on Sept 20 by QA team with documented results.'
 
-## BLUF Reminders for stakeholder weekly summaries
+#### BLUF Reminders for stakeholder weekly summaries
 
 1. Bottom line up front
     * What is the single most important update or outcome this week? State is clearly in 1-2 sentences at the very beginning.
