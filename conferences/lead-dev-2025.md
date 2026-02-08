@@ -112,6 +112,8 @@
 
 ### Making your impact visible
 
+* Workshop details at <https://github.com/1Mill/notes/blob/main/workshops/lead-dev-2025-making-your-stuff-plus-impact-visible.md>
+
 * How am I perceived?
 * How do I want to be percieved?
 * How do I win friends and influence people?
