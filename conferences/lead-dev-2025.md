@@ -519,4 +519,94 @@
 
 ### Estimates are a waste of time
 
-* TODO
+* Estimates often follow the ideal happiest path - not the realistic sad path
+* Difficult to estimate dependencies (e.g. other teams, code reviews)
+* Nobody want sto give bad estimates - most software engineers / people want to be people pleasers
+
+* Estimates wrong -> Deadline missed -> Loose trust -> Energy wasted -> Better next time (fingers crossed)
+
+* Deterministic vs Probabalistic thinking
+  * Fixed output is deterministic (e.g. miles to travel)
+  * Range of outputs is probablistic (e.g. miles travel + traffic varaible(s))
+
+* "Plans based on averages fail on avereage" - REFERENCE: Dr. Sam Savage
+
+1. Flow metric - start time vs end time, WIP, lead time / age of request
+2. Right-sizing - Be roughtly right vs perfectly wrong; smallest unit of potential value
+3. Clear planning sessions
+4. MonteCarlo Simulation
+
+* Three levels of planning: (1) 12 months out, later intentions; (2) 3 months out, next ballpark; (3) current cycle, now commitments
+
+* Pivot conversation from date to range
+* REFERENCE: Light ??? DevTool
+
+* **Key takeaways**
+  * People want to make others happy by delivering right on time but estimates often follow the happiest path - not the realist path. Pivot the conversation from due-dates to realistic forecasts using MonteCarlo simulations. To do this, break work down into small units of deployable (but maybe not yet realsable) value. Over time, these will probably become right-sized and consistent across the team. Now, with a stable output, estimate how many units you have left to do for a given theme of work and then use MonteCarlo Simulations to get more realistic release / done dates.
+
+### No one needs me (and that's the point)
+
+* Strive to be less involved to let others grow
+* Managers /leads should not be a bottleneck to anything in an high functioning team
+* What would happen if OOO for 2 weeks?
+
+* How to step back:
+  1. Psychological safety
+  2. Decision making support
+
+* Clarity over control
+  * What are we aiming for?
+  * What does 'good' look like?
+  * What are the trade offs?
+* Trust over fixing
+  * Hold back on solving / fixing
+  * Ask questions
+  * Show trust through actions
+* Show up differently
+  * Join fewer meetings
+  * More async involvement
+  * Ask what support is needed
+
+* What happens after the shift?
+  * Can coach future leaders
+  * Can fix broken systems
+  * Can support and sponsor others
+  * Can align across functions
+
+* **Key takeaways**
+  * To grow people, you must give them the space and opportunity. Build psychological safety, and then leverage that safety net to let people try and succeed or fail safely.
+  * Seek clarity over control by asking: What are we aiming for? What does 'good' look like? And What are the trade offs?
+
+### Leading sustainability when everything is on fire
+
+* Political captical is critical to practical effectiveness -> pick and choose when to spend political capital
+
+* Anti-patterns when loosing autonomy:
+  * Disengage from the org, try to create a bubble (oasis of niceness)
+    * Difficult to make new friends outside of immediate team
+    * Lack of cross-team collaboration
+    * Prolonged isolation is not good
+  * Attempt to resist, push immovable boulder
+    * Seek understanding
+    * Adaopt a "Yes, and ..." mentality
+    * Direct messages vs public declarations means they don't think they can win / influence the course of action
+
+* Rules of the game (written + unwritten)
+  * Get and spend political capital
+  * How to Get:
+    * Ship great work
+    * Build strong relationships with people with high political capital
+  * How to Spend
+    * Get something for your team
+
+* Can only engage a system for good when you can actually see the system
+
+* Ethical engagement
+  * Push boulders ocllectively
+  * Be transparent
+
+* REFERENCE: <https://blog.jgefroh.com/p/how-to-drive-meaningful-change-improve> series
+
+* **Key takeaways**
+  * Political captial is how you influence change. You gain political captial by deploying doing great works and you spend political capital by asking people to do something. The rules and rates at which people gain and spend political capital are often unspoken and informal, but only by participating in the system can the system be changed for the better. So, be extremely intentional with when you spend political capital.
+  * Anti-patterns for building social capital: creating a bubble around your team which isolates you from the rest of the organization; constantly resisting unmovable boulders.
