@@ -265,4 +265,20 @@ LINK
 
 #### Decisiveness amid uncertainty
 
+* "Despite the forceful preassure to comply, I had to take a step back and see the bigger picture." - p 250
+* "Jocko had always encouraged us to be aggressive in decision-making. But part of being decisive was knowing and understanding that some decisions, while immediately impactful, can be quickly reversed or altered; other decisions, like shooting another human being, cannot be undone. If we waited to take this shot we could later change our course, while a decision to pull the trigger and engage this shadowy target would be fina." - p 251
+* "As the leader in charge, regardless of who pulled the trigger, the responsibility would have been mine." - p 253
+* "In combat as in life, the outcome is never certain, the picture never clear. There are no guarantees of success. BUt in order to succed, leaders must be comfortable under pressure, and act on logic, not emotion. This is critical component to victory." - p 253
+* "The combat leader almost never has the full picture or a clear and certain understanding of the enemy's actions or reactions, nor even the knowledge of the immediate consequences for momentary decisions." - p 254
+* "Regardless, leaders cannot be paralyzed by fear. That results in inaction. It is critical for leaders to act decisively amid uncertainty; to make the best decisions they can based on only the immediate information available." - p 254
+* "Intilligence gathering and research are important, but they must be employed with realistic expectations and must not impede swift decision making that is often that difference between victory and defeat. Waiting for 100 percent right and certain solution leads to delay, indecision, and an inability to execute. Leaders must be prepared to make an educated guess based on previous experience, knowledge of how the enemy operates, likely outcomes, and whatever intelligence is available in the immediate moment." - p 255
+* "In the SEAL Teams, we taught our leaders to act decisively amid choas. Jocko had taught me that, as a leader, my default setting should be aggressive-proactive rather than reactive. This was critical to the success of any team. Instead of letting the situation dictate our decisions, we must dictate the situation. But for many leaders, this mindset was not intuitive. Many operated with a 'wait and see' approach. But experience had taught me that the picture could never be complete. There was always some element of risk. There was not 100-percent right solution." - p 258
+
+* **Key takeaways**
+  * There is never going to be 100% prefect solution, so analysis-paralysis is an anit-pattern. You want to try to dictate the situtation as much as possible, so borrowing from [Cynefin diagrams](https://en.wikipedia.org/wiki/Cynefin_framework), in chaos default to act-sense-response. But, be mindful when acting in complex, complicated or clear domains such as the near friendly fire situtation the author mentioned. Recognize what are Type 2 (reversiable) vs Type 1 (non-reversiable) decisions before acting. Indisiveness in itself is a choose - just be mindful of when and where it is appropriate.
+  * Situational pressure increases emotion based reasoning (e.g. I don't want to disappoint, I don't want to appear as ...), which may lead to bad decisions / outcomes. Strive to stay rational but don't ignore your gut.
+  * Default to aggressive-proactive decision making rather than wait-and-see.
+
+#### Discipline equals freedom - The dichotomy of leadership
+
 * TODO
