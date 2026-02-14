@@ -233,4 +233,36 @@ LINK
 
 #### Leaderup and down the chain of command
 
+* "This was a stricking realization: I was Charlie Platoon commander, second in seniority only to Jocko in Task Unit Bruiser. And yet, immersed in the details of the tactical operations, I had not fully appriciated or understood how those operations so directly contributed to the strategic mission with spectacular results beyond anyone's wildest dreams." - p 227
+* "For a young SEAL shooter with a very limited role in the planning process who was out working on his weapons and gear, conducting maintenance on our vehicles, or building demolition charges for the breacher, he waslked into our missoin breifs wondering: *What are we doing next?* He had no context for why we were doing the operation or how the next tactical mission fit into the bigger picture of stabilizing and securing Ramadi." - p 227
+* "... even when a leader thinks his troops understand the bigger picture, they very often have difficulty connecting the dots between the tactical mission they are immersed in with the greater overarching goal." - p 228
+* "... it is paramount that senior leaders explain to their junior leaders and troops executing the mission how their role contributes to big picture success." - p 229
+* "The CO and his staff weren't bad guys out to make our lives harder and stifle our operations. They were good people trying to do their jobs the best they could and give us what we needed to accomplish our mission. But they weren't on the battlefield with us. They didn't fully understand the threats we delt with on a daily basis and how hard we were working to mitigate every risk we possibly could." - p 233
+* "I needed to understand how to lead up the chain of command and why it was important." - p 234
+* "'We can't expectthem to be mind readers,' Jacko said. 'The only way they are going to get this information is from what we pass to them, the reports we write and the phone calls we make. And we obviously aren't doing a good enough job if they still have major questions.'" - p 235
+* "'We are here. We are on the ground. We need to push situational awareness up the chain,' Jocko said. 'If they have questions, it is our fault for not properly communicating the information they need. We have to lead them'" - p 235
+* "'Leadership doesn't just flow down the chain of command, but up as well,' he said. 'We have to own everything in our world. That's what Extreme Ownership is all about.'" - p 235
+* "The more information we passed, the more our Co and staff understood what we were trying to accomplish." - p 236
+* "If your boss isn't making a decision in a timely manner or providing necessary support for you or your team, don't blame the boss. First, blame yourself. Examine what you can do to better convey the critical information for decisions to be made and support allocated." - p 267
+* "Leading up, the leader cannot fall back on his or her positional authority. Instead, the subordinate leader must use influence, experience, knowledge, communication, and maintain the highest professionalism." - p 267
+* "*One of the most important jobs of any leader is to support your own boss - your immediate leadership.*" - p 237
+* "A public display of discontent or disagreement with the chain of comman dundermines the authority of leaders at all levels. This is catastrophic to the performance of any organizataion." - p 238
+* "As a leader, if you don't understand why decisions are being made, requests denied, or support allocated elsewhere, you must ask those questions up the chain." - p 238
+* "But at the end of the day, once the debate on a particular course of action is over and the boss has made a decision - even if that decision is one you argued against -  you must execute the plan *as if it were your own*." - p 238
+* "The major factors to be aware of when leading up and down the chain of command are these:" - p 238
+  * Take responsibility for leading everyone in your world, subordinates and superiors alike.
+  * If someone isn't doing what you want or need them to do, look in the mirror first and determine what you can do to better enable this.
+  * Don't ask your leader what you should do, tell them what you are going to do.
+* "The infamous *they*." - p 239
+  * Fighting against leadership - feeling like you are are different teams - is a process smell / anti-pattern.
+  * What if they are working against you?!
+* "'No, they don't want me to fail,' admitted the field manager. 'Alright,' I said. 'Then if they are asking questions, criticizing your plan, and requiring paperwork, it means they are in need of some critical information." - p 241
+* "'I realized that if my chain of command had questions about my plans or needed additional information or more detailed paperwork, it was not their fault,' I said. 'It was *my* fault.'" - p 241
+
+* **Key takeaways**
+  * If leaders are asking you for more information, than take it as feedback that you are not giving them enough of the right information to give them confidence you are delivering on their vision. It is your responsibility to push situtational awareness up the chain of command because they are not there in the battlefield but still need the relevant information.
+  * It is easy to get lost in the tactical details so that junior leaders understand the next tactical item but not how that tactical item fits within the broader strategic vision. As a leader, eagerly communicate the strategic vision and how the tactical items fit into that strategic vision.
+
+#### Decisiveness amid uncertainty
+
 * TODO
