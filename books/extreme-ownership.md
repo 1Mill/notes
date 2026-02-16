@@ -281,4 +281,65 @@ LINK
 
 #### Discipline equals freedom - The dichotomy of leadership
 
-* TODO
+* "Since human beings tend to resist change, we met instant dissent. ... So I had to explain *why*." - p 269
+* "Our freedom to operate and maneuver had increased substantially through disciplined procedures. Discipline equals freedom." - p 270
+* "... if I wanted any extra time ... I had to *make* that time because it did not exist on the written schedule." - p 271
+* "The temptation to take the easy road is always there. It is as easy as staying in bed in the morning and sleeping in. But discipline is paramount to ultimate success and victory for any leader and any team." - p 272
+* "The more disciplined standard operating procedures (SOPs) a team employs, the more freedom they have to practice Decentralized Command (chapter 8) and thus they can execute faster, sharper, and more efficiently." - p 273
+* "Instead of making us more ridig and unable to improvise, this discipline actually made us more flexible, more adaptable, and more efficient. It allowed us to be creative. When we wanted to change plans midstream on an operation, we didn't have to rereate the entire plan. We had the freedom to work within the framework of our disciplined procedures." - p 273
+* "While increased discipline most often results in more freedom, there are some teams that become so restricted by imposed discipline that they inhibit their leaders' and teams' ability to make decisions and think freely. If frontline leaders and troops executing the mission lack the ability to adapt, this becomes detrimental to the team's performance. So the balance between discipline and freedom must be found and carefully maintained. In that, lies the dichotomy: discipline - strict order, regimen, and control - miht appear to be the opposite of total freedom - the power to act, speak, or think without any restrictions. But in fact, discipline is the *pathway* to freedom." - p 274
+* "Just as discipline and freedom are opposing forces that must be balanced, leadership requires finding the equilibrium in the dichotomy of many seemingly contradictory qualities, between one extreme and another. The simple recognition of this i one of the most powerful tools a leader has. With this in mind, a leader can more easily balance the opposing forces and lead with maximum effectivness." - p 274
+* "A leader must lead byt also be ready to follow." - p 274
+* "A true leader is not intimidated when others step up and take charge. Leaders that lack confidence in themselves fear being outshined by someone else. If the team is successful, then recognition will come from those in charge, but a leader should not seek that recognition." - p 275
+* "A leader must be aggressive but not overbearing." - p 275
+* "A leader must be calm but not robotic. It is normal - and necessary - to show emotion. The team must understand that their leader cares about them and their well-being." - p 275
+* "... a leader must control his or her emotions. If not, how can they expect to control anything else? Leaders who lose their temper also lose respect." - p 275
+* "Confidence is contagious, a great attribute of a leader and a team. BUt when it goes too far, overconfidence causes compacency and arrogance, which ultimately set the team up for failure." - p 275
+* "A leader must be brave but not foolhardy. He or she must be willing to accept risk and act courageously, but must never be reckless." - p 277
+* "Leaders must have a competitive spirit but also be gracious losers. They must drive competition and push themselves and their teams to perform at the highest level. But they must never put their own drive for personal success ahead of overall mission success for the greater time." - p 276
+* "Leaers must act with professionalism and recognize others for their contributions." - p 276
+* "A leader must be attentive to details but not obsessed by them." - p 276
+* "He or she must monitor and check the team's progress in the most critical tasks." - p 276
+* "Leaders must recognize limitations and know the to pace themselves and their teams so that they can maintain a solid performance indefinitely." - p 276
+* "They must admit mistakes and failures, take ownership of them, and figure out a way to prevent them from happening again." - p 276
+* "But a leader must never grow so close to subordinates that one member of the team becomes more important than another, or more important than the mission itself." - p 277
+* "A leader must exercise Extreme Ownership. Simultaneously, that leader must employ Decentralized Command by giving control to subordinate leaders." - p 277
+* "... every member of the team must develop the trust and confidence that their leader will exercise good judgment, remain colm, and make the right decisions when it matters most. Leaders must earn that respect and prove themselves worthy, demonstrating through action that they will take care of the team and look out for their long-term interests and well-being. In that respect, a leader has everything to prove every day." - p 277
+
+##### The Dichotomy of Leadership: A Good Leaders Must Be (p 277 - 278)
+
+* Confident but not cocky
+* Courageous but not foolhardy
+* Competitive but a gracious loser
+* Attentive to details but not obsessed by them
+* Strong but have endurance
+* A leader and a follower
+* Humble not passive
+* Aggressive not overbearing
+* Quiet not silent
+* Calm but not robotic, logical but not devoid of emotions
+* Close with the troops but not so close that one becomes more important than another or more important ahn the good of the team; not so close that they forget who is in charge
+* Able to execute Extreme Ownership, while exercising Decentralized Command
+
+* "As with many of the dichotomies of leadership, a person's biggest strength can be his greatest weakness when hjs dosn't know how to balance it. A leader's best quality might be her aggressiveness, but if she goes too far she becomes reckless. A leader's best quality might be his confidence, but when he becomes overconfidence he isn't listen to others." - p 281
+* "Imagine the U.S. Navy Sailors in World War II whose ships had been severely damanged. With their ship taking on water and in danger of sinking, those sailors sometimes had to secure the gatch to a flooded compartment when men who were their friends were still in those compartments, in order to save the ship. That's an unbelievably hard decision. But they knew if they did not make that call, they risked everyone else. They needed discipline to make the toughest decision in order to save the ship and save all the other men aboard." - p 281
+
+* **Key takeaways**
+  * Leadership is full of dichotomies and leaders must find the balance. Emotion vs logic, bravey vs foolhardiness, compotency vs clarity vs control. It is through these dichotomies that leaders demonstrate their capability for leadership itself and where they need to grow. Same for their team.
+  * Discipline affords creativity through modular thinking. You do not learn poetry by writing gibberish. You learn the structure, forms, and prose and then you play with the rules. Standard Operating Procedures (SOPs) fill the same role in industry. Learn the fundemental practicies and then play, refine, and innovative to execute effectively as a team. Be catious when SOPs become the process instead of a tool.
+  * Letting a single person, including yourselve, become more important to the team than the mission itself is an anti-pattern which leads to bad decision making (e.g. I don't want to hurt X's feelings and therefore I ignore Y; e.g. conflict debt)
+
+#### Afterword
+
+* "Others who were blessed with all the natural talent in the world will fail as leaders if they are not humble enough to own their mistakes, admit that they don't have it all figured out, seek guidance, learn, and continuously grow." - p 285
+* "But leaders who exhibit Extreme Ownership will empower key leaders within their teamsto figure out a way to win. Some of the boldest, most successful plans in history have not come from frontline leaders. Senior leaders simply had the courage to accept and run with them." - p 286
+* "The goal of all leaders should be to work themselves out of a job. This means leaders must be heavily engaged in training and mentoring their junior leaders to prepare them to set up and assume greater responsibilities." - p 286
+* "Leadership is *simple, but not easy*." - p 286
+* "... leadership is both art and science." - p 286
+* "For any leader handling those mistakes with humility is key. Subordinates or direct reports don't expect their bosses to be perfect. When the boss makes a mistake but then owns up to that mistake, it doesn't decrease respect. Instead, it increases respect for that leader, providing he or she possesses the humility to admit and own mistakes and, most importantly, to learn from them." - p 287
+* "... leading people is the most challenging and, therefore, the most gratifying undertaking of all human endeavors." - p 287
+
+* **Key takeaways**
+  * Own, and more critically, learn from your mistakes.
+  * Always be learning, always be growing, always be improving.
+  * Leadership is art, science, and incredibly rewarding; while it looks simple, it is not easy.
