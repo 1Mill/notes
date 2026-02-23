@@ -1,6 +1,6 @@
 # Turn the Ship Around
 
-LINK
+<https://www.amazon.com/Turn-Ship-Around-Turning-Followers/dp/1591846404>
 
 ## Key Takeaways
 
