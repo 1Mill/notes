@@ -76,4 +76,16 @@
 
 ### Keyless Entry
 
+* "... when referential integreity wasn't satisfied, discrepancies showed up in reports, subtotals didn't add up, and schedules became double booked." - p 53
+* "... skipping foreign key constraints makes your database simpler, more flexible, or speedier, you pay for this in other ways. It becomes your responsibility to write code to ensure referential integrity manually." - p 54
+* "One in a million is next Tuesday." - p 55
+* "You need the database to be *consistent* - that is you need to be able to depend on references in the database being satisfied at all times. But you can't be certain that all applications and scripts that have accessed your database have made their changes correctly." - p 56
+* "There are also some ultra-flexible database designs where foreign keys can't model the relationships. It should be strong clue that you're using another SQL antipattern if you can't use traditional referential integrity constraints." - p 58
+* "The Japanese phrase *poka-yoke* means 'mistake-proofing.' This term refers to a manufacturing process that helps eliminate  product defects by preventing, correcting, or drawing attention to errors as they occure. This practice improves quality and decreases the need for correction, which more than makes up for the cost of its use." - p 58
+
+* **Key takeaways**
+  * Foreign key constraints and database column type constraints make domain entities stable and consistent. If you do not use these native constraints, you must write application code which enforces them instead. This creates opportunities for gaps where one script does this enforcement and another does not: leading to inconsistency and in turn unexpected data results.
+
+### Entity-Attribute-Value
+
 * TODO
