@@ -86,6 +86,27 @@
 * **Key takeaways**
   * Foreign key constraints and database column type constraints make domain entities stable and consistent. If you do not use these native constraints, you must write application code which enforces them instead. This creates opportunities for gaps where one script does this enforcement and another does not: leading to inconsistency and in turn unexpected data results.
 
-### Entity-Attribute-Value
+### Entity-Attribute-Value (EAV)
+
+* "A conventional table consists of attribute columns that are relevant for every row in the table, since every row represents an instance of a similar object. A different set of attributes represents a different type of object, so it belongs in a different table." - p 62
+* "Entity-Attribute-Value, or *EAV* for short. It's also sometimes called *open schema*, *schemaless*, or *name-value pairs*." - p 63
+* "In a conventional database design, it would be sipmle to enforce a mandatory column by declairing the column `NOT NULL`. In the EAV design, ... you would need to a constraint that checks that a row exists for each `issuer_id` value, and the row must have the string `date_reported` in its `attr_name` column. However, SQL doesn't support a constraint that can do this. So you must write application code to enforce it." - p 65
+* "... people have entered dates in different formates or sometimes even a string that isn't a date. In a conventional database, you can prevent this if you declared the column with the `DATE` data type." - p 65
+* "When someone claims to have designed an arbitrarily extensible database, they're probably using the EAV design." - p 68
+* "If you have nonrelational data management needs, the best answer is to use a *nonrelational* technology." - p 69
+* "If EAV seems like the right design, you should take a second look before you implement it. If you do some good old-fashioned analysis, you will probably find that your project's data can be modeled in a traditional table design more easily and with greater assurance of data integrity." - p 69
+* "Single Table Inheritance is best when you have few subtypes and few subtype-specific attributes, and you need to use a single-table database access pattern like Active Record." - p 71
+* "An advantage of Concrete Table Inheritance over Single Table Inheritance is that you are prevented from storing a row containing values for attributes that don't apply to that row's subtytpe." - p 71
+* "The Concrete Table Inheritance design is best used when you seldom need to query against all subtypes at once." - p 72
+* "Class Table Inheritence: Create a single table for the base type, containing attributes common to all subtypes. Then for each subtype, create another table with a primary key that also serves as a foreign key to the base table." - p 72
+* "*Serialized LOB*" where you save a JSON object to a database column as a sort of semistructured set of data - p 73
+* "... it's the consequence of a system-within-a-system like EAV." - p 75
+
+* **Key takeaways**
+  * A database-within-a-database may feel extensible, but grows in code complexity very quickly. Database constraints can only be conditionally used, which forces data validation up a layer from the database layer to the application layer. This means engineers writing data must also be diligent in enforcing thost validations everywhere because there is not last layer of enforcement past the application layer.
+  * Different models require different fields, types and more. While object inheritience is nice in Object Orientated Programming, database do not provide the same inheritance capabilities. There are solutions to handle these different scenarios outlined in the chapter (e.g. Single Table Inheritence, Concrete Table Inheritance, Class Table Inheritece, Serialized LOB) which all have their unique pros and cons.
+  * If you think you need unstructured data, you should either (a) use a nonstructured database like MongoDB or (b) critically challenge your assumptions.
+
+### Polymorphic Associations
 
 * TODO
