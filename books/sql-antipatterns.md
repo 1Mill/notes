@@ -109,4 +109,18 @@
 
 ### Polymorphic Associations
 
+* "As in EAV, you should be suspicious of any claims of unlimited flexibility." - p 81
+* Simplify the Relationship: "It's better to redesign your database to avoid the weaknesses of Polymorphic Associations but still support the data modeling you need." - p 83
+* Reverse the Reference: "One solution to this antipattern is simple once you see the nature of the problem: *Polymorphic Associations are backwards*.", instead create Intersection Tables. - p 83
+* "Intersection tables usually model many-to-many associations, ... [y]ou can enforce a least part of this [one-to-many] rule by declarining a `UNIQUE` constraint on the `comment_id` column of each intersection table." - p 84
+* "Also, you can depend on referential integrity when using intersection tables, whereas with Polymorphic Associations you couldn't." - p 85
+* Common Super-Table: "In object-oriented polymorphism, two subtypes can be referenced similarly because they implicitly share a common supertype. In SQL, the Polymorphic Associations antipattern leaves out that crucial entity: the common supertype. You can fix that by creating a base table that all of your parent tables extend (see *Class Table Inheritance*, on page 72)." - p 87
+* "*In every table relationship, there is one referencing talbe and one referenced table." - p 88
+
+* **Key takeaways**
+  * Polymorphic Associaitons can be better implemented with referential integrity (not dependnet on string `..._type` columns) through Intersection Tables with a `UNIQUE` constraint to enforce a one-to-many relationship or through a Common Super Table.
+  * When a database model offers unlimited flexibility, be suspicious of what buisness logic is going to leak into the application layer because it cannot be enforced at the database layer.
+
+### Multicolumn Attributes
+
 * TODO
