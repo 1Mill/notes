@@ -69,4 +69,17 @@
 
 #### Change of course
 
+* "He had credibility because he'd be living with his recommendation." - 18
+* "In the end, I fired no one. This was important because it sent the message to each crew member that he wasn't screwed up, the leadership was. My challenge would be to use the same people and support team and by changing the way they interacted and behaved, dramatically increase the combat effectiveness of *Sante Fe*." - 19
+* "What are you willing to personally risk? (Sometimes taking a step for the better requires caring / not caring. Carring deeply about the people and the mission, but not caring about the bureaucratic consequences to your personal career.)" - 21
+* "What's the hardest thing you experience in letting go of micromanging, top-down leadership, or the cult of personality?" - 21
+* "Do you give employees specific goals as well as the freedom to meet them in any way they choose?" - 21
+
+* **Key takeaways**
+  * Why is there a crisis? Because the old way of working wasn't working. A crisis is an opportunity to do something different with leadership buy in. Don't let a good crisis go to waste.
+  * Changing how people interact and behave in a team can dramatically change how effective that team can become.
+  * To seek better ways of working you have to take personal responsibility and assumed risked politically and bureaucratically.
+
+#### Frustration
+
 * TODO
