@@ -123,4 +123,8 @@
 
 ### Multicolumn Attributes
 
+* "*Store each value with the same meaning in a single column.*" - p 96
+
+### Metadata Tribbles
+
 * TODO
