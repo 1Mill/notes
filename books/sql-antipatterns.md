@@ -17,7 +17,9 @@
 
 ![image](./sql-antipatterns_entity-relationship-diagrams.jpg)
 
-### Jaywalking
+### Part 1 - Logical Database Design Antipatterns
+
+#### Jaywalking
 
 * "Programmers commonly use comma-seperated lists to avoid creating an intersection table for a many-to-many relationsip. I call this antipattern *Jaywalking*, because jaywalking is also an act of avoiding an intersection." - p 13
 * "You can no longer use equality; instead you have to use a test against some kind of pattern. ... Pattern-matching expressions may return false matches and can't benefit from indexes." - p 15
@@ -34,7 +36,7 @@
   * If limitations in SQL are impacting your product experience, you are likeing using an antipattern somewhere.
   * SQL tricks are handy, but not sustainable or efficeint. Use normal SQL as much as possible - if you are doing pattern matching that is an antipattern. Strive to keep code understandable.
 
-### Naive Trees
+#### Naive Trees
 
 * "You can get only the immediate children or perhaps join with the grandchildren, to a fixed depth [with Adjacency List]. But the threads can hae any *unlimited* dept." - p 23
 * "Adjacency List can be an antipattern when it's the default choice of so many developers yet it fils to be a solution for one of the most common tasks you need to do with a tree: query all descendants." - p 25
@@ -50,7 +52,7 @@
 * **Key takeaways**
   * Adjacency List is an antipattern which is very easy to implement but extremely limited in its capabilities. Instead, favor either *Path Enumeration* where the ancestry is encoded in a string like structure (e.g. `ancestry: 1/43/8212`) or *Closure Table* which is more sophisticated and does not rely on string manipulation so it is indexible.
 
-### ID Required
+#### ID Required
 
 * "A table without a primary key is like organizing your MP3 collection with no songs titles. You can still listen tot he music, but you can't find the one you want or keep duplicates out of your collection." - p 44
 * "A new column is needed in such tables to store an artificial value that has no meaning in the domain model by the table. This column i used as the primary key, so you can address rows uniquely while allowing any other attribute column to contain duplicates, if that's appropriate. This type of primary key column is sometimes called a *pseudokey* or a *surrogate key*." - p 45
@@ -74,7 +76,7 @@
         SELECT * FROM bugs JOIN bug_products USING bug_id
         ```
 
-### Keyless Entry
+#### Keyless Entry
 
 * "... when referential integreity wasn't satisfied, discrepancies showed up in reports, subtotals didn't add up, and schedules became double booked." - p 53
 * "... skipping foreign key constraints makes your database simpler, more flexible, or speedier, you pay for this in other ways. It becomes your responsibility to write code to ensure referential integrity manually." - p 54
@@ -86,7 +88,7 @@
 * **Key takeaways**
   * Foreign key constraints and database column type constraints make domain entities stable and consistent. If you do not use these native constraints, you must write application code which enforces them instead. This creates opportunities for gaps where one script does this enforcement and another does not: leading to inconsistency and in turn unexpected data results.
 
-### Entity-Attribute-Value (EAV)
+#### Entity-Attribute-Value (EAV)
 
 * "A conventional table consists of attribute columns that are relevant for every row in the table, since every row represents an instance of a similar object. A different set of attributes represents a different type of object, so it belongs in a different table." - p 62
 * "Entity-Attribute-Value, or *EAV* for short. It's also sometimes called *open schema*, *schemaless*, or *name-value pairs*." - p 63
@@ -107,7 +109,7 @@
   * Different models require different fields, types and more. While object inheritience is nice in Object Orientated Programming, database do not provide the same inheritance capabilities. There are solutions to handle these different scenarios outlined in the chapter (e.g. Single Table Inheritence, Concrete Table Inheritance, Class Table Inheritece, Serialized LOB) which all have their unique pros and cons.
   * If you think you need unstructured data, you should either (a) use a nonstructured database like MongoDB or (b) critically challenge your assumptions.
 
-### Polymorphic Associations
+#### Polymorphic Associations
 
 * "As in EAV, you should be suspicious of any claims of unlimited flexibility." - p 81
 * Simplify the Relationship: "It's better to redesign your database to avoid the weaknesses of Polymorphic Associations but still support the data modeling you need." - p 83
@@ -121,10 +123,28 @@
   * Polymorphic Associaitons can be better implemented with referential integrity (not dependnet on string `..._type` columns) through Intersection Tables with a `UNIQUE` constraint to enforce a one-to-many relationship or through a Common Super Table.
   * When a database model offers unlimited flexibility, be suspicious of what buisness logic is going to leak into the application layer because it cannot be enforced at the database layer.
 
-### Multicolumn Attributes
+#### Multicolumn Attributes
 
 * "*Store each value with the same meaning in a single column.*" - p 96
 
-### Metadata Tribbles
+#### Metadata Tribbles
+
+* "Performance degrades for nay database query as the volume of data goes up. Even if a query returns results prompty with a few thousand rows, the tables naturally accumulate data to the point where the same query may not have acceptable performance. Using indexes intelligently helps, but nevertheless the tables grow, and this affects the speed of queries against them." - p 98
+* "... to meet the goal of having few rows in every table, you have to either create more tables that have too many columns or else create a greater number of tables. In both cases, you find that the number of tables or columns continues to grow, since nw data values can make you create new schema objects." - 98
+* "This is the reverse of *mixing data with metadata* that we saw earlier in the [EAV] and Polymorphic Associations antipatterns. In those cases, we stored metadata identified (a column name and table name) as string data. In Multicolumn Attributes and Metadata Tribbles, we're making a data value into a column name or a table name." - p 99
+* "If you need to search many tables with identical structure, you should have stored them together in a single table, with one extra attribute column to distinguish the rows." - p 103
+* "One good use of manually splitting tables is for *archiving* - removing historical data form day-to-day use. Often the need to run queries against historical data is greatly reduced after the data is no longer current." - p 103
+* "Archiving keeps the data in a compatible table structure for occasional analysis but allows queries against current data to run with greater performance." - p 103
+* "Although it seems like the right thing to do from a data modeling perspective to keep everything in a single database, splitting the database sensibly makes database administration tasks easier after the database size passes a certain threshold." - p 104
+* "You can gain the benefits of splitting a large table without the drawbacks by using a feature that is called either *horizontal partitioning* or *sharding*." - p 104
+* "But in most queries against that table, you wouldn't need the [large blob of data]. Storing such a large column of data in the `Products` table, which you use infrequently, could lead to inadvertent performance problems if you're in the habit of retrieving all columns using the `*` wildcard. The remedy is to store the `BLOB` column in another table, separate from from dependent on the `Products` table." - p 106
+
+* **Key takeaways**
+  * As tables become bigger - either in number of rows or number of columns - quries which were once fast become slower and slower. To mitigate this, using *archiving* or *sharding* to make the search space smaller and more targeted. Additionally, move rarely accessed but big in memory size in a dependent table. This way, these big but infrequently accessed data is easliy findable via `JOIN` but don't unnessesary slow down quries using `SELECT * FROM ...`. Examples are adding upload files for an entity as a secondary table instead of directly on the entity table itself.
+  * While EAV and Polymorphic Associations are "*mixing data with metadata*" (e.g. associated table name as strings in a column), Tribbles are mixing data with table or column names (e.g. `profits_2025`, `profits_2026`, ...). Instead, make a unifying table where the differentiator is a column (e.g. `profits(fk_id, year)`).
+
+### Part 2 - Physical Database Design Antipatterns
+
+#### Rounding Errors
 
 * TODO
