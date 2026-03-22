@@ -147,4 +147,16 @@
 
 #### Rounding Errors
 
+* "Many programmers ar enot aware of a characteristic of this floating-point format: not all values you can describe in decimal can be stored in binary. Out of necessity, some numbers must be rounded to a value that is very close." - p 112
+* "You can't guarantee that a `FLOAT` column in the database will be given only values that are cooperative, so your application should assume that any value in this column may have been rounded." - p 113
+* "There's no need to use IEEE 754 for money, because the scalled decimal format described in this chapter can handle money values just as easily and more accurately." - p 114
+* "Thedifference seems small, but it compounds. For example, if you multiply the value `1` by a factor of exactly `1.0`, the result is always `1`. It doesn't matter how many times you apply this factor. However, if the factor is actually `0.999`, this has a different result. If you multiply a v alue of one by `0.999` a thousand times in succession, you get a result of about `0.3677`." - p 115
+* "Instead of `FLOAT` or its siblings, use the `NUMERIC` or `DECIMAL` SQL data types for fixed precision fractional numbers." - p 116
+* "*Do not use `FLOAT` if you can avoid it*" - p 117
+
+* **Key takeaways**
+  * Don't use `FLOAT` data types, instead use `NUMERIC` or `DECIMAL` because they are more accurate and make it clear the scale and percision that is supported - unlike `FLOAT` which rounds at hidden levels of percision.
+
+#### 31 Flavors
+
 * TODO
