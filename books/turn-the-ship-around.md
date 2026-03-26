@@ -69,11 +69,11 @@
 
 #### Change of course
 
-* "He had credibility because he'd be living with his recommendation." - 18
-* "In the end, I fired no one. This was important because it sent the message to each crew member that he wasn't screwed up, the leadership was. My challenge would be to use the same people and support team and by changing the way they interacted and behaved, dramatically increase the combat effectiveness of *Sante Fe*." - 19
-* "What are you willing to personally risk? (Sometimes taking a step for the better requires caring / not caring. Carring deeply about the people and the mission, but not caring about the bureaucratic consequences to your personal career.)" - 21
-* "What's the hardest thing you experience in letting go of micromanging, top-down leadership, or the cult of personality?" - 21
-* "Do you give employees specific goals as well as the freedom to meet them in any way they choose?" - 21
+* "He had credibility because he'd be living with his recommendation." - p 18
+* "In the end, I fired no one. This was important because it sent the message to each crew member that he wasn't screwed up, the leadership was. My challenge would be to use the same people and support team and by changing the way they interacted and behaved, dramatically increase the combat effectiveness of *Sante Fe*." - p 19
+* "What are you willing to personally risk? (Sometimes taking a step for the better requires caring / not caring. Carring deeply about the people and the mission, but not caring about the bureaucratic consequences to your personal career.)" - p 21
+* "What's the hardest thing you experience in letting go of micromanging, top-down leadership, or the cult of personality?" - p 21
+* "Do you give employees specific goals as well as the freedom to meet them in any way they choose?" - p 21
 
 * **Key takeaways**
   * Why is there a crisis? Because the old way of working wasn't working. A crisis is an opportunity to do something different with leadership buy in. Don't let a good crisis go to waste.
@@ -81,5 +81,33 @@
   * To seek better ways of working you have to take personal responsibility and assumed risked politically and bureaucratically.
 
 #### Frustration
+
+* "Are you curious? ... turns out I was only 'questioning'." - p 22
+* "Walking the ship, I would ask the crew questions about heir equipment and what they were wokring on. They were skeptical about these questions initially. That's because normally I would hve been 'questioning,' not curious. I would have been asking questions to make sure they know the equipment. Now I was aksing questions to make sure I knew the equipment." - p 23
+* "... since I couldn't get involved with the specifics of the gear, I opened up space to focus on the people and their interactions instead, and to rely on the crew more than I normally would have."  - p 24
+* "I asked them a loosely structured set of questions like these: "  - p 24
+  * What are the things you are hoping I don't change?
+  * What are the things you secretly hope I do change?
+  * What are the good things about *Santa Fe* we should build on?
+  * If you were me what would you do first?
+  * Why isn't the ship doing better?
+  * What are your personal goals for your tour here on Sante Fe?
+  * What impediments do you have to doing your job?
+  * What will be our biggest challenge to getting Sante Fee ready for deployment?
+  * What are your biggest frustrations about how the Sante Fe is currently run?
+  * What is the best thing I can do for you?
+* "Cheif Stelle had been on board *Sante Fe* for two years and wasn't having fun. He wasn't one of the command's favorites and wasn't moving up in the performance rankings." - p 25
+* "I was uneasy not being the technical expert on each and every piece of equipment on board. That impact of this focus on people was that I was going to have to rely on the crew to provide me with the technical details about how the submarine worked. This went against every grain in my naval leadership and scientific training. But the circumstances demanded a new mode of operation. Doing the same thing as everyone else was hoping for a different outcome didn't make sense." - p 26
+* "If  you walk about your organization talking to people, I'd suggest that y ou be as curious as possible. As with a good dineer table converstionalist, one question should naturally lead to another. The time to be questioning or even critical is after trust has been established." - p 26
+* "Are you asking questions to make sure *you* know or to make sure *they* know?" - p 27
+  * Do you have to be the smartest person in your organization?
+  * To what degree does technical competency form the basis for leadership?
+  * Is that technical competency a personal competency or an organizational copetency?
+  * How do you know what is going on "at the deck place" in your organization?
+
+* **Key takeaways**
+  * There is a difference between curiosity and questioning. Questioning is an interrogation while curiosity is in the persuit of new knowledge. Recognize when one or the other are appropriate. Often, curiosity comes first and then questioning comes second after trust has been established.
+
+#### Call to Action
 
 * TODO
