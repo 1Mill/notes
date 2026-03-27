@@ -34,7 +34,7 @@
   * Leader-follow leadership styles originated out of extracting physical labor out of people and continues to be incredibly successful - hence it staying power. But, genius creativity can only be volunteered when both technical competence and mission clarity are strong. It is through this decentralized leader-leader environment in which great works can be realized.
   * Empowerment is a contradition in itself because it requires a leader to afford creativity - it is not the natural human state. People are inherenty creativity and slowly confirm to the systems they operate in. This leads to moral injury and then burnout.
 
-### Part 1
+### Part 1 - Starting Over
 
 * "... there are leaders and there are followers. It was only after I cleared my mind of these preconceptions that I was able to see a truly better way for humans to interact." - p 1
 
@@ -85,7 +85,7 @@
 * "Are you curious? ... turns out I was only 'questioning'." - p 22
 * "Walking the ship, I would ask the crew questions about heir equipment and what they were wokring on. They were skeptical about these questions initially. That's because normally I would hve been 'questioning,' not curious. I would have been asking questions to make sure they know the equipment. Now I was aksing questions to make sure I knew the equipment." - p 23
 * "... since I couldn't get involved with the specifics of the gear, I opened up space to focus on the people and their interactions instead, and to rely on the crew more than I normally would have."  - p 24
-* "I asked them a loosely structured set of questions like these: "  - p 24
+* "I asked them a loosely structured set of questions like these: " - p 24
   * What are the things you are hoping I don't change?
   * What are the things you secretly hope I do change?
   * What are the good things about *Santa Fe* we should build on?
@@ -109,5 +109,46 @@
   * There is a difference between curiosity and questioning. Questioning is an interrogation while curiosity is in the persuit of new knowledge. Recognize when one or the other are appropriate. Often, curiosity comes first and then questioning comes second after trust has been established.
 
 #### Call to Action
+
+* "It might seem like a little thing, but on board a nuclear submarine, little things like lack of punctuality are indicative of much, much bigger problems." - p 29
+* "He also learned to appriciate his men but at the same time demand excellence from them." - p 30
+* "As things on the *Sante Fe* deteriorated, the crew adopted a hunker-down mode in which avoiding mistakes became the primary driver for all actions. They focused exclusively on satisfying the minimum requirements. Anything beyond that was ignored." - p 30
+* "We had done this sailor wrong. I rushed about, tracked down his leave chit - it was sitting in someone's inbox - and took care of it. It was the system, not the people, that failed, however." - p 31
+* "By protocol the messages are routed first to the captain, then to the XO, and down the chain of command. This way, the captain would be the first to know of any change in the ship's schedule. It is how we controlled information." - p 32
+* "Not only are they telling me to do stuff I already know I have to do, but also frequently I get told exactly how and when to do it. That takes away any decision-making opportunities I might have." - p 32
+* "Do people take action to protect themselves or to make the outcome better? Does leadership in your organization take control or give control?" - p 34
+
+* **Key takeaways**
+  * The environment (e.g. process, practicies) impact effectiveness just as much as the people. Process should exist to support and empower people to do great works. This may mean focusing their attention in a direction. But, process shouldn't be actively hurting people; such as forgetting to sign somebody's PTO. To some, it may be a forgotton peice of paper but for others it is a uncertain limbo if they will spend Christmas with their family.
+
+#### Whatever They Tell Me To Do
+
+* "'Hi, what do you do on board?' By asking open-ended questions like this, I could better gauge what the crew though their job was." - p 36
+* "Do your procedures reinforce the leader-follower model?" - p 39
+
+* **Key takeaways**
+  * REFERENCE: Leadership is Language; how you speak, the words you use change the tone of the conversation from controlling to collaborative.
+
+#### I Relieve You
+
+* "Is your organization spending more energy trying to avoid errors thatn achieving excellence? We were." - p 40
+* "Third, my reliance on the crew for the specifics of how the boat operated prevented me from falling into old habits and the trap of leader-follower. I couldn't have operated that way if I'd wanted to. There were many times I had the impulse to give specific direction but I couldn't. Although I cursed my lack of technical knowledge, it prevented me from falling back on bad habits." - p 43
+* "The best way not to make a mistake is not to do anything or make any decisions." - p 43
+* "No matter how good you get at avoiding mistakes, you will always have errors on something as complex as a submarine. You might reduce the number and severity, but there will never be zero." - p 44
+* "Connecting our day-to-day activities to something larger was a strong motivator for the crew." - p 46
+* "ACHIEVE EXCELLENCE, DON't JUST AVOID ERRORS is a mechanism for CLARITY." - p 47
+  * REFERENCE: Start with why
+* "Are your people trying to achieve excellence or just avoid making mistakes?" - p 46
+* "Have you let error-reduction programs sap the lifeblood out of initiative and risk taking?" - p 46
+* "When you ask people what their jobs are, do they answer in terms of reducing errors?" - p 46
+* "What is the primary motivation of the middle managers and the rank and file (not what it says on the wall poster outside the boardroom)?" - p 47
+
+* **Key takeaways**
+  * Achieving excellence and avoiding errors are two extremes of the same pendulum that must find balance. Strictly avoiding errors encourages do-nothing behavior. You can't make errors if you never do anything at all. This breeds tell-me-what-to-do behavior as then it is always somebody elses falt. On the other hand, achieving excellence requires taking inititive and risk. But, risk must be balanced with good judgement. Doing something foolishly reckless may be worse than doing nothing at all. So, find that balance.
+  * Be mindful of what behavior your reward and pushishment systems encourage. Blame culture encourages hiding, learning cultures encourage learning.
+
+### Part 2 - Control
+
+#### Change, in a Word
 
 * TODO
