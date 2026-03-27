@@ -20,7 +20,7 @@
 * "Most of us are ready to give it our all when we start a job. We are usually full of ideas for ways to do things better. We eagerly offer our whole intellectual capacity only to be told that it's not our job, that it's been tried before, or that we shouldn't rock the boat. Initiative is viewed with skepticism. Our suggestions are ignored. We are told to follow instructions. our work is reduced to following a set of prescriptions. Our creativity and innovations go unappreciated. Eventually, we stop trying and just toe the line. With resignation, we get by. Too often that's where the story of our work life ends." - p xxiii
 * "This deliberate disengagement is costing billions in lost productivity. Disengaged, dissatisfied, uncommitted employees erode an organization's bottom line while breaking the spirits of their colleagues." - p xxiv
 * "Empowerment programs start well but don't sustain themselves." - p xxiv
-* "In other words, leadership in the navy, and in most organizations, is about controlling people. It divides the world into two groups of people: leaders and followers."  - p xxv
+* "In other words, leadership in the navy, and in most organizations, is about controlling people. It divides the world into two groups of people: leaders and followers." - p xxv
 * "Consequently, [leader-follower leadership is] optimized for extracting physical work from humans. In our modern world, the most important work we do is cognitive; so it's not suprising that a structure developed for physical work isn't optimal for intellectual work." - p xxvi
 * "The problem with empowerment programs is that they contain an inherent contridution between the message and the method." - p xxvi
 * "The leader-leader model not only achieves great improvements in effectivness and morale but also makes the organization stronger." - p xxvii
@@ -84,7 +84,7 @@
 
 * "Are you curious? ... turns out I was only 'questioning'." - p 22
 * "Walking the ship, I would ask the crew questions about heir equipment and what they were wokring on. They were skeptical about these questions initially. That's because normally I would hve been 'questioning,' not curious. I would have been asking questions to make sure they know the equipment. Now I was aksing questions to make sure I knew the equipment." - p 23
-* "... since I couldn't get involved with the specifics of the gear, I opened up space to focus on the people and their interactions instead, and to rely on the crew more than I normally would have."  - p 24
+* "... since I couldn't get involved with the specifics of the gear, I opened up space to focus on the people and their interactions instead, and to rely on the crew more than I normally would have." - p 24
 * "I asked them a loosely structured set of questions like these: " - p 24
   * What are the things you are hoping I don't change?
   * What are the things you secretly hope I do change?
