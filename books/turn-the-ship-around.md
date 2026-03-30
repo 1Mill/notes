@@ -149,6 +149,68 @@
 
 ### Part 2 - Control
 
+* "Control is about making decisions concerning not only how we are going to work bua slo towards what end." - p 49
+* "Use 'I intend to ...' to turn passive followers into active leaders." - p 50
+* "Resist the urge to provide solutions." - p 50
+* "Think out loud (both superiors and subordinates)." - p 50
+* "Embrace the inspectors." - p 50
+
 #### Change, in a Word
+
+* "If I started at the time, with the XO, COBVV, and the department heads, we would be using a top-down approach to implement a bottom-up leadership philosophy. That was inherently contradictory. Additionally, that would involve only six people and wouldn't create a critical mass of participation. The junior officers weren't a good place to start because they had lost credibility in the command and would still have to learn the basics of leadership. ... So here I was with the cheifs." - p 52
+* "Tactical operations are against an intilligent enemy who thinks, plots, and deliberately exploits weaknesses. That complexity is significantly higher. Strictly following procedures won't get us ethere. At this point, we fall back on the personality-centered leadership structure." - p 54
+* "No more sitting in the cozy chiefs' quarters and letting the department head or division officer explain to the captain why things had gone wrong. Later, I would call htis 'eyeball accountability.' It would mean being intimately involved - physically present in most cases - in the operations of the ship and in each activity." - p 56
+* "The chiefs would be responsible for the performace of their divisions and all that encompassed."  - p 57
+* "Identify decisions that are canidates for being pushed to the next lower level in the organization." - p 58
+* "When I think about delegating this decision, I worry about ..." - p 58
+* "... I usually find that the worries fall into two broad categories: issues of competence and issues of clarity." - p 58
+* "FIND THE GENETIC CODE AND REWRITE IT is a mechanism for CONTROL." - p 59
+* "The first step in changing the genetic code of any organization or system is delegating control, or decision-making authority, as much as is comfortable, and then adding a pinch more." - p 59
+* "I call this organizational clarity, or just clarity. ... You tackle it by beig honest about what you intend to achieve and communicating that all the time, at every level." - p 59
+* "We discovered that distributing control by itself wasn't enough. As that happened, it put requirements on the new decision makers to have a higher level of technical knowledge and cleare sense of organizational purpose than ever before. That's because decisions are made against a set of criteria that includes what's technically appropriate and what aligns with the organization's interests." - p 60
+* "What procedure or process can you change with one word that will give your mid-level managers more decision-making authority?" - p 61
+* "What thinking about delegating control, what do you worry about?" - p 61
+* "What do you as a proponent of the leader-leader aproach need to delegate to show you are willing to walk the talk?" - p 61
+
+* **Key takeaways**
+  * Ask 'What do you worry about?' when worried about delegating contro. When, discover if it is a clarity or competency issue to be addressed to alleviate that worry.
+  * Make managers wholey responsible for the operational excellence of their team(s) (e.g. enforcing standards) and delegate authority to them to achieve that vision (e.g. approving PTO)
+  * Build organizational clarity by being honest and repeating it all the time, to every level of the organization.
+
+#### Welcome Aboard Santa Fe
+
+* "Right or wrong, I committed to doing whatever I through was best for Sante Fe, the Navy, and the nation without worry about the repercussions. I called this hte paradox of 'caring bu not caring' - that is, caring intimately about your subordinates and the organization but carring little about the organizational consequences to yourself." - p 64
+* "Could we act, or talk, our way into a new way of thinking?" - p 65
+* Steps for organizational change  - p 65
+  1. "'I'd know we achieved [this cultural change] if I saw employees ...'
+  2. "... discuss how to code the behavior into the company's practicies."
+  3. "The final step is to write the new practices into the appropriate company procedure."
+* "When you're trying to change employee's behaviors, you have to basically two approaches to choose from: change your own thinking and hope this leads to new behavior, or change your behavior and hope this leads to new thinking." - p 67
+* "ACTING YOUR WAY TO NEW THINKING is a mechanism for CONTROL." - p 68
+* "Do we act first, and think later? Or do we think first, and then change our actions?" - p 68
+
+* **Key takeaways**
+  * Cultural bubbles can be anti-patterns, but sometimes they are required to discover better ways of working. So, short term consequences must be intentionally ignored for possible long term gains.
+  * Follow the steps for organization change outlined above, which emphasizes experimenting with practices, and if successful, making them the new standard going forward.
+
+#### Under Way on Nuclear Power
+
+* "The crew was still focusing too much on complying with regulations rather than working to make our submarine the most operationally capable warship possible. It was the same problem as focusing on avoiding mistakes instead of trying to achieve something great." - p 70
+* "On their part, the review team needed to overcome a fear of criticism of an incomplete plan; on my part, I needed to refrain from jumping in with answers." - p 73
+* "... once the crew had adopted the new philosophy of achieving operational excellence rather than avoiding errors, I would back out of the process." - p 73
+* "We tried the changes, and after agreeing that they made sense Bill Greene wrote our new procedures up in the Standing Orders. This is where excellence in navigation occurred and where excellence in combat effectiveness started." - p 75
+* "SHORT, EARLY CONVERSATIONS is a mechanism for CONTROL." - p 75
+* "These early, quick discussions also provided clarity to the crew about what we wanted to accomplish. Many lasted only thirty seconds, but they saved hours of time." - p 75
+* "Inefficiencies in my time were higly visible, espsecially to me. Less visible, however, were the inefficiencies of all the people throughout the organization. In my organization, even accounting for the difference in the value of our time, those inefficiencies overwhelmingly outweighted whatever efficiency I was getting with my time as captain." - p 75
+* "... supervisors needed to recognize that the demand for perfect produces the first time they see them results in significant waste and frustration throughout their organization. Even a thirty-second check early on could save your people numerous hours of work." - p 75
+* "Is your staff spending time and money creating flawless charts and reports that are, simultaneously, irrelevant?" - p 76
+* "What commonplace facts can you leverage to make information more valuable and accessible to your employees?" - p 77
+
+* **Key takeaways**
+  * Short, quick conversations to drive alignment (e.g. clarity) often eliminate waste later on in the process (e.g. wrong implementation, rework), but leaders must be willing to see and provide feedback on non-perfect products (e.g. early reports, fidnings, rough ideas, etc.)
+  * Leaders must be eager not to jump into providing solutions. But, they must be close to the action until clarity and competency can both be verified. Then, a leader can take a step back once that trust has been earned through demonstrated understanding (i.e. actions that align with goals and technical ability).
+  * Practicies are not the work, they should be the tools to doing the work efficiently. On a submarine, pretty charts are not the mission: being combat ready is. Make work unnessesary by improving on the practicies.
+
+#### I Intend To
 
 * TODO
