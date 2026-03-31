@@ -159,4 +159,41 @@
 
 #### 31 Flavors
 
+* "The problem with using `ENUM` or a check constraint araise when the set of values is not fixed. if you're considering using `ENUM`, first ask yuourself wheather the set of values are expected to change or even whether they *might* change. If so, it's probably not a good time to employ an `ENUM`." - p 123
+* "*Shouldn't need to* are weasel words, and this says something quite differently from *can't*." - p 123
+* "There's a better solution to restrict values in a column: create a *lookukp table* with one row for each value you allow in the `Bugs.status` column. Then delcare a foreign key constraint on `Bugs.status` referencing the new table." - p 124
+* "However, you can add attribute column to the lookup table to designate some values as obsolete. This allows you to maintain historical data in the `Bugs.status` column, while distinguishing between the obsolete values and the values that are eligible to appear in your user interface." - p 125
+* "*Use metadata when validating against a fixed set of values. Use data when validating against a fluid set of values.*" - p 126
+
+* **Key takeaways**
+  * Do not use `ENUM` constraints in a database, instead use a lookup table which a record belongs to. This way, you can easily add more supported values and enforce data integrity through foreign key constraints. Only use `ENUM` when there are two possible options: like "ACTIVE" and "INACTIVE".
+
+#### Phantom Files
+
 * TODO
+
+* **Key takeaways**
+
+#### Index Shotgun
+
+* TODO
+
+* **Key takeaways**
+
+#### Fear of the Unknown
+
+* TODO
+
+* **Key takeaways**
+
+#### Ambiguous Groups
+
+* TODO
+
+* **Key takeaways**
+
+#### Random Selection
+
+* TODO
+
+* **Key takeaways**
