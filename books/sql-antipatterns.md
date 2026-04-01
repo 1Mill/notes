@@ -170,9 +170,18 @@
 
 #### Phantom Files
 
-* TODO
+* "*Whenever a theory appears to you as the only possible one, take this as a sign that you have neither understood the theory nor the problem which it was intended to solve.* - Karl Popper" - p 127
+* "Files don't Obey `DELETE`. ... If your images are outside the database and you delete the row that contains the path, there is no way for the file name by that path to be removed automatically. Unless you design your application to remove those 'orphaned' image files as you delete the database row that references them, they will accumulate." - p 129
+* "Files Don't Obey Transation Isolation" - p 129
+* "Files Don't Obey `ROLLBACK`" - p 130
+* "Files Don't Obey Database Backup Tools" - p 130
+* "What is the data dackup and restore procedure? How can a backup be verified? Have you tested restoring data on a clean serve or a different serve tha nwhere the backup was made?" - p 131
+* "You need to plan how you application uses images to nkow wheather the issues described in the 'Antipattern' section would affect you. Make an informed decisions, instead of listneing to generalizeations from programmers that store images in exeternal files is always the best solution." - p 133
+* "*Resources outside the database are not managed by the database.*" - p 134
 
 * **Key takeaways**
+  * "*Resources outside the database are not managed by the database.*" - p 134
+  * Files and database `BLOB` have their pros and cons - files easier to do files actions (e.g. process photos), `BLOB` lives within database lifecycle - pick and choose the pros and cons based on the needs of your product. But, most importantly make sure whatever recovery plan you have in place accounts for whatever solution you choose.
 
 #### Index Shotgun
 
