@@ -185,9 +185,23 @@
 
 #### Index Shotgun
 
-* TODO
+* "The best technique for improving performance in your databse is to use indexes well." - p 136
+* "A statement that searches an unindexed column has to eprform a full table scan to find matching rows." - p 137
+* "You benefit from an index only if you run queries that use that index. There's no benefit to creating indexes that you don't use." - p 137
+* "Also, the order of columns in a compound index is important; you should use the columns left-to-right in search criteria, join criteria, or sorting order." - p 138
+* "Some databases support indexes on expressions, or indexes on generated [(virtual)] columns, as well as indexes on plain columns. But you have to define the index prior to using it, and that index helps only for the expression you specity in its definition." - p 139
+* "*Selectivity* is a statistic about a database index. It's the ratio of the nuimbe rof distrinct values in that index to the total number of rows in the table[.] THe lower the selectivity ratio, the less effective the an index is." - p 140
+* "*MENTOR* your indexes: *Measure*, *Explain*, *Nominate*, *Test*, *Optimize*, *Rebuild*." - p 141
+* "Before making assumptions about where the perfromance problem exists, use sotware diagnostic tools to measure. Otherwise, you could be practicing premature optimization." - p 142
+* "*covering index*": All the data needed to satify a query completely without having to read from the HEAP for additionally fields - making the query much faster. - p 145
+* "How frequently should you rebuild an index? You might hear generic answers such as 'once a week,' but in truth there's no single answer that fits all applications." - p 146
 
 * **Key takeaways**
+  * Indexes are incredibly powerful tools to improve the performance of your queries. Particularly *covering indexes* which contain all the data nessesary to satisfy a query in the index itself so the query does not have to reach into the raw database data to fetch addtional data. But, more critically, indexes only improve performance if they are used. If an index has low *selectivity* then an index might just be skipped all together.
+  * Indexes cost resources (e.g. memory, storage, etc.) so indexes must be *MENTOR*-ed over time to ensure they are still being used and optimzed for the quries being performed. Additionally, indexes can become imballanced for various reaosns. So, it is best to re-build indexes occassionally to better optimze them.
+  * Index can be created on virtual columns for expressions for example. But, such an index only works for that exact expression. If the expression change then the index must also change - these must be tightly coupled.
+
+### Part 3 - Query Antipatterns
 
 #### Fear of the Unknown
 
