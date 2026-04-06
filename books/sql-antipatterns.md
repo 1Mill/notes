@@ -228,6 +228,8 @@
 
 #### Random Selection
 
-* TODO
+* "When you design solutions in SQL, you should be on the lookout for inefficient queries like this. Instead of searching fruitlessly for a way to optimize an unoptimizable query, rethink your approach." - p 172
+* "*Some queries cannot be optimized; take a different approach.*" - p 175
 
 * **Key takeaways**
+  * "*Some queries cannot be optimized; take a different approach.*" - p 175
