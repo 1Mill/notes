@@ -205,15 +205,26 @@
 
 #### Fear of the Unknown
 
-* TODO
+* "Antipatterns: Use Null as an Ordinary Value, or Vice Versa" - p 150
+* "Null is not the same as zero. ... Null is not the same as a string of zero length. ... Null is not the same as false." - p 150
+* "Any comparison to null returns *unknown*, not true of false. Even the negation of null is still null." - p 151
+* "Suppose Stan is theirty years old, while Oliver's age is unknown. If I ask you whether Stan is older than Oliver, your only possible answer is 'I don't know.' If I ask you whether Stan is the same age as Oliver, your answer is also 'I don't know.' If I as you what is the sum of Stan's age and Oliver's age, your answer is the same." - p 154
 
 * **Key takeaways**
+  * `NULL` is not `false`, it is not `0`, it is *unknown*. `NULL` should be treated as *unknown* because logic operators do not handle it as a false-y value like most people assume `NULL` to be. Instead of thinking `NULL` is a false-y value, do not permit `NULL` in your database and instead use data type defaults like `false` instead so values are confidently known.
 
 #### Ambiguous Groups
 
-* TODO
+* "Intellect distinguishes between the possible and the impossible; reason distinguishes between the sensible and the senseless. Even the polssible can sometimes be senseless. - Max Born" - p 159
+* "Every column int he seelct-list of a query must have a single value row per row group., This is calle dthe *Single-Value Rule*." - p 161
+* "Since there is no guarantee of a singel value per group in the 'extra' columns, that database assumes that they violate the Single-Value rule. Most databases report an error if you try to run any query that tries to return a column other than those columns named in the `GROUP BY` caluse or as arguments to aggregate functions." - p 161
+* "In both cases, the behavior is not documented, and these databases aren't obligated to work the same in future versions. It's your responsibility to notice these cases and to design your queries to avoid ambiguity." - p 163
+* "The derived table is noncorrelated, so most database brands should be able to execute the subquery once. However, the database must store the interim result set in a temporary table, so this solution still isn't he best for performance." - p 166
+* "Use the `JOIN` solution when the scalability of the query over large sets of data is important. Although it's a tougher concept to graps and therefore more difficult to maintain, it often scales better than a subquery-based solution." - p 167
 
 * **Key takeaways**
+  * The *Single-Value Rule* means that every column in every row can have at most one returned value. When ambiguity arises, often by using aggregate functions like `GROUP BY`, most databse will throw an error - but not all. It is critical to know how ambiguity is handled in the database you are using so that incorrect data is not returned in quries.
+  * `JOIN` is often more efficient then sub-quries for huge sets of data, but be sure to always *MENTOR* quries for optimal performance.
 
 #### Random Selection
 
