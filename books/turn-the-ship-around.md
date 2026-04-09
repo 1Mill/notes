@@ -213,4 +213,32 @@
 
 #### I Intend To
 
+* "How proactive are senior managers and employees in your orgnaization? Rewording our speech dramatically changed our level of proactivity." - p 78
+* "On *Sante Fe*, doing well on inspectgions was going to be the natural outcome of being excellent, not the goal." - p 79
+* "What happens in a top-down culture when the leader is wrong? Everyone goes over the clif. I vowed henceforth never to give an order, any order. i would let this be a lesson to myself to keep my mouth shut." - p 81
+* "'Just tell me what you are going to do!' he exlaimed. Thereafter, I started saying, 'Captain, I intend to ...' and he encouraged it." - p 81
+* "It started filtering throughout the crew and permeating the way we did business. For my part, I would avoid giving orders. Officers would state their intentions with 'I intend to ...' and i would say, 'Very well.' Then each man would execute his plan." - p 81
+* "'I INTEND TO ...' was an incredibly powerful mechanism for CONTROL. Althought it may seem like a minor trick of language, we found that it profoundly shifted ownership of the plan to the officers." - p 81
+* "So, we made a rule that 'I intend to ...' only applied when I was awake. Other than that, it applied to everything." - p 82
+* "The key to your team becoming more proactive results in the language subordinates and superiors use. Here is a short list of 'disempowered phrases' that followers use:" - p 82
+  * Request permission to ...
+  * I would like to ...
+  * What should I do about ...
+  * Do you think we should ...
+  * Could we ...
+* "Here is a short list of 'empowered phrases' that active doers use:" - p 83
+  * I intend to ...
+  * I plan on ...
+  * I will ...
+  * We will ...
+* "Correct. So why don't you just stell me why you think it is safe and appropriate to submerge. All I'll need to say is 'Very well.' Thereafter, the goal for the officers would be to give me a sufficiently complete report so that all I had to say was a simple approval." - p 83
+* "These may have been good ships, in that they avoided problems, but they certainly did not have good leadership." - p 84
+* "What causes us to take control when we should be giving control?" - p 85
+* "Could your mid-level managers think through and defend their plan of action for the company's next big project?" - p 85
+
+* **Key takeaways**
+  * Language is powerful - language is leadership. Using "I intend to ..." with sufficient details, guardrails, and more to communicate the mission, plan, and constraints clearly to leaders only requires them to say "Very well." When a leader asks clarifying question, take it as feedback your communication was missing something. This thinking forces people to think like their leaders - eagerly training them for the next level.
+
+#### Up Scope!
+
 * TODO
