@@ -261,10 +261,21 @@
 
 #### Who's Responsible?
 
-* TODO
+* "Are you inadvertently sending a message that erodes ownership and responsibility among subordinates? We were." - p 94
+* "There is no requirement to maintain a tickler, only a requirement to get the work done." - p 95
+* "Fundamentally, this tickler process sneds the following message: we will keep track and monitor you and your job performance. We will enforce (somehow) the proper performance of your job. This erodes a more powerful message: you are responsible for your job." - p 95
+* "'Then why should he spend time keeping a tickler for you and have you all sit in these agonizing tickler meetings?' 'He shouldn't.' 'Okay. But here's the deal; you guys need to get the work done.' 'We will.'" - p 97
+* "'You are responsible, not me and not the XO, for getting it done.' And with that, we unburdened ourselves of the effort of maintaining the tickler. ... Second, there would be no illusion about who was reasponsible for the performance of the various departments: the department heads were!" - p 97
+* "ELIMINATING TOP-DOWN MONITORING SYSTEMS is a mechanism for CONTROL" - p 97
+* "Don't preach and hope for ownership; implement mechanisms that actually give ownership." - p 98
+* "I'm not talking about eliminating data collection and measuring processes that simply report conditions without judgment. Those are important as they 'make the invisible visible.' What you want to avoid are the systems whereby senior personnel are determining what junior personnel should be doing." - p 98
+* REFERENCE: "Total Quality Leadership.", Deming - p 98
+* "Are you underutilizing the ideas, creativity, and passion of your mid-level managers who want to be responsible for their department's work product?" - p 99
+* "How many top-down monitoring systems are in play within your orgnaization? How can you eliminate them?" - p 99
 
 * **Key takeaways**
-
+  * Process can be oppressive to leader-leader cultures. Top down monitoring systems show a lack of trust and diminish control. The work is the work. Don't make monitoring systems of the work, and particuarly of the people, the work. Establish clear responsibility (i.e. control), trust them to get it done, and verify competency by the work being done.
+  * Seek to eliminiate non-value adding steps in value streams.
 
 #### A New Ship
 
