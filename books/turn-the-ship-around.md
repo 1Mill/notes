@@ -241,4 +241,55 @@
 
 #### Up Scope!
 
+* "The watch team had allowed a series of short-term contacts and navigational issues to drive them rather than driving th ship to an optimal tactical position. We were still letting things happen to us rather than proactively making things happen." - p 87
+* "Upon reflection, I decided that giving specific direction, as in my statement 'We need to be *here* at 0600,' without the underlying throught processes just didn't work in the complex and unpredictable world we were in. There were no shortcuts. As the level of control is divested, it becomes more and more important that the team be aligned with the goal of the orgnaization." - p 88
+* "What it came to prosecuting the enemy, a correct assessment of risk versus gain would have been more focused on driving the submarine to an optimal tactical position rather than avoiding contacts." - p 88
+* "Waiting for more precise information would only give the enemy more time to detect us." - p 89
+* "Tempted as I was to bark orders at this moment, I looked at my shoes instead. 'We're not going to do that,' I muttered. 'We have to find another solution.' ... I resisted the urge to say anything, and stayed quiet." - p 90
+* "Resist the Urge to Provide Solutions" - p 91
+* "Emergency situations required snap decision making and clear orders. There's no time for a big discussion. Yet, the vast majority of situations do not require immediate decisions. YOu have time to let the team chew on it, but we still apply the crisis model of issuing rapid-fire orders." - p 92
+* "RESIST THE URGE TO PROVIDE SOLUTIONS is a mechanism for CONTROL." - p 92
+* "You have to create a space for open decision by the entire team, even if that space is only a few minutes, or a few seconds, long." - p 92
+* "I told them at the outset that I was not going to give any orders unless someone recommended it. We eneded up driving in a striaght line for thirty minutes because they all just thought I'd order the turn. It was painful." - p 92
+* "Do you reocgnize situations in which you need to resist the urge to provide solutions?" - p 93
+* "When problems occure, do you immediately think you just need to manage everything more carefully?" - p 93
+* "What can you do at your next meeting with senior staff to create a space for open decision making by the entire team?" - p 93
+
+* **Key takeaways**
+  * When divesting control, people must know what the big picture is. If they do not, they cannot make sound decisions. Being in a position to attack the enemy has a different risk vs reward profile than strictly avoiding detection. Particularly when short-term actions actively undermine the big picture because the wrong risk vs reward profile is being applied.
+  * When in a position of authority, fight the urge to provide solutions. Instead, create the space for leaders to discuss and commit to a course of action. That space may be held for days, hours, minutes, seconds. But the most important thing is to create the spac for people to learn, try, and grow. Real emergencies may still require top-down decision making. But recognize what is and isn't a real emergency - most things - and then intentionally create that delay in response to create that space for emerging leaders to try.
+
+#### Who's Responsible?
+
 * TODO
+
+* **Key takeaways**
+
+
+#### A New Ship
+
+* TODO
+
+* **Key takeaways**
+
+
+#### We Have a Problem
+
+* TODO
+
+* **Key takeaways**
+
+### Part 3 - Competence
+
+#### Mistakes Just Happen
+
+* TODO
+
+* **Key takeaways**
+
+
+#### We Learn
+
+* TODO
+
+* **Key takeaways**
