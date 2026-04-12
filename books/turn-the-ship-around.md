@@ -359,3 +359,52 @@
 * **Key takeaways**
   * Control without competency is setting folks up for failure. Competency comes from learning; learning is an active process: not passive. Learn every day. Learn about a new practice, learn deeper about something familiar. Learn through doing, but also intentional training. Learning through doing builds competencey. Demonstarted competency creates the space for folks to give more control.
   * Crafting a learning culture where folks are eager to learn every day.
+
+#### Under Way for San Diego
+
+* TODO
+
+* **Key takeaways**
+  * TODO
+
+#### All Present and Accounted For
+
+* TODO
+
+* **Key takeaways**
+  * TODO
+
+#### Final Preparations
+
+* TODO
+
+* **Key takeaways**
+  * TODO
+
+#### Under Way for Deployment
+
+* TODO
+
+* **Key takeaways**
+  * TODO
+
+#### A Remembrance of War
+
+* TODO
+
+* **Key takeaways**
+  * TODO
+
+#### Leadership at Every Level
+
+* TODO
+
+* **Key takeaways**
+  * TODO
+
+#### A Dangerous Passage
+
+* TODO
+
+* **Key takeaways**
+  * TODO
