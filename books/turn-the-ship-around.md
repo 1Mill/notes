@@ -279,25 +279,55 @@
 
 #### A New Ship
 
-* TODO
+* "Because we were in the middle of an inspection, I'd said nothing. As much as I had voied not to give orders and to let an empowered group of officers 'intend' the way to victory, I found myself on too many occasions running ot the control room, or the torpedo room, or sonar room, to solve some crisis and set things tright. The success we'd had still relied too much on my personal involvement. I wanted to be able to have a heart attack and have the ship continue to effectively take the fight to the enemy." - p 102
+* "The Navy's experience at hte beginning of Wordl War II was that too many submarine crews and captains took their peactime practices into war with them. The result was overly cautiou operations that failed to inflict significant damange on the enemy." - p 102
+* "This adherence to formal communications unfortunately crowds out the less formal but highly important contextutal information needed for peak team performance. Words like 'I think ...' or 'I am assuming ...' or 'It is likely ...' that are not specfiic and concise orders get written up by inspection teams as examples of of informal communication, a big nono. But that is just the communication we need to make leader-leader work."  - p 103
+* "We called this 'thinking out loud.' We worked hard on this issue of communication. It was for everyone. I would think out loud when I'd say, in general, here's where we need to be, and here's why. They would think out loud with worries, concerns, and thoughts. ... it creates a much more resilient system." - p 103
+* "If you limit all discussion to crip orders and eliminate all contextual discussion, you get a pretty quiet control room. That was viewed as good. We cultivated the opposite approach and encouraged a constant buzz of discussions among the watch officers and crew." - p 104
+* "... the 10 precent of the crew who practices the three-name rule were enough to create a major change in impression." - p 105
+* "THINKING OUT LOUD is a mechanism for CONTROL because when I heard what my watch officers were thinking, it made it much easier for me to keep my mouth shut and let them execute their plans. It was generally when they were quiet and I didn't know what they would do next that I was tempted to step in." - p 105
+* "We say submarining is a team sport, but in practice it often amounts to a bunch of individuals, each working in their own shell, rather than a rich collaboration." - p 106
+* "THINKING OUT LOUD aslo works as a mechanism for ORGANIZATIONAL CLAIRTY." - p 106
+* "When I, as the captain, would 'think out loud,' I was in essence imparting important context and experience to my subordinates. I was also modeling the lack of certainty is strength and certainty is arrogance." - p 106
+* "How comfortable are people in your organization with talking about their hunches and their gut feelings?" - p 106
+* "How can you create an environment in which men and women freely express their uncertainties and fears as well as their innovative ideas and hopes?" - p 107
+* "Are you willing to let your staff see that your lack of certainty is strength and certainty is arrogance?" - p 107
 
 * **Key takeaways**
-
+  * As a leader, thinking out loud helps subordinates hear important context and how the leader is thinking about solving problems. Assumptions they are making, certainty in outcomes, constraints, and more they are considering. This helps suborinates level up their own thinking and decision making. Furthemore, it helps verify the leader is thinking and acting in a way which aligns with the outcomes of leaders higher up in the organization. Thinking out loud helps drive organizational alignment.
+  * Information communication invites rich collaboration because it better convays uncertainenty. Formal communication often falls back into order taking which does not invite discussion, collaboration, or dissent. Artificially narrowing the decision space and perhaps leaving important context unsaid.
+  * It is easy to fall into individual silos, each doing their own individual work. This is not collaboration and collaboration, particularly cross-domain collaboration, is requires for success in war time decision making.
 
 #### We Have a Problem
 
-* TODO
+* "You don't want to be accidentally safe." - p 109
+* "We call tis idea of being open and inviting oustide criticism 'Embrace the inspectors.'" - p 111
+* "EMBRACE THE INSPECTORS is a mechanism for CONTROL, organizational control. In other words, the crew of the *Sante Fe* are responsible for the *Sante Fe*." - p 111
+* "Whenever an inspection team was on board, I owuld hear the crew members saying things like, 'I've been having a problem with this. What have you seen on other ships do to solve it?'" - p 112
+* "How do you use outside groups, the public, social media comments, and the government audits to improve your organization?" - p 112
+* "What is the cost of being open about problems in your orgnaization and what are the benefits?" - p 112
+* "How can you leverage the knowledge of these inspectors to make your team smarter?" - p 113
+* "How can you improve your team's cooperation with those inspectors?" - p 113
 
 * **Key takeaways**
+  * Inspectors enforce the rules by knowing the rules. Leverage and learn from their knowledge to level up organizational practicies.
+  * You do not want to be accidentally safe, you want to intentionally be safe always. Recognize unsafe behvaior and intentionally fix it.
 
 ### Part 3 - Competence
+
+* "One of the two pillars for control is competency. Competency means that people are technically competent to make the decisions they make." - p 116
+* "The chapters in this part will focus on the mechanisms we employed to strengthen technical competency. They are:" - p 116
+  * Take deliberate action.
+  * We learn (everywhere, all the time).
+  * Don't brief, certify.
+  * Continually and consistently repeat the message.
+  * Specify goals, not methods.
 
 #### Mistakes Just Happen
 
 * TODO
 
 * **Key takeaways**
-
 
 #### We Learn
 
