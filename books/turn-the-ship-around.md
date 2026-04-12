@@ -239,7 +239,7 @@
 * **Key takeaways**
   * Language is powerful - language is leadership. Using "I intend to ..." with sufficient details, guardrails, and more to communicate the mission, plan, and constraints clearly to leaders only requires them to say "Very well." When a leader asks clarifying question, take it as feedback your communication was missing something. This thinking forces people to think like their leaders - eagerly training them for the next level.
 
-#### Up Scope!
+#### Up Scope
 
 * "The watch team had allowed a series of short-term contacts and navigational issues to drive them rather than driving th ship to an optimal tactical position. We were still letting things happen to us rather than proactively making things happen." - p 87
 * "Upon reflection, I decided that giving specific direction, as in my statement 'We need to be *here* at 0600,' without the underlying throught processes just didn't work in the complex and unpredictable world we were in. There were no shortcuts. As the level of control is divested, it becomes more and more important that the team be aligned with the goal of the orgnaization." - p 88
