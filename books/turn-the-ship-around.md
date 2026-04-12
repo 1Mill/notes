@@ -325,12 +325,37 @@
 
 #### Mistakes Just Happen
 
-* TODO
+* "We rejected the inevitability of mistakes and came up with a way to reduce them." - p 117
+* "This was something I would wrestle with my entire command tour - balancing the courage to hold people acocuntable for their ctions with my commpassion for their honest efforts. We would need to understand what had happened, and I didn't want to take the easy way out and blame the petty officer who had moved the tag in error." - p 118
+* "Yet, he was willing to tell us the truth quite bluntly without any attempt at obfuscation. This needed to be rewarded." - p 119
+* "No, gentlemen, how are we going to prevent this form happening again?" - p 119
+* "Our mechanism to prevent recurrence of the problem was to implement the taking of deliberate actions on board *Sante Fe*." - p 121
+* "TAKE DELIBERATE ACTION is a mechanism for COMPETENCE." - p 122
+* "Many people talk about teamwork but don't develop mechanisms to actually implement it. Taking deliberate action is certainly one." - p 124
+* "How effectively do you learn from mistakes?" - p 125
 
 * **Key takeaways**
+  * Taking deliberate is to say what you are going to do outline to yourself, take a moment, and then perform the action. This slight dely between thinking and doing creates the space to catch mistakes individually or for team members who are near by. On the Sante Fe, errors decreased significantly after implementing deliberate action.
+  * Team work is a team sport, but many practicies focus on the individual and not the team.
+  * Mistakes do happen, but they must be learned from so they do not happen again. Use mistakes as an opportunity to learn and improve - not blame.
 
 #### We Learn
 
-* TODO
+* "I learend the hard way that control without competency is chaos." - p 126
+* "... as authority is delegated, technical knowledge at all levels takes on a greater importance. There is an extra burden for technical competence." - p 127
+* "... as your ability to make decisions increases, then you need intimate technical knowledge on which to base those decisions." - p 128
+* "With physics, you dn't have problems; you only have the consequences of your actions. They become problems when we decide that what happened wasn't what we wnated to happen." - p 128
+* "No matter what we were doing, we would figure out how to extract the maximum learning from that event." - p 129
+* "What do we do on a day-to-day basis? We learn." - p 129
+* "Learning is active; it is something we do." - p 129
+* "We do the work. But, we learn by doing ..." - p 130
+* "Instead of looking at a task as just a chore, look at it as an opportunity to learn more about the associated piece of equipment, the procedure, or if nothing else, about how to delgate or accomplish tasks." - p 131
+* "I expect you to learn ... each day. I challenge you to look at each ... day, ... as an opportunity tolearn more and by doing so, to grow as a person." - p 131
+* "The purpose of training is to increase technical competence. The result of increased technical competence is the ability to dlegate increased decision making to the employees. Increased decision making among your employees will naturally result in greater engagement, motivation, and initiative." - p 132
+* "WE LEARN (EVERYWHERE, ALL THE TIME) is a mechanism for COMPETENCE." - p 133
+* "How could you implement a 'we learn' policy among your junior and senior staff?" - p 134
+* "Are people eager to go to training?" - p 134
 
 * **Key takeaways**
+  * Control without competency is setting folks up for failure. Competency comes from learning; learning is an active process: not passive. Learn every day. Learn about a new practice, learn deeper about something familiar. Learn through doing, but also intentional training. Learning through doing builds competencey. Demonstarted competency creates the space for folks to give more control.
+  * Crafting a learning culture where folks are eager to learn every day.
