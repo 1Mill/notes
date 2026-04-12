@@ -233,3 +233,38 @@
 
 * **Key takeaways**
   * "*Some queries cannot be optimized; take a different approach.*" - p 175
+
+#### Poor Man's Search Engine
+
+* TODO
+
+* **Key takeaways**
+  * TODO
+
+#### Spaghetti Query
+
+* TODO
+
+* **Key takeaways**
+  * TODO
+
+#### Implicit Columns
+
+* TODO
+
+* **Key takeaways**
+  * TODO
+
+#### Readable Password
+
+* TODO
+
+* **Key takeaways**
+  * TODO
+
+#### SQL Injection
+
+* TODO
+
+* **Key takeaways**
+  * TODO
