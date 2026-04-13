@@ -236,10 +236,15 @@
 
 #### Poor Man's Search Engine
 
-* TODO
+* "One fundemental principle of SQL ... is that a value in a column is *atomic*." - p 178
+* "The most important disadvantage of pattern-matching operations ithat they hve poor performance. They can't benefit fomr a conventional index, so they must scan every row in a table." - p 178
+* "... a searchable form using the special data type `TSVECTOR`." - p 183
+* "... *generalized inverted index (GIN)* index on the `TSVECTOR` column ..." - p 183
+* "... an inverted index is a list of all words one migh search for. In a many-to-many relationship, the index associates these words with the text entries that containt he respective word." - p 187
+* "*You don't have to use SQL to solve every problem.*" - p 189
 
 * **Key takeaways**
-  * TODO
+  * SQL is great a data management, but SQL is not a silver bullet for every data problem: one of which is fuzzy matching / searching. Operations like `LIKE` cannot leverage indexes, and so must use full table scans. SQL has some build in helpers like `TSVECTOR` and `GIN` indexes to help searching by keywords more efficient in basic uses cases, but at the end of the day perhaps using a different tool for more complex searches may be better.
 
 #### Spaghetti Query
 
