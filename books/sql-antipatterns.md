@@ -248,24 +248,41 @@
 
 #### Spaghetti Query
 
-* TODO
+* "One common consequence of producing all your results in one query is a *Cartesian product*. This happens when two of the tables in the query ahve no condition restricting their relationship." - p 192
+* "Managers want more complex reports and fields in a user interface. if you design intricate, monolithic SQL queries, it's more costly and time-consuming to make enhancements to them. Your time is worth something, both to you and  your project." - p 193
+* "Why are my sums and counts impossibly large? An unintended Cartesian product ..."  - p 194
+* "SQL isn't this difficult - really. If you've been struggling with a single query for too long, you should reconsider your approach." - p 194
+* "The person who coded the query will be responsible fro maintaining it forever, even if they have moved on to other projects. That person could be you, so don't write overly complex SQL that no one else can maintain!" - p 195
+* "Another clue that a query might be a Spaghetti Query is simply that it has an excessively long execution time." - p 195
+* "**The Law of Pasimony:** When you have two competing theories that make exactly the same predictions, the simpler one is the better." - p 196
+* "*Although SQL makes it seem possible to solve a complex problem in a single line of code, don't be tempted to build a house of cards.*" - p 199
 
 * **Key takeaways**
-  * TODO
+  * SQL should be simple to maintain and change. If it isn't, you are probably writing a speghetti query. Common signs are long execution times or struggling to write the perfect query to get the answer you want. Instead, stay practical, keep things simple, and often break the complexity down into tinier, easier to understand sub-queries.
 
 #### Implicit Columns
 
-* TODO
+* "Software developers don't seem to like tot ype, which in a way makes their choice of career ironic ..." - p 202
+* "Although using wildcards and unnamed columns satisfies the goal of less typing, this habit creates seveeral hazards." - p 202
+  * Breaking refactoring - new columns break wildcard inserts for example
+  * Hidden costs - "The more columns your query fetches, the more data must travel over the network between your application and the database server." - p 203
+* "If your application needs to run a query that adapts when columns are added, dropped, renamed, or repositioned, you may find it best to use wildcards. Be sure to plan for the extra work it takes to troubleshoot the pitfalls." - p 205
+* "Always spell out all the columns you need, instead of relying on wildcards or implicit column lists." - p 205
+* "... *fail early* principle." - p 206
 
 * **Key takeaways**
-  * TODO
+  * Wildcards (e.g. `SELECT * FROM ...`) are great if you don't care too much about performance or other gotchas, particularly with `INSERT`. Queries which require implicit positional column arguments like `INSERT` are fragile because adding or removing a column means you must also fix all the quies. Instead if you explicitly name the columns and their order you don't have to worry about this implicit order - making quries more resilieint.
+  * Wildcards transfer all data from the row over the network, which (1) makes the databse read slow and (2) makes the network request slower. You can optimize performance by just `SELECT`-ing the exact columns you want in your query. Many ORMs like ActiveRecord in Ruby on Rails use `SELECT *` by default.
+
+### Part 4 - Application Development Antipatterns
 
 #### Readable Password
 
-* TODO
+* "If your application can read a password for a legitimate purpose, then it's possible that a hacker can read the password illicitly." - p 214
+* "... make a distinction between *identification* and *authentication*. A user can identify himself as anyone he wants, but authentication is proving he is who he says he is." - p 214
 
 * **Key takeaways**
-  * TODO
+  * "*If you can read passwords, so can a hacker.*" - p 221
 
 #### SQL Injection
 
