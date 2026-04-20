@@ -362,17 +362,34 @@
 
 #### Under Way for San Diego
 
-* TODO
+* "How do you get people to think 'at the next level'? We discovered we had to change a fundamental practice that was inhibiting this." - p 135
+* "Time at sea was invaluable for building the crew into a team." - p 136
+* "Well, you come on watch, sit in the chair, and when the cheif starts reading from the book, you're thinking, 'I already nkow how to do this,' so you don't listen too hard." - p 138
+* "A briefing is a passive activity for everyone except for the brifer. Everyone else 'is briefed.' There is no responsibility for preparation or study." - p 138
+* "What I learned from these examples is that briefing an action many times compensates for poor planning and that certification ... puts more work on management thatn leader-follower does because management needs not only to identify what near-term events will be accomplished but also the role each member of the team will be fulfilling." - p 139
+* "The change from passive briefs to active certification changed that crew's behavior. We found that when peole know they will be asked questions they study ..." - p 139
+* "DON'T BRIEF, CERTIFY is a mechanism for COMPETENCE." - p 140
+* "How do you shift responsibility for performance from the briefer to the participants?" - p 141
+* "What would it take to start certifying that your project teams know what the goal are and how they are to contribute to them?" - p 141
 
 * **Key takeaways**
-  * TODO
+  * Breifing is only an engaging activity for the person doing the briefing, everybody else is a listener. Sometimes, acctive, sometimes passive, but more than likely inactive. Flip the script and certify instead. Certify folks know what they are doing, and what the big picture is by asking the participants to certify their competency and clarity. This requires leaders to figure out what needs to be certified, and holding folks accountable (e.g. pass / fail) to meet those expectations.
 
 #### All Present and Accounted For
 
-* TODO
+* "All of these factors had, unfortunately, conspired to reduce Sled Dog's sleep in the previous thirty-six hours to zero. No one planned it, but no one was looking out for him either." - p 144
+* "Some boats take their cheifs entirely off the watch bill. That this could be viewed as an acceptable way of doing business was a manifestation of the idea that being a cheif meant you had more privilieges, not more responsibility. ... But it had the opposite effect: all it did was alienate the crew." - p 146
+* "I was upset because it seemed like in some cases they'd taken the increased authority I'd given them and used that to make their own situations easier. Some were missing the sense of obligation towards their men." - p 147
+* "I invoked the following rule of 'watch bill equitability': no supervisory watch station could be in a watch rotation better than the worst rotation of any watch station reporting to that supervisor." - p 148
+* "CONTINUALLY AND CONSISTENTLY REPEAT THE MESSAGE is a mechanism for COMPETENCE." - p 149
+* "When you bring in something new, something that hs never been seen before, you can talk about it and some will get it. On *Sante Fe*, we did have some cheifs who get it immediately. ... Some would get it soon; others would take longer. I discovered that what happens when you explain a change is that the crew hears what you say, but they are thinking, 'Oh yeah, I know what he's talking about. That's like it was on the USS *Ustafish*.' They hear and think they know what you mean, but they don't. THey've never had a picture of what you are tlaking about. They can't see in their imagination how it works. They are not being intentionally deceitful; they just are not picturing what you are picturing." - p 150
+* "Are any of your employees on the brink of going AWOL because they're overworked an underappriciated?" - p 151
+* "What messages do you need to keep repeating in your business to make sure your management team doesn't take care of themselves first, to the neglect of their teams?" - p 151
 
 * **Key takeaways**
-  * TODO
+  * Repeating the message is a mechanism for competence. Like telling a dog to sit, sometimes the command is heard 8 times but only on the 9th is it heard and understood. As a leaders, repeat the message eagerly and frequently to drive alignment.
+  * As a leader, you create the container for people to operate in and focus their collective efforts. This means setting boundaries (e.g. focus on this, not this), but also setting rules. Non-negotiable rules to enforce behavior or certain outcomes, Will Larson refers to these as policies. Just because they are a rule doesn't mean they can't be revised or removed in the future. But, enforced rules change behavior.
+  * Watch for people using authority to make their lives easier. Leaders with formal authority should not be except from the day-to-day of their immediate direct reports - they should be leading through example.
 
 #### Final Preparations
 
