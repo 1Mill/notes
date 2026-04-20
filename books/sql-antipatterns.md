@@ -286,7 +286,14 @@
 
 #### SQL Injection
 
-* TODO
+* "In the classic example of SQL injection, the value you interpolate into your string finishes the SQL statement and exectues a second complete statement." - p 224
+* "The oldest way to protect SQL queies from accidental unmatched quote characters is to *escape* any quote characters to prevent them from becoming the end of hte quoted string." - p 227
+* "The solution most frequently cited as a panacea to SQL Injection is to use *query parameters*." - p 228
+* "The best way to debug your dynamic SQL statements is to log both the statement with parameter placeholders at prepare time and the parameter values at execute time." - p 230
+* "I told him the framework prevents SQL Injection like a toothbrush prevents cavities. You have to use it consistently to get the benefit." - p 230
+* "No framework can force you to write safe SQL code. A framework may provide convenience functions to help you, but it's easy to bypapss ..." - p 230
+* "It's your responsibility as a software developer to write codey defensively and to help your peers to do so as well." - p 231
+* "Code inspection is the most accurate and economical way to find SQL Injection flaws. You should budget your time for this and treat it as a mandatory activity." - p 236
 
 * **Key takeaways**
-  * TODO
+  * SQL Injection is when people are able to access your database through unsanitized query params. To prevent this, you must be diligent to use best practicies like sanitizing user inputs, using framework helpers, and ultmiately ensuring everybody throughout the organization is doing the same thing.
