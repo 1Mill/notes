@@ -393,10 +393,28 @@
 
 #### Final Preparations
 
-* TODO
+* "Do you believe that allowing initiative from the bottom won't work in a crissi? I learned that even in casualties (emergencies), releasing control yields better results." - p 152
+* "Now when I arrived on board in the morning, the ship was already a beehive of activity as oposed to a bunch of guys waiting for permission." - p 153
+* "We always had the goal of performing taining during these maintenance periods, but it rarely happened." - p 153
+* "This was another example of where the procedure had become th master and not hte servant. The motivation had shifted from putting the fire out to following the procedure." - p 155
+* "Mechanism: Specifcy Goals, Not Methods" - p 155
+* "Our practice was to use the standard word, but then we started adding context, such as whether there were 'open flames' or not. THis mechanism of describing what you see is an extention of thinking aloud." - p 156
+* "But this time Senior Chief Worshek walked into the control room and suggested we change the practice. Instead of us (in the control room) hunting down the violation, we told the watch standers that if they make a transient they should just call the COW and report it without being prompted. ... Not everyone was sure this would work. First of all it was different. old-timers grumbled that we'd lose our acoustic superiority if we let the crew make whatever noise they wanted to so long as they just confessed. Once again, however, it didn't turn out that way." - p 157 to 158
+* "No one yelled; no one criticized. We just analyzed when, why, and how the noisy events occured. ... By unemotionally addressing all the transients that occured rather than only the ones that our monitoring system detected, we ended up with a quieter ship." - p 158
+* "Specifying to the crew that ht true objective was to put the first out as quickly as possible was a mechanism primary for competence." - p 159
+* "SPECIFYING GOALS, NOT METHODS is a mechanism for COMPETENCE." - p 159
+* "In a way, SPECIFYING GOALS also served as a mechanism for CLARITY by focusing on achieving excellence rather than avoiding errors." - p 159
+* "Have your processes become the master rather than the servant?" - p 159
+* "How can you ensure adherence to procedure while at the same time ensuring that accomplishing the objective remains foremost in everyone's mind?" - p 160
+* "Are your staff comploying with procedures to the neglect of accomplishing the company's overall objectives?" - p 160
 
 * **Key takeaways**
-  * TODO
+  * Specify goals, not methods or processes, is a way to build competency while also giving clarity. Methods, processes, and practicies are the tools to achieve a goal. But too often tools become or obscure the goal. Tools are ment to be experimented with, evolved, and discarded when they no longer serve the goal. Do not be dogmatic. Figure our the goal, and then contionusly experiment with different tools to learn what works best.
+  * Informal language like like "fire" vs "open flames" is a mechanism for clarity and and extention of thinking aloud. Such informal language gives others more information to then act on without losing sight of the goal: to communicate there is a fire.
+  * Often changing the practice is the best way to achieve a goal that seems impossible to meet. In the case of noise transients, asking people to self-report transients without punishment made the previously invisible, visible. Next, the data with the goal to remain silience to be comabt effective becamse the mission for the entire crew to achieve, not just management to enforce. This clarity and changing of the process achieve the desired goal: reduce transient noise.
+  * Old guards can sometimes be nay-sayers and/or dogmatic - shutting down new ways of working because of hypothetical cases or the possibility for extremely bad actors getting away with extremely bad behavior. Watch out for this trap. Learn the environment, the people, and being willing to use a scalpel instead of a sledge hammer to address one-offs.
+
+### Part 3 - Clarity
 
 #### Under Way for Deployment
 
