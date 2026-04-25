@@ -431,10 +431,23 @@
 
 #### Under Way for Deployment
 
-* TODO
+* "We came up with three themes: empowerment, efficiency, and tactical excellence." - p 164
+* "The crew had heard so many myths and had been given so much misinformation, they had come to believe that the advancement system was a mystical process over which they had no contro. I twas this issue of control that we had to attack first." - p 167
+* "In the past, we'd always handed these sheets to the sailors and let them deal with it on an individual basis. This time, I made a copy of all of the results ..." - p 167
+* "Rather than looking at the advancement process as a separate activity, we integrated it into the operations of the sbumarine. NOw all our interests were aligned." - p 169
+* "Like so many times, my not knowing the answer ahead of time helped me. Instead of a scripted meeting where I pretended to solicit ideas, we had an honest conversation." - p 170
+* "By explaining the process to the crew and giving them the tools to improve their performance, we empowered them to determine their own success." - p 171
+* "Because the crew was conviced that I was 'on their team' there were never any issues with negative responses to constructive criticism. It was never a 'me versus you' issue." - p 171
+* "BUILDING TRUST AND TAKING CARE OF YOUR PEOPLE is a mechanism for CLARITY." - p 172
+* "What I learned is this: Taking care of your people does not mean protecting them from the consequences of their own behavior. That's the path to irresponsibility. What it does mean is giving them every available tool and advantage to achieve their aims in life, beyond the specifics of the job. In some cases, that meant further education; in other cases crewmen's goals were incompatible with Navy life and they separated on good terms." - p 172
+* "What would you and your team like to accomlish?" - p 172
+* "How can you as a leader help your people accomplish it?" - p 172
+* "Are you doing everything yuou can to make tools available to your employees to achieve both professional and personal goals?" - p 172
+* "Are you unintentionally protecting people from the consequences of their own behavior?" - p 172
 
 * **Key takeaways**
-  * TODO
+  * Build trust by helping people succeed. Then, leverage that trust to give constructive feedback to help them even further improve.
+  * Make promotion / career advanace systems transparent. Then, as a leader with authority, create the space for people to invest in their advancement. This focused approach helps both the organization by getting a skilled up person and the person by improving their career prospects. But, not everybody will captilize on this opportunity.
 
 #### A Remembrance of War
 
