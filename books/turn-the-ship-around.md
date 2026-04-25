@@ -419,7 +419,6 @@
 > As more decision-making authority is pushed down the chain of command, it becomes increasingly important that everyone throughout the organization understand what the organization is about. This is called clarity , and it is the second supporting leg - along with competence - that is needed in ore to distribute control.
 >
 > Clarity means people at all levels of an organization clearly and completeol yunderstand what eh organization is about. Thsi is needed because people in the organization make decisions against a set of criteria that includes what the organization istrying to accomplish. If clarity of purpose is misunderstood, then the criteria by which a decision is made will be skewed, and suboptimal decisions will be made.
-p 161
 
 * "The mechanisms described are these:" - p 161 to 162
   * Achieve excellence, don't just avoid errors
