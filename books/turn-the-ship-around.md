@@ -451,21 +451,47 @@
 
 #### A Remembrance of War
 
-* TODO
+* "Do you have a rich organizational legacy? We did, but we weren't using it." - p 173
+* "Inexperienced offiers almost always waited too long right at this point in the emergency. They wanted to see an upward depth rate before venting. By that time it would be too late; the expanding air would create more and more positive buoyancy forward that couldn't be vented fast enough, and we'd be pitching up at a steep angle, still out of control. ... I sorely tempted to shine my flightlight on the vent switches to help out, but resisted." - p 174
+* "In this way, we learned another powerful aspect of deliberate action: think about it as anticipatory deliberate action. With the movements of watch standers indicating the next action they anticipate taking, they signal fellow team members and supervisors what they sould be thinking about. it was powerful and helpful." - p 175
+* "Therefaster, whenever we talked about deliberate action, we talked about multiple benefits. not only did it minimize the chance of a mistake by a person by himself and provide an opportunity for drill team intervention; it was also a critical aspect of teamwork. It worked in a couple ways. It was a bottom-up way of signaling action. It also worked because adjacent watch standers could correct potential mistakes before they ahppeend. This was an excellent example of putting our mechanism of deliberate action into practice." - p 175
+* "As submariners, we had a tremendous legacy, but no formal program for inspiring a crew with that legacy." - p 176
+* "Back in Pearl Harbor, we visited the USS *Bowfin* submarine museum and called it officer trianing. I was worried that the crew would think something fo these things taacky, but that wasn't hte case. It helped provide organizational clarity into what we were about - the why for our service." - p 176
+* "USE YOUR LEGACY FOR INSPIRATION is a mechanism for CLARITY." - p 176
+* "What kind of actions can you take to bring this legacy alive for individuals in your organization?" - p 177
 
 * **Key takeaways**
-  * TODO
+  * Organizations often have history behind them. Leverage that legacy to drive clarity and inspire folks about the mission. Find those cornerstone events and find a practice which incorporates that history to help frame the work to be done.
+  * Deliberate action does not have to be vocal, it can be motion as well. Moving from point A to point B, or pointing at object C, uses non-verbal communication to express intent. Then, others can recognize and begin start thinking about their reactions or follow up actions before hand. Preemptive deliberate action.
+  * As a manger with technical expertise about what must be done next to be successful, it can be tempting to jump to immediately fix a percived proble. But, often times just delaying a moment will prove competency or lack of competecny, particularly during training sessions. So, recognize when you do and do not need to jump in.
 
 #### Leadership at Every Level
 
-* TODO
+* "I used this question: If I were a crew member and faced with deciding between two different courses of action, would these principles provide me with the right criteria against which to select the appropriate course of action? The guiding princples needed to do just hat: provide guidance on decisions." - p 179
+* "We make decisions based on technical reasons, not hope. We understand the details of our watch stations and the interrelationship of systems. We diligently study." - p 180
+* "Leaders like to hang a list of guiding principles on office walls for display, but often those principles don't become part of the fabric of the organization." - p 182
+* "USING GUIDING PRINCIPLES FOR DECISION CRITERIA is a mechanism for CLARITY." - p 182
+* "How can you simplify your guiding principles so that everyone in your organization understands them?" - p 183
+* "Are your guiding principles useful to employees as decision-making criteria?" - p 183
+* "Do your guiding principles serve as decision-making criteria for people?" - p 183
+* "Do you know your own guiding principles? Do others know them?" - p 183
 
 * **Key takeaways**
-  * TODO
+  * Guiding principles should not be window dressing. They should be meaningful and effective at helping people make decisions. Leverage guiding principles to build organizational clarity and culture. And, enforce it through acts of leadership, which often means changing your own behavior.
+  * Grow competency in the guiding principles. If people do not know them, then the principles cannot influence their behavior.
 
 #### A Dangerous Passage
 
-* TODO
+* "Do you recognize your staff's achievements so long after they event that even they forget? We learned not to let admin get in the way." - p 184
+* "With it, I returned to the crew's mess and pinned it on the throttleman while he and the off-going watch team ate breakfast. I spoke words of appriciation and professionalism. Later, I would formally report his exemplary service, but the immediacy of the recognition was important." - p 185
+* "We let our administrative processes get in the way of prompt recogniztion." - p 186
+* "I say immediate recognition, I mean immediate. Not thirty days. Not thirty minutes. Immediate." - p 186
+* "Look at your structures for awards. Are they limited? Do they pit some of your employees against others? That structure will reuslt in copetition at hte lowest leve. If what you want is collaboration, then you are destroying it. Instead, have awards that are abundant, with no limit. They pit your team against the world ..." - p 186
+* "We'd say "There is no 'they' on *Sante Fe*.' We wanted cooperation within the ship and the competition to be against he other submarines or, beter yet, the potential enemy." - p 187
+* "USE IMMEDIATE RECOGNITION TO REINFORCE DESIRED BEHAVIORS is a mechanism for CLARITY." - p 187
+* "Some people worry that having a fixed objective reduces that incentive for continuous improvement and breeds a menality that 'we just ned to meet the goal.' In some cases, this is appropriate, but in other cases, relative grading is also appropriate. There's no reason you can't do both: assign the grade based on the fixed objective and provide data on how that team stacks up against all teams." - p 187
 
 * **Key takeaways**
-  * TODO
+  * Immediate recognition of exemplary behavior reinforced that exemplary behavior in the individual. Even better if done publically so that others can see and learn what exemplary behavior looks like. Be eager to award and reinforce exemplary behavior and do not let for more formal review processes to make that recognition immediately. Recognize immediately and fill out the paper work eventually.
+  * Grading to a fixed objective (e.g. 2 minutes or less to extinguish a fire) is good for most situtations. Once folks achieve that goal and demonstrate their competency reliably, it is best to pivot to another goal with a new fixed objective instead of over optimizing on that single goal. To supplement the fixed grade, it is also okay to publish leaderboard-like scores so that folks can compare themselves up against the rest. Some folks might find this motivating to continue to climb that leaderboard to unlock new learnings. But, from an orgnaizational perspective the benefit comes from everybody having a level of competency to meet the fixed objective (i.e. standard).
+  * If you have a finite reward system, it will only encourage people to fight over those rewards. Instead, make rewards abundent and decoupled from internal competition. Instead, focus that energy towards other "theys" (i.e. other ships, real-world combatants).
