@@ -297,3 +297,38 @@
 
 * **Key takeaways**
   * SQL Injection is when people are able to access your database through unsanitized query params. To prevent this, you must be diligent to use best practicies like sanitizing user inputs, using framework helpers, and ultmiately ensuring everybody throughout the organization is doing the same thing.
+
+#### Pseudokey Neat-Freek
+
+* TODO
+
+* **Key takeaways**
+  * TODO
+
+#### See No Evil
+
+* TODO
+
+* **Key takeaways**
+  * TODO
+
+#### Diplomatic Immunity
+
+* TODO
+
+* **Key takeaways**
+  * TODO
+
+#### Magic Beans
+
+* TODO
+
+* **Key takeaways**
+  * TODO
+
+#### Rules of Normalization
+
+* TODO
+
+* **Key takeaways**
+  * TODO

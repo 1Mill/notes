@@ -495,3 +495,45 @@
   * Immediate recognition of exemplary behavior reinforced that exemplary behavior in the individual. Even better if done publically so that others can see and learn what exemplary behavior looks like. Be eager to award and reinforce exemplary behavior and do not let for more formal review processes to make that recognition immediately. Recognize immediately and fill out the paper work eventually.
   * Grading to a fixed objective (e.g. 2 minutes or less to extinguish a fire) is good for most situtations. Once folks achieve that goal and demonstrate their competency reliably, it is best to pivot to another goal with a new fixed objective instead of over optimizing on that single goal. To supplement the fixed grade, it is also okay to publish leaderboard-like scores so that folks can compare themselves up against the rest. Some folks might find this motivating to continue to climb that leaderboard to unlock new learnings. But, from an orgnaizational perspective the benefit comes from everybody having a level of competency to meet the fixed objective (i.e. standard).
   * If you have a finite reward system, it will only encourage people to fight over those rewards. Instead, make rewards abundent and decoupled from internal competition. Instead, focus that energy towards other "theys" (i.e. other ships, real-world combatants).
+
+#### Looking Ahead
+
+* TODO
+
+* **Key takeaways**
+  * TODO
+
+#### Combat Effectiveness
+
+* TODO
+
+* **Key takeaways**
+  * TODO
+
+#### Homecoming
+
+* TODO
+
+* **Key takeaways**
+  * TODO
+
+#### A New Method of Resupplying
+
+* TODO
+
+* **Key takeaways**
+  * TODO
+
+#### Ripples
+
+* TODO
+
+* **Key takeaways**
+  * TODO
+
+#### Afterword
+
+* TODO
+
+* **Key takeaways**
+  * TODO
