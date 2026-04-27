@@ -300,17 +300,28 @@
 
 #### Pseudokey Neat-Freek
 
-* TODO
+* "Your policies require you to delete the offender's account, but if you recycle primary keys, you would subsequently assign 789 to another user." - p 240
+* "Don't reallocate pseudokey values just because they seem to be unused." - p 240
+* "Don't confuse row numbers with primary keys. A primary key identified one row in one table, whereas row numbers identify rows in a result" - p 241
+* "Storing a GUID requires 16 bytes. This take smore space and runs more slowly than using a typical 4-byte integer pseudokey." - p 243
+* "Nevertheless, you might need to *manage your manager* to defend the data integrity of your database." - p 243 to 244
+  * *Explain the technology*
+  * *Be clear about the costs*
+  * *Use natural keys:* "Don't use pseudokeys - use a string or a number that encodes somee identifying meaning."
 
 * **Key takeaways**
-  * TODO
+  * Use GUID as pseudokeys by default. This is the unique pseudokey external services (e.g. customers, customer support, etc.) should use to identify an entity outside of the database. If possible, alternatively use a natural key which encodes some information about the entity itself in a unique way (e.g. `author.slug = 'jane-doe-1234'`).
+  * Do not reassign pseudokeys. Once they are assigned, they are assigned forever! If you reassign a pseudokey then external / downstream systems may break and be extremely costly to reconcile.
 
 #### See No Evil
 
-* TODO
+* "Developers commonly practice the See No Evil antipattern in two forms: first, ignoring the return values of a database API; and second, reading fragments of SQL code interspersed with application code. In both cases, developers fail to use information that is easily available to them." - p 246
+* "They may feel that checking return values and exceptions adds nothing to their code, because those cases aren't supposed to happen anyway. ... But users don't see the code; they only see the output. When a fatal error goes unhandled, the user may see only a blank white screen ..." - p 247
+* "Do not print the SQL query within HTMl comments of a web application's output. ANy user can view your page source. Reading the SQL query gives hackers a lot of knowledge about your database structure." - p 251
 
 * **Key takeaways**
-  * TODO
+  * When debugging an issue, start at the rawest output and then move your way up looking at every layer individually for the root origin of an error. Code generating SQL may output incorrectly formatted SQL like `SELECT * FROM usersWHERE id = ? LIMIT 1`. Looking at the raw generated SQL this erorr is obvious, but in code doing string manipulation to generate that SQL, things might look perfect when they are really evil hidden in there.
+  * Eagerly handle exceptions to make your code resilient and final product better for customers.
 
 #### Diplomatic Immunity
 
