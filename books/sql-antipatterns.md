@@ -325,21 +325,63 @@
 
 #### Diplomatic Immunity
 
-* TODO
+* "Humans are alergic to change. They love to say, 'We've always done it this way.' I try to fight that. That's why I have a clock on my wall that runs counterclockwise.' - Read Adm. Grace Murray Hopper" - p 253
+* "This project had high *technical debt* - a consequence of using shortcuts instead of best practices. Technical debt causes risk and extra work in a project until you pay it off by refactoring, testing, and documenting." - p 253
+* "Even among developers who accept best practices when developing application code, there's a tendency to think of database code as exempt form these practices. I call this antipattern *Diplomatic Immunity* because it assumese that the rules of application development don't apply to database development." - p 254
+* "*Lightweight* in this context means that the team intends to skip some tasks that the enginerring process calls for. Some of these may be legitimate to skip, but it could also be an euphemism for not following important best practices." - p 255
+* "A good guideline for whether code is really temporary is to delete it immediately after you've used it. If you can't brin gyourself to do that, it's probably worth keeping. That's OK, but that means it's worth storing in source control and writing a least some brief notes about what the code is for and how to use it." - p 256
+* "The full life cycle of sosftware engineering involves *quality assurance*, which includes three parts:" - p 256
+  1. Specity project requirements clearly and in writing.
+  2. Design and develop a solution for your requirements.
+  3. Validate and test that your solution matches that requirements.
+* "You can achieve quality assurance in datbase development by following best practicies in *documentation*, *source code control*, and *testing*." - p 256
+* "Developers don't like to maintian engineering documentation. It's hard to write, it's hard to keep up-to-date, and it's dispiriting when few people read what you do write. But even battle-hardened, extreme programmers know that thye need to document the database, even if they document no other part of their software." - p 259
+* "Make sure your database code files are associated witht he application code that uses that database. part of the benefit of using source control is that if y ou check out your project form source control given a certain revision number, date, or milestone, the files should work together. Use the same source control repository for both application code and database code." - p 261
+* "Ideally, create a separate instance of y our datbase for each revision of the application you need to develop, test, stage, and deploy." - p 263
+* "There is no reason that software developers can't develop and test in a fully functional environment that matches the production environment." - p 264
 
 * **Key takeaways**
-  * TODO
+  * Database do not have diplomatic immunity from technical debt. Technical debt accumulates and must be paid just like any other application code. Unless you pay this technical debt, it will only continue to make development slower and slower.
+  * Document the database tables, columns, and values to make it clear what everything in the database represents. If you do not document this, folks have to make an educated guess. Or worse, add something that already exists. A lack of documentation is a form of technical debt.
 
 #### Magic Beans
 
-* TODO
+* "The greatest contributor to the cost of a software project is development time. So, the more we can reduce developer time, the less expensive it is to produce software." - p 266
+* "Robert L. Glass found that 'eighty percent of software work is intellectual. A fair amount of it is creative. Little of it is clerical.'" - p 266
+* "Much of the code in any application is repetitive - practically boilerplate. Frameworks help improve coding productivity by giving us reusable components and code generation tools." - p 266
+* "An abstraction simplifies the internal workings of some technology and makes it easier to use. But when you have to know the internals anyway to be productive, you have a leaky abstraction." - p 268
+* "Treating models as simple data access objects encourages you to code your business logic outside the model, usually spread over multiple controller clases and reducing cohesion of the model's behavior." - p 269
+* "Just be sure to budget some time for refactoring the code to pay back the technical debt you gather by writing code in a prototype mode." - p 273
+* "The interface for the domain model class should reflect its intended usage, not hte physical database structure or CRUD operations. Generic methods of the Active Record interface like `find()`, `first()`, `insert()`, or even `save()` don't tell you much about how they apply to application requirements. Methods like `assignUser()` are more descriptive, and your controller code is much easier to understand." - p 275
+* "... an object-oriented representation of a *domain* in your application, that is, the business rules in y our application and the data for those business rules. The model is where your implement business logic for the application; storing it in a database is an internal implementation detail of a model. Once we have the model designed around concepts in our application, instead of database layout, we can start to implement database operations completely hidden within our model classes." - p 275
+* "... developers who don't learn how to employ object-oriented design principles are doomed to write spaghetti code." - p 279
+* "*Decouple your models from your tables.*" - p 279
 
 * **Key takeaways**
-  * TODO
+  * Database operations are an internal implementation detail for a model. In Ruby on Rails, seeing controllers calling `User.save!` is an anti-pattern as controllers should call domain model method which then invoke business logic which then maybe saves something if business rules are appropriately checked. Calling `User.save!` skips all those buisness logic and business rules for managing an entity. So, keep the layers seperated. Controllers call domain model methods which encapsulate business logic to then call database operations if appropriate. This way, business logic says in the domin models instead of looking out into more procedural programming anti-patterns: defeating OOP principles.
+
+### Part 5 - Appendixes
 
 #### Rules of Normalization
 
-* TODO
+* "*Younge man, in mathematics you don't understand things. You just get used to them.' - John von Neumann*" - p 283
+* "This term *relational* doesn't refer to relationships between tables. It refers to the table itself, or rather, the relationshp between columns within a table." - p 284
+* "Mathematicians define a *relation* as the combination of two sets of values from different domains, with some condition applied that give us a subset of all the possible combinations." - p 284
+* "To prevent duplicates, we have to be able to tell one row from another and to address individual rows. To ensure this is SQL, we declare a primary key constraint for a column or set of columns, whatever is needed to uniquely identify rows. We might have duplication among nonkey columns - ther are two teams in the city of Boston - but that row as a whole is still unique because the team names are different." - p 284 to 285
+* "There are legitimate uses for denormalization. But you should model your database in a normal form first, before deciding to use denormalization." - p 286
+* "Notice that improving database performance i not on this list. Normalization helps us store data *corretly* and avoid getting into trouble. It's practically inevitable that a database that is not normalized becomes a mess. We find ourselves developing a lot more code to clean up inconsistent or duplicate data. We experience delays and expenses to our business from faulty data. If you include these scenarios, the benefits to performance from normalizing a database become clearer." - p 287
+* "There are five traditional normal forms, describing progressive levels of normalization. Each normal form eliminates a specific type of redundancy or anomaly when you design a relation." - p 287
+* "First Normal Form ... not have any *repeating groups*." - p 287
+* "Second Normal Form ... the identity of the coiner is stored redundantly. This means someone might create an *anomoly* by changing the identity of the coiner on one row for a given tag .. without chaining all rows fro the same tag." - p 289
+* "In this example, that violates third normal form, the offending column doesn't correspond to the primary key at all." - p 290
+* "Boyce-Codd Normal Form ... all nonkey attributes must depend on the key of the table." - p 291
+* "Fourth Normal Form ... When you try to use a single intersection talbe to represent multiple many-to-many relationships, it violates fourth normal form." - p 293
+* "Fifth Normal Form ... Any table that meets the criteria of Boyce-Codd normal form and does not have a compound primary key is already in fifth normal form." - p 294
+* "*Domain-Key normal form* (DKNF) says that every constraint on a table is a logical consequence of the table's domain constraints and key constraints." - p 295
+* "*Sixth normal form* seeks to eliminate all join dependencies. It's typically used to support a history of changes to attributes. For example, the `Bugs.status` changes over time, and we might want to record this history in a child table, as well as when the change occured, who made the change, and perhaps other details." - p 295
+* "Sith normal form is overkill for most applications, but some data warehousing techniques use it." - p 296
+* "Rules of normalization aren't esoteric or complicated. They're really just a commonsense technique to reduce redundancy and improve consistency of data." - p 296
 
 * **Key takeaways**
-  * TODO
+  * Normaling data to at least the Fifth Normal Form by default seems the best bang for your buck. It keeps data clean and entities self contained. This is not an easily task, and takes intentional practice and paying techincal debt to achieve this ideal state for managing data.
+  * The Sixth Normal Form is an event based system, where entities are updated on events invoked by users, systems, or whatever. This enables auditability out of the box because you can see exactly what event from where changed the state of an entity. The state of the entity continues to exist as it does today in a databse, but this extra event based layer makes observability much easier.
