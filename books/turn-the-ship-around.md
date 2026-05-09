@@ -498,42 +498,108 @@
 
 #### Looking Ahead
 
-* TODO
+* "Are you mired in short-term thinking? For me it was tough to start thinking beyond the next inspection, but it paid off." - p 188
+* "It was myu job to notify external parties - the squadron and the repair facility, primarily - that we had drawn a line in the stand and *Sante Fe* needed to be ready in all respects on June 8." - p 189
+* "Mechanism: Being with the End in Mind" - p 190
+* "During the first set of discussions, we adapted a useful technique for long-term focus and planning. I asked each of them to write their end-of-tour awards. Since these supervisors are assigned to the submarine for three years, this particular exercise made them look that far into the future." - p 190
+* "Dave and I discussed each one of his goals and made it as specific as measurable as possible." - p 191
+* "... we aplied the same approach to the fitreps, making goals measurable and setting in place the tools to collect the data." - p 191
+* "Objectives like these are too vague and hard to quanify, so twe would work to write the objective in a measurable ways. We'd arrive at the specifics by asking a question such as: 'How would you know if procedural compliance was improved?'" - p 191
+* "I believe the ability to specifically quantify accomplishments, in addition to the focus this exercise required of the officers and the overall reputation of the ship, went a long way toward allowing us to boast disproportionately high selection rates." - p 192
+* "Go through the evaluations adn look for staements that express achievement. In every case, ask 'How would we knokw?' and ensure that you have measuring systems in place." - p 192
+* "Have conversations with employees to make their desired achievements indisputable (How would I know?) and measurable." - p 193
+* "BEGIN WITH THE END IN MIND is an important mechanism for ORGANIZATIONAL CLARITY." - p 193
+* "Are you mentoring soley to instruct or also to learn?" - p 193
+* "Are you measuring the things you need to be?" - p 194
+* "What will it take to redesign your management team's schedule so you can mentor one another?" - p 194
+* "How can you reward staff members who attain their measurable goals?" - p 194
 
 * **Key takeaways**
-  * TODO
+  * Goals must be measurable so that achievement can be indisputable ("How would I konw?"). Often, goals are too vague or lack measurements making the impact invisible. Make the impact visible through metrics.
+  * Beginning with the end in mind if a mechanism for organizational clarity as it enables alignment of the desired end state and then ensuring solutions are measurable and aligned with achieving that desired end state.
 
 #### Combat Effectiveness
 
-* TODO
+* "We realized that resilience and effectiveness sometimes meant questioning orders." - p 195
+* "'Torpedo runing hot, straight, and normal.' was Wep's report. Officially, we were supposed to stay, 'Wire clearence maneuver complete, torpedo running.' But we'd changed our language to match what the World War II submarines said. Again, this was an example of our mechanism to tap our rich heritage." - p 196
+* "Now, here's the thing: almost none of these preparations had happened because of my orders. They happened because someone on the crew though, 'Hey, those guys are going to be wet. They're going to be cold. They're going to b ehungry. They might be injured. And we should get ready for them.' My crew didn't wait for orders. They just did what needed to be done and informed the appropriate personnel. It was leader-leader all the way." - p 199
+* "I though about what it akes for a young sailor to say, 'Captain, you're wrong.'" - p 199
+* "ENCOURAGE A QUESTIONING ATTITUDE OVER BLIND OBEDIENCE is a mechanism for CLARITY." - p 200
+* "How do we create resilient organizations where errors are stopped as opposed to propogated through the system?" - p 200
+* "Do you want obedience or effectiveness?" - p 200
+* "Have you built a culture that embraces a questioning attitude?" - p 200
 
 * **Key takeaways**
-  * TODO
+  * A demonstration of a leader-leader organization is one where people do the right thing and inform the right people they are doing the right thing without being ordered to do so.
+  * A questioning culture encourages organizational alignment and also doing the right thing. If orders are taken and actioned without pause, that is a leader-follower organization.
 
 #### Homecoming
 
-* TODO
+* "... junior enlisted men used to look to see what their chiefs did to get a sense of whether they wanted to stick around and have that job." - p 203
+* "At the time, we knew we were developing something new, but we didn't know what it was. Through trial and error, the crew arrived at a body of practices and principles that were dramatically more effective than those within the leader-follower model." - p 204
+* "I continued to see benefits of deliberate action. DELIBERATE first of all reduced errors by operators and was also a mechanism for TEAMWORK. Finally, it was a mechanism for SIGNALING INTENT." - p 204
+* "He tole me that my guys tried to make as many mistakes as the average ship. The difference was that the mistakes never happened because of deliberate action." - p 204
+* "Instead of focusing on intimate review of the work, I focused on intimate review of the people." - p 204
+* "The core of the leader-leader model is giving employees *control* over what they work on and how they work. It means letting them make meaningful decisions. The two enabling pillares are *competency* and *clarity*." - p 206
+
+* Control
+  * Find the generic code for control and rewrite it.
+  * Act your way to new thinking.
+  * Short, early conversations make efficient work.
+  * Use "I intend to ..." to turn passive followers into active leaders.
+  * Resist the urge to provide solutions.
+  * Eliminate top-down monitoring systems.
+  * Think out loud (both superiors and subordinates).
+  * Embrace the inspectors.
+* Competence
+  * Take deliberate action.
+  * We learn (everywhere, all the time).
+  * Don't brief, certify.
+  * Continually and consistently repeat the message.
+  * Specify goals, not methods.
+* Clarity
+  * Achieve excellence, don't just avoid errors
+  * Build trust and take care of your people
+  * Use your legacy for inspiration.
+  * Use guding principles for decision criteria.
+  * Use immediate recognition to reinforce desired behaviors.
+  * Begin with the end in mind.
+  * Encourage a questioning attitude over blind obedience.
+
+* "First, identify where excelle3nce is created in your company. There may be some internal processes that generate excellence and there may be some interface processes that generate excellence. Generally I find that interfaces with the customer and with the physical world are two key interfaces. Then, figure out what decisions the people responsible for the interfaces need to make in order to achieve excellence. Finally, understand what it would take to get those employees to be able to make those decisions. This typically requires an intersection of the right technical knowledge, a thorough understanding of your organization's goals, authority to make the decision, and the responsibility for consequences of the decisions made." - p 207
+* "Are you ready to embrace the changes that will unleash the intellectual and creative power of the people you work with?" - p 207
+* "Do you have the stamina for long-term thinking?" - p 207
 
 * **Key takeaways**
-  * TODO
+  * The core idea of leader-leader model is to give people *control* over how they work and what work they do. This means letting them make meaningful decisions which impact the organization. The two pillars to guardrail the level of *control* a person should have is demonstarted through their *competency* and *mission clarity*.
 
 #### A New Method of Resupplying
 
-* TODO
+* "We learned that empowerment is not enough." - p 208'
+* "... they were there to support the ships of the U.S. Navy, and that trumped bureaucracy." - p 210
+* "There's no way I would have been able to pull off a plan for conducting this kind of operation and direct it piece by piece. You could call it speed of response, or reducing the sense-act dely inherent in organizations, or adaptability to change. Whatever you call it, the crew's performance allowed us to continue being a submarine in defense of the country rather than limping into port for a fill-up." - p 212
+
+> Empowerment is a necessary step because we've been accustomed to disempowerment. Empowerment is needed to undo all those top-down, do-what-you're-told, be-a-team-player messages that result from our leader-follower model. But empowerment isn't enough in a couple of ways.
+> First, empowerment by itself is not a complete leadership structure. Empowerment does not work without the attributes of competence and clarity.
+> Second, empowerment still results from and is a manifestation of a top-down structure. At its core is the belief that the leader 'empowers' the followers, that the leader has the power and ability to empower the followers.
+> We need more than that because empowerment within a leader-follower structure is a modest compensation and a voice lost compared with the overwhelming signal that 'you are a follower.' It is a confusing signal.
+> What we need is release, or emancipation. Emancipation is fundamentally different from empowerment. With emancipation we are recognizing that inherent genius, energy, and creativity in all people, and allowing those talents to emerge. We reealize that we don't have the power to give these talents to others, or 'empower' them to use them, only to prevent them from coming out. Emancipation results when teams have been given decision-making control and have the additional characteristics of competence and clarity. You know you have an emancipated team when you no longer need to empower them. Indeed, you no longer have the ability to empower them because they are not relying on you as their source of power.
+>
+> * p 213
+
+* "Are you limiting  your leadership to empowerment?" - p 213
+* "What programs have you instituted to supplement control with competence and clarity?" - p 213
+* "Have you divested yourself of the attitude that y ou, as a corporate leader, will empower your staff?" - p 213
 
 * **Key takeaways**
-  * TODO
+  * Leader-follower model has been so engranged into culture that empowerment programs coupled with competency and clarity afford leaders to divest control until emancipation is ultimiately achieved. A world where people with demonstratable skills and mission clarity are trusted to do the right thing. Empowerment is not enough to achieve this vision. Trust must be earned through demonstrations of competency and historical mission clarity. Leaders often focus on empowerment without building these nessesary supporting structures to earn trust and delegate control.
 
 #### Ripples
 
-* TODO
+* "This is the power of the leader-leader structure. Only with this model can you achieve top performance *and* enduring excellence *and* development of additional leaders." - p 215
+* "Your mechanisms will be structurally similar, but the specifics will be different. for example, we found that one of the most important mechanisms for control was to change the level in the organization where an individual's vacation was approved." - p 215
+* "Ultimately, the most important person to have control over is yourself - for it is that self-control that will allow you to 'give control, create leaders.' I believe that rejecting thae impulse to take control and attract followers will be your greatest challenge and, in time, your most powerful and enduring success." - p 216
 
 * **Key takeaways**
-  * TODO
+  * Leader-leader models develop leaders because people are forced to think and act and invest in others. As a leader, it is important to give control so that others can try, succeed, fail, and most importantly learn. That is how leaders are forged.
 
-#### Afterword
-
-* TODO
-
-* **Key takeaways**
-  * TODO
