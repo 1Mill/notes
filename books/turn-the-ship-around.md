@@ -602,4 +602,3 @@
 
 * **Key takeaways**
   * Leader-leader models develop leaders because people are forced to think and act and invest in others. As a leader, it is important to give control so that others can try, succeed, fail, and most importantly learn. That is how leaders are forged.
-
