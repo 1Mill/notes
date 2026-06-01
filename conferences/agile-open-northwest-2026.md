@@ -184,4 +184,125 @@ LINK
 
 ### Breakfast - Day 2
 
-* TODO
+* "Plan a little, do a little, learn a little." - Broadrick
+
+### Opening Circle - Day 2
+
+* "We are uncovering better ways of working, not I"
+* "The performance of a knowledge based team is how fast a new idea propogates throughout the team."
+  * Beneit of mob programming.
+* Opportunity Solution Trees <> Discovery Trees
+* Stop admiring the problem -> Get into solution space (stop spinning wheels)
+
+### OpenSesame + Open Space
+
+* Pivotal Model (another company)
+* Change easiest with grass roots and management buy-in.
+* REFERENCE: [Art of Agile Development](https://www.amazon.com/Art-Agile-Development-Pragmatic-Software/dp/0596527675) by James Shore
+* Kick off year with Open Space event
+* Coaches expected to be player-coaches who teach through collaborative doing - not just speaking
+* Struggle to get working agreements to be the real way of wokring
+  * Legacy employees not bought into mob programming
+  * Working to find golden paths to make culture enforcement easier (e.g. TDD in legacy products)
+* Don't recommend E2E tests because they are too fragile; currently they release every 2 weeks.
+* Starting XP practicies for new greenfield product -> later strangle legecy code.
+* Pairing requires intentionallity taking breaks, otherwise people burn out.
+* The bars of the cage have been removed, but people still act as if the bars are there.
+  * Old culture still engrained
+* Many organizations incentivized the self over the collective.
+* Moving away from siloed team topology structure
+
+### Getting past Sr. Leadership BLockers
+
+* Create jelousy
+* Influence with data > emotion or philosophy
+* Snowball wins
+* Show / fell cost of doing nothing
+* Snowden - new narrative app
+  * I think this is collecting stories / show-and-tell to prevent a narrative for change?
+
+### Lead without blame
+
+* Essential motivators
+  * Team Purpose
+  * Team Auntonomy
+  * Continue legacy
+* Resisliance Factors
+  * Collaborative connection
+    * Power Dynamics
+    * Psychological Saftey
+  * Conflict Resilience
+  * Inclusive Collaboration
+* Use power to open doors
+* Water melon metrics - metrics on the outside that are green, but inside are red
+  * Start all projects as red, then move to green when really green
+
+### Lunch - Day 2
+
+* Removing technical friction makes changing behavior easier (e.g. flaky tests, mortems, TDD, etc.)
+
+* REFERENCE: Collective Senesmaking
+  > Collective sensemaking is the collaborative process of generating shared understanding and situational awareness among a group of people facing complex, uncertain, or rapidly changing challenges. It allows teams to co-create meaning, burst individual thought bubbles, and pool diverse perspectives to take effective action
+
+* REFERENCE: Discourse Construction
+  * Maybe Discource Community Platform?
+
+### Stop admiring the problem
+
+* Endless analyzing, re-defining, how to get to action? change?
+* How ot break cycle?
+  * What if we try X?
+  * What information do we ned to make a decision?
+  * What is the worst that can happen if we try X?
+  * Our next release is not our last release.
+  * Significant Figures - how to precise we need to do? Miles vs Inches?
+  * Does it need to get done?
+  * What problem are we fixing? Does it need to be fixed?
+* Experiment in hours - not longer
+* More focused in symptoms, not root cause
+* Visualize the problem
+* As a baby (e.g. rubber ducking)
+
+### FAST Agile, the advanced stuff
+
+* Homophily: People want to work with the same peole always.
+  * How to break up without friction to make new relationships to drive innocation vs smae old ideas?
+
+* Engineering profiles
+  * Self-direction: Good stewards, emergent change
+  * Need-direction: Ned to be told what to to (resistance)
+  * Go with the flow: Do what others are doing
+
+* Teams need time to jell -> Okay to keep, but also need to disrupt to not make silos and promote diverse thinking
+* Homomorphic Team <-> Diverse Team
+
+* Writing code is writing a world that can't always be documented, it can only be lived in.
+* Stewardship does not have to be perminent
+* Law of the Situation: The person who knows the most should be the natural leader.
+
+### Mini Team Builders
+
+* Rank statements from most to least like me -> Kind of like personality test (e.g. Insight Blocks)
+* 100 DSUQs
+* 3 speed Qs
+* Pig Personality
+* 3 Emojies
+* Stress vs Joy Board
+* "How do you like your eggs?"
+* 1 word story; 1 line at a time - not walking varient as well
+* Sides of a room; Human computer
+* Show and tell
+* Whose fridge is this?
+* TeamCanvas.org
+* Wordle; Connections (NYT Games)
+* Build a Puzzle
+* 2 Minute Myserties (book)
+* Spegetti Game (in person); penny game; Where am I in the world game
+* Pass the ball (can do online)
+* Games build relationships which help build resilient teams
+* Help teams learn how they handle unexpected situations in a safe environment
+* Run before retro to jump start engagement
+
+### Closing Circle - Day 2
+
+* REFERENCE: Agile Open New York
