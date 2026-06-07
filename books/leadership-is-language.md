@@ -76,10 +76,65 @@ LINK
 
 ### The New Playbook
 
-* TODO
+* "Overclaiming happens because of our own efforts are more visible to us." - p 37
+* "The process of anchoring, public discussion, and a quick vote of agreement is convergent. It is intended to quickly redue variability." - p 38
+* "For better results, diverge first: allow each member to make his or her guess *before* being influenced by the group and, most importantly, the boss. We want an uncorrupted look at what each person believesto ensure the greatest possible diversity of thought." - p 39
+* "... *wisdom of the crowd*. Under the right conditions, the group is consistently smarter than any individual in the group." - p 39
+* "They were in prove mode when they should have been in improve mode. This was a result of being in a can-do mode when they should have been in a can-think mode." - p 40
+* "Throughout it all, they conformed to their roles when they should have connectd with each other." - p 40
+* "The key to learning and growing, as a company and as a person, is correctly balancing those two activities. ... we have long been biased toward doing, down tot he language we use and the ways we design our organizations." - p 41
+* "Often, leaders driving toward consensus are reducing variability when they should be embracing variability and driving away from consensus. Then they wonder why they're not hearing new ideas form their team." - p 42
+* "Let's call thinking, decision-making, embrace-variability work 'bluework.' Let's call doing execution, reduce-variability work 'redwork'." - p 43
+* "Fred ws stuck in red, forever doing without reflection, whereas Sue was stuck in blue, perpetual reflection without committing to action. Either redworkd or bluework by itself is inadequate; we need the right amount of each. Finding that balance and doing both kinds of work effectively requires shifting deliberately, as a team, from one to the other." - p 43
+* "Humans are easily sedued by the good feelings triggered by 'getting stuff done.'" - p 44
+* "... it feels more natural to say 'Are you sure?' rather than 'How sure you are us?'" - p 44
+* "Workers did the doing and were not to make decisions - even about how much to shovel - and management did the thinking. In thos model, where no decisions are needed on the front line and workers are hired solely for physical work, initiative and thinking become unnecessary distractions." - p 47
+* "Here's how Taylor described the role of management: It is only through enforced standardization of methods, enforced adoption of the best implements and working conditions, and enforced cooperation that this faster work can be assured. And the duty of enforing the adoption of standards and enforcing this cooperation rests with management alone." - p 48
+* "First, the system is fragile and nonadaptive. While efficient, the system is not adaptive because workers can operate only within a narrow range of siutaitons. Conditions change, whether globally or on the production line, but we don't notice because we are too focused on getting our work done and too stressed to notice." - p 49
+* "Second, the system results in getting exactly as much effort out of people as is needed to meet the minimum requirements. The reward for going above and beyond is to increase your quota to the new higher number; since you've prove3d you could do it once, why not every day? Discretionary effort is reduced to zero." - p 49
+* "Third, this system takes a toll on the people in it. The mind-numbing tedium of continuous redwork means minds may wander and attention stray." - p 50
+* "A *Harvard Business Review* article by Margin Obschonka explains how the work environment affects worker's values, which then get passed from parent to child: For example highly repetitive, exhausting, and low-autonomy work [i.e. redwork] can affect the values of workers, in that they put less value on intellectual virtues and critical thinking, and these values then often get transmitted to the children of those workers." - p 50
+* "The callenge facing organizations in the twenty-first century is this: How do we create enviornments where we have both rework and bluework, but not redworkers and blueworkers? How do we integrate the redworkers, previously labeled as the followers or doers, into the decision-making business of bluework?" - p 51
+* "... lack of international copetition encouraged a complacent attitude toward quality ..." - p 51
+* "He spent the next three decades teaching Japanese firms how to build quality products. As a statistician, Deming recognized that if greater variability in the manufacturing process meant higher costs and products that felt cheaper, then reverse must also be true: reduding variability in the manufacturing process would *lower* costs while producing *higher-quality* products. In other words, Deming's first key insight was that quality did not cost money, it saved money. This approach came to be know as Total Quality Management or Total Quality Leadership." - p 51
+* "Deming's second insight dealt with how to achieve quality. The traditional approach at this point was to ensure quality by inspecting parts after they were made and then eliminating any substandard ones. this process increased costs in two ways: first, the firm had to pay inspectors and, second, waste was produced when inferior products were scrapped or sold at a discount. Instead, Deming advised integrating quality into the manufacturing process and eliminating the inspectors altogether." - p 52
+* "In Deming's new model, management would continously experiemnt with different paint formulas, nozzles, application techniques, and bake temperatures and times. THis ongoing bluework was slow, difficult, and expensive, but it improved the consistency of the redwork, reducing mistakes and obviating the need for inspectors. The savings could then be passed along to customers." - p 52
+* "Deming's third insight was that the previousy classed redworkers, in this case the assembly line workers, should be invovled in bluework." - p 52
+* "By involving the redworkers in bluework, Deming taught them how to transition between reducing variability and embracing variability. They knoew the shop-floor processes better than anyone else, what their flaws were, and how they might be improved. In pulling them into bluework, Demming drove learningfro both redworkers and blueworkers, while also reducing errors and improving job satisfaction." - p 53
+* "So while the focus on the manufacturing process itself is the redwork of reducing variability, it is imporved through the bluework of embracing variability, inmviting thinking and dissent." - p 53
+* "Despite Deming's crucial insights, he stopped short of eliminating the distinction between redworkers and blueworkers. The best he could do was get management (blueworkers) to involve the redworkers in the bluework. ... Turning thiking, decision-making, and responsiblity for improvement over to the redworkers was a step too far. But that is what we need now." - p 54
+* "They travel faster, but they can't see where they're going. Occasionally, they find it necessary to check their location by raising their heads, sighting the buoys, and adjusting course. THis process creates a rhythm: (1) sight the buoys (bluework), (2) swim in that direction for a while (redwork), (3) raise your head to check your progress. Keeping their heads down for longer periods of time means faster swimming overall, but they may end up much farther off course, erasing any lead their pace had given them." - p 56
+* "There's a natural tendency in businesses to avoid interrupting production work to pause and reflect. As with swimmers, they've removed faster, but possibly in the wrong direction. Likewise, stopping production to engage in bluework too frequently results in unnecessary interference and reduced performance." - p 56
+* "... there is a tendency to focus on errors in redwork and to underappreciate the errors in bluework and, critically, errors in structuring the redwork-bluework balance. The reason for this is that errors in execution work are immediately visible ... Inspectors and evaluators love these types of errors because they are irrefutable and unambiguous: Did you wash your hands or not? ... This is how we become slaves to procedure. ... The inspectors inspect against he procedure. Erros in decision-making are more difficult to uncover and measure." - p 58
+* "The next time you have a problem at your company, think about this: Is this simply a problem in execution, or ws there a decisoin in the past, perhaps the distant past, that set us down the path where this operational probelm was more likely to happen? Is the problem rooted in faulty bluework in the past?" - p 59
+* "Nature is nothing if not efficient, so the fact that the human brain uses an astonishing 20 to 25 percent of our daily calories speaks to the survival value of this decisoin-making power." - p 59
+* "... removing blueowrk from human activites creates deeply dissatisfying conditions." - p 60
+* "While our brains are expert at developing these shortcuts, and we *believe* them, experience-derived rules can become unhelpful biases that distort our thinking and prevent us from seeing things as they truely are." - p 60
+* "... the anchoring bias does inlfuence where the group ends up." - p 61
+* "Such meetings rely on bluework, however, and should embrace variability. Therefore, we need to actively avoid the anchoring effect. *This requires running meetings much differently than most groups do: vote first, then discuss*." - p 61
+* ".. overconfidence bias ... the brain tends to believe that we'll succeed at whatever we attempt to do, nudging us to take risks that may result in significant rewards." - p 62
+
+* Ask questions like ... to identify gaps - p 63
+  * "What are we missing?"
+  * "How might this go wrong?"
+  * "If we do this and it ends up going south, what would be the most likely culprit?"
+
+* "Stress depletes the same cognitive resources that bluework demands ..." - p 64
+* "Since the Industrial Age specialized in reducing human effort to simple, individual, physical, and repeated tasks, adding stress became the go-to motivational technique for managers. It's important to remember that chronic stress still takes a long-term toll on humans, but in the short run, for managers concerned only with task accomplishment, it's an effective tool." - p 65
+* "In a highly stressed environments, we often see individuals become much more self-serving than in relaxed environments." - p 65
+* "There are two sides to the performance mindset. We either try to *prove* competence (I can do the project) or *protect* ourselves against evidence of incompetence (I don't want to be discovered as incompetent). I will label these two subsets either as prove or protect mindset. The prove mindset is motived to demonstrate something positive, the protect mindset is motivated to hide something negative." - p 65
+* "If we try to use redwork language while doing bluework, we'll be unable to enact bluework plays that embrace variability and foaster an improve mindset." - p 68
+* "One callenge is that the pressure to obey the clock keeps teams moving from redwork to redwork without thoughtful reflection." - p 69
+* "When stress is introduced into the workshops, by createing a time pressure, participants are driven to find an answer quickly, before they understand what everybody else knows and see." - p 71
+
+* "Redwork is doing. ... Our mindset in redwork is to prove-and-perform mindset. ... Variability is an enemy to redwork. " - p 72
+* "Bluework is thinking. ... Bluework lives in service to redwork. Stress has a strong negative impact on people trying to perform bluework. Our mindset in bluework is an improve and learn mindset. Variability is an ally to bluework." - p 72
 
 * **Key takeaways**
-  * TODO
+  * Work can fall into two categories: redwork and bluework. Redwork is doing, it is delivery focused and motivated by a prove-and-perform mindset. Bluework is thinking, it is a learning and improving mindset. Companies often split redwork and bluework along mangement lines, a left-over from the Industrial Age. Where managers (blueworkers) through about process, standards, and protocols they then enforced on their employees (redworkers). Leaving thinking to leaders and doing to followers. This leads to company structures which atrophy with time. Markets are not stable, economic conditions change. Companies best positions to adapt are those who strongly blur the lines between traditional bluework and redwork employee roles: player-coaches preferred.
+  * An effective team must balance bluework and redwork. Doing bluework for too long means nothing gets done. Doing redwork for too long means doing stuff but maybe heading in the wrong strategic direction. You must add breakpoints in the work to come up for air and re-evaluate the direction you are heading.
+  * Stress is a good temporay performance improver for redwork, but quickly plateau. On the otherhand, stress is a performance killer for bluework. Bluework requires creativity and psychological safety and practicies which encourage divergent thinking.
+  * Redwork is often blamed for problems because it is easy to observe. Did X happen: Yes or No? But, bluework creates the culture for why X requires inspection. So, if you see a recurring theme across multiple people, fix the environment - not the people.
 
 ### Exiting Redwork: Control the Clock
 
